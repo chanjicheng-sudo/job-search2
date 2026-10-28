@@ -80,6 +80,15 @@ they read as a contradiction: $25 is roughly seventeen times the ~$1.50 blended 
 search CPI. Different channels, different economics, but a reader cannot tell unless the
 channel is named.
 
+## 4b. CRM localisation tooling
+
+- Implemented API tooling to translate CRM communications into local languages.
+- **Email open rate up 10%.**
+- Added Oct 2026. Hits two things several JDs ask for at once: multi-market and
+  multi-language delivery, and CRM or lifecycle messaging workflows. Note her original
+  wording was "translate localized CRM comms" — localising is the translating, so the
+  phrase was doubled.
+
 ## 5. Product marketing and compliance
 
 - Led App Store and Google Play content refreshes across 20 storefronts.

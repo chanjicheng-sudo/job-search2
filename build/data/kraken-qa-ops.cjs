@@ -39,6 +39,7 @@ module.exports = {
             "Monitored daily spend and performance across 121 live campaigns in 26 markets, investigating anomalies and escalating what did not reconcile",
             "Automated daily paid media reporting with Claude Code and Cursor, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
             "Built MCP and API integrations and internal bots to remove repeat manual work across the team",
+            "Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%",
             "Reviewed regulated customer-facing messaging across all retail products and owned app-store content across 20 storefronts in UK, US and EU markets",
             "Developed an AI-powered UGC production workflow, delivering 100+ video assets and cutting production time by 75%",
           ],
