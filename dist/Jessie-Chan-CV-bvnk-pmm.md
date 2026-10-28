@@ -1,28 +1,28 @@
-# JI CHENG (JESSIE) CHAN
+# JESSIE CHAN
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Marketer working across Retail, Wealth and Institutional products at a crypto and stablecoin business, with a structured, systems-thinking approach and a data-science research background. Builds the systems rather than only the content: customer research programmes, AI and automation workflows that remove manual work, and regulated messaging cleared with Compliance. Multilingual, currently developing a market-entry plan for a new product line in Malaysia.
+Crypto and stablecoin marketer across retail, wealth and institutional products, working in a regulated environment with Compliance, Product and Engineering. I use AI to solve go-to-market problems, building the automation, reporting and research workflows teams run on rather than one-off content. Hands-on with customer research, segmentation and competitive analysis, with a data-science research background. Multilingual, currently developing market entry for a new product line in Malaysia.
 
 ## EXPERIENCE
 
-**Blockchain.com, London, United Kingdom** — May 2026 – Present
-*Growth Marketing Intern  |  Retail, Wealth and Institutional*
+**Growth Marketing Intern** — May 2026 – Present
+*Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
-- Designed and ran a segmented customer research programme across 3 customer segments, returning 114 completed responses at a 14% response rate, and turned the findings into positioning and campaign priorities
-- Supported Institutional and Wealth business development with segmented prospect research: a database of 100 iGaming operators for Institutional outreach and an activated list of 80 crypto publishers for Wealth acquisition
-- Developing the go-to-market plan for the loans product in Malaysia: market and competitor review, brand and tone, paid channel opportunity assessment, and KOL, affiliate and referral partnerships. [ADD: partner count approached, or a launch date — this currently reads as activity rather than progress]
-- Automated daily performance reporting after evaluating 4 implementation approaches, cutting ~30 min/day of manual work, and partnered with Marketing, Web3, Data Engineering, AI Engineering and Security to publish it as an internal Streamlit dashboard
-- Built an in-house AI production workflow after evaluating 6 model providers, cutting asset production from ~2 hours to 30 minutes and establishing a capability the team did not previously have
-- Owned customer-facing content standards across 20 app-store storefronts and reviewed regulated messaging across all retail products with Compliance, covering UK, US and EU jurisdictions
-- Ran paid acquisition across 5 channels and 26 markets, scaling from 187 to 562 daily installs (~3x) at flat ~$1.50 CPI using 128 structured tests to direct budget
+- Designed and ran a segmented customer research programme across 3 customer segments, returning 114 responses, and turned the findings into positioning and campaign priorities
+- Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients, plus a 100-operator database for institutional business development
+- Automated daily reporting with Claude Code, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard; built MCP and API integrations and internal bots to remove repeat manual work across the team
+- Developing go-to-market for the loans product in Malaysia: market and competitor review, brand and tone, channel opportunity assessment, and KOL, affiliate and referral partnerships
+- Set customer-facing content standards across 20 app-store storefronts and reviewed regulated messaging across all retail products with Compliance, covering UK, US and EU jurisdictions
+- Built an AI-powered UGC production workflow from scratch, delivering 100+ video assets and cutting production time by 75%, establishing an in-house capability the team did not previously have
+- Ran paid acquisition across 5 channels and 26 markets, using 128 structured tests to direct budget and cut CPI on UK campaigns by 21.5% while installs increased 30.2%
 
-**Malaberg, London, United Kingdom** — Feb 2025 – Apr 2026
-*Performance Marketer*
+**Performance Marketer** — Feb 2025 – Apr 2026
+*Malaberg, London, United Kingdom*
 
 - Led weekly content reviews with Compliance, setting the standard for regulated consumer-finance messaging across every customer-facing channel
-- Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output
-- Ran funnel and lifecycle analysis in Power BI, Excel and Microsoft Clarity, then rebuilt the pages responsible; daily conversions rose from 10 to 50+ (5x) with +5% funnel progression
+- Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30 min to almost immediate output
+- Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increasing funnel progression by 5%
 - Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS
 
 ## EDUCATION
@@ -34,12 +34,4 @@ High Distinction. Experimental design, causal inference and statistical analysis
 
 ## SKILLS
 
-**Research & insight:** Survey design and segmentation; customer interviews; competitor and market review; funnel and cohort analysis; experimental test design; Power BI, Excel, Microsoft Clarity, SQL, R, Python
-
-**Automation & AI:** Automated reporting pipelines; AI production workflows and prompt engineering; evaluation of 6 model providers; Streamlit. [ADD: n8n — explicitly named in the JD and learnable in a weekend. Build something small with it and this line answers their requirement with work rather than willingness]
-
-**Go-to-market:** Market entry planning, brand and tone, positioning and messaging, app-store and customer-facing content, KOL, affiliate and referral partnerships, regulated messaging review with Compliance
-
-**Channels:** Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn; international campaign structure across 26 markets
-
-**Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
+**AI & automation:** Automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI UGC workflow design (avatar, voice, motion, video), tools: Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs; **Research & insight:** Survey design and segmentation, customer research programmes, competitor research (Appfollow), funnel and cohort analysis, experimental test design, Power BI, Excel, Microsoft Clarity, R, Python, SQL; **Go-to-market:** Market entry planning, positioning and messaging, brand and tone, customer-facing and app-store content, KOL, affiliate and referral partnerships, regulated messaging review with Legal and Compliance; **Creative:** Creative briefing and direction, AI UGC production, agency and partner management, Figma, Photoshop; **Paid media:** Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Page, international campaign structure, creative testing and budget allocation; **Personal interest:** Digital assets, business psychology, languages; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)

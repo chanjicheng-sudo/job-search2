@@ -87,6 +87,17 @@ function docxParagraphs(cv) {
         children: [t(s.label + ": ", { bold: true }), t(s.text)],
       }));
     }
+
+    // One dense paragraph with bold inline labels. Saves vertical space and parses the
+    // same for an ATS, which is why it is preferred over one line per category.
+    if (section.skillsBlock) {
+      const runs = [];
+      section.skillsBlock.forEach((s, i) => {
+        runs.push(t(s.label + ": ", { bold: true }));
+        runs.push(t(s.text + (i < section.skillsBlock.length - 1 ? "; " : "")));
+      });
+      out.push(new Paragraph({ spacing: { after: 60 }, children: runs }));
+    }
   }
 
   return out;
@@ -148,6 +159,13 @@ function writeHtml(cv, outPath) {
     for (const s of section.skills || []) {
       P.push(`<p style="margin:0 0 6px 0;"><b>${esc(s.label)}:</b> ${mark(s.text)}</p>`);
     }
+
+    if (section.skillsBlock) {
+      const inner = section.skillsBlock
+        .map((s) => `<b>${esc(s.label)}:</b> ${mark(s.text)}`)
+        .join("; ");
+      P.push(`<p style="margin:0 0 6px 0;">${inner}</p>`);
+    }
   }
 
   const html = `<!doctype html>
@@ -184,6 +202,9 @@ function writeMd(cv, outPath) {
       L.push("");
     }
     for (const s of section.skills || []) L.push(`**${s.label}:** ${s.text}`, "");
+    if (section.skillsBlock) {
+      L.push(section.skillsBlock.map((s) => `**${s.label}:** ${s.text}`).join("; "), "");
+    }
   }
   fs.writeFileSync(outPath, L.join("\n").replace(/\n{3,}/g, "\n\n"));
 }
@@ -212,6 +233,9 @@ function estimateLines(cv) {
       }
       for (const e of section.entries || []) n += 1 + (e.detail ? wrap(e.detail) : 0);
       for (const s of section.skills || []) n += wrap(`${s.label}: ${s.text}`);
+      if (section.skillsBlock) {
+        n += wrap(section.skillsBlock.map((s) => `${s.label}: ${s.text}`).join("; "));
+      }
     }
     return n;
   };
