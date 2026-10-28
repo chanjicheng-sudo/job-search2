@@ -20,7 +20,7 @@ for by the reporting recruiter. All other figures are self-reported.
 | Countries | 2 | 26 |
 | Active campaigns | 9 | 121 |
 | Keyword coverage | 47 | 2,597 |
-| Core US branded campaign | 178 installs/day | 373 installs/day |
+| Core US branded campaign | 178 installs/day | 373 installs/day (~2.1x, not 3x) |
 | CPI | ~$1.50 | ~$1.50 (held flat) |
 
 - 128 campaign tests launched; 5 scalable campaign groups identified; spend reduced
@@ -66,6 +66,20 @@ for by the reporting recruiter. All other figures are self-reported.
 - Established a new in-house capability where none existed. This one genuinely was
   zero-base.
 
+**Paid social performance from the AI UGC workflow** (added Oct 2026, from her own CV —
+not previously in this note, and not covered by the recruiter's vouching):
+
+- 100+ video assets delivered across TikTok and Google Ads.
+- CTR 0.4% to 1.15% (+188%).
+- **Paid social CPI $25 to $6 (-76%).**
+- Production time cut 75% (the ~2 hours to 30 minutes figure above, expressed as a rate).
+- Acquisition volume +15%.
+
+**These must be labelled as paid social.** Unlabelled next to the paid search figures
+they read as a contradiction: $25 is roughly seventeen times the ~$1.50 blended paid
+search CPI. Different channels, different economics, but a reader cannot tell unless the
+channel is named.
+
 ## 5. Product marketing and compliance
 
 - Led App Store and Google Play content refreshes across 20 storefronts.
@@ -80,7 +94,8 @@ for by the reporting recruiter. All other figures are self-reported.
 - Designed and launched a customer survey: 114 completed responses across 3 customer
   segments, 14% response rate.
 - Built and activated an outreach list of 80 crypto publishers to support Wealth
-  acquisition.
+  acquisition. **That channel sourced 3 major Wealth clients.** This is the outcome and
+  it should lead the bullet — the list size is activity, the 3 closes are the result.
 - Built a database of 100 iGaming operators for Institutional BD outreach.
 - Coordinated paid acquisition activity with 3 external partners.
 
