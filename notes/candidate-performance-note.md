@@ -83,7 +83,7 @@ channel is named.
 ## 4b. CRM localisation tooling
 
 - Implemented API tooling to translate CRM communications into local languages.
-- **Email open rate up 10%.**
+- **Email open rate up 10%.** Into **24 languages** (added Oct 2026, from her).
 - Added Oct 2026. Hits two things several JDs ask for at once: multi-market and
   multi-language delivery, and CRM or lifecycle messaging workflows. Note her original
   wording was "translate localized CRM comms" — localising is the translating, so the
@@ -111,7 +111,7 @@ channel is named.
 - Built and activated an outreach list of 80 crypto publishers to support Wealth
   acquisition. **That channel sourced 3 major Wealth clients.** This is the outcome and
   it should lead the bullet — the list size is activity, the 3 closes are the result.
-- Built a database of 100 iGaming operators for Institutional BD outreach. **It generated 20 active leads** (added Oct 2026, from her).
+- Built a database of 100 iGaming operators for Institutional BD outreach. **It generated 20+ active leads** (added Oct 2026, from her).
 - Coordinated paid acquisition activity with 3 external partners.
 
 ## 7. Malaysia loans go-to-market (in flight)
