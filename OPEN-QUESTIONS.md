@@ -114,7 +114,8 @@ note.
 
 - **Plasma:** leaving a permanent analyst role deliberately for category experience and
   ownership; the fixed term ending; the seniority stretch; and the AppsFlyer/MMP, Meta AEM
-  and data-warehouse gaps stated rather than hidden.
+  and data-warehouse gaps. **Superseded:** she does not want gaps stated in cover letters.
+  Prepare them as interview answers instead.
 - **Kraken:** why QA. A growth CV on a QA req reads as an any-crypto-job application until
   she says otherwise. The angle is that she has operated the category of system they want
   tested, in the same regulated context — not any claim to be a QA professional.

@@ -65,6 +65,15 @@ This took five attempts. The rules that came out of it:
 - Check scoped metrics are visibly scoped. GB CPI down 21.5% next to account CPI held
   flat reads as a contradiction unless the GB scope is stated.
 
+### Cover letters
+
+- **Never volunteer a gap.** "I have not built X before" was rejected. A cover letter
+  argues the case. Gaps belong in the jd-read and OPEN-QUESTIONS, and are answered at
+  interview if asked. Where a gap is real, show the nearest work she has done instead,
+  without claiming the thing itself.
+- This overrides the older plan in OPEN-QUESTIONS to state the AppsFlyer, Meta AEM and
+  data-warehouse gaps in the Plasma letter.
+
 ## LinkedIn rules
 
 **Scope numbers only. No outcome numbers.** Scope figures (26 markets, 9 channels, 20
