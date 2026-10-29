@@ -1,7 +1,8 @@
 // Noah — first dedicated digital marketing hire (B2B stablecoin payments).
 //
-// Blockchain.com bullets are her own edit, kept verbatim, plus the Earn rebrand line
-// (bullet 2) in her format.
+// Blockchain.com bullets are her own final edit, kept verbatim (one grammar fix in the CRM
+// bullet), ordered by impact and relevance to Noah: AI, then B2B pipeline, then funnel,
+// measurement and paid.
 //
 // A growth generalist role: website and CRO, SEO/AEO, social, HubSpot, funnel, paid and
 // ABM, content, measurement. Closer to her core than the PMM roles, so paid scaling and
@@ -34,14 +35,14 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
-            "Recreated the Earn product creative with AI UGC after the Earn rebrand, driving 600+ installs in the first week after relaunch",
-            "Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
-            "Grew cumulative perps trading volume 5x from $100m to $500m in two months, and increased user retention by 12% through voice-of-customer research with active, inactive and churned users",
-            "Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization",
-            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
-            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, running go-to-market across paid media, KOL, affiliate and referral channels",
-            "Localised CRM communications into 24 languages with API tools, increasing email open rate by 10%",
+            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients",
+            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, running go-to-market across paid media, affiliate and referral channels",
+            "Grew cumulative perps trading volume from $100m to $500m in two months, and increased user retention by 12% through voice-of-customer research with active, inactive and churned users",
+            "Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
+            "Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization",
+            "Implemented built-in API in CRM tools to localise communications into 24 languages, increasing email open rate by 10%",
+            "Recreated the Earn product creative with AI UGC after the Earn rebrand, driving 600+ installs in the first week after relaunch",
           ],
         },
         {
