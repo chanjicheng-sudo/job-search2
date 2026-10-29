@@ -16,7 +16,7 @@ constantly. Founded by engineers on three pillars: coding, product and data.
 Focused on culture, at her request. Her point about avoiding bureaucracy is framed
 positively, so it does not read as criticism of her current employer.
 
-I want to work at Emma because of how the team works. Your values are Bold, Determined, Focused and Autonomous, and you run the company like a sports team. I do my best work in that kind of environment, where people are judged on results rather than process.
+I want to work somewhere I can take an idea and run with it. Emma is a small team that moves fast, and everyone owns their work. That is where I can prove myself through what I build.
 
 At Blockchain.com, my best projects were the ones I started myself. I saw that we kept running out of ad creative, so I built an AI video workflow that cut production time by 75%. I took the lead on our loans launch in Malaysia, and it closed 4 clients in the first month. I would like to do more of that at Emma, owning projects end to end and proving myself through the results.
 
