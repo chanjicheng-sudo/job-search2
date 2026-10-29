@@ -30,6 +30,9 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   not have one. Highlight placeholders so they cannot be submitted by accident.
 - Tailored to the specific JD. Reorder and reframe real work; never invent it. If the JD
   demands something she has not done, say so rather than papering over it.
+- **Order bullets by strength, not by the JD's section order.** Mapping to the JD decides
+  what goes in. Strength decides what goes first. The 114-response survey was rejected as
+  an opening line: it is activity with no outcome. Do not lead with it on any variant.
 - Strong-but-irrelevant areas compress to one line rather than being deleted. Breadth
   still signals range.
 - UK conventions. One page. ATS-plain: no tables, no text boxes, no columns, no

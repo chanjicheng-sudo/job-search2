@@ -5,9 +5,10 @@
 // numbers. No explanatory subclauses, no reasoning inside a bullet, no [ADD:] annotations
 // in the document. Gaps are tracked in applications/bvnk/jd-read.md and OPEN-QUESTIONS.md.
 //
-// Bullets follow the JD's four sections in order: Customer Insights, Customer
-// Communications, Product Adoption Campaigns, then Enablement & Systems. Paid work
-// closes the role in two lines. It is the least relevant thing she does for this req.
+// Bullets run strongest first, not in the JD's section order. The FinProm rollout leads
+// because it is third-party credited and maps to the JD's compliant-comms ask. The
+// survey is left off entirely: 114 responses is activity with no outcome, and she
+// rejected it as an opening line.
 //
 // "Stablecoin" is deliberately not claimed. Nothing in the performance note is
 // stablecoin-specific work, and BVNK will probe it.
@@ -36,14 +37,13 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients, plus a 100-operator database for institutional business development",
-            "Designed and launched a customer survey across 3 customer segments, returning 114 responses at a 14% response rate, to support Retail, Wealth and Institutional research and prospecting",
-            "Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%",
             "Played a key role in rolling out the UK FinProm approval process with Compliance, and reviewed regulated customer-facing messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
-            "Developing go-to-market for the loans product in Malaysia, covering competitor review, brand and tone, and KOL, affiliate and referral partnerships",
+            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients, plus a 100-operator database for institutional business development",
+            "Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%",
+            "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
             "Automated daily paid media channels reporting with Claude Code, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
             "Built MCP and API integrations and internal bots to remove repeat manual work across the team",
-            "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
+            "Developing go-to-market for the loans product in Malaysia, covering competitor review, brand and tone, and KOL, affiliate and referral partnerships",
             "Ran 128 structured campaign tests across 26 countries, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns",
           ],
         },

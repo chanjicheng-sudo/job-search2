@@ -40,7 +40,7 @@ linkedin/profile-copy.md          Headline options, About, and role highlights f
 | `plasma` | Plasma, Growth / Paid Acquisition | Structured testing, then install scaling |
 | `crypto-growth-general` | Send-around copy, no JD slant | Paid scaling across all 7 contribution themes |
 | `kraken-qa-ops` | Kraken / Payward, QA & Operations | Test design, then daily monitoring |
-| `bvnk-pmm` | BVNK, Product Marketing Manager | Institutional research, then Malaysia go-to-market |
+| `bvnk-pmm` | BVNK, Product Marketing Manager | UK FinProm rollout, then the 3 Wealth clients |
 
 `plasma` is her own final edit, kept verbatim — four items were flagged on it and not
 actioned, listed in OPEN-QUESTIONS.md. `crypto-growth-general` is as generated.
