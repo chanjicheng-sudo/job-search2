@@ -57,3 +57,19 @@ Do not expect a result from this req as written. Two better options:
   with something she built rather than something she could build.
 - **The 114-response survey attribution** needs confirming. See OPEN-QUESTIONS.md. It is
   the opening line of this CV, so it is worth being certain.
+
+---
+
+## Rewrite, October 2026
+
+Rebuilt in the same register as the Kraken and Plasma variants: verb, what, numbers, no
+subclauses. Bullets now run in the JD's own order (insights, communications, adoption,
+systems), and the 3 Wealth clients lead the outreach bullet as the outcome.
+
+- **Location.** The current posting reads London / NYC, so the US-only sponsorship worry
+  from the earlier read no longer applies if she applies for London.
+- **"Stablecoin" is not claimed.** None of her recorded work is stablecoin-specific. If
+  she has touched stablecoin product messaging at Blockchain.com, one word in the profile
+  is worth adding.
+- **Sales enablement is still the gap.** No bullet claims it, because none of her work is
+  enablement for a sales team. Cover-letter work.
