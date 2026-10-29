@@ -1,46 +1,47 @@
-// General purpose — crypto growth marketer. Not pruned to any one JD. Covers all seven
-// contribution themes from the performance note, so it can be sent around.
+// General purpose — crypto growth marketer, sent to recruiters. Her own text of Oct 2026,
+// kept verbatim. Only the Skills section was restructured, at her request, for
+// readability: one category per line, duplicates removed.
 
-const { name, contact, education } = require("./common.cjs");
+const { contact, education } = require("./common.cjs");
 
 module.exports = {
   slug: "crypto-growth-general",
   label: "General — Crypto Growth Marketer",
-  name,
+  name: "JESSIE CHAN",
   contact,
 
   profile:
-    "Crypto growth marketer with hands-on ownership of paid acquisition across five channels and 26 " +
-    "markets, plus the creative, app-store and reporting systems behind it. Experience spans retail, " +
-    "wealth and institutional products in a regulated environment, with a data-science research " +
-    "background. Works hands-on: finds the problem, builds the fix, and cuts what does not earn its budget.",
+    "Fintech/crypto growth marketer with hands-on ownership of paid acquisition across five channels and " +
+    "26 markets, plus the creative, app-store and reporting systems behind it. I use AI to solve growth " +
+    "problems, most recently building an AI UGC workflow from scratch that cut CPI by 76% and increased " +
+    "acquisition volume by 15%. Experienced in managing retail, wealth and institutional products in a " +
+    "regulated environment, with a data-science research background.",
 
   sections: [
     {
       heading: "EXPERIENCE",
       roles: [
         {
-          org: "Blockchain.com, London, United Kingdom",
+          org: "Growth Marketing Intern",
           dates: "May 2026 – Present",
-          sub: "Growth Marketing Intern  |  Retail, Wealth and Institutional",
+          sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Scaled paid search from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50, expanding from 2 to 26 countries, 9 to 121 live campaigns and 47 to 2,597 keywords; grew the core US campaign from 178 to 373 installs/day",
-            "Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and cutting 26 underperforming campaigns; reallocating ~$21k of test spend reduced CPI on GB campaigns by 21.5% while installs rose 30.2%",
-            "Led creative strategy and production across 9 channels, delivering 30+ briefs and 40 ads, plus 50+ assets to 3 external acquisition partners",
-            "Built an in-house AI UGC pipeline after evaluating 6 vendors, cutting production from ~2 hours to 30 minutes per asset and removing the team's dependence on creator-supplied assets",
-            "Automated daily Apple Search Ads reporting after evaluating 4 approaches, cutting ~30 min/day of manual work, and partnered with Data Engineering, AI Engineering and Security to publish it as an internal Streamlit dashboard",
-            "Owned app-store conversion across 20 storefronts and 20+ Custom Product Pages over 600+ keywords in 12 markets; shipped refreshed product pages with Front-End Engineering and reviewed regulated messaging across all retail products",
-            "Supported Wealth and Institutional growth with customer research and prospecting: a segmented survey returning 114 responses at a 14% response rate, an outreach list of 80 crypto publishers and a database of 100 iGaming operators",
+            "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
+            "Automated daily paid media channels reporting with Claude Code and Cursor, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
+            "Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization",
+            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients",
+            "Supported Retail, Wealth and Institutional growth customer research and prospecting",
+            "Ran 128 structured campaign tests across 26 countries, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns",
           ],
         },
         {
-          org: "Malaberg, London, United Kingdom",
+          org: "Performance Marketer",
           dates: "Feb 2025 – Apr 2026",
-          sub: "Performance Marketer",
+          sub: "Malaberg, London, United Kingdom",
           bullets: [
-            "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
-            "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity; +5% funnel progression",
-            "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output; led weekly Compliance reviews to ship regulated consumer-finance messaging",
+            "Managed £50k+ monthly paid budget managing ads and conversion funnels, sustaining 120% ROAS",
+            "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, contributing to +5% funnel progression",
+            "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output",
           ],
         },
       ],
@@ -49,10 +50,13 @@ module.exports = {
     {
       heading: "SKILLS",
       skills: [
-        { label: "Paid media", text: "Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn; ASO and Custom Product Pages; international campaign structure; creative testing and budget allocation" },
-        { label: "Tracking & measurement", text: "Ad-account, conversion-tracking and campaign-structure setup; Apple Search Ads attribution; funnel and cohort analysis; experimental test design; survey design and segmentation; Power BI, Excel, Microsoft Clarity, Streamlit, R, Python, SQL" },
-        { label: "Creative", text: "Creative briefing and direction, AI UGC production (avatar, voice, motion, video), agency and partner management, Figma, Photoshop" },
+        { label: "AI & automation", text: "Claude Code, Cursor, MCP and API integrations (Windsor.ai), AI UGC workflows (avatar, voice, motion, video), vibe-coded apps and bots (fly.io)" },
+        { label: "AI creative tools", text: "Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs" },
+        { label: "Paid media", text: "Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Pages, creative testing, budget allocation" },
+        { label: "Creative", text: "Creative briefing and direction, agency and partner management, Figma, Photoshop" },
+        { label: "Measurement", text: "AppsFlyer, Apple Search Ads attribution, conversion tracking setup, funnel and cohort analysis, test and survey design, competitor research (Appfollow), Power BI, Excel, Microsoft Clarity, SQL, Python, R" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
+        { label: "Interests", text: "Digital assets, business psychology, languages, martial arts, weightlifting" },
       ],
     },
   ],
