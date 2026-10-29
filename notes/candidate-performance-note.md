@@ -119,6 +119,8 @@ channel is named.
 - Working on promoting the loans offering in Malaysia.
 - Covering paid opportunity assessment, brand and tone, and KOL, affiliate and referral
   channels.
+- **Established a compliance review process for Malaysia as a new market** (added Oct
+  2026, from her). A team effort ("we").
 - **No outcome yet.** This is the most product-marketing-shaped work she has, so it is
   load-bearing for PMM applications, but it currently reads as activity rather than
   progress. A partner count or a launch date would fix that.
