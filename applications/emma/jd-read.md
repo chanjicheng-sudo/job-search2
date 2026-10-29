@@ -14,6 +14,12 @@ acquired organically. Also owns CRM, lifecycle, launches and website.
 - ASO: 20 storefronts, 20+ Custom Product Pages. No result figure on record.
 - Experimentation: 128 structured tests.
 
+## Worth using everywhere
+
+- **She has been a paying Emma subscriber for 3+ years** and relies on the estimated daily
+  budget feature. Genuine product love is rare in applications. Use it in the cover letter
+  and the CEO interview.
+
 ## Gaps (interview prep, not stated in the application)
 
 - **Organic acquisition track record.** The JD's main ask. Almost everything on record is

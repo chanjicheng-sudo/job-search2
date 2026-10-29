@@ -23,7 +23,6 @@ I also like that Emma is run by engineers who care about product and data. I wor
 
 ## What do you like about the Emma app?
 
-**Use the app before submitting.** Nothing below claims a personal experience she has not
-had. Add one real detail from using it, it will be stronger than anything here.
+Her own answer, grammar fixed only.
 
-I like that all my accounts are in one place, so I do not have to check each banking app separately. It is the same goal we have at Blockchain.com, where we want customers to do all their crypto in one app, so I think my experience is directly transferable. The subscription tracking is useful. It finds regular payments that are easy to forget. The categories are accurate, so the budget is close to what people actually spend. From a growth point of view, subscription tracking is the feature I would lead with. People see the value in the first few minutes.
+I am a subscribed Emma user, and I have been using Emma for more than 3 years. I like that all my accounts are in one place, so I do not have to check each banking app separately. It is the same goal we have at Blockchain.com, where we want customers to do all their crypto in one app, so I think my experience is directly transferable. I have always struggled with overspending, and I find Emma's estimated daily budget really useful.
