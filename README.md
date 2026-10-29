@@ -33,14 +33,15 @@ linkedin/profile-copy.md          Headline options, About, and role highlights f
                                   roles.
 ```
 
-## The four CV variants
+## The CV variants
 
 | Variant | For | Leads with |
 |---|---|---|
 | `plasma` | Plasma, Growth / Paid Acquisition | Structured testing, then install scaling |
 | `crypto-growth-general` | Send-around copy, no JD slant | Paid scaling across all 7 contribution themes |
 | `kraken-qa-ops` | Kraken / Payward, QA & Operations | Test design, then daily monitoring |
-| `bvnk-pmm` | BVNK, Product Marketing Manager | UK FinProm rollout, then the 3 Wealth clients |
+| `bvnk-pmm` | BVNK, Product Marketing Manager | Perps research and 5x volume, then Malaysia loans |
+| `capitalcom-pmm` | Capital.com, Senior Product Marketing Manager | Perps retention (derivatives), then the Earn rebrand |
 
 `plasma` is her own final edit, kept verbatim — four items were flagged on it and not
 actioned, listed in OPEN-QUESTIONS.md. `crypto-growth-general` is as generated.
