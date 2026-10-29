@@ -39,7 +39,7 @@ module.exports = {
           bullets: [
             { text: "Converted 4 clients onto the loans product in Malaysia, developing its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships", bold: true },
             "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients",
-            "Rolled out the UK FinProm approval process with Compliance across all retail products and 20 app-store storefronts, [ADD: result — e.g. promotions approved, or approval time cut from X to Y]",
+            "Launched refreshed Personal and Earn product pages with Front-End Engineering and refreshed app-store content across 20 storefronts in UK, US and EU markets, clearing all regulated messaging with Compliance",
             "Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%",
             "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
             "Automated daily paid media reporting with Claude Code, saving the team ~10 hours a month, and partnered with Data Engineering and Security to launch it as a company-wide Streamlit dashboard",
