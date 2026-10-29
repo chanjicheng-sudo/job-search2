@@ -22,11 +22,11 @@ module.exports = {
   contact,
 
   profile:
-    "Fintech/crypto marketer with hands-on experience across customer research, regulated customer " +
-    "communications and go-to-market, covering retail, wealth and institutional products in 26 markets. " +
-    "I use AI to solve go-to-market problems, building the automation, reporting, MCP and API " +
-    "integrations and internal bots the team runs on. Experienced in working with Compliance, Legal, " +
-    "Product and Engineering in a regulated environment, with a data-science research background.",
+    "Fintech/crypto marketer owning regulated customer communications, client acquisition and " +
+    "go-to-market across retail, wealth and institutional products in 26 markets. I use AI to solve " +
+    "go-to-market problems, and build the automation, reporting, MCP and API integrations and internal " +
+    "bots the team runs on. I work directly with Compliance, Legal, Product and Engineering in a " +
+    "regulated environment, and bring a data-science research background.",
 
   sections: [
     {
@@ -37,13 +37,13 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            { text: "Converted 4 clients onto the loans product in Malaysia, developing its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships", bold: true },
-            "Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients",
-            "Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%",
-            "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
-            "Automated daily paid media reporting with Claude Code, saving the team ~10 hours a month, and partnered with Data Engineering and Security to launch it as a company-wide Streamlit dashboard",
-            "Tested product messaging across 26 countries through 128 structured tests, scaling 5 winning campaign groups and cutting UK cost per install by 21.5% while installs rose 30.2%",
-            "Launched refreshed Personal and Earn product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, building 20+ Custom Product Pages across 12 markets and 600+ keywords, with all regulated messaging cleared by Compliance",
+            { text: "Converted 4 clients onto the loans product in Malaysia, shaping its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships", bold: true },
+            "Sourced 3 major high net worth clients by building an outreach channel of 80 crypto publishers",
+            "Increased email open rate by 10% by implementing API tools that translate CRM communications into local languages",
+            "Built the company's first in-house AI UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and production time by 75%",
+            "Automated daily paid media reporting with Claude Code and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security, saving the team ~10 hours a month",
+            "Cut UK cost per install by 21.5% while growing installs 30.2%, running 128 structured messaging tests across 26 countries and scaling 5 winning campaign groups",
+            "Led app-store content across 20 storefronts and relaunched the Personal and Earn product pages with Front-End Engineering, shipping 20+ Custom Product Pages across 12 markets and 600+ keywords, all cleared through Compliance",
           ],
         },
         {
