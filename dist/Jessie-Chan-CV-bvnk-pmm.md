@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Fintech/crypto marketer with hands-on experience across customer research, regulated customer communications and go-to-market, covering retail, wealth and institutional products in 26 markets. I use AI to solve go-to-market problems, building the automation, reporting, MCP and API integrations and internal bots the team runs on. Experienced in working with Compliance, Product and Engineering in a regulated environment, with a data-science research background.
+Fintech/crypto marketer with hands-on experience across customer research, regulated customer communications and go-to-market, covering retail, wealth and institutional products in 26 markets. I use AI to solve go-to-market problems, building the automation, reporting, MCP and API integrations and internal bots the team runs on. Experienced in working with Compliance, Legal, Product and Engineering in a regulated environment, with a data-science research background.
 
 ## EXPERIENCE
 
@@ -10,9 +10,9 @@ Fintech/crypto marketer with hands-on experience across customer research, regul
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients, plus a 100-operator database for institutional business development
-- Supported Retail, Wealth and Institutional customer research and prospecting, including a survey across 3 customer segments returning 114 responses
+- Designed and launched a customer survey across 3 customer segments, returning 114 responses at a 14% response rate, to support Retail, Wealth and Institutional research and prospecting
 - Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%
-- Developed and reviewed regulated customer-facing messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
+- Played a key role in rolling out the UK FinProm approval process with Compliance, and reviewed regulated customer-facing messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 - Developing go-to-market for the loans product in Malaysia, covering competitor review, brand and tone, and KOL, affiliate and referral partnerships
 - Automated daily paid media channels reporting with Claude Code, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 - Built MCP and API integrations and internal bots to remove repeat manual work across the team
@@ -36,4 +36,4 @@ High Distinction. Experimental design, causal inference and statistical analysis
 
 ## SKILLS
 
-**AI & automation:** Automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI UGC workflow design (avatar, voice, motion, video), tools: Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs; **Research & insight:** Survey design and segmentation, customer research and prospecting, competitor research (Appfollow), funnel and cohort analysis, experimental test design, Power BI, Excel, Microsoft Clarity, R, Python, SQL; **Go-to-market:** Market entry planning, positioning and messaging, brand and tone, CRM and localised customer communications, app-store content, KOL, affiliate and referral partnerships, regulated messaging review with Compliance; **Creative & paid media:** Creative briefing and direction, agency and partner management, Figma, Photoshop, Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn; **Personal interest:** Digital assets, business psychology, languages, martial arts, weightlifting; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
+**AI & automation:** Automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI UGC workflow design (avatar, voice, motion, video), tools: Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs; **Research & insight:** Survey design and segmentation, customer research and prospecting, competitor research (Appfollow), funnel and cohort analysis, experimental test design, Power BI, Excel, Microsoft Clarity, R, Python, SQL; **Go-to-market:** Market entry planning, positioning and messaging, brand and tone, CRM and localised customer communications, app-store content, KOL, affiliate and referral partnerships, financial promotions approval (UK FinProm, Adclear); **Creative & paid media:** Creative briefing and direction, agency and partner management, Figma, Photoshop, Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn; **Personal interest:** Digital assets, business psychology, languages, martial arts, weightlifting; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)

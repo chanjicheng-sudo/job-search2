@@ -121,6 +121,61 @@ channel is named.
 
 ---
 
+## 8. Manager's business case and stakeholder feedback (added Oct 2026)
+
+Source: a hiring case her manager wrote to convert her to a permanent **Jr AI Growth
+Engineer (Marketing & GTM)**, the role description attached to it, a contribution
+summary, and six pieces of written feedback dated 29 Sep – 1 Oct 2026. She holds copies.
+This is the strongest third-party evidence she has. It independently confirms every
+figure in sections 1, 2, 3, 5 and 6.
+
+**New facts it adds:**
+
+- **UK FinProm approval process.** The MLRO wrote that she played "a key role in
+  assisting the compliance team's development and roll out of the UK FinProm Approval
+  Process", and was "relentless in her role getting content through the approval
+  process". FinProm is the UK financial promotions regime, so describe it as UK. The
+  business case says "across UK, US, and EU markets", which is the wider messaging
+  scope, not the FinProm process itself.
+- **Adclear.** The MLRO calls her an "Adclear Power user". Adclear is a financial
+  promotions compliance review platform. A real, named tool. Safe to list.
+- **Survey ownership confirmed.** The contribution summary says she "designed and
+  launched" the 114-response survey, at Blockchain.com. Resolves the earlier
+  attribution question. "Designed" is accurate, "supported" undersells it.
+- **Core US campaign "doubled"** (178 to 373). The business case uses ~2x, not 3x. The
+  3x figure is account-wide only.
+- **Time saved expressed monthly:** ~10 hours per month from the automated ASA reporting.
+- **Multipliers the case uses:** 13x campaign footprint (9 to 121), 55x keyword coverage
+  (47 to 2,597). Both derive from section 1.
+- **First in-house AI UGC capability** at the company, in the manager's words.
+- **AI UGC compliance work.** Legal Counsel describes her bringing proposed AI UGC assets
+  with competitor examples for context, then turning regulatory feedback into practical
+  next steps. Evidence for working with Legal, not only Compliance.
+- **Deployment through an engineering pipeline.** A Payments software engineer worked
+  with her to deploy the ASA reporting project. "Her logic flow was solid and close to
+  what I'd expect from a SWE."
+
+**Who supports retention, by role:** Senior PMM (B2B), MLRO, Legal Counsel, a Payments
+software engineer, a Senior Web3 engineer. The Senior B2B PMM described her as "an
+invaluable contributor across a number of Institutional and Wealth marketing and growth
+projects". For product marketing applications that is the most relevant voice. These
+people are her best referees. **Do not quote them by name in an application without
+asking them first.** The feedback was marked "Managers only".
+
+**The development point, stated by Engineering:** she works very well with AI tools
+synchronously. The next level is deploying agents and apps that run remotely and
+reliably without her. Do not claim autonomous or production agent deployment beyond the
+reporting tool and the fly.io bots until that changes.
+
+**Visa.** Her Graduate visa is ending around the end of the internship in November. Any
+UK role needs Skilled Worker sponsorship. As a switcher from the Graduate route she
+qualifies for the new entrant rate. This affects every application, not only US ones.
+
+**Outcome of the conversion case:** unknown. Ask before writing anything that implies
+she is staying or leaving.
+
+---
+
 ## Prior experience
 
 ### Malaberg, London — Performance Marketer, Feb 2025 – Apr 2026

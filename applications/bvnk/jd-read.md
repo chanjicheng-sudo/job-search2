@@ -66,10 +66,27 @@ Rebuilt in the same register as the Kraken and Plasma variants: verb, what, numb
 subclauses. Bullets now run in the JD's own order (insights, communications, adoption,
 systems), and the 3 Wealth clients lead the outreach bullet as the outcome.
 
-- **Location.** The current posting reads London / NYC, so the US-only sponsorship worry
-  from the earlier read no longer applies if she applies for London.
+- **Location and visa.** The posting reads London / NYC. London avoids the US question,
+  but her Graduate visa ends around November, so a London role still needs Skilled Worker
+  sponsorship. She qualifies for the new entrant rate, which makes sponsoring her cheaper.
+  BVNK is now part of Mastercard, which is very likely a licensed sponsor. Check.
 - **"Stablecoin" is not claimed.** None of her recorded work is stablecoin-specific. If
   she has touched stablecoin product messaging at Blockchain.com, one word in the profile
   is worth adding.
 - **Sales enablement is still the gap.** No bullet claims it, because none of her work is
   enablement for a sales team. Cover-letter work.
+
+## Business case update, October 2026
+
+Her manager's hiring case and six pieces of stakeholder feedback (performance note,
+section 8) add two things this application can use:
+
+- **The UK FinProm approval process rollout**, in the MLRO's words. The JD asks for someone
+  to set standards so customer communications stay "clear, consistent and compliant,
+  working with Legal and Compliance". This is the closest single match on her record. It
+  is now in the CV and the cover letter.
+- **A Senior B2B PMM calling her an invaluable contributor** across Institutional and Wealth
+  projects. That is her nearest evidence of product marketing work, and the best referee
+  for this role. It is in the cover letter as a reference offer, not a quote.
+
+The Malaysia bullet still has no outcome. The cover letter leaves it out for that reason.
