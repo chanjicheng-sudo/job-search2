@@ -41,7 +41,7 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             { text: "Drove adoption of the loans product in Malaysia, converting 4 clients through a go-to-market plan covering competitor review, positioning, brand and tone, and KOL, affiliate and referral partnerships", bold: true },
-            "Supported 5x growth in cumulative perps trading volume, from $100m (July) to $500m (September), with voice-of-customer research surveying active, inactive and churned users to feed product and positioning",
+            "Grew cumulative perps trading volume 5x, from $100m to $500m in two months, with voice-of-customer research surveying active, inactive and churned users to improve product experience",
             "Sourced 3 major high net worth clients by building an outreach channel of 80 crypto publishers",
             "Equipped Institutional business development with a 100-operator prospect database, working with B2B Product Marketing on Institutional and Wealth projects, [ADD: result — e.g. X meetings booked or $X pipeline]",
             "Localised CRM communications into [ADD: number] languages with API tools, increasing email open rate by 10%",
