@@ -10,8 +10,8 @@ Fintech/crypto marketer owning go-to-market, regulated customer communications a
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - **Drove adoption of the loans product in Malaysia, converting 4 clients through a go-to-market plan covering competitor review, positioning, brand and tone, and KOL, affiliate and referral partnerships**
+- Ran voice-of-customer research on the perps platform, a 114-response survey across 3 segments on what users liked and disliked, feeding product and positioning as cumulative trading volume grew 5x from $100m (July) to $500m (September)
 - Sourced 3 major high net worth clients by building an outreach channel of 80 crypto publishers
-- Designed and launched a customer survey across 3 segments with 114 responses, using the findings to [ADD: what changed — e.g. reposition a product, prioritise a segment or campaign]
 - Equipped Institutional business development with a 100-operator prospect database, working with B2B Product Marketing on Institutional and Wealth projects, [ADD: result — e.g. X meetings booked or $X pipeline]
 - Localised CRM communications into [ADD: number] languages with API tools, increasing email open rate by 10%
 - Launched refreshed Personal and Earn product pages and app-store content across 20 storefronts and 20+ Custom Product Pages in 12 markets, all cleared through Compliance, [ADD: result — e.g. store conversion up X%]

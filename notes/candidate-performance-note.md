@@ -102,6 +102,12 @@ channel is named.
 
 - Designed and launched a customer survey: 114 completed responses across 3 customer
   segments, 14% response rate.
+- **The survey was about the perps platform** (added Oct 2026, from her): what users
+  liked and disliked. Over the same period cumulative perps trading volume grew from
+  $100m in July to $500m in September (5x). The survey did not cause that growth on its
+  own, so word it as feeding product and positioning during that growth, not as the
+  cause. If specific changes shipped from the findings, name them and the claim gets
+  stronger.
 - Built and activated an outreach list of 80 crypto publishers to support Wealth
   acquisition. **That channel sourced 3 major Wealth clients.** This is the outcome and
   it should lead the bullet — the list size is activity, the 3 closes are the result.
