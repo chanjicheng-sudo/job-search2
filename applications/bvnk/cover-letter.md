@@ -27,6 +27,8 @@ I also took our loans product to market in Malaysia. I took the initiative of le
 
 On clients, I spotted an opportunity during the MiCAR transition to win high net worth clients. I built a contact list of 80 crypto publishers with AI and ran the outreach. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I am used to giving commercial teams what they need to sell, and I work closely with our B2B product marketing team on Institutional and Wealth projects.
 
+On retail go-to-market, I use AI to solve problems the team keeps running into. We relied on real creators for ad content, and when their videos ran out we had nothing new to test. On TikTok an ad only lasts about two weeks. I proposed AI-generated UGC instead. I tested 6 AI providers, spent two weeks on prompt engineering to get the quality right, and built a repeatable workflow. It cut production from 2 hours to 30 minutes per video. We delivered 100+ videos. Click-through rate rose from 0.4% to 1.15%, and paid social cost per install fell from $25 to $6.
+
 On customer communications, I localised our CRM communications into 24 languages with API tools. Email open rates went up 10%. I also helped our Compliance team roll out the UK FinProm approval process.
 
 On systems, I automated our daily performance reporting with Claude Code and led its launch as a company-wide dashboard. It saves the team about 10 hours a month.
