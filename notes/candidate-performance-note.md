@@ -103,7 +103,11 @@ channel is named.
 - Designed and launched a customer survey: 114 completed responses across 3 customer
   segments, 14% response rate.
 - **The survey was about the perps platform** (added Oct 2026, from her): what users
-  liked and disliked. The 3 segments were active, inactive and churned users. Over the same period cumulative perps trading volume grew from
+  liked and disliked. The 3 segments were active, inactive and churned users. Three rounds of research. **Finding: many users churned
+  because they did not fully understand perps. Adding an introduction to how perps work
+  and their risks grew user retention by 12%** (added Oct 2026, from her cover letter
+  draft). This is the insight-to-action-to-result loop the survey was missing, and it is
+  stronger evidence than the volume figure. Over the same period cumulative perps trading volume grew from
   $100m in July to $500m in September (5x). The survey did not cause that growth on its
   own, so word it as feeding product and positioning during that growth, not as the
   cause. If specific changes shipped from the findings, name them and the claim gets
@@ -121,6 +125,12 @@ channel is named.
 - Working on promoting the loans offering in Malaysia.
 - Covering paid opportunity assessment, brand and tone, and KOL, affiliate and referral
   channels.
+- **She led it, on her own initiative**, structuring the GTM across paid media, KOL,
+  collaborations and referral. She worked with Legal on marketing tone and risk
+  disclosures. **The campaign closed 4 HNW clients within 1 month of launch** (added Oct
+  2026, from her cover letter draft). Note: she says Blockchain.com did not hold a local
+  licence. Never put that in an application. It reads as a regulatory problem to a
+  regulated employer and discloses an employer's compliance position.
 - **Established a compliance review process for Malaysia as a new market** (added Oct
   2026, from her). A team effort ("we").
 - **No outcome yet.** This is the most product-marketing-shaped work she has, so it is
