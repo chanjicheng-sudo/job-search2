@@ -23,7 +23,7 @@ I am applying for the marketing role in your London office.
 
 I am a growth marketer at Blockchain.com, working across Retail, Wealth and Institutional. Most of my work is demand generation, go-to-market and product marketing, in a regulated environment. My strength is spotting a problem and solving it with AI.
 
-On lead generation, I spotted an opportunity during the transition to MiCAR, the EU's new crypto regulation, to win high net worth clients. I built a contact list of 80 crypto publishers with AI and ran the outreach myself. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I work closely with our B2B product marketing team on Institutional and Wealth projects.
+On lead generation, as new EU crypto regulation (MiCAR) was being implemented, one of the biggest exchanges was losing access to its European clients. I saw the opportunity to win their high net worth clients. I built a contact list of 80 crypto publishers with AI and ran the outreach myself. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I work closely with our B2B product marketing team on Institutional and Wealth projects.
 
 On product marketing, I grew cumulative trading volume on our perpetual futures (perps) product 5x, from $100m to $500m in two months. I ran three sets of voice-of-customer research with active, inactive and churned users to find out what to improve. We found that a lot of users churned because they did not fully understand how perps work. We added an explainer on how perps work and the risks involved, and user retention grew by 12%.
 
