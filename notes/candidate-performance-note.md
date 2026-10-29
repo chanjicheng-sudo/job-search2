@@ -109,7 +109,9 @@ channel is named.
   cause. If specific changes shipped from the findings, name them and the claim gets
   stronger.
 - Built and activated an outreach list of 80 crypto publishers to support Wealth
-  acquisition. **That channel sourced 3 major Wealth clients.** This is the outcome and
+  acquisition. **That channel sourced 3 major Wealth clients.** She identified the opportunity
+  herself during the MiCAR transition, built the contact list with AI, and ran the
+  outreach (added Oct 2026, from her). This is the outcome and
   it should lead the bullet — the list size is activity, the 3 closes are the result.
 - Built a database of 100 iGaming operators for Institutional BD outreach. **It generated 20+ active leads** (added Oct 2026, from her).
 - Coordinated paid acquisition activity with 3 external partners.
