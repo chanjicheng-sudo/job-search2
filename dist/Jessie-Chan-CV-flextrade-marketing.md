@@ -17,7 +17,7 @@ Fintech/crypto marketer who finds the problem first, then solves it with AI. Wor
 - Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by introducing a perps explainer after voice-of-customer research showed churned users did not understand the product
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing on Institutional and Wealth projects
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by running go-to-market across paid media, affiliate and referral channels and establishing a compliance review process for the new market
-- Expanded paid search from 2 to 26 markets (13x), growing live campaigns from 9 to 121 (13x) and keywords from 47 to 2,597 (55x) through country-level bid and creative strategy
+- Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

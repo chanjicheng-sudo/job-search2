@@ -33,7 +33,7 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             "Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day",
-            "Led international expansion of paid search, increasing markets from 2 to 26 (13x), live campaigns from 9 to 121 (13x) and keywords from 47 to 2,597 (55x) with country-level bid and creative strategy",
+            "Led international expansion of paid search, increasing markets from 2 to 26 (13x) and live campaigns from 9 to 121 (13x) with country-level bid and creative strategy",
             "Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns. ~$21k of test spend reallocated reducing CPI of GB campaigns by 21.5% while installs increased 30.2%",
             "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
             "Grew cumulative perps trading volume from $100m to $500m in two months, and increased user retention by 12% through voice-of-customer research with active, inactive and churned users",
