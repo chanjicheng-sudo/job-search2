@@ -14,7 +14,7 @@ Fintech/crypto marketer working across demand generation and product marketing f
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, running go-to-market across paid media, affiliate and referral channels, and establishing a compliance review process for the new market
 - Grew cumulative perps trading volume from $100m to $500m in two months, and increased user retention by 12% through voice-of-customer research with active, inactive and churned users
 - Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%
-- Led international expansion of paid search from 2 to 26 countries, scaling 9 to 121 live campaigns and 47 to 2,597 keywords with country-level bid and creative strategy
+- Led international expansion of paid search, increasing markets from 2 to 26 (13x), live campaigns from 9 to 121 (13x) and keywords from 47 to 2,597 (55x) with country-level bid and creative strategy
 - Implemented built-in API in CRM tools to localise communications into 24 languages, increasing email open rate by 10%
 - Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 

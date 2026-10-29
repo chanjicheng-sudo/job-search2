@@ -29,7 +29,8 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any
   new bullets in the same shape: verb, what, then the figures with the change in
   brackets, e.g. "increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6
-  (−76%)". Do not reword her bullets into a results-first or "Grew X by Y" template. She
+  (−76%)". **Every "from X to Y" gets its change in brackets**: (+188%), (−76%), (13x).
+  Never stack bare "from X to Y" pairs without the change. Do not reword her bullets into a results-first or "Grew X by Y" template. She
   objected to this being reverted repeatedly. Flag a factual risk once, then leave it.
 - `[ADD: metric — what is needed]` wherever a figure would strengthen a claim and we do
   not have one. Highlight placeholders so they cannot be submitted by accident.
