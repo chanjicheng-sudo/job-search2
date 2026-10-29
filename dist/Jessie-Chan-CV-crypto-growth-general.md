@@ -32,9 +32,9 @@ High Distinction. Experimental design, causal inference and statistical analysis
 
 ## SKILLS
 
-**AI & automation:** Claude Code, Cursor, MCP and API integrations (Windsor.ai), AI UGC workflows (avatar, voice, motion, video), vibe-coded apps and bots (fly.io)
+**AI UGC production:** End-to-end workflow design (avatar, voice, motion, video) with Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs
 
-**AI creative tools:** Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs
+**AI & automation:** Claude Code, Cursor, MCP and API integrations (Windsor.ai), vibe-coded apps and bots (fly.io)
 
 **Paid media:** Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Pages, creative testing, budget allocation
 

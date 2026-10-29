@@ -50,8 +50,8 @@ module.exports = {
     {
       heading: "SKILLS",
       skills: [
-        { label: "AI & automation", text: "Claude Code, Cursor, MCP and API integrations (Windsor.ai), AI UGC workflows (avatar, voice, motion, video), vibe-coded apps and bots (fly.io)" },
-        { label: "AI creative tools", text: "Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs" },
+        { label: "AI UGC production", text: "End-to-end workflow design (avatar, voice, motion, video) with Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs" },
+        { label: "AI & automation", text: "Claude Code, Cursor, MCP and API integrations (Windsor.ai), vibe-coded apps and bots (fly.io)" },
         { label: "Paid media", text: "Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Pages, creative testing, budget allocation" },
         { label: "Creative", text: "Creative briefing and direction, agency and partner management, Figma, Photoshop" },
         { label: "Measurement", text: "AppsFlyer, Apple Search Ads attribution, conversion tracking setup, funnel and cohort analysis, test and survey design, competitor research (Appfollow), Power BI, Excel, Microsoft Clarity, SQL, Python, R" },
