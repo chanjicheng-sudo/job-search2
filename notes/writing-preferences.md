@@ -41,6 +41,10 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   not have one. Highlight placeholders so they cannot be submitted by accident.
 - Tailored to the specific JD. Reorder and reframe real work; never invent it. If the JD
   demands something she has not done, say so rather than papering over it.
+- **Always lead with the most impactful and relevant experience for that JD.** A theme she
+  asks for (for example "problems solved with AI") goes into the wording, never into the
+  order. On FlexTrade, AI bullets were put first and the lead-gen results, the strongest
+  match, sat at 3 and 7. She rejected that.
 - **Order bullets by strength, not by the JD's section order.** Mapping to the JD decides
   what goes in. Strength decides what goes first. The 114-response survey was rejected as
   an opening line: it is activity with no outcome. Do not lead with it on any variant.
