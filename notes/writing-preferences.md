@@ -89,6 +89,9 @@ CV register (no subject) with first person in the same paragraph.
 
 ## Delivery
 
+- **Open every generated or changed CV's HTML for her to review**, rendered, not as a
+  path or download card. Standing instruction from Oct 2026.
+
 - Preferred delivery is a link she can open from any device, not a local file path.
 - Google Docs has been blocked in the past: no Docs connector, and Drive's upload button
   opens a native OS file picker that browser automation cannot operate. The workaround is
