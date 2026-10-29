@@ -6,12 +6,12 @@ Fintech/crypto marketer owning go-to-market, regulated customer communications a
 
 ## EXPERIENCE
 
-**Growth Marketing Intern** — May 2026 – Present
+**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
-- **Converted 4 clients onto the loans product in Malaysia, developing its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships, and establishing a compliance review process for the new market**
-- Sourced 3 major high net worth clients by identifying an acquisition opportunity during the MiCAR transition, building an 80-publisher contact list with AI and running the outreach
 - Grew cumulative perps trading volume 5x, from $100m to $500m in two months, with voice-of-customer research surveying active, inactive and churned users to improve product experience
+- Converted 4 clients onto the loans product in Malaysia, developing its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships, and establishing a compliance review process for the new market
+- Sourced 3 major high net worth clients by identifying an acquisition opportunity during the MiCAR transition, building an 80-publisher contact list with AI and running the outreach
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing on Institutional and Wealth projects
 - Localised CRM communications into 24 languages with API tools, increasing email open rate by 10%
 - Tested product messaging across 26 countries through 128 structured tests, scaling 5 winning campaign groups and cutting UK acquisition cost by 21.5% while volume rose 30.2%
@@ -21,10 +21,9 @@ Fintech/crypto marketer owning go-to-market, regulated customer communications a
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
 
-- Led weekly Compliance reviews of all customer-facing consumer-finance messaging across channels
-- Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI and Microsoft Clarity
 - Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30 min to almost immediate output
-- Managed £50k+ monthly budget with full accountability for efficiency, sustaining 120% ROAS
+- Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increased funnel progression by 5%
+- Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS
 
 ## EDUCATION
 
