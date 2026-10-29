@@ -58,7 +58,9 @@ module.exports = {
     {
       heading: "SKILLS",
       skills: [
-        { label: "Growth", text: "ASO (App Store, Google Play, Custom Product Pages), CRM and lifecycle marketing, retention and reactivation, referral, affiliate and influencer partnerships, product launches, conversion rate optimisation, growth experimentation" },
+        { label: "Organic acquisition", text: "ASO (App Store, Google Play, Custom Product Pages), referral programmes, affiliate and influencer partnerships, content marketing" },
+        { label: "CRM & lifecycle", text: "CRM and lifecycle marketing, email marketing, engagement, retention and reactivation, customer research" },
+        { label: "Growth", text: "Growth experimentation, A/B testing, conversion rate optimisation, landing pages and website content, product launches, acquisition analytics" },
         { label: "Tools", text: "Apple Search Ads, Google Ads, Meta, TikTok, Appfollow, Figma, Photoshop, Power BI, Microsoft Clarity, Excel" },
         { label: "AI & data", text: "Claude Code, Cursor, MCP and API integrations, AI content production, dashboards (Streamlit), SQL, Python, R" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },

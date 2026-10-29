@@ -35,7 +35,11 @@ High Distinction. Experimental design, causal inference and statistical analysis
 
 ## SKILLS
 
-**Growth:** ASO (App Store, Google Play, Custom Product Pages), CRM and lifecycle marketing, retention and reactivation, referral, affiliate and influencer partnerships, product launches, conversion rate optimisation, growth experimentation
+**Organic acquisition:** ASO (App Store, Google Play, Custom Product Pages), referral programmes, affiliate and influencer partnerships, content marketing
+
+**CRM & lifecycle:** CRM and lifecycle marketing, email marketing, engagement, retention and reactivation, customer research
+
+**Growth:** Growth experimentation, A/B testing, conversion rate optimisation, landing pages and website content, product launches, acquisition analytics
 
 **Tools:** Apple Search Ads, Google Ads, Meta, TikTok, Appfollow, Figma, Photoshop, Power BI, Microsoft Clarity, Excel
 
