@@ -9,15 +9,16 @@ Growth marketer specialising in paid acquisition, conversion and the data and AI
 **Institutional and Retail Growth Marketing Intern** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
-- Scaled paid search from 2 to 26 countries, 9 to 121 campaigns and 47 to 2,597 keywords, growing daily installs ~3x from 187 to 562 while holding CPI flat at ~$1.50
-- Ran 128 structured campaign tests, scaling 5 winning campaign groups and cutting 26 underperformers, which cut UK CPI by 21.5% while installs rose 30.2%
-- Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing on Institutional and Wealth projects
-- Sourced 3 major high net worth clients by identifying an acquisition opportunity during the MiCAR transition, building an 80-publisher contact list with AI and running the outreach
-- Grew cumulative perps trading volume 5x, from $100m to $500m in two months, and user retention by 12% through voice-of-customer research with active, inactive and churned users
-- Built the company's first in-house AI UGC workflow, delivering 100+ videos, lifting CTR from 0.4% to 1.15% and cutting paid social CPI from $25 to $6 (−76%); its Earn rebrand videos drove 600+ installs in the first week
-- Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, leading go-to-market across paid media, KOL, affiliate and referral channels
+- Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%
+- Automated daily paid media channels reporting with Claude Code and Cursor, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
+- Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization
+- Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients
+- Supported Retail, Wealth and Institutional growth customer research and prospecting
+- Ran 128 structured campaign tests across 26 countries, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns
+- Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
+- Grew cumulative perps trading volume 5x from $100m to $500m in two months, and increased user retention by 12% through voice-of-customer research with active, inactive and churned users
+- Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, running go-to-market across paid media, KOL, affiliate and referral channels
 - Localised CRM communications into 24 languages with API tools, increasing email open rate by 10%
-- Automated daily performance reporting with Claude Code and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security, saving the team ~10 hours a month
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
