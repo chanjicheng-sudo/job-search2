@@ -10,7 +10,7 @@ Growth marketer specialising in paid acquisition, conversion and the data and AI
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%
-- Automated daily paid media channels reporting with Claude Code and Cursor, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
+- Automated daily paid media channels reporting with Claude Code, Cursor and MCP tools, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 - Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization
 - Built an outreach channel of 80 crypto publishers for high net worth client acquisition that sourced 3 major clients
 - Supported Retail, Wealth and Institutional growth customer research and prospecting
