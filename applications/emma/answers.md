@@ -13,13 +13,14 @@ constantly. Founded by engineers on three pillars: coding, product and data.
 
 ## Why would you like to work at Emma?
 
-Written in her cover-letter voice: plain, case-led, no polish.
+Focused on culture, at her request. Her point about avoiding bureaucracy is framed
+positively, so it does not read as criticism of her current employer.
 
-I am a growth marketer at Blockchain.com. Most of my work so far has been paid acquisition, and I want to move into organic growth. Emma is building that from the ground up, so I would own it from the start.
+I want to work at Emma because of how the team works. Your values are Bold, Determined, Focused and Autonomous, and you run the company like a sports team. I do my best work in that kind of environment, where people are judged on results rather than process.
 
-I have already done some of this work. I refreshed our App Store and Google Play listings across 20 storefronts. I ran voice-of-customer research with churned users on our perps product, and the explainer we added grew retention by 12%. In Malaysia, I ran a launch through influencers, affiliates and referrals that closed 4 clients in the first month.
+At Blockchain.com, my best projects were the ones I started myself. I saw that we kept running out of ad creative, so I built an AI video workflow that cut production time by 75%. I took the lead on our loans launch in Malaysia, and it closed 4 clients in the first month. I would like to do more of that at Emma, owning projects end to end and proving myself through the results.
 
-I also like that Emma is run by engineers who care about product and data. I work the same way. I test ideas quickly and keep what works.
+I have also been using Emma for more than 3 years, so I already believe in the product.
 
 ## What do you like about the Emma app?
 
