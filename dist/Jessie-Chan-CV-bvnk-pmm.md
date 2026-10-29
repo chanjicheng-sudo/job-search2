@@ -14,8 +14,8 @@ Fintech/crypto marketer with hands-on experience across customer research, regul
 - Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%
 - Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%
 - Automated daily paid media reporting with Claude Code, saving the team ~10 hours a month, and partnered with Data Engineering and Security to launch it as a company-wide Streamlit dashboard
-- Tested product messaging across 26 countries through 128 structured tests and 20+ Custom Product Pages, scaling 5 winning campaign groups and cutting UK cost per install by 21.5% while installs rose 30.2%
-- Launched refreshed Personal and Earn product pages with Front-End Engineering and refreshed app-store content across 20 storefronts in UK, US and EU markets, clearing all regulated messaging with Compliance
+- Tested product messaging across 26 countries through 128 structured tests, scaling 5 winning campaign groups and cutting UK cost per install by 21.5% while installs rose 30.2%
+- Launched refreshed Personal and Earn product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, building 20+ Custom Product Pages across 12 markets and 600+ keywords, with all regulated messaging cleared by Compliance
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
