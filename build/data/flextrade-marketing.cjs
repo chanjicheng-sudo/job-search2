@@ -57,12 +57,10 @@ module.exports = {
     education,
     {
       heading: "SKILLS",
-      skillsBlock: [
-        { label: "AI & automation", text: "Claude Code, Cursor, MCP and API integrations (Windsor.ai), vibe-coded apps and bots" },
-        { label: "Demand generation", text: "Lead generation and prospect databases, account-based outreach, paid media (Google Ads, LinkedIn, Meta, TikTok, Apple Search Ads), email and CRM communications, campaign budgets and tracking" },
-        { label: "Product marketing", text: "Go-to-market and regional launch planning, positioning and messaging, voice-of-customer research, competitor research, regulated messaging review with Compliance (UK FinProm)" },
-        { label: "Content & creative", text: "Creative briefing and direction, agency and partner management, Figma, Photoshop, AI video production, landing pages" },
-        { label: "Measurement", text: "Dashboards (Streamlit, Power BI), funnel and cohort analysis, structured test design, Excel, Microsoft Clarity, SQL, Python, R" },
+      skills: [
+        { label: "Marketing", text: "Demand generation, lead generation, product marketing, go-to-market, marketing planning, digital campaign management, email marketing, content creation, budget management" },
+        { label: "Tools", text: "Google Ads, LinkedIn Ads, Meta, TikTok, Adobe Creative Cloud (Photoshop), Figma, Microsoft Office (Excel), Power BI, Microsoft Clarity" },
+        { label: "AI & data", text: "Claude Code, Cursor, MCP and API integrations, AI content production, dashboards, SQL, Python, R" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
       ],
     },

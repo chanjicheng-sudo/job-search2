@@ -35,4 +35,10 @@ High Distinction. Experimental design, causal inference and statistical analysis
 
 ## SKILLS
 
-**AI & automation:** Claude Code, Cursor, MCP and API integrations (Windsor.ai), vibe-coded apps and bots; **Demand generation:** Lead generation and prospect databases, account-based outreach, paid media (Google Ads, LinkedIn, Meta, TikTok, Apple Search Ads), email and CRM communications, campaign budgets and tracking; **Product marketing:** Go-to-market and regional launch planning, positioning and messaging, voice-of-customer research, competitor research, regulated messaging review with Compliance (UK FinProm); **Content & creative:** Creative briefing and direction, agency and partner management, Figma, Photoshop, AI video production, landing pages; **Measurement:** Dashboards (Streamlit, Power BI), funnel and cohort analysis, structured test design, Excel, Microsoft Clarity, SQL, Python, R; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
+**Marketing:** Demand generation, lead generation, product marketing, go-to-market, marketing planning, digital campaign management, email marketing, content creation, budget management
+
+**Tools:** Google Ads, LinkedIn Ads, Meta, TikTok, Adobe Creative Cloud (Photoshop), Figma, Microsoft Office (Excel), Power BI, Microsoft Clarity
+
+**AI & data:** Claude Code, Cursor, MCP and API integrations, AI content production, dashboards, SQL, Python, R
+
+**Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
