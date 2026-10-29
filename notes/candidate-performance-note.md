@@ -59,7 +59,7 @@ for by the reporting recruiter. All other figures are self-reported.
 - **The Earn rebrand** (added Oct 2026, from her). Blockchain.com rebranded its Earn
   product, and the existing creator assets still carried the old name. She used the AI
   UGC workflow to recreate them under the new brand to support the rebrand's GTM. New
-  product name not recorded.
+  product name not recorded. **600+ installs in the first week after the relaunch** (from her).
 - Production time cut from ~2 hours to 30 minutes per creative.
 - Average cost ~$5 per video. **Scope of this figure is unconfirmed** — likely generation
   cost only, excluding prompt iteration, review and edit time. Confirm before using it in
