@@ -110,7 +110,8 @@ channel is named.
 - **The survey was about the perps platform** (added Oct 2026, from her): what users
   liked and disliked. The 3 segments were active, inactive and churned users. Three rounds of research. **Finding: many users churned
   because they did not fully understand perps. Adding an introduction to how perps work
-  and their risks grew user retention by 12%** (added Oct 2026, from her cover letter
+  and their risks grew user retention by 12%** (the fix: the product and risk explainer was made
+  persistent, and the help page was reworked; she led the research) (added Oct 2026, from her cover letter
   draft). This is the insight-to-action-to-result loop the survey was missing, and it is
   stronger evidence than the volume figure. Over the same period cumulative perps trading volume grew from
   $100m in July to $500m in September (5x). The survey did not cause that growth on its
