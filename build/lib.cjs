@@ -27,6 +27,9 @@ const RIGHT_TAB = 11906 - 720 - 720;
 const t = (text, opts = {}) =>
   new TextRun({ text, font: FONT, size: opts.size || BODY, bold: !!opts.bold, italics: !!opts.italics });
 
+// A bullet is a plain string, or { text, bold: true } for a bullet that should stand out.
+const bullet = (b) => (typeof b === "string" ? { text: b, bold: false } : b);
+
 // ---------------------------------------------------------------- docx
 
 function docxParagraphs(cv) {
@@ -63,11 +66,11 @@ function docxParagraphs(cv) {
       if (role.sub) {
         out.push(new Paragraph({ spacing: { after: 60 }, children: [t(role.sub, { italics: true })] }));
       }
-      for (const b of role.bullets) {
+      for (const b of role.bullets.map(bullet)) {
         out.push(new Paragraph({
           numbering: { reference: "cv-bullets", level: 0 },
           spacing: { after: 50 },
-          children: [t(b)],
+          children: [t(b.text, { bold: b.bold })],
         }));
       }
     }
@@ -147,7 +150,9 @@ function writeHtml(cv, outPath) {
       P.push(`<p style="margin:10px 0 2px 0;"><b>${esc(role.org)} &mdash; ${esc(role.dates)}</b></p>`);
       if (role.sub) P.push(`<p style="margin:0 0 6px 0;font-style:italic;">${esc(role.sub)}</p>`);
       P.push(`<ul style="margin:0 0 0 18px;padding:0;">`);
-      for (const b of role.bullets) P.push(`<li style="margin-bottom:5px;">${mark(b)}</li>`);
+      for (const b of role.bullets.map(bullet)) {
+        P.push(`<li style="margin-bottom:5px;">${b.bold ? `<b>${mark(b.text)}</b>` : mark(b.text)}</li>`);
+      }
       P.push(`</ul>`);
     }
 
@@ -193,7 +198,7 @@ function writeMd(cv, outPath) {
       L.push(`**${role.org}** — ${role.dates}`);
       if (role.sub) L.push(`*${role.sub}*`);
       L.push("");
-      for (const b of role.bullets) L.push(`- ${b}`);
+      for (const b of role.bullets.map(bullet)) L.push(b.bold ? `- **${b.text}**` : `- ${b.text}`);
       L.push("");
     }
     for (const e of section.entries || []) {
@@ -229,7 +234,7 @@ function estimateLines(cv) {
       n += 1;
       for (const role of section.roles || []) {
         n += 1 + (role.sub ? 1 : 0);
-        for (const b of role.bullets) n += wrap(b);
+        for (const b of role.bullets.map(bullet)) n += wrap(b.text);
       }
       for (const e of section.entries || []) n += 1 + (e.detail ? wrap(e.detail) : 0);
       for (const s of section.skills || []) n += wrap(`${s.label}: ${s.text}`);

@@ -22,7 +22,7 @@ I am a growth marketer at Blockchain.com. I work across Retail, Wealth and Insti
 
 On customer communications, I played a key role in rolling out the UK FinProm approval process with our Compliance team. I review regulated messaging across all our retail products and 20 app-store storefronts. I am a heavy Adclear user. I also built API tools that translate our CRM emails into local languages. Open rates went up 10%.
 
-On clients, I built an outreach channel of 80 crypto publishers for Wealth acquisition. That channel brought in 3 major clients. I also give commercial teams what they need to sell. I built a database of 100 iGaming operators for our Institutional business development team to work through. I supplied 50+ assets to 3 external acquisition partners across multiple markets. I work closely with our B2B product marketing team on Institutional and Wealth projects.
+On clients, I converted 4 clients onto our loans product in Malaysia, where I am developing the go-to-market. I built an outreach channel of 80 crypto publishers for Wealth acquisition. That channel brought in 3 major clients. I also give commercial teams what they need to sell. I built a database of 100 iGaming operators for our Institutional business development team to work through. I supplied 50+ assets to 3 external acquisition partners across multiple markets. I work closely with our B2B product marketing team on Institutional and Wealth projects.
 
 On systems, I automated our daily paid media reporting with Claude Code. It saves about 10 hours a month. I worked with Data Engineering and Security to publish it as an internal dashboard. I build MCP and API integrations and internal bots to remove repeat work.
 

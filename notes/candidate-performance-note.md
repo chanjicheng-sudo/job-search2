@@ -118,6 +118,9 @@ channel is named.
   progress. A partner count or a launch date would fix that.
 - Ownership level unconfirmed. Written as "developing", not "leading", until she says
   otherwise.
+- **Outcome (added Oct 2026, from her): 4 clients converted and using the loans
+  product.** This replaces "no outcome yet" above. She asked for it to lead the BVNK CV,
+  in bold.
 
 ---
 
