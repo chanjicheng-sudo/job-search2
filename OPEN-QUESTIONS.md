@@ -106,3 +106,19 @@ note.
 - **Kraken:** why QA. A growth CV on a QA req reads as an any-crypto-job application until
   she says otherwise. The angle is that she has operated the category of system they want
   tested, in the same regulated context — not any claim to be a QA professional.
+
+## 12. Her October 2026 base CV
+
+The base CV she pasted differs from the performance note in four places. The BVNK
+variant is now built on it, but these were left out of that variant until checked:
+
+- **"Scaled the core US campaign to 3x daily users".** The note has the core US campaign
+  at 178 to 373 installs/day, which is ~2.1x. The ~3x figure is the whole account (187 to
+  562). Either say "~2x" for US or "3x account-wide".
+- **AppsFlyer in Skills.** Listed under "Not claimed" in the note, because setting up ad
+  accounts is not configuring an MMP. Keep it only if she has configured it herself.
+- **The profile puts outcome numbers (−76% CPI, +15% volume) in the summary**, which
+  repeats the UGC bullet. The CPI figure is paid social only and reads as account-wide
+  in the profile.
+- **"Supported" customer research.** Earlier drafts said she designed the 114-response
+  survey. If "supported" is the accurate level, the note should say so.
