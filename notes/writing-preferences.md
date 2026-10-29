@@ -23,6 +23,13 @@ one, then leave the decision to her.
 
 Exception: in a casual DM, contractions are fine and stripping them makes it stiff.
 
+**Messages to a person (recruiter, hiring head, founder) follow cover-letter discipline:
+tight and straightforward.** Every sentence carries a fact. Cut setup sentences ("Most of
+my work this year has been..."), framing clauses ("What that means for this role is
+that..."), hedges ("I think it is harder to..."), and soft closes ("Happy to share more
+detail"). A fragment list is fine and is hers — she writes "Setting up ad accounts,
+conversion tracking, campaign structure and daily reporting." Aim for roughly 150 words.
+
 ## CV rules
 
 - Number- and action-led bullets throughout.
