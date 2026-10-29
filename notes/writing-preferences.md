@@ -29,6 +29,8 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
 - **Result-led, active verbs** (Oct 2026). Open with the result and a strong verb
   (Increased, Drove, Sourced, Eliminated, Grew), then "by" and the action. Keep the
   change in brackets after every "from X to Y".
+- **No "with full accountability for efficiency"** or similar filler. She rejected it as
+  meaningless. The figure (120% ROAS) carries the point.
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

@@ -209,7 +209,7 @@ she is staying or leaving.
 
 ### Malaberg, London — Performance Marketer, Feb 2025 – Apr 2026
 
-- Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining
+- Managed £50k+ monthly paid budget, sustaining
   120% ROAS.
 - Daily conversions increased from 10 to 50+ (5x) by rebuilding landing and promotional
   pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and

@@ -52,7 +52,7 @@ module.exports = {
           bullets: [
             "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increased funnel progression by 5%",
             "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30 min to almost immediate output",
-            "Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS",
+            "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
           ],
         },
       ],

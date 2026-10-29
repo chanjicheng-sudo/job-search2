@@ -38,7 +38,7 @@ module.exports = {
           dates: "Feb 2025 – Apr 2026",
           sub: "Performance Marketer",
           bullets: [
-            "Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS",
+            "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
             "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity; +5% funnel progression",
             "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output; led weekly Compliance reviews to ship regulated consumer-finance messaging",
           ],
