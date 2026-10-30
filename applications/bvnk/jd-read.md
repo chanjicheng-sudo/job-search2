@@ -90,3 +90,10 @@ section 8) add two things this application can use:
   for this role. It is in the cover letter as a reference offer, not a quote.
 
 The Malaysia bullet still has no outcome. The cover letter leaves it out for that reason.
+
+## ASEAN, October 2026
+
+She has seen BVNK hiring for someone with an ASEAN background, which supports "BVNK is
+expanding into ASEAN" in her outreach. Earlier web searches found no ASEAN news, but
+hiring is better evidence. Her Malaysian nationality, the Malaysia loans launch and her
+research on Malaysian crypto regulation are the angle.
