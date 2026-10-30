@@ -138,6 +138,8 @@ channel is named.
   2026, from her cover letter draft). Note: she says Blockchain.com did not hold a local
   licence. Never put that in an application. It reads as a regulatory problem to a
   regulated employer and discloses an employer's compliance position.
+- **Researched Malaysian crypto regulations** while working on a proposal for the Wealth
+  programme (added Oct 2026, from her). She is Malaysian.
 - **Established a compliance review process for Malaysia as a new market** (added Oct
   2026, from her). A team effort ("we").
 - **No outcome yet.** This is the most product-marketing-shaped work she has, so it is
