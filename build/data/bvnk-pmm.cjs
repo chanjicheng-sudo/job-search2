@@ -16,8 +16,9 @@
 // "Stablecoin" is deliberately not claimed. Nothing in the performance note is
 // stablecoin-specific work, and BVNK will probe it.
 
-// FINAL: her own edit of Oct 2026. Changed since only at her request (perps retention,
-// Malaysia result and ownership).
+// Oct 2026 refresh at her request: her final BVNK CV with the rules set since applied
+// (result-led, change in brackets, no filler, most relevant first, simple skills lines)
+// and the facts added since (retention, Malaysia result, Earn relaunch, MCP).
 
 const { contact, education } = require("./common.cjs");
 
@@ -43,14 +44,15 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Grew cumulative perps trading volume 5x, from $100m to $500m in two months, and user retention by 12% through voice-of-customer research with active, inactive and churned users",
-            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, leading its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships, and establishing a compliance review process for the new market",
-            "Sourced 3 major high net worth clients by identifying an acquisition opportunity during the MiCAR transition, building an 80-publisher contact list with AI and running the outreach",
-            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing on Institutional and Wealth projects",
-            "Localised CRM communications into 24 languages with API tools, increasing email open rate by 10%",
-            "Tested product messaging across 26 countries through 128 structured tests, scaling 5 winning campaign groups and cutting UK acquisition cost by 21.5% while volume rose 30.2%",
-            "Automated daily performance reporting with Claude Code and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security, saving the team ~10 hours a month",
-            "Built the company's first in-house AI content production workflow, delivering 100+ video assets, cutting production time by 75% and lifting CTR by 188%",
+            "Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading voice-of-customer research with active, inactive and churned users and making the product and risk explainer persistent",
+            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading its go-to-market across competitor review, brand and tone, and KOL, affiliate and referral partnerships, and establishing a compliance review process for the new market",
+            "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR and building an 80-publisher contact list with AI",
+            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing on Institutional and Wealth projects",
+            "Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs",
+            "Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand",
+            "Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets",
+            "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security",
+            "Cut UK acquisition cost by 21.5% while volume rose 30.2% by running 128 structured messaging tests across 26 countries and scaling 5 winning campaign groups",
           ],
         },
         {
@@ -58,9 +60,9 @@ module.exports = {
           dates: "Feb 2025 – Apr 2026",
           sub: "Malaberg, London, United Kingdom",
           bullets: [
-            "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30 min to almost immediate output",
-            "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increased funnel progression by 5%",
-            "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
+            "Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity",
+            "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
+            "Sustained 120% ROAS while managing £50k+ monthly paid budget",
           ],
         },
       ],
@@ -68,12 +70,12 @@ module.exports = {
     education,
     {
       heading: "SKILLS",
-      skillsBlock: [
-        { label: "Product marketing", text: "Go-to-market and launch planning, positioning and messaging, competitive analysis, lifecycle and CRM communications, product page and app-store content, KOL, affiliate and referral partnerships, financial promotions approval (UK FinProm, Adclear)" },
-        { label: "Customer insight", text: "Survey design and segmentation, customer and competitor research (Appfollow), funnel and cohort analysis, structured test design, Power BI, Excel, Microsoft Clarity, R, Python, SQL" },
-        { label: "AI & automation", text: "Automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI content workflow design, tools: Runway, Jitter, Gemini, ElevenLabs" },
-        { label: "Creative & channels", text: "Creative briefing and direction, agency and partner management, Figma, Photoshop, Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn" },
-        { label: "Personal interest", text: "Digital assets, business psychology, languages, martial arts, weightlifting" },
+      skills: [
+        { label: "Product marketing", text: "Go-to-market, product launches, product adoption, positioning and messaging, competitive analysis, customer communications, lifecycle and CRM marketing" },
+        { label: "Customer insight", text: "Voice-of-customer research, survey design and segmentation, churn analysis, funnel and cohort analysis, A/B testing" },
+        { label: "Compliance", text: "Financial promotions approval (UK FinProm, Adclear), new-market compliance review, regulated messaging with Legal and Compliance" },
+        { label: "AI & automation", text: "Claude Code, Cursor, LLMs, MCP and API integrations (Windsor.ai), AI content production, automated dashboards (Streamlit)" },
+        { label: "Tools", text: "Power BI, Excel, Microsoft Clarity, SQL, Python, R, Figma, Photoshop, Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
       ],
     },
