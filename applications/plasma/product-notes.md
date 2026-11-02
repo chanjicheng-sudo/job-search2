@@ -53,3 +53,77 @@ Two consequences:
 
 The Visa card, the yield and the free transfers give three distinct propositions —
 remittance, saving, spending — which will not rank the same way in every market.
+
+## What is special about Plasma — research update, November 2026
+
+Third-party sources, mostly press releases and reviews. Where they disagree it is flagged.
+Check live terms in the app before quoting any number.
+
+### The one-line version
+
+Plasma is the only one of the stablecoin chains that also runs its own consumer bank app
+on top. The others sell infrastructure to businesses. Plasma sells "dollars in your
+pocket" to people, mainly in emerging markets, and its own chain makes that cheaper.
+
+### Against the other stablecoin chains
+
+| | Plasma | Tempo | Arc |
+|---|---|---|---|
+| Backers | Tether / Bitfinex circle, Founders Fund (Thiel), Framework | Stripe and Paradigm | Circle |
+| Built around | USDT | Any USD stablecoin | USDC |
+| Who it sells to | Consumers, through Plasma One, plus developers | Payment companies and merchants | Institutions (it has a built-in FX engine) |
+| Fees | Simple USDT transfers free; other fees in XPL or approved tokens | No native token, fees in any stablecoin | Gas in USDC |
+| Live | Mainnet beta 25 Sep 2025 | 18 Mar 2026 | Sources conflict; reported live around Sep 2026 |
+
+Things that are different about Plasma:
+
+- **It got there first.** It was live six months before Tempo and launched with about $2B
+  of liquidity on day one.
+- **It is built on USDT.** Most of the world's stablecoin money is USDT, and most of it
+  sits with retail users in emerging markets. That is exactly who Plasma One is for.
+  Arc (USDC) and Tempo (Stripe) both lean towards institutions and the US.
+- **It owns the consumer app.** None of the competitors runs its own bank app, so Plasma
+  is the one where a growth team works directly with end users.
+- **Stripe is a partner as well as a competitor.** Stripe backs Tempo but is also building
+  stablecoin cards with Plasma (October 2026). Do not frame it as Plasma versus Stripe.
+
+### Plasma One, the product itself
+
+- **Spend, save and send in one app.** A Visa card with up to 4% cashback, yield on the
+  dollar balance, and free transfers between Plasma users.
+- **Yield is variable and has come down.** At launch it was marketed at 10%+. A 2026
+  review saw about 4.9% APY, and the site says "up to 6%". The yield comes from DeFi
+  (a vault run by Veda), so it is not an insured deposit. Never quote a fixed rate.
+- **Card tiers:** Lite, Core and Platinum. Cashback does not apply to ATM withdrawals,
+  P2P transfers or buying and selling crypto.
+- **Self-custodial, but easy to use.** It uses embedded wallets (Privy), so users get
+  their own keys without having to manage a seed phrase like in a crypto wallet.
+- **No bank licence.** Card issuing goes through Rain and fiat access through regulated
+  partners. Features differ by country, and **US residents are restricted** from the main
+  sign-up flow. That fits the focus on emerging markets.
+- **Traction:** about 5,000 weekly active users in the private beta. More than $100M in
+  card spend by October 2026 (Paul's post). Kept 64.5% of April spenders after six months.
+
+### Features on the chain's roadmap
+
+Sources disagree on what is live, so treat these as "announced" unless checked:
+
+- **Custom gas tokens:** pay fees in USDT, and later BTC, instead of XPL.
+- **pBTC, a Bitcoin bridge:** Bitcoin brought onto Plasma through a group of independent
+  verifiers instead of a single custodian.
+- **Confidential payments:** optional privacy that hides amounts and who receives the
+  money. Useful for payroll and business payments.
+
+### Why this matters for a growth role
+
+- The pitch to consumers is **access to dollars and cheap cross-border money**, not crypto.
+  The chain features are why it can be free and fast, but users never see them.
+- Being USDT-first, consumer-first and out of the US means **the markets are Turkey, LatAm,
+  the Middle East and Southeast Asia**, so creative has to be localised.
+- Retention is already strong. The growth problem is **getting the first deposit and the
+  first card spend**, which is where the brief to "go beyond crypto natives" bites.
+
+Sources: theblock.co (Plasma One announcement), blockworks.co, kkinvesting.io Plasma One
+card review 2026, privy.io blog, chainstack.com stablecoin L1 comparison, blockeden.xyz
+stablechains article, dwellir.com stablechain RPC guide, Binance Research Plasma page,
+imToken Plasma page.
