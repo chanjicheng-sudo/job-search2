@@ -240,3 +240,23 @@ Plasma does not publish a revenue breakdown. This is pieced together from on-cha
 Sources: defillama.com (Plasma chain revenue and XPL), bleap.finance Plasma One review,
 kkinvesting.io Plasma One card review, coinstats.app October 2026 analysis, techflowpost
 and forklog on the XPL sale and token model, decrypt.co on the Plasma One launch.
+
+## How users fund and spend with Plasma One — November 2026
+
+- **The wallet is built into the app.** No separate crypto wallet is needed.
+- **Bank transfer in local currency.** Virtual accounts in USD, EUR, GBP, MXN (since June
+  2026) and BRL, over local payment systems such as SEPA, Faster Payments and ACH. Money is
+  converted to stablecoins on arrival. USD wires reportedly cost $10–15. Other local
+  transfers have small fees.
+- **Stablecoin deposits** from Plasma, Ethereum, Solana and Tron, or straight from an
+  exchange such as Binance.
+- **Spending converts at the till.** The balance converts to local currency at the moment
+  of purchase (App Store listing). Apple Wallet virtual card, or a physical card.
+- **Card after ID check**, issued by Rain within minutes. Some countries have a $10 card
+  fee or minimum deposit. US residents restricted.
+
+Growth angle: local bank funding is the mainstream route, so it is the first-deposit step
+to watch. Crypto users can come straight from an exchange.
+
+Sources: Plasma One App Store listing, Plasma help centre (intercom.help), spendnode.io on
+MXN funding, penchan.co and polymart.app card guides, Blockworks.
