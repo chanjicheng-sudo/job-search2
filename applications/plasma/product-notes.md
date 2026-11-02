@@ -280,3 +280,19 @@ MXN funding, penchan.co and polymart.app card guides, Blockworks.
 
 Sources: veda.tech (Plasma One vault blog and docs), thedefiant.io on the $3B savings
 vault, Blockworks Veda dashboard primer, aave.com on Whop, Portals explorer snapshot.
+
+## Which balance the card spends — November 2026
+
+- **One dollar balance, not a list of coins.** Plasma One is built around USDT ("digital
+  dollars"). The card spends that balance, converting to local currency at the moment of
+  purchase. Earn balances are spendable too, and keep earning until spent.
+- **No asset picker.** Unlike Crypto.com (choose the funding asset) or MetaMask Card (set
+  a token priority order), there is nothing to choose. Local-currency deposits arrive as
+  dollars. How other stablecoins are handled on deposit is not confirmed.
+- **How the card connects (partly unconfirmed).** Rain issues the card and pays Visa in
+  fiat, then settles from the user's stablecoins. One third-party listing describes the
+  stablecoins as collateral for the card, which is how Rain cards usually work. Plasma has
+  not published the exact setup.
+
+Sources: Plasma One App Store listing, veda.tech Plasma One Earn post, penchan.co card
+listings.
