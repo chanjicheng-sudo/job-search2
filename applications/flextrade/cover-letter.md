@@ -9,6 +9,8 @@ stated, by her choice. The .html copy is for pasting into Google Docs.
 - The role title is not stated in the posting, so the letter says "the marketing role".
   Use the exact title from the listing if it has one.
 - Ask the referees before sending.
+- FlexTrade's edge, checked Nov 2026 from flextrade.com: broker-neutral, 300+ brokers via
+  FlexLINK, multi-asset in one workflow, customised per client, FlexDigitalAssets.
 - Crypto terms are spelled out (MiCAR, perpetual futures, influencers, AI video) because
   FlexTrade is a capital markets firm, not a crypto one. FlexDigitalAssets checked Oct 2026.
 
@@ -33,7 +35,7 @@ On content, when Blockchain.com rebranded its Earn product, all our creator vide
 
 On campaigns and data, I track and report my own numbers. I automated our daily paid media reporting with Claude Code and MCP connectors, which saves the team about 10 hours a month. I also localised our CRM communications into 24 languages, and email open rates went up 10%. Before Blockchain.com, I managed a £50k+ monthly paid budget at 120% ROAS.
 
-I want to join FlexTrade because you sell complex trading technology to some of the most demanding firms in capital markets. Products like that win on clear stories and strong client relationships. I have marketed trading products before. On perps, users left when they did not understand the product and stayed once we explained it. Institutional buyers need that clarity even more. You have also built FlexDigitalAssets, so institutions can trade crypto alongside every other asset class. That is where my experience fits most directly. Your team is small and does not lean on agencies, which is how I work best. I plan the campaign, build the assets and pull the data myself, and I use AI to do it faster. I would like to bring that to your clients across regions.
+I want to join FlexTrade because of where your edge comes from. You are broker-neutral, so clients reach over 300 brokers through one platform instead of being steered to one. You bring equities, FX, fixed income, futures and options into a single workflow, and you build it around each client. FlexDigitalAssets now adds crypto to that same workflow. It is a strong story, and a complex one to tell. My work has been making complex products clear. On perps, users left when they did not understand the product and stayed once we explained it. I would like to do the same for FlexTrade, especially as crypto becomes part of how your clients trade.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
