@@ -35,7 +35,7 @@ On content, when Blockchain.com rebranded its Earn product, all our creator vide
 
 On campaigns and data, I track and report my own numbers. I automated our daily paid media reporting with Claude Code and MCP connectors, which saves the team about 10 hours a month. I also localised our CRM communications into 24 languages, and email open rates went up 10%. Before Blockchain.com, I managed a £50k+ monthly paid budget at 120% ROAS.
 
-I want to join FlexTrade because of where your edge comes from. You are broker-neutral, so clients reach over 300 brokers through one platform instead of being steered to one. You bring equities, FX, fixed income, futures and options into a single workflow, and you build it around each client. FlexDigitalAssets now adds crypto to that same workflow. It is a strong story, and a complex one to tell. My work has been making complex products clear. On perps, users left when they did not understand the product and stayed once we explained it. I would like to do the same for FlexTrade, especially as crypto becomes part of how your clients trade.
+I like that FlexTrade keeps up with where finance is moving. You have already brought digital assets into your platform with FlexDigitalAssets, so clients can trade crypto alongside every other asset class. There has been a lot of movement in crypto recently, with big traditional finance companies launching their own stablecoins. I want to work for a company that notices trends like this and acts on them. My crypto background means I can help tell that story to your clients.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
