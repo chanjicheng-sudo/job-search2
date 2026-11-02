@@ -19,11 +19,10 @@ module.exports = {
   contact,
 
   profile:
-    "Fintech/crypto marketer who finds the problem first, then solves it with AI. Working across demand " +
-    "generation and product marketing for retail, wealth and institutional products in 26 markets, I have " +
-    "used AI to replace manual creative production, reporting and localisation, and to open new client " +
-    "channels. I work closely with Sales, Product and Compliance, and bring a data-science research " +
-    "background.",
+    "Fintech/crypto marketer working across demand generation and product marketing for retail, wealth " +
+    "and institutional products in 26 markets. I solve marketing problems with AI, from creative " +
+    "production and reporting to localisation and new client channels. I work closely with Sales, " +
+    "Product and Compliance, and bring a data-science research background.",
 
   sections: [
     {
