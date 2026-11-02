@@ -127,3 +127,53 @@ Sources: theblock.co (Plasma One announcement), blockworks.co, kkinvesting.io Pl
 card review 2026, privy.io blog, chainstack.com stablecoin L1 comparison, blockeden.xyz
 stablechains article, dwellir.com stablechain RPC guide, Binance Research Plasma page,
 imToken Plasma page.
+
+## How Plasma One compares with other payment products — November 2026
+
+Most fee and cashback figures come from affiliate card-comparison sites and conflict
+with each other. Use the categories, not the exact numbers.
+
+| Type | Examples | Who holds the money | What it is missing compared with Plasma One |
+|---|---|---|---|
+| Exchange cards | Crypto.com, Bybit, Coinbase | The exchange (custodial) | Tied to a trading account. Built for people who already trade. |
+| Custodial stablecoin cards | RedotPay, KAST | The company (custodial) | Strong in emerging markets, but no own chain and no built-in yield. |
+| Self-custodial wallet cards | MetaMask Card, Gnosis Pay, Ether.fi Cash, Ready | The user | Made for crypto natives: seed phrases, gas fees, moving between chains. |
+| Licensed fintechs | Revolut, Wise | A regulated bank or e-money firm | Insured and licensed, but stablecoins are an add-on. Revolut launched a euro stablecoin in Aug 2026 and plans a US bank with stablecoins in 2027. |
+
+### What makes Plasma One different
+
+1. **It is the only one running on its own blockchain.** Transfers between users are
+   free, and receiving from other chains costs nothing on Plasma One's side. Every
+   other card company pays someone else's network fees or passes them on.
+2. **Self-custody without the crypto hassle.** Users hold their own keys, but sign up
+   with embedded wallets (Privy) and never see a seed phrase. Wallet cards like MetaMask
+   or Gnosis Pay are self-custodial but crypto-native. RedotPay and KAST are easy to use
+   but custodial. Plasma One sits between the two.
+3. **Spend, save and send in one app.** Card, yield on the balance and free transfers
+   together. Most cards are only for spending, with no yield.
+4. **Built around USDT.** Most of the world's stablecoin money is USDT, held by everyday
+   users in emerging markets. Users of Binance can withdraw USDT straight to Plasma.
+5. **Retention is a proof point.** 64.5% of April spenders still active after six
+   months, against 27% for MetaMask (Paul's figure).
+
+### Where it is weaker, and what to expect being asked
+
+- **Cashback is paid in XPL.** Its value moves with the token price, which is down a lot.
+  KAST pays cashback in dollars.
+- **No bank licence and no deposit insurance.** Revolut and Wise have both. Yield comes
+  from DeFi, so it carries risk.
+- **FX and caps.** Some sources report around 1% FX plus Visa costs, and a cashback cap
+  above a monthly spend level. Check in the app.
+- **Not open to US residents** in the main sign-up flow.
+
+### How to say it in an interview
+
+> Most crypto cards either hold your money for you, or give you your own wallet and
+> expect you to know how crypto works. Plasma One gives you your own wallet without the
+> crypto steps, and because it runs on its own chain, moving money is free. That makes
+> it closer to Revolut for people who want dollars than to a crypto card.
+
+Sources: fxcintel.com stablecoin card analysis, stablecoininsider.org neobanks for
+stablecoins 2026, vaultleap.com crypto debit cards 2026, slash.com RedotPay vs KAST,
+defillama.com crypto cards, cointelegraph.com and thedefiant.io on Revolut, ara.cat on
+Revolut euro stablecoin.
