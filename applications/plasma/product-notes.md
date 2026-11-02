@@ -177,3 +177,66 @@ Sources: fxcintel.com stablecoin card analysis, stablecoininsider.org neobanks f
 stablecoins 2026, vaultleap.com crypto debit cards 2026, slash.com RedotPay vs KAST,
 defillama.com crypto cards, cointelegraph.com and thedefiant.io on Revolut, ara.cat on
 Revolut euro stablecoin.
+
+## How Plasma makes money — November 2026
+
+Plasma does not publish a revenue breakdown. This is pieced together from on-chain data
+(DefiLlama), product reviews and how card businesses normally work. Items marked
+"inferred" are reasoning, not reported fact.
+
+### Where the money comes from
+
+1. **Card interchange.** Each time a Plasma One card is used, the merchant's bank pays a
+   fee, roughly 1–2% in most markets and lower in the UK and EU. It is split between the
+   issuer (Rain), Visa and Plasma. This is why Paul measures card spend: it is the number
+   that turns into revenue. (Split inferred; Plasma has not disclosed it.)
+2. **FX spread.** Reviews report about 1% extra on non-USD purchases, even though there
+   is no stated FX fee. Some of that likely goes to Plasma or its partners.
+3. **Paid tiers.** The card has Lite, Core and Platinum tiers. The current promotion,
+   "Claim Core tier free for 6 months", implies Core is normally paid.
+4. **A share of yield (inferred).** Users earn yield from a Veda vault. Apps like this
+   usually keep part of the yield before passing the rest on. Not confirmed for Plasma.
+5. **Chain fees.** Simple USDT transfers are free, but other transactions pay gas in XPL.
+   This is very small today: about $10K in Q3 2026 by DefiLlama, and the "fee switch" that
+   would send fees to token holders is off.
+6. **Partnerships and businesses (inferred).** Stripe's stablecoin cards, Deel payroll and
+   Whop run on or with Plasma. Business and infrastructure deals are a likely future
+   revenue line, but no terms are public.
+
+### Where the money goes
+
+- **Cashback costs more than interchange earns.** Up to 4% cashback against roughly 1–2%
+  interchange means each purchase can lose money. The gap is paid in XPL that the
+  Foundation buys on the market (Paul, April 2026). That is customer-acquisition spend,
+  not profit.
+- **Free transfers** are a cost Plasma takes on to win users.
+
+### What actually funds the company
+
+- Equity raises (about $20M in February 2025, then more) and the XPL token sale, which
+  raised hundreds of millions in 2025.
+- The Foundation's XPL treasury. If the network grows, the tokens it holds are worth more.
+
+### The strategic picture
+
+- **Tether's angle.** Plasma is closely linked to the Tether / Bitfinex circle. Tether earns
+  interest on the reserves behind every USDT in circulation, so more USDT in use benefits
+  Tether even if transfers are free. This is a benefit to the wider group, not direct
+  revenue for Plasma.
+- **The plan is growth first, profit later.** It is the same model as early Revolut:
+  subsidise usage, get to scale, then earn from interchange, FX, subscriptions and
+  business services.
+
+### Why this matters in the interview
+
+- **Card spend is the revenue line**, so a growth hire should be judged on users who fund
+  and spend, not installs. That matches the JD.
+- **Cashback is a subsidy.** A smart question: "How do you think about the cost of
+  cashback against interchange when you value a new user?" It shows you understand unit
+  economics. Do not suggest the business is losing money. Frame it as a deliberate
+  investment.
+- Do not bring up token sale amounts or the falling XPL price.
+
+Sources: defillama.com (Plasma chain revenue and XPL), bleap.finance Plasma One review,
+kkinvesting.io Plasma One card review, coinstats.app October 2026 analysis, techflowpost
+and forklog on the XPL sale and token model, decrypt.co on the Plasma One launch.
