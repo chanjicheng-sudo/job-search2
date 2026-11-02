@@ -34,6 +34,17 @@ shown, with a network switcher), lists **Fees: Zero**, "Arrives as USD" at 1 USD
 $1.00, and a 1 USDT minimum. Plasma One does not charge to receive from other chains. The
 sender still pays their own chain's network fee.
 
+## DeFi or CeFi? A hybrid (checked 2 Nov 2026)
+
+- **Wallet: self-custodial.** The App Store listing says only the user holds the private
+  keys. That side is DeFi.
+- **Yield: on-chain**, through a Veda vault (reported 3.9% to 5% variable). DeFi.
+- **Card and fiat: regulated partners.** Visa card issued through Rain; Bridge reported
+  for account services and fiat rails. Plasma does not hold a bank licence. That side is
+  CeFi.
+- Safe phrasing: "a self-custodial stablecoin app with a card and fiat access through
+  regulated partners".
+
 ## Two things to keep straight under questioning
 
 - **The zero-fee benefit covers simple USDT transfers on Plasma routes, not arbitrary
