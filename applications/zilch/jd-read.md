@@ -25,3 +25,15 @@ office).
   incrementality vs cohorts.
 - **3+ years at scale-up level.** About 20 months.
 - Sponsorship: check Zilch sponsors.
+
+## Zilch's edge (checked Nov 2026, mostly secondary sources)
+
+- **Ad-subsidised payments network.** Revenue from advertising and merchant commissions
+  rather than consumer fees. Works anywhere, not only at merchants with a Zilch checkout,
+  unlike Klarna and Clearpay. Growth depends on customer acquisition and spend.
+- **FCA regulated from launch.** Consumer credit licence April 2020, before the September
+  2020 launch. The FCA began regulating BNPL on 15 July 2026. Payments licence and Visa
+  principal membership reported December 2025.
+- **Open banking affordability checks**, soft credit checks before each purchase.
+- **Expansion:** agreed to acquire Fjord Bank (EU banking licence) in January 2026, and is
+  reported to be preparing a 2027 London IPO.

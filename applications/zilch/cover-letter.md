@@ -31,7 +31,7 @@ On landing pages, at Malaberg I rebuilt our landing and promotional pages from f
 
 On reporting, I automated our daily paid media reporting with Claude Code and MCP connectors and led its launch as a company-wide dashboard. It saves the team about 10 hours a month.
 
-I want to join Zilch because you measure growth by what customers do after they sign up, not only by sign-ups. That is how I like to work. On perps, I cared about whether users stayed and traded, not just whether they installed. I also like that Zilch helps people avoid credit costs. It is a product that is easy to believe in, and that makes it easier to market.
+I want to join Zilch because of how the business is built. Most buy now, pay later providers grow through merchant checkouts. Zilch works anywhere and is funded by advertising and merchant partners rather than customer fees, so growth comes from bringing customers in and keeping them spending. That puts performance marketing at the centre of the business. Zilch has also been FCA regulated since launch, well before the new buy now, pay later rules came in this year. I have worked on regulated financial promotions with Compliance, and I want to grow a product that is built to last under regulation.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
