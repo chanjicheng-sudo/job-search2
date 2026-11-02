@@ -114,9 +114,12 @@ Do not bluff any of these. An honest answer plus a plan beats a fake one.
 
 - **"Zero-fee USDT transfers"** as a blanket claim. Their own footnote limits it to
   Plasma routes, and third-party fees may apply. Say "free transfers on Plasma".
-  Sending in from another chain (Tron, Ethereum) is a bridge with its own source-chain
-  fee, unless Plasma One absorbs it, which could not be confirmed. Ask them instead
-  (question 6).
+  **Correction, from her own Plasma One app (2 Nov 2026):** the "Receive USDT" screen
+  accepts deposits on other networks (BSC shown) with "Fees: Zero", "Arrives as USD", and
+  a 1 USDT minimum. So Plasma One does not charge to receive from other chains. The only
+  cost left is the sending chain's own network fee, paid by the sender's wallet, which is
+  cents on BSC. Safe phrasing: "Plasma One charges nothing to receive, even from other
+  networks."
 - **XPL's price.** Do not raise it. If they do, acknowledge it calmly.
 - **Exchanges beyond Binance.** Only Binance support for USDT on Plasma was confirmed.
 - **"You don't run paid social."** Say "I could not find any active ads on the Meta Ads
@@ -134,9 +137,8 @@ Do not bluff any of these. An honest answer plus a plan beats a fake one.
 3. "What does the tracking stack look like today, and which numbers do you trust least?"
 4. "How do creative and compliance sign-off work at the moment?"
 5. "What has been tried on paid social so far, and what did you learn?"
-6. "When someone deposits USDT from another chain into Plasma One, does the app cover the
-   bridge cost, or does the user pay it? That first deposit looks like the biggest point
-   of friction in the funnel."
+6. "I noticed Plasma One takes deposits from other networks like BSC with zero fees. Is
+   that first deposit where you see the biggest drop-off, and do you advertise it?"
 
 ---
 

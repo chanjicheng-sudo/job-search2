@@ -27,6 +27,13 @@ network. XPL trades on Binance, Bybit, OKX and Bitget, several supporting direct
 withdrawal to Plasma. **Coinbase support was not confirmed — do not name exchanges beyond
 Binance without checking.**
 
+## Seen in the app, 2 November 2026
+
+She has a Plasma One account. The "Receive USDT" screen supports other networks (BSC
+shown, with a network switcher), lists **Fees: Zero**, "Arrives as USD" at 1 USDT =
+$1.00, and a 1 USDT minimum. Plasma One does not charge to receive from other chains. The
+sender still pays their own chain's network fee.
+
 ## Two things to keep straight under questioning
 
 - **The zero-fee benefit covers simple USDT transfers on Plasma routes, not arbitrary
