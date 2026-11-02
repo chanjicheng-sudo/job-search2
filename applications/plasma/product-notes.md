@@ -260,3 +260,23 @@ to watch. Crypto users can come straight from an exchange.
 
 Sources: Plasma One App Store listing, Plasma help centre (intercom.help), spendnode.io on
 MXN funding, penchan.co and polymart.app card guides, Blockworks.
+
+## Where Plasma One's yield comes from — November 2026
+
+- **Self-custody does not mean the money sits still.** When a user turns on Earn, their
+  wallet deposits USDT into a Veda vault, which is a smart contract, and gets vault
+  shares back. Only the user can redeem those shares. Plasma cannot take the money.
+- **The vault lends the USDT out.** Veda, as curator, supplies it mainly to Aave's
+  lending market on Plasma. Borrowers, mostly crypto traders borrowing stablecoins
+  against their crypto, pay interest. That interest raises the value of the vault shares.
+- **Launch yields were boosted by incentives.** About 20% APY at launch in September 2025
+  included XPL and partner rewards. Without them it has fallen to roughly 3–5%.
+- **Same setup as Whop.** Whop's yield for its users runs through a Veda vault into Aave
+  on Plasma too.
+- **Risks:** smart contract bugs, bad debt if borrowers' collateral crashes, delays in
+  withdrawing if most of the money is lent out, and rates falling when demand to borrow
+  drops. Not a bank deposit, not insured.
+- Whether Plasma keeps a share of the yield is not public.
+
+Sources: veda.tech (Plasma One vault blog and docs), thedefiant.io on the $3B savings
+vault, Blockworks Veda dashboard primer, aave.com on Whop, Portals explorer snapshot.
