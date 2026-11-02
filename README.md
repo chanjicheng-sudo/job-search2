@@ -25,7 +25,7 @@ build/                            Source for the CVs. One data file per variant,
                                   shared renderer. See "Rebuilding" below.
 
 applications/
-  plasma/     jd-read, product-notes, brand-notes, and three finished answers
+  plasma/     jd-read, product-notes, brand-notes, interview-prep, and three finished answers
   kraken/     jd-read
   bvnk/       jd-read
 
