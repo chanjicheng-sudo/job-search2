@@ -8,6 +8,9 @@ pasting into Google Docs.
 - "I own most of the AI tools in our marketing team" is her own claim from the Kraken
   message. Keep it only if her manager would agree.
 - Ask the referees before sending.
+- Robin facts checked Nov 2026 on topdesk.com: announced at TOPdesk Unlocked, Utrecht,
+  16 Sep 2026, available from October 2026. Virtual Support Agent plus operator Copilot,
+  AI Readiness Dashboard, MCP integration (e.g. Microsoft Copilot), AI Triage.
 
 ---
 
@@ -28,7 +31,7 @@ On explaining complex products, I led customer research on our perps product wit
 
 On working with Product and Sales, I work closely with our B2B product marketing team on Institutional and Wealth projects. I built a database of 100 operators that gave our business development team 20+ active leads.
 
-I want to join TOPdesk because you are adding AI to a product that service teams already rely on. Your customers already trust you, so every AI claim has to hold up. The questions they will ask are about accuracy, security and return on investment. I ask the same questions every time I bring an AI tool into my own work. I would like to help TOPdesk answer them honestly, so that customers believe the claims and use the features.
+I want to join TOPdesk because of Robin. You launched it this autumn as one AI teammate that answers end users in the portal and drafts replies for operators, while the operator makes the final call. I like that you launched the AI Readiness Dashboard alongside it, so teams can check whether their knowledge is ready for AI before they switch it on. I have seen my own AI tools fail when the inputs were weak, so I know how much that matters. I also build MCP connectors myself, so your MCP integration with tools like Microsoft Copilot is something I can explain from experience. I would like to help make Robin the AI story your customers trust.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 

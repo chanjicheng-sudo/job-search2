@@ -22,3 +22,13 @@ reports to the Director of Product and Customer Marketing. From £66k.
 - **Sales enablement, win/loss, analyst relations.** Closest evidence is the 20+
   Institutional leads and work with B2B Product Marketing.
 - Sponsorship: check TOPdesk sponsors.
+
+## TOPdesk's biggest recent announcement (checked Nov 2026)
+
+**TOPdesk Robin**, an AI teammate, unveiled at TOPdesk Unlocked (Utrecht, 16 Sep 2026),
+available from October 2026, switched on by the customer. Two roles: a Virtual Support
+Agent for end users in the portal, and a Copilot for operators that summarises, suggests
+and drafts replies while the operator decides. Launched alongside: an **AI Readiness
+Dashboard** ("are we ready for AI?"), **MCP integration** with tools like Microsoft
+Copilot, and **AI Triage** (category, priority and group suggested on ticket creation).
+Roadmap: Robin grows into an agent that takes on routine work.
