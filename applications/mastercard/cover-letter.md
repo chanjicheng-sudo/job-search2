@@ -26,7 +26,7 @@ On localisation, I took our loans product to market in Malaysia. I am Malaysian,
 
 On data, I automated our daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security. It saves the team about 10 hours a month. I also turn research into decisions. I led customer research on our perps product with active, inactive and churned users. We found that many users left because they did not understand the product. We changed the in-app explainer, and retention grew by 12%.
 
-I want to join Mastercard because of what this team does. You describe the goal as showing up locally and winning domestically, at a time when governments are shaping their own payments systems. I have seen a small version of this in my own work. In Europe, a regulation change meant a major exchange lost access to its clients. In Malaysia, local rules decided how we could market our product. Both times, reading the change early is what made the difference for us. I would like to help Mastercard read those signals early in every market.
+I want to join Mastercard because you have a whole team working out how to win in markets where governments are now building their own payment systems. I have seen how much local rules decide who wins. In Europe, MiCAR cost a major exchange its European clients, and I turned that into 3 major clients for us. In Malaysia, local regulation decided how we could market our loans product. Both times, the result came from reading the rules early. I would like to do that for Mastercard, market by market.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 

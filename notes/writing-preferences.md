@@ -84,6 +84,12 @@ This took five attempts. The rules that came out of it:
 
 ### Cover letters
 
+- **The first sentence of a "why us" paragraph must name the specific thing.** Never open
+  with "because of what this team does", "because of where your edge comes from" or any
+  line that could be pasted into another company's letter. She has rejected this
+  repeatedly. Research the company's edge, a recent launch or their own wording first,
+  and put it in sentence one.
+
 - **Never volunteer a gap.** "I have not built X before" was rejected. A cover letter
   argues the case. Gaps belong in the jd-read and OPEN-QUESTIONS, and are answered at
   interview if asked. Where a gap is real, show the nearest work she has done instead,
