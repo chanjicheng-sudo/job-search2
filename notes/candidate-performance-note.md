@@ -87,7 +87,8 @@ channel is named.
 
 ## 4b. CRM localisation tooling
 
-- Implemented API tooling to translate CRM communications into local languages.
+- Implemented API tooling to translate CRM communications into local languages. **The CRM
+  platform is Iterable** (added Nov 2026, from her). Write it as "Iterable (CRM)".
 - **Email open rate up 10%.** Into **24 languages** (added Oct 2026, from her).
 - Added Oct 2026. Hits two things several JDs ask for at once: multi-market and
   multi-language delivery, and CRM or lifecycle messaging workflows. Note her original
