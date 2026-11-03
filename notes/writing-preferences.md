@@ -84,6 +84,10 @@ This took five attempts. The rules that came out of it:
 
 ### Cover letters
 
+- **Straightforward language only.** No compressed constructions like "MiCAR cost a major
+  exchange its European clients". Say what happened in order: what changed, who it
+  affected, what she did. She rejected the compressed version as impossible to follow.
+
 - **The first sentence of a "why us" paragraph must name the specific thing.** Never open
   with "because of what this team does", "because of where your edge comes from" or any
   line that could be pasted into another company's letter. She has rejected this

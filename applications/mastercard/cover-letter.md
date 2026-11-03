@@ -1,17 +1,15 @@
 # Mastercard — Manager, Localization & Transformation: cover letter
 
-In her BVNK format: case-by-case paragraphs, one why paragraph, her voice. Every claim is
-backed by the performance note. No gaps stated. The .html copy is for pasting into
-Google Docs.
+**Her own final edit, Nov 2026**, with grammar fixed in place only. The .html copy is for
+pasting into Google Docs.
 
 **Check before sending:**
-- The role asks for newsletters and insight pieces. Consider attaching or linking one
-  short writing sample.
+- The Europe example now appears twice (signals paragraph and why paragraph). Her choice.
 - Ask the referees before sending.
 
 ---
 
-Jessie Chan  
+Ji Cheng (Jessie) Chan  
 chan.jicheng@gmail.com | +44 (0) 7751 544 790 | linkedin.com/in/ji-cheng-chan
 
 Dear Mastercard hiring team,
@@ -26,10 +24,10 @@ On localisation, I took our loans product to market in Malaysia. I am Malaysian,
 
 On data, I automated our daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security. It saves the team about 10 hours a month. I also turn research into decisions. I led customer research on our perps product with active, inactive and churned users. We found that many users left because they did not understand the product. We changed the in-app explainer, and retention grew by 12%.
 
-I want to join Mastercard because of the multinational challenge: one global network, but payment systems that have to be tailored to local regulations in every market. In Europe, MiCAR cost a major exchange its European clients, and I turned that into 3 major clients for us. In Malaysia, local regulation decided how we could market our loans product. Both times, the result came from reading the rules early. I would like to do that for Mastercard, market by market.
+I want to join Mastercard because Mastercard has one global network, but payment systems that have to be tailored to local regulations in every market. I like the go-to-market challenge of selling the same product in different regions, because user behaviour is so different from region to region, and the opportunities are time sensitive. In Europe, when the EU brought in a new regulation for digital assets, a big exchange lost access to its European clients. I led the campaigns to win those clients. I can see this being a day-to-day challenge in this role, because Mastercard works in every market.
 
-I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
+Thank you for considering my application. I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
-Thank you,
+Kind regards,
 
 Jessie Chan
