@@ -31,7 +31,7 @@ On explaining complex products, I led customer research on our perps product wit
 
 On working with Product and Sales, I work closely with our B2B product marketing team on Institutional and Wealth projects. I built a database of 100 operators that gave our business development team 20+ active leads.
 
-I want to join TOPdesk because of Robin. You launched it this autumn as one AI teammate that answers end users in the portal and drafts replies for operators, while the operator makes the final call. I like that you launched the AI Readiness Dashboard alongside it, so teams can check whether their knowledge is ready for AI before they switch it on. I have seen my own AI tools fail when the inputs were weak, so I know how much that matters. I also build MCP connectors myself, so your MCP integration with tools like Microsoft Copilot is something I can explain from experience. I would like to help make Robin the AI story your customers trust.
+I want to join TOPdesk because this role is about AI from start to finish, and that is the work I want to do. You describe it as owning the story that turns your AI and automation into something customers understand, trust and buy. Trust is the part I care about most. You ask for someone who can separate real capability from hype. I build AI tools myself, and I have seen AI output that looks right and is still wrong. So I would check every claim before we make it. I want to help TOPdesk set the standard for how it talks about AI.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
