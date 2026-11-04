@@ -4,6 +4,12 @@ Locked preferences for anyone (or any assistant) producing CVs, LinkedIn copy, c
 letters or application answers for Jessie. These were established by trial and error, and
 several of them exist because a draft was rejected for breaking them.
 
+## Target roles (Nov 2026)
+
+She wants to stay in **fintech and mobile apps**. Flag any role outside that before
+building anything for it (for example, Lucky Egg, a physical party-games company, was
+passed on for this reason).
+
 ## Her writing voice
 
 For application answers, cover letters, DMs — anything written as her speaking.
