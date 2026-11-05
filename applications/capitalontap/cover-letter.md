@@ -18,7 +18,7 @@ Dear Capital on Tap hiring team,
 
 I am applying for the AI enablement role.
 
-I am a growth marketer at Blockchain.com, and most of my work is building AI tools that my team uses every day. I build them myself with Claude Code, Cursor, MCP connectors and APIs, and I own most of the AI tools in our marketing team.
+I am a growth marketer at Blockchain.com, and most of my work is building AI tools that my team uses every day. I build them myself with Claude Code, Cursor, MCP connectors and APIs, and I own most of the AI tools in our marketing team. My strength is solving problems with AI tools, and building long-term solutions that anyone can take over.
 
 On building for a team, our team spent 30 minutes a day on manual reporting. I built automated reporting with Claude Code and MCP connectors, and shipped it to production as a company-wide dashboard with Data Engineering and Security. It saves the team about 10 hours a month. I also built API tools that translate our CRM communications in Iterable into 24 languages, which lifted email open rates by 10%.
 
