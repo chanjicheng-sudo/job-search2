@@ -51,6 +51,10 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   change in brackets after every "from X to Y".
 - **No "with full accountability for efficiency"** or similar filler. She rejected it as
   meaningless. The figure (120% ROAS) carries the point.
+- **AI UGC bullet (Nov 2026):** say she built it "in 2 weeks". Do not cite "evaluating 6
+  AI model providers", which she does not see as proof of skill. Fold the yield product
+  relaunch result (600+ installs in 7 days) into the same bullet rather than a separate
+  one.
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

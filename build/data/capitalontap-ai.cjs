@@ -31,11 +31,9 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Built automated reporting with Claude Code and MCP connectors and shipped it to production as a company-wide dashboard with Data Engineering and Security, saving the team ~10 hours a month",
+            "Built MCP connectors, API integrations and internal bots (deployed on fly.io), including automated reporting shipped to production as a company-wide dashboard with Data Engineering and Security, saving the team ~10 hours a month",
             "Built API tools that localise Iterable (CRM) communications into 24 languages, increasing email open rate by 10%",
-            "Built the company's first in-house AI UGC workflow after evaluating 6 AI model providers and two weeks of prompt engineering, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%) and cutting paid social CPI from $25 to $6 (−76%)",
-            "Built MCP and API integrations and internal bots (deployed on fly.io) to remove repeat manual work across the marketing team, and own most of the team's AI tools",
-            "Recreated outdated creator assets with AI video after the yield product rebrand, driving 600+ installs in the first 7 days",
+            "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days of the yield product relaunch",
             "Built an 80-publisher outreach list with AI after spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), sourcing 3 major high net worth clients",
             "Increased user retention by 12% by mapping why users churned through research with active, inactive and churned users before proposing a fix, then working with Product to change the in-app explainer",
           ],
@@ -56,7 +54,7 @@ module.exports = {
     {
       heading: "SKILLS",
       skills: [
-        { label: "AI building", text: "Claude Code, Cursor, MCP connectors, API integrations, internal bots and vibe-coded apps (deployed on fly.io), prompt engineering, LLM evaluation across 6 providers" },
+        { label: "AI building", text: "Claude Code, Cursor, MCP connectors, API integrations, internal bots and vibe-coded apps (deployed on fly.io), prompt engineering" },
         { label: "Data", text: "SQL, Python, R, Power BI, Streamlit, Excel, Microsoft Clarity" },
         { label: "Tools", text: "Iterable, Windsor.ai, Apple Search Ads, Google Ads, Meta, TikTok" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
