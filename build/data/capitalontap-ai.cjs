@@ -36,6 +36,9 @@ module.exports = {
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days of the yield product relaunch",
             "Built an 80-publisher outreach list with AI after spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), sourcing 3 major high net worth clients",
             "Increased user retention by 12% by mapping why users churned through research with active, inactive and churned users before proposing a fix, then working with Product to change the in-app explainer",
+            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by building the go-to-market and a compliance review process for a new market from scratch",
+            "Cut UK CPI by 21.5% while installs rose 30.2% by analysing 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
+            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing",
           ],
         },
         {
@@ -46,6 +49,7 @@ module.exports = {
             "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
             "Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages, informed by funnel analysis in Power BI, Excel and Microsoft Clarity",
             "Sustained 120% ROAS while managing £50k+ monthly paid budget",
+            "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
           ],
         },
       ],
