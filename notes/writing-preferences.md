@@ -10,6 +10,14 @@ She wants to stay in **fintech and mobile apps**. Flag any role outside that bef
 building anything for it (for example, Lucky Egg, a physical party-games company, was
 passed on for this reason).
 
+## "Crypto" or "digital assets" (Nov 2026)
+
+If a company's job ad does not use the word "crypto", or the company is not crypto-native,
+write **"digital asset(s)"** instead of "crypto" in every document for it: CVs, cover
+letters, form answers and messages. Rephrase so it still reads naturally ("new to digital
+assets", not "digital asset natives"). Keep "crypto" only for crypto-native companies
+that use the word themselves (for example Plasma, Kraken, Aave, BVNK, Noah).
+
 ## Her writing voice
 
 For application answers, cover letters, DMs — anything written as her speaking.

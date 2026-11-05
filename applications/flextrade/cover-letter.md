@@ -25,7 +25,7 @@ I am applying for the marketing role in your London office.
 
 I am a growth marketer at Blockchain.com, working across Retail, Wealth and Institutional. Most of my work is demand generation, go-to-market and product marketing, in a regulated environment. My strength is spotting a problem and solving it with AI.
 
-On lead generation, as new EU crypto regulation (MiCAR) was being implemented, one of the biggest exchanges was losing access to its European clients. I saw the opportunity to win their high net worth clients. I built a contact list of 80 crypto publishers with AI and ran the outreach. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I work closely with our B2B product marketing team on Institutional and Wealth projects.
+On lead generation, as new EU digital asset regulation (MiCAR) was being implemented, one of the biggest exchanges was losing access to its European clients. I saw the opportunity to win their high net worth clients. I built a contact list of 80 digital asset publishers with AI and ran the outreach. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I work closely with our B2B product marketing team on Institutional and Wealth projects.
 
 On product marketing, I grew cumulative trading volume on our perpetual futures (perps) product 5x, from $100m to $500m in two months. I ran three sets of voice-of-customer research with active, inactive and churned users to find out what to improve. We found that a lot of users churned because they did not fully understand how perps work. We added an explainer on how perps work and the risks involved, and user retention grew by 12%.
 
@@ -35,7 +35,7 @@ On content, when Blockchain.com rebranded its Earn product, all our creator vide
 
 On campaigns and data, I track and report my own numbers. I automated our daily paid media reporting with Claude Code and MCP connectors, which saves the team about 10 hours a month. I also localised our CRM communications into 24 languages, and email open rates went up 10%. Before Blockchain.com, I managed a £50k+ monthly paid budget at 120% ROAS.
 
-I like that FlexTrade keeps up with where finance is moving. You have already brought digital assets into your platform with FlexDigitalAssets, so clients can trade crypto alongside every other asset class. There has been a lot of movement in crypto recently, with big traditional finance companies launching their own stablecoins. I want to work for a company that notices trends like this and acts on them. My crypto background means I can help tell that story to your clients.
+I like that FlexTrade keeps up with where finance is moving. You have already brought digital assets into your platform with FlexDigitalAssets, so clients can trade digital assets alongside every other asset class. There has been a lot of movement in digital assets recently, with big traditional finance companies launching their own stablecoins. I want to work for a company that notices trends like this and acts on them. My digital asset background means I can help tell that story to your clients.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 

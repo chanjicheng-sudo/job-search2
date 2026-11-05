@@ -19,7 +19,7 @@ module.exports = {
   contact,
 
   profile:
-    "Fintech/crypto marketer working across demand generation and product marketing for retail, wealth " +
+    "Fintech/digital asset marketer working across demand generation and product marketing for retail, wealth " +
     "and institutional products in 26 markets. I solve marketing problems with AI, from creative " +
     "production and reporting to localisation and new client channels. I work closely with Sales, " +
     "Product and Compliance, and bring a data-science research background.",
@@ -33,7 +33,7 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU crypto regulation (MiCAR), and building an 80-publisher contact list with AI",
+            "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and building an 80-publisher contact list with AI",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing on Institutional and Wealth projects",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by running go-to-market across paid media, affiliate and referral channels and establishing a compliance review process for the new market",
             "Grew cumulative perpetual futures trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by introducing a product explainer after voice-of-customer research showed churned users did not understand the product",

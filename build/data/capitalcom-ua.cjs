@@ -17,7 +17,7 @@ module.exports = {
   contact,
 
   profile:
-    "Performance marketer specialising in paid acquisition for regulated fintech and crypto apps, with " +
+    "Performance marketer specialising in paid acquisition for regulated fintech and digital asset apps, with " +
     "a data-science research background. Hands-on across Google Ads, Apple Search Ads, Meta and TikTok " +
     "in 26 markets, managing campaigns, bidding and budget directly. I build my own dashboards and " +
     "automation with Claude Code and Cursor, and work with Compliance on creative sign-off. Native " +

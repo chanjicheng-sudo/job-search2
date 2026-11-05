@@ -15,10 +15,10 @@ I am also hands-on with lifecycle and AI. I run CRM communications in Iterable a
 
 Plasma One, a stablecoin app I use myself.
 
-The technology behind it is complicated. Your money is held on chain, but you can still spend it with a card anywhere. Plasma barely talks about that. Their main line is "Make stablecoins your everyday money", and the rest is "Spend. Send. Earn." Their users are not crypto natives, and they do not want to read about blockchains. They want to know what they can do with their money.
+The technology behind it is complicated. Your money is held on chain, but you can still spend it with a card anywhere. Plasma barely talks about that. Their main line is "Make stablecoins your everyday money", and the rest is "Spend. Send. Earn." Their users are new to digital assets, and they do not want to read about blockchains. They want to know what they can do with their money.
 
 The app follows the same idea. Onboarding is short and simple. When I deposit, the screen just says "Fees: Zero" and "Arrives as USD". It answers the two questions I actually have and nothing else.
 
-What makes it work is that the founder is focused on the user, not the technology. He talks publicly about retention more than sign-ups, and the app keeps improving because of it. Plasma One kept about 64% of its spenders after six months, which is far ahead of most crypto apps.
+What makes it work is that the founder is focused on the user, not the technology. He talks publicly about retention more than sign-ups, and the app keeps improving because of it. Plasma One kept about 64% of its spenders after six months, which is far ahead of most digital asset apps.
 
 That is the lesson I would bring to Beam. Lead with what changes for the user, and keep the technology in the background.

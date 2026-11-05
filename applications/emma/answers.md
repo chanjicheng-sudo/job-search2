@@ -26,4 +26,4 @@ I have also been using Emma for more than 3 years, so I already believe in the p
 
 Her own answer, grammar fixed only.
 
-I am a subscribed Emma user, and I have been using Emma for more than 3 years. I like that all my accounts are in one place, so I do not have to check each banking app separately. It is the same goal we have at Blockchain.com, where we want customers to do all their crypto in one app, so I think my experience is directly transferable. I have always struggled with overspending, and I find Emma's estimated daily budget really useful.
+I am a subscribed Emma user, and I have been using Emma for more than 3 years. I like that all my accounts are in one place, so I do not have to check each banking app separately. It is the same goal we have at Blockchain.com, where we want customers to manage all their digital assets in one app, so I think my experience is directly transferable. I have always struggled with overspending, and I find Emma's estimated daily budget really useful.

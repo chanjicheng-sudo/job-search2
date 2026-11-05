@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Fintech/crypto marketer working across go-to-market, positioning and product adoption for trading, lending and earn products in 26 markets. I solve marketing problems with AI, and pull my own analysis in Claude Code and Cursor. I work directly with Product, Compliance and creative teams on regulated messaging across UK, US and EU markets, and bring a data-science research background.
+Fintech/digital asset marketer working across go-to-market, positioning and product adoption for trading, lending and earn products in 26 markets. I solve marketing problems with AI, and pull my own analysis in Claude Code and Cursor. I work directly with Product, Compliance and creative teams on regulated messaging across UK, US and EU markets, and bring a data-science research background.
 
 ## EXPERIENCE
 

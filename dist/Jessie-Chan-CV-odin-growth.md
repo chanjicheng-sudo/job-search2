@@ -2,14 +2,14 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Growth marketer who builds with AI, across 26 markets in regulated fintech and crypto. I turn ideas into working tools myself, from dashboards and bots to AI content workflows, and judge them by pipeline and revenue. I have worked with high net worth and institutional clients, and bring a data-science research background.
+Growth marketer who builds with AI, across 26 markets in regulated fintech and digital assets. I turn ideas into working tools myself, from dashboards and bots to AI content workflows, and judge them by pipeline and revenue. I have worked with high net worth and institutional clients, and bring a data-science research background.
 
 ## EXPERIENCE
 
 **Institutional and Retail Growth Marketing Intern** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
-- Sourced 3 major high net worth clients by using AI to build an 80-publisher outreach list after spotting that a major exchange was losing access to European clients under new EU crypto regulation (MiCAR), then running the outreach
+- Sourced 3 major high net worth clients by using AI to build an 80-publisher outreach list after spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), then running the outreach
 - Saved the team ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security
 - Increased CTR from 0.4% to 1.15% (+188%) and reduced paid social CPI from $25 to $6 (−76%) by building the company's first in-house AI UGC workflow, delivering 100+ video assets
 - Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand
