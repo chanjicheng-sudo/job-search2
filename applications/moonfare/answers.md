@@ -6,7 +6,7 @@ In her voice. Backed by the performance note.
 
 I am interested because this role sits where marketing meets investors, and every send has to be right. Moonfare works across many regions, and each one has its own compliance rules and its own kind of investor. At Blockchain.com, we saw that users in Africa tend to take on more risk, while users in the UK are more balanced, so we had to create different content for each region. I enjoy that kind of challenge, where one size does not fit all.
 
-I also like that the role covers the whole journey from first interest to the handover to Investor Relations. I have worked with our Wealth and Institutional teams, brought in 3 major high net worth clients, and handed 20+ active leads to business development, so I understand what a good handover looks like.
+I also like that marketing generates the leads for Investor Relations. One-to-one outreach is hard to make efficient, while marketing can reach a wide audience and pass on the people who are ready. At Blockchain.com, I built a database of 100 operators that gave our business development team 20+ active leads, and an outreach channel that brought in 3 major high net worth clients.
 
 ## Tell us about a time you proactively identified an opportunity to use AI or automation to solve a business problem.
 
