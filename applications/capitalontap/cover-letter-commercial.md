@@ -27,7 +27,7 @@ On getting customers to use more of the product, users were churning from our pe
 
 On data, I work in Excel and SQL every day. I also automated our daily performance reporting with Claude Code and led its launch as a company-wide dashboard, which saves the team about 10 hours a month.
 
-I want to join Capital on Tap because you have grown from a business credit card into a full platform for small businesses, and your savings account reached £1 billion within its first year. Growth like that comes from finding the next product and the next channel, and proving each one with numbers. That is the work I enjoy most, and I would like to do it close to your senior team.
+I want to join Capital on Tap because you have grown from a business credit card into a full platform for small businesses, and your savings account reached £1 billion within its first year. Growth like that comes from finding the next product and the next channel, and proving each one with numbers. That is the work I enjoy most, and I would like to do it close to your senior team. I also noticed that you are hiring someone to bring AI into how your teams work, so I expect AI to be encouraged in day-to-day work here. That suits how I work. I already use Claude Code to automate my own reporting and analysis, and in this role I would use AI to get from a commercial question to a tested recommendation faster.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
