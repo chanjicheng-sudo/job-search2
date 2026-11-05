@@ -20,7 +20,7 @@ I am applying for the growth role in the founders' office, working with Paddy.
 
 I am a growth marketer at Blockchain.com, and I build with AI every day. I use Claude Code, Cursor and MCP connectors to ship my own tools instead of waiting for someone else to build them, and I judge each one by the leads and revenue it brings in.
 
-I used AI to win new clients. When new EU digital asset regulation came in, a major exchange lost access to its European clients. I saw a chance to win their high net worth clients, used AI to build a contact list of 80 publishers in days, and ran the outreach. It brought in 3 major clients. For our Institutional team, I built a database of 100 operators that gave business development 20+ active leads.
+I used AI to win new clients. When new EU digital asset regulation came in, a major exchange lost access to its European clients. I saw a chance to win their high net worth clients, used AI to build a contact list of 80 publishers, and ran the outreach. It brought in 3 major clients. For our Institutional team, I built a database of 100 operators that gave business development 20+ active leads.
 
 I built AI tools the team runs on. I built our daily performance reporting with Claude Code and MCP connectors, and shipped it as a company-wide dashboard with Data Engineering and Security. It saves the team about 10 hours a month. I also built API tools that translate our CRM communications in Iterable into 24 languages, which lifted email open rates by 10%.
 
