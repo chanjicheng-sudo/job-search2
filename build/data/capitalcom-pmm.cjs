@@ -14,7 +14,7 @@ module.exports = {
 
   profile:
     "Fintech/digital asset marketer working across go-to-market, positioning and product adoption for trading, " +
-    "lending and earn products in 26 markets. I solve marketing problems with AI, and pull my own analysis " +
+    "lending and yield products in 26 markets. I solve marketing problems with AI, and pull my own analysis " +
     "in Claude Code and Cursor. I work directly with Product, Compliance and creative teams on regulated " +
     "messaging across UK, US and EU markets, and bring a data-science research background.",
 
@@ -29,7 +29,7 @@ module.exports = {
           bullets: [
             "Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading voice-of-customer research with active, inactive and churned traders and making the product and risk explainer persistent",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading its go-to-market across competitor review, positioning, brand and tone, and influencer, affiliate and referral partnerships, and establishing a compliance review process for the new market",
-            "Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand",
+            "Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand",
             "Cut UK acquisition cost by 21.5% while volume rose 30.2% by running 128 structured messaging tests across 26 countries and scaling 5 winning campaign groups",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR and building an 80-publisher contact list with AI",
             "Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets from 30+ creative briefs",

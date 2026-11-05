@@ -26,7 +26,7 @@ I also took our loans product to market in Malaysia. I took the initiative of le
 
 On clients, I spotted an opportunity during the MiCAR transition to win high net worth clients. I built a contact list of 80 crypto publishers with AI and ran the outreach. It brought in 3 major clients. For Institutional, I built a database of 100 operators that gave our business development team 20+ active leads. I work closely with our B2B product marketing team on Institutional and Wealth projects.
 
-On retail, I support go-to-market for our consumer products. When Blockchain.com rebranded its Earn product, all our creator videos still used the old name. Having the creators reshooting them was time and cost inefficient. I built an AI UGC workflow to recreate the assets under the new brand, and it cut production from 2 hours to 30 minutes per video. The rebrand went out with fresh creative from day one. The Earn focused AI UGC videos drove 600+ installs in the first week after the relaunch.
+On retail, I support go-to-market for our consumer products. When Blockchain.com rebranded its yield product, all our creator videos still used the old name. Having the creators reshooting them was time and cost inefficient. I built an AI UGC workflow to recreate the assets under the new brand, and it cut production from 2 hours to 30 minutes per video. The rebrand went out with fresh creative from day one. The yield product AI UGC videos drove 600+ installs in the first week after the relaunch.
 
 On customer communications, I localised our CRM communications into 24 languages with API tools. Email open rates went up 10%.
 

@@ -17,7 +17,7 @@ Growth marketer specialising in paid acquisition, conversion and the data and AI
 - Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 - Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization
 - Implemented built-in API in CRM tools to localise communications into 24 languages, increasing email open rate by 10%
-- Recreated the Earn product creative with AI UGC after the Earn rebrand, driving 600+ installs in the first week after relaunch
+- Recreated the yield product creative with AI UGC after the yield product rebrand, driving 600+ installs in the first week after relaunch
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

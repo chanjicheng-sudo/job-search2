@@ -10,9 +10,9 @@ Growth marketer specialising in consumer fintech apps, across app-store optimisa
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by running voice-of-customer research with active, inactive and churned users and introducing a product explainer
-- Drove 600+ installs in the first week of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand
+- Drove 600+ installs in the first week of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by running go-to-market across influencer, affiliate and referral channels
-- Refreshed App Store and Google Play listings across 20 storefronts and built 20+ Custom Product Pages across 12 markets, partnering with Front-End Engineering to relaunch the Personal and Earn product pages
+- Refreshed App Store and Google Play listings across 20 storefronts and built 20+ Custom Product Pages across 12 markets, partnering with Front-End Engineering to relaunch the Personal and yield product pages
 - Increased email open rate by 10% by automating localisation of CRM communications into 24 languages with built-in CRM APIs
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients and building an 80-publisher partner list with AI
 - Reduced UK CPI by 21.5% while installs increased 30.2% by running 128 structured experiments across 26 markets, scaling 5 winning campaign groups and cutting 26 underperformers

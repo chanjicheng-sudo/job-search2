@@ -25,7 +25,7 @@ On pipeline, I built a database of 100 operators that gave our Institutional bus
 
 On the funnel, I research why users leave before I try to fix it. On our perps platform, voice-of-customer research showed that many users churned because they did not understand the product. We added an explainer, and retention grew by 12%. Cumulative trading volume grew 5x in two months, from $100m to $500m. At Malaberg, I rebuilt our landing pages from funnel data and took daily conversions from 10 to 50+.
 
-On content and AI, I built the company's first in-house AI UGC workflow. It cut production from 2 hours to 30 minutes per video. Click-through rate rose from 0.4% to 1.15%, and paid social cost per install fell from $25 to $6. When we rebranded our Earn product, I used it to remake the creator videos under the new name. Those videos drove 600+ installs in the first week.
+On content and AI, I built the company's first in-house AI UGC workflow. It cut production from 2 hours to 30 minutes per video. Click-through rate rose from 0.4% to 1.15%, and paid social cost per install fell from $25 to $6. When we rebranded our yield product, I used it to remake the creator videos under the new name. Those videos drove 600+ installs in the first week.
 
 On measurement, I build the dashboard before the campaign. I automated our daily performance reporting with Claude Code and led its launch as a company-wide dashboard. It saves the team about 10 hours a month. I also localised our CRM communications into 24 languages, and email open rates went up 10%.
 

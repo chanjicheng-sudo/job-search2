@@ -10,7 +10,7 @@ for UK, US and AUS GTM teams. 2+ years. £55K–£70K.
 - Level matches: 2+ years asked.
 - Lifecycle and CRM: Iterable localisation into 24 languages, +10% open rate.
 - In-app communication that moved retention: perps explainer, +12%.
-- Launch comms: Earn relaunch, Malaysia GTM.
+- Launch comms: yield product relaunch, Malaysia GTM.
 - Building from scratch: AI content workflow, reporting automation.
 
 ## Gaps (interview prep)

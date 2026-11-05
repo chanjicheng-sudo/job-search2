@@ -13,7 +13,7 @@ Performance marketer specialising in paid social and paid app acquisition for fi
 - Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured experiments across 26 markets, reallocating ~$21k from 26 underperforming campaigns to 5 scalable campaign groups
 - Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading voice-of-customer research with churned users and making the product explainer persistent
-- Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand
+- Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading go-to-market across paid media, influencer, affiliate and referral channels
 - Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs
 - Saved the team ~10 hours a month by automating daily paid media reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security

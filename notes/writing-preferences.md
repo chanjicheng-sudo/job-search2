@@ -18,6 +18,12 @@ letters, form answers and messages. Rephrase so it still reads naturally ("new t
 assets", not "digital asset natives"). Keep "crypto" only for crypto-native companies
 that use the word themselves (for example Plasma, Kraken, Aave, BVNK, Noah).
 
+## Naming the Earn product (Nov 2026)
+
+Call Blockchain.com's "Earn" product **"yield product"** in every document ("the yield
+product relaunch", "rebranded our yield product"). "Earn" means nothing to an outside
+reader. The performance note keeps the internal name for reference.
+
 ## Her writing voice
 
 For application answers, cover letters, DMs — anything written as her speaking.

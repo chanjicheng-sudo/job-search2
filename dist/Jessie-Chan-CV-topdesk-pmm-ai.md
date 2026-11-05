@@ -15,7 +15,7 @@ Marketer who builds with AI, working across go-to-market, positioning and produc
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading its go-to-market across competitor review, positioning, brand and tone, and partner channels
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing on Institutional and Wealth projects
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR) and building an 80-publisher contact list with AI
-- Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand
+- Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand
 - Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs
 
 **Performance Marketer** — Feb 2025 – Apr 2026

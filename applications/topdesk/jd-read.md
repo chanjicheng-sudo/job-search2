@@ -11,7 +11,7 @@ reports to the Director of Product and Customer Marketing. From £66k.
   MCP connectors, bots, Claude Code and Cursor daily. Few PMM applicants can say this.
 - **Explaining technical products simply**: perps churn fixed by a clearer explainer.
 - **Partnering with Product early**: the perps research and in-app change.
-- **Launches**: Malaysia, Earn relaunch.
+- **Launches**: Malaysia, yield product relaunch.
 
 ## Gaps (interview prep, not stated in the application)
 

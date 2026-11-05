@@ -32,12 +32,12 @@ module.exports = {
           bullets: [
             "Increased email open rate by 10% by localising lifecycle communications in Iterable (CRM) into 24 languages with built-in APIs",
             "Increased user retention by 12% and grew perps (perpetual futures) trading volume from $100m to $500m (5x) in two months by leading customer research with active, inactive and churned users and making the in-app product explainer persistent",
-            "Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets under the new brand with AI video",
+            "Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets under the new brand with AI video",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading its go-to-market across competitor review, positioning, brand and tone, and partner channels, and establishing a compliance review process for the new market",
             "Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets",
             "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing",
-            "Relaunched the Personal and Earn product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, keeping product messaging consistent across UK, US and EU markets",
+            "Relaunched the Personal and yield product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, keeping product messaging consistent across UK, US and EU markets",
           ],
         },
         {

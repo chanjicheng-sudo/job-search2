@@ -11,12 +11,12 @@ Retail trading platform (CFDs). Regions named: UK, Cyprus, Australia, UAE.
   She uses Claude Code and Cursor daily. Amplitude not claimed.
 - **Multi-jurisdiction regulated messaging.** UK, US and EU review with Compliance, UK
   FinProm rollout, a new-market launch in Malaysia.
-- **Creative briefing.** 30+ briefs, 40 ads, 9 channels, 3 external partners, Earn rebrand.
+- **Creative briefing.** 30+ briefs, 40 ads, 9 channels, 3 external partners, yield product rebrand.
 
 ## Gaps (she asked to ignore; listed for interview prep only)
 
 - Senior title, 3+ years in product marketing. She has about 20 months post-graduation.
 - No CFD-specific experience. Australia and UAE rules not worked on.
 - No formal positioning document or messaging architecture on record. Be ready to walk
-  through how the Malaysia or Earn messaging was built.
+  through how the Malaysia or yield product messaging was built.
 - Sponsorship needed (Graduate visa ends November).

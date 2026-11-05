@@ -9,7 +9,7 @@ acquired organically. Also owns CRM, lifecycle, launches and website.
 - Consumer fintech app, hands-on, experimental: strong.
 - Lifecycle and retention (bonus point): perps churn research and +12% retention, CRM
   localisation +10% open rate.
-- Product launches: Earn relaunch 600+ installs, Malaysia loans.
+- Product launches: yield product relaunch 600+ installs, Malaysia loans.
 - Referral, affiliate and influencer channels: Malaysia.
 - ASO: 20 storefronts, 20+ Custom Product Pages. No result figure on record.
 - Experimentation: 128 structured tests.

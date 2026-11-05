@@ -31,7 +31,7 @@ On product marketing, I grew cumulative trading volume on our perpetual futures 
 
 I also took our loans product to market in Malaysia. I took the initiative of leading the project because I know the market well, and structured the go-to-market strategy across paid media, influencers, partnerships and referral. As Malaysia was a new market for us, I worked with the legal team to set the marketing tone and risk disclosures. The campaign closed 4 high net worth clients within 1 month of launch.
 
-On content, when Blockchain.com rebranded its Earn product, all our creator videos still used the old name. Reshooting them with creators would have been slow and expensive. I built an AI video workflow to recreate the assets under the new brand, and it cut production from 2 hours to 30 minutes per video. The Earn-focused videos drove 600+ installs in the first week after the relaunch.
+On content, when Blockchain.com rebranded its yield product, all our creator videos still used the old name. Reshooting them with creators would have been slow and expensive. I built an AI video workflow to recreate the assets under the new brand, and it cut production from 2 hours to 30 minutes per video. The yield product videos drove 600+ installs in the first week after the relaunch.
 
 On campaigns and data, I track and report my own numbers. I automated our daily paid media reporting with Claude Code and MCP connectors, which saves the team about 10 hours a month. I also localised our CRM communications into 24 languages, and email open rates went up 10%. Before Blockchain.com, I managed a £50k+ monthly paid budget at 120% ROAS.
 

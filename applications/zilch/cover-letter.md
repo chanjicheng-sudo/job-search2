@@ -21,7 +21,7 @@ I am applying for the Performance Marketing Manager role.
 
 I am a performance marketer at Blockchain.com, working across Retail, Wealth and Institutional. I run paid social, paid app and paid search across 26 markets, hands-on. I solve marketing problems with AI.
 
-On creative, we relied on real creators for our ads, and once their videos ran out we had nothing new to test. On TikTok an ad only lasts about two weeks. I proposed AI UGC instead and built the workflow end to end. It cut production time by 75%. Click-through rate went from 0.4% to 1.15%, and paid social cost per install dropped from $25 to $6. When we rebranded our Earn product, I used the same workflow to recreate our creator videos under the new name. They drove 600+ installs in the first 7 days.
+On creative, we relied on real creators for our ads, and once their videos ran out we had nothing new to test. On TikTok an ad only lasts about two weeks. I proposed AI UGC instead and built the workflow end to end. It cut production time by 75%. Click-through rate went from 0.4% to 1.15%, and paid social cost per install dropped from $25 to $6. When we rebranded our yield product, I used the same workflow to recreate our creator videos under the new name. They drove 600+ installs in the first 7 days.
 
 On paid app, I expanded our paid search from 2 to 26 markets with country-level bids and creative. Daily installs grew about 3x, from 187 to 562, while cost per install stayed flat at around $1.50. I ran 128 structured experiments to get there. I scaled the 5 campaign groups that worked and moved around $21k away from the 26 that did not. On UK campaigns that cut cost per install by 21.5% while installs rose 30.2%.
 

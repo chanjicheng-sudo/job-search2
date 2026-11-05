@@ -36,7 +36,7 @@ module.exports = {
             "Built an 80-publisher outreach list with AI after spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and ran the outreach, sourcing 3 major high net worth clients",
             "Built automated reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security, saving the team ~10 hours a month",
             "Built the company's first in-house AI UGC workflow, delivering 100+ video assets, increasing CTR from 0.4% to 1.15% (+188%) and reducing paid social CPI from $25 to $6 (−76%)",
-            "Recreated outdated creator assets with AI video after the Earn rebrand, driving 600+ installs in the first 7 days",
+            "Recreated outdated creator assets with AI video after the yield product rebrand, driving 600+ installs in the first 7 days",
             "Built API tools that localise Iterable (CRM) communications into 24 languages, increasing email open rate by 10%",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading go-to-market across KOL, affiliate and referral partnerships",

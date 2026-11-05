@@ -24,7 +24,7 @@ I used AI to win new clients. When new EU digital asset regulation came in, a ma
 
 I built AI tools the team runs on. I built our daily performance reporting with Claude Code and MCP connectors, and shipped it as a company-wide dashboard with Data Engineering and Security. It saves the team about 10 hours a month. I also built API tools that translate our CRM communications in Iterable into 24 languages, which lifted email open rates by 10%.
 
-I built our AI content engine from scratch. Our first in-house AI UGC workflow covers everything from prompt generation and avatar creation to the final video. It cut production time by 75% and paid social cost per install from $25 to $6. When we rebranded our Earn product, I used it to recreate our creator videos under the new name, and they drove 600+ installs in the first 7 days.
+I built our AI content engine from scratch. Our first in-house AI UGC workflow covers everything from prompt generation and avatar creation to the final video. It cut production time by 75% and paid social cost per install from $25 to $6. When we rebranded our yield product, I used it to recreate our creator videos under the new name, and they drove 600+ installs in the first 7 days.
 
 I want to join Odin because you are growing 2x a year almost entirely through word of mouth, and you want someone to build the growth engine with AI alongside a founder. About 70 leads a month already find you without one. A tool that every new fund manager bookmarks, like a fees and carry calculator, is exactly the kind of thing I like to build with AI. I would rather ship it in a week and see if it brings in leads than write a plan about it.
 
