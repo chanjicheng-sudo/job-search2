@@ -2,8 +2,8 @@
 // ("Shopify for VC and PE"). London, £60–70k plus equity.
 //
 // They want a builder who ships growth tools with AI and optimises for pipeline, not
-// output. Pipeline results lead, then partnerships and referrals, then things she built
-// with AI. MRes mark shown: they screen for "exceptionally sharp". Her rules: result-led,
+// output. AI-built work leads, at her request (they emphasise AI),
+// then pipeline, partnerships and referrals. MRes mark shown: they screen for "exceptionally sharp". Her rules: result-led,
 // change in brackets, no filler, no keyword counts, simple skills lines.
 //
 // Not claimed: events, private markets, consulting or banking. See
@@ -32,14 +32,14 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU crypto regulation (MiCAR), and building an 80-publisher outreach list with AI and running the outreach",
-            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
-            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading go-to-market across KOL, affiliate and referral partnerships",
+            "Sourced 3 major high net worth clients by using AI to build an 80-publisher outreach list after spotting that a major exchange was losing access to European clients under new EU crypto regulation (MiCAR), then running the outreach",
             "Saved the team ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Increased CTR from 0.4% to 1.15% (+188%) and reduced paid social CPI from $25 to $6 (−76%) by building the company's first in-house AI UGC workflow, delivering 100+ video assets",
-            "Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes",
             "Drove 600+ installs in the first 7 days of the Earn relaunch by recreating outdated creator assets with AI video after the rebrand",
-            "Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x)",
+            "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages",
+            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
+            "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading go-to-market across KOL, affiliate and referral partnerships",
+            "Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes",
           ],
         },
         {
