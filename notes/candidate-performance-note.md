@@ -202,7 +202,8 @@ synchronously. The next level is deploying agents and apps that run remotely and
 reliably without her. Do not claim autonomous or production agent deployment beyond the
 reporting tool and the fly.io bots until that changes.
 
-**Visa.** Her Graduate visa is ending around the end of the internship in November. Any
+**Visa (superseded Nov 2026: she is now on a dependant visa with the right to work in
+the UK, no sponsorship needed).** Her Graduate visa was ending around the end of the internship in November. Any
 UK role needs Skilled Worker sponsorship. As a switcher from the Graduate route she
 qualifies for the new entrant rate. This affects every application, not only US ones.
 

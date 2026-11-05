@@ -3,14 +3,12 @@
 Things that need a decision or a fact from Jessie. Ordered by how much they change the
 work. Nothing here is blocked on anything else.
 
-## 0. Visa sponsorship (added Oct 2026)
+## 0. ~~Visa sponsorship~~ Resolved (Nov 2026)
 
-Her Graduate visa ends around the end of the internship in November. **Every UK
-application now needs Skilled Worker sponsorship**, not only US ones. She qualifies for
-the new entrant rate as a Graduate-route switcher, which lowers the cost to the employer.
-Check each employer is a licensed sponsor before investing in an application. Also: what
-happened to the Jr AI Growth Engineer conversion case? It changes how every cover letter
-explains why she is moving.
+She is now on a **dependant visa** and has the right to work in the UK, so she does not
+need sponsorship. Any "check sponsorship" line in an `applications/*/jd-read.md` is out
+of date and can be ignored. Answer "yes" to right-to-work questions, and "no" to
+sponsorship questions, on that basis.
 
 ## 1. The funded-account or activation number
 

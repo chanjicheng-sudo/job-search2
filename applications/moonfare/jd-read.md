@@ -6,11 +6,9 @@ reporting to Naomi (Growth Lead). Owns CRM sends, segmented lifecycle journeys
 marketable audience, testing, the weekly funnel review, event invites, some LinkedIn and
 Google Ads. London, 4 days a week in the office. Apply via their careers site only.
 
-## Check first: right to work
+## Right to work
 
-"We can only accept applications from those eligible to live and work in the United
-Kingdom." Her Graduate visa ends in November, so she would need sponsorship. Ask the
-recruiter whether they sponsor before applying.
+Resolved: she is on a dependant visa with the right to work in the UK.
 
 ## Fit: good on skills
 
