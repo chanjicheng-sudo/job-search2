@@ -32,7 +32,7 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day",
+            "Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding paid search CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day",
             "Led international expansion of paid search, increasing markets from 2 to 26 (13x) and live campaigns from 9 to 121 (13x) with country-level bid and creative strategy",
             "Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns. ~$21k of test spend reallocated reducing CPI of GB campaigns by 21.5% while installs increased 30.2%",
             "Developed an AI-powered UGC production workflow, delivering 100+ video assets across TikTok and Google Ads, increasing CTR from 0.4% to 1.15% (+188%), reducing CPI from $25 to $6 (−76%), and cutting production time by 75%",
@@ -40,6 +40,9 @@ module.exports = {
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch, running go-to-market across paid media, affiliate and referral channels, and establishing a compliance review process for the new market",
             "Reviewed regulated customer-facing messaging across all retail products with Compliance and supported the UK FinProm approval process, covering UK, US and EU markets",
             "Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard",
+            "Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs",
+            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
+            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
           ],
         },
         {
@@ -50,6 +53,7 @@ module.exports = {
             "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
             "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increased funnel progression by 5%",
             "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
+            "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
           ],
         },
       ],

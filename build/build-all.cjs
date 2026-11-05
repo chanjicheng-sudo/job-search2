@@ -24,6 +24,19 @@ function has(cmd) {
   try { execFileSync("which", [cmd], { stdio: "ignore" }); return true; } catch { return false; }
 }
 
+// How far down page 1 the text reaches, as a % of page height (null if not measurable).
+// A full page with these margins ends around 90-95%. Below 85% reads as empty.
+function pageFill(docxPath, tmp) {
+  try {
+    const pdf = path.join(tmp, path.basename(docxPath).replace(/\.docx$/, ".pdf"));
+    const bbox = execFileSync("pdftotext", ["-bbox", "-f", "1", "-l", "1", pdf, "-"], { encoding: "utf8" });
+    const ys = [...bbox.matchAll(/yMax="([\d.]+)"/g)].map((m) => Number(m[1]));
+    const h = bbox.match(/<page width="[\d.]+" height="([\d.]+)"/);
+    if (!ys.length || !h) return null;
+    return Math.round((100 * Math.max(...ys)) / Number(h[1]));
+  } catch { return null; }
+}
+
 // Real page count via LibreOffice, or null if the tooling is not available.
 function pageCount(docxPath, tmp) {
   if (!has("soffice") || !has("pdfinfo")) return null;
@@ -54,7 +67,8 @@ const variants = fs.readdirSync(path.join(__dirname, "data"))
     let status;
     if (pages !== null) {
       rendered = true;
-      status = pages === 1 ? "1 page" : `${pages} PAGES - needs a cut`;
+      const fill = pages === 1 ? pageFill(`${base}.docx`, tmp) : null;
+      status = pages === 1 ? `1 page, ${fill}% full${fill !== null && fill < 85 ? " - TOO EMPTY" : ""}` : `${pages} PAGES - needs a cut`;
     } else {
       const { asWritten, filled } = estimateLines(cv);
       const note = asWritten === filled ? "" : ` (${asWritten} with [ADD:] notes in)`;

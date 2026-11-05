@@ -17,6 +17,9 @@ Growth marketer who runs AI systems and builds with them. I have manually done e
 - Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%
 - Played a key role in rolling out the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and app-store content across 20 storefronts in UK, US and EU markets
 - Developed an AI-powered UGC production workflow, delivering 100+ video assets and cutting production time by 75%
+- Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes
+- Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
+- Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

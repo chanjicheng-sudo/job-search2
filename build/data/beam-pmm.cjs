@@ -38,6 +38,8 @@ module.exports = {
             "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing",
             "Relaunched the Personal and yield product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, keeping product messaging consistent across UK, US and EU markets",
+            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
+            "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
           ],
         },
         {
@@ -48,6 +50,7 @@ module.exports = {
             "Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity",
             "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
             "Sustained 120% ROAS while managing £50k+ monthly paid budget",
+            "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
           ],
         },
       ],

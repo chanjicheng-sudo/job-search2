@@ -40,6 +40,8 @@ module.exports = {
             "Increased user retention by 12% and grew perps trading volume from $100m to $500m (5x) in two months by leading customer research with active, inactive and churned users and turning the findings into product changes",
             "Generated 20+ active leads for Institutional business development by building and curating a 100-operator prospect database",
             "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 countries and reallocating budget from 26 underperforming campaigns",
+            "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
+            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
           ],
         },
         {
@@ -50,6 +52,7 @@ module.exports = {
             "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
             "Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages, informed by funnel analysis in Power BI, Excel and Microsoft Clarity",
             "Sustained 120% ROAS while managing £50k+ monthly paid budget",
+            "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
           ],
         },
       ],

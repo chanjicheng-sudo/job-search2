@@ -17,6 +17,8 @@ Fintech/digital asset marketer working across go-to-market, positioning and prod
 - Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets from 30+ creative briefs
 - Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs
 - Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security
+- Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
+- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
@@ -24,6 +26,7 @@ Fintech/digital asset marketer working across go-to-market, positioning and prod
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity
 - Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels
 - Sustained 120% ROAS while managing £50k+ monthly paid budget
+- Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
 
 ## EDUCATION
 

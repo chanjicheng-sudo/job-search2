@@ -17,6 +17,10 @@ AI-first growth marketer across 26 markets in regulated fintech and digital asse
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading go-to-market across KOL, affiliate and referral partnerships
 - Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes
+- Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns
+- Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 paid search CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
+- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
+- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
@@ -24,6 +28,7 @@ AI-first growth marketer across 26 markets in regulated fintech and digital asse
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity
 - Sustained 120% ROAS while managing £50k+ monthly paid budget
 - Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
+- Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels
 
 ## EDUCATION
 

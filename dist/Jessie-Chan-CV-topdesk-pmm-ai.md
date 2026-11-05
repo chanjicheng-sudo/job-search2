@@ -17,6 +17,9 @@ Marketer who builds with AI, working across go-to-market, positioning and produc
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR) and building an 80-publisher contact list with AI
 - Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand
 - Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs
+- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
+- Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns
+- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
@@ -24,6 +27,7 @@ Marketer who builds with AI, working across go-to-market, positioning and produc
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by rebuilding landing and promotional pages, informed by funnel analysis in Power BI, Excel and Microsoft Clarity
 - Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
 - Sustained 120% ROAS while managing £50k+ monthly paid budget
+- Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels
 
 ## EDUCATION
 

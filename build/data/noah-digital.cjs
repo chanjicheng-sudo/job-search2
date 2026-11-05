@@ -43,6 +43,9 @@ module.exports = {
             "Reduced CPI on UK campaigns by 21.5% while installs increased 30.2%, and scaled the core US campaign to 3x daily users acquired through CPP and SKAG testing and optimization",
             "Implemented built-in API in CRM tools to localise communications into 24 languages, increasing email open rate by 10%",
             "Recreated the yield product creative with AI UGC after the yield product rebrand, driving 600+ installs in the first week after relaunch",
+            "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
+            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
+            "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
           ],
         },
         {
@@ -53,6 +56,7 @@ module.exports = {
             "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity, increased funnel progression by 5%",
             "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30 min to almost immediate output",
             "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
+            "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
           ],
         },
       ],

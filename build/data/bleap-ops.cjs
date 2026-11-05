@@ -37,6 +37,9 @@ module.exports = {
             "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets, finding 26 underperforming campaigns and reallocating ~$21k of budget",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCA, and building an outreach list of 80 crypto publishers with AI",
             "Reviewed regulated messaging across all retail products with Compliance in UK, US and EU markets, and supported the rollout of the UK FinProm approval process",
+            "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
+            "Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy",
+            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
           ],
         },
         {
@@ -47,6 +50,7 @@ module.exports = {
             "Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion",
             "Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by finding drop-off points through funnel analysis in Power BI, Excel and Microsoft Clarity and rebuilding the pages",
             "Sustained 120% ROAS while managing £50k+ monthly paid budget",
+            "Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels",
           ],
         },
       ],

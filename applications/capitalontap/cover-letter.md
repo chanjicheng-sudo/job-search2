@@ -26,7 +26,7 @@ On understanding the problem first, users were churning from our perps product. 
 
 On shipping fast, creator content was expensive and ran out quickly. I built our first in-house AI UGC workflow in 2 weeks. It cut production time by 75%, lifted click-through rate from 0.4% to 1.15%, and cut cost per install from $25 to $6. When we relaunched our yield product, the videos from this workflow drove 600+ installs in the first 7 days.
 
-I want to join Capital on Tap because this role is measured on how many people actually use the AI tools every week, not on how many tools get launched. That is how I judge my own work. My reporting tool only saves the team 10 hours a month because they use it instead of doing the work by hand. I would like to bring that to every team at Capital on Tap, and train each one to keep it running after I move on.
+I want to join Capital on Tap because at your size, with over 1,000 people, AI can save a huge amount of time across every team. I have seen what it does at a smaller scale. I built automated reporting that saves my team about 10 hours a month, API tools that localise our CRM communications into 24 languages, and an AI UGC workflow that cut production time by 75%. I am excited to join a company that is hiring for AI roles to improve how its teams operate, rather than just talking about AI.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
