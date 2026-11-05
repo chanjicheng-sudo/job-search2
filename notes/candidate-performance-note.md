@@ -59,6 +59,10 @@ risk, while UK users are more balanced, so content was tailored by region.
   a life span of about two weeks.
 - She proposed using AI UGC as ads instead, and built a repeatable end-to-end production
   workflow.
+- **Made it scalable and handed it over** (added Nov 2026, from her): the first version
+  depended on her writing prompts and checking output. She built a skill that generates
+  the prompts, perfected it, then handed the workflow to other team members to run and
+  scale. Strong evidence for "train teams and hand over" roles (e.g. Capital on Tap AI).
 - **How she spotted it** (added Nov 2026, from her): she saw competitors running AI UGC
   ads, and understood the downside of relying on creators.
 - **The Earn rebrand** (added Oct 2026, from her). Blockchain.com rebranded its Earn

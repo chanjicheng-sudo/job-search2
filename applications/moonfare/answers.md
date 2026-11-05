@@ -16,4 +16,4 @@ I built the workflow in 2 weeks, covering everything from prompt generation and 
 
 It cut production time by 75%, lifted click-through rate from 0.4% to 1.15%, and cut cost per install from $25 to $6. When we relaunched our yield product, the videos drove 600+ installs in the first 7 days.
 
-What I learned is that AI output can look right and still be wrong. The tool saves time, but someone still has to check every piece against the brand and the rules. I now build that check into anything I automate.
+What I learnt is that a project that cannot be replicated at scale is not a good project. The first version needed me to write the prompts and then check every output, which made it heavily reliant on me and very time consuming. I improved the workflow by building a skill that generates the prompts. Once the skill was working well, I handed the project over to other team members so they could scale it. No time or tokens wasted.
