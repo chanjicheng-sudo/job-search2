@@ -32,7 +32,7 @@ Performance marketer specialising in paid social and paid app acquisition for fi
 ## EDUCATION
 
 **MRes Experimental Psychology with Data Science, University of Manchester** — 2023 – 2024
-High Distinction. Experimental design, causal inference and statistical analysis in R.
+First Class Honours. Experimental design, causal inference and statistical analysis in R.
 
 **BSc (Hons) Psychology, University of Exeter** — 2020 – 2023
 

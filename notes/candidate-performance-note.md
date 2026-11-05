@@ -235,7 +235,8 @@ the research signal.
 ### Education
 
 - **MRes Experimental Psychology with Data Science**, University of Manchester, 2023–2024.
-  High Distinction. Led a research project on altruistic behaviour in emotion regulation,
+  **First Class Honours** (her wording, Nov 2026: always state it on every CV). Recorded
+  earlier as High Distinction. Led a research project on altruistic behaviour in emotion regulation,
   graded 86/100, the highest in the cohort.
 - **BSc (Hons) Psychology**, University of Exeter, 2020–2023. Social, cognitive and
   clinical psychology with advanced statistics. Independent dissertation.

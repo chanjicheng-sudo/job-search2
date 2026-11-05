@@ -55,6 +55,7 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   AI model providers", which she does not see as proof of skill. Fold the yield product
   relaunch result (600+ installs in 7 days) into the same bullet rather than a separate
   one.
+- **Always state the MRes as First Class Honours** on every CV (Nov 2026).
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

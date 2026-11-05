@@ -30,7 +30,7 @@ Crypto marketer working across business development, market expansion and growth
 ## EDUCATION
 
 **MRes Experimental Psychology with Data Science, University of Manchester** — 2023 – 2024
-High Distinction. Experimental design, causal inference and statistical analysis in R. Research project graded 86/100, highest in the cohort.
+First Class Honours. Experimental design, causal inference and statistical analysis in R. Research project graded 86/100, highest in the cohort.
 
 **BSc (Hons) Psychology, University of Exeter** — 2020 – 2023
 
