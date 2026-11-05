@@ -26,7 +26,7 @@ On getting customers to use more of the product, users were churning from our pe
 
 On data, I work in Excel and SQL every day. I also automated our daily performance reporting with Claude Code and led its launch as a company-wide dashboard, which saves the team about 10 hours a month.
 
-I want to join Capital on Tap because of how your Commercial team works. You expect the same person to find the problem, do the analysis and then make the answer happen, with regular time in front of the CCO and CEO. That is how I have done my best work so far. At Blockchain.com, the projects I am proudest of are the ones I spotted, analysed and delivered myself. I also noticed that you are hiring someone to bring AI into how your teams work, so I expect AI to be encouraged in everyday work. That suits me. I already use Claude Code to automate my reporting and analysis, and I would use it here to get from a question to a tested recommendation faster.
+I want to join Capital on Tap because you expect the same person to find the problem, do the analysis and solve it. My strength has always been problem solving. At Blockchain.com, I spotted competitors running AI-generated UGC ads and saw the downside of our own workflow, which relied on creators. I built our in-house AI UGC workflow in 2 weeks, and it cut production time by 75%. I also noticed that you are hiring someone to bring AI into how your teams work, so I expect AI to be encouraged in everyday work. That suits me. I already use Claude Code to automate my reporting and analysis, and I would use it here to get from a question to a tested recommendation faster.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 

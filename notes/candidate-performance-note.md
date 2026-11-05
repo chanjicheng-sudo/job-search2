@@ -56,6 +56,8 @@ for by the reporting recruiter. All other figures are self-reported.
   a life span of about two weeks.
 - She proposed using AI UGC as ads instead, and built a repeatable end-to-end production
   workflow.
+- **How she spotted it** (added Nov 2026, from her): she saw competitors running AI UGC
+  ads, and understood the downside of relying on creators.
 - **The Earn rebrand** (added Oct 2026, from her). Blockchain.com rebranded its Earn
   product, and the existing creator assets still carried the old name. She used the AI
   UGC workflow to recreate them under the new brand to support the rebrand's GTM. New
