@@ -5,7 +5,6 @@ claim is backed by the performance note. No gaps stated, no padding. The .html c
 for pasting into Google Docs.
 
 **Check before sending:**
-- The £1 billion savings milestone was announced by Capital on Tap in January 2026.
 - Ask the referees before sending.
 
 ---
@@ -27,7 +26,7 @@ On getting customers to use more of the product, users were churning from our pe
 
 On data, I work in Excel and SQL every day. I also automated our daily performance reporting with Claude Code and led its launch as a company-wide dashboard, which saves the team about 10 hours a month.
 
-I want to join Capital on Tap because you have grown from a business credit card into a full platform for small businesses, and your savings account reached £1 billion within its first year. Growth like that comes from finding the next product and the next channel, and proving each one with numbers. That is the work I enjoy most, and I would like to do it close to your senior team. I also noticed that you are hiring someone to bring AI into how your teams work, so I expect AI to be encouraged in day-to-day work here. That suits how I work. I already use Claude Code to automate my own reporting and analysis, and in this role I would use AI to get from a commercial question to a tested recommendation faster.
+I want to join Capital on Tap because of how your Commercial team works. You expect the same person to find the problem, do the analysis and then make the answer happen, with regular time in front of the CCO and CEO. That is how I have done my best work so far. At Blockchain.com, the projects I am proudest of are the ones I spotted, analysed and delivered myself. I also noticed that you are hiring someone to bring AI into how your teams work, so I expect AI to be encouraged in everyday work. That suits me. I already use Claude Code to automate my reporting and analysis, and I would use it here to get from a question to a tested recommendation faster.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
