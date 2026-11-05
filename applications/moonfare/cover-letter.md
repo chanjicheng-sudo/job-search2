@@ -24,7 +24,7 @@ On investors, I worked closely with our Wealth and Institutional teams. When new
 
 On journeys and testing, users were dropping off our perps product. I led research with active, inactive and churned users and found that many did not understand it. We made the explainer persistent and reworked the help page, and retention grew by 12%. I also ran 128 structured tests across 26 markets, and use AI in my own workflow. I automated our daily performance reporting with Claude Code, which saves the team about 10 hours a month.
 
-I want to join Moonfare because in this role every send matters. An investor only hears from you if the right message reaches them at the right time, in a way their market allows. I like work where the detail decides the result, and I check my own work before anyone else has to. I would like to bring that care to Moonfare's investors, and hand Investor Relations people who are ready to talk.
+I want to join Moonfare because you work across many regions, and that makes growth more challenging. Each country has its own compliance restrictions, and investors behave very differently from one market to the next. At Blockchain.com, we noticed that our users in Africa tend to take on more risk, while users in the UK are more balanced. That meant we had to create different content for each region, and I enjoyed that challenge. I like work where one size does not fit all, and I would like to bring that to Moonfare's investors.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 

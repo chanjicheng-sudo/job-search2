@@ -31,6 +31,9 @@ for by the reporting recruiter. All other figures are self-reported.
   contradiction.
 - 20+ Custom Product Pages developed and tested across 12 markets and 600+ keywords.
 
+**Regional behaviour** (added Nov 2026, from her): users in Africa tend to take on more
+risk, while UK users are more balanced, so content was tailored by region.
+
 ## 2. Marketing reporting and infrastructure
 
 - Designed and deployed automated Apple Search Ads reporting. Saved ~30 min/day of manual
