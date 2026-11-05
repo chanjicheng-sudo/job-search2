@@ -16,7 +16,6 @@ Crypto marketer working across business development, market expansion and growth
 - Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level strategy
 - Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security
 - Managed delivery of 50+ assets to 3 external acquisition partners across multiple markets, and increased CTR from 0.4% to 1.15% (+188%) by building the company's first in-house AI content workflow
-- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 - Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns
 

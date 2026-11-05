@@ -42,7 +42,6 @@ module.exports = {
             "Increased email open rate by 10% by automating localisation of CRM communications into 24 languages with built-in CRM APIs",
             "Eliminated 30 min/day of manual reporting by automating paid media reporting with Claude Code, Cursor and MCP connectors, and partnered with Data Engineering and Security to publish it as an internal dashboard",
             "Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 paid search CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy",
-            "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
             "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets",
           ],
         },

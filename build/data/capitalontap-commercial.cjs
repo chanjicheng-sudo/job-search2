@@ -42,8 +42,6 @@ module.exports = {
             "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
             "Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs",
-            "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
-            "Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external acquisition partners across multiple markets",
           ],
         },
         {

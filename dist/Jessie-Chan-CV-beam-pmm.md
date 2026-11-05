@@ -17,7 +17,6 @@ Lifecycle and product marketer for fintech apps across 26 markets, covering CRM,
 - Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing
 - Relaunched the Personal and yield product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, keeping product messaging consistent across UK, US and EU markets
-- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns
 
 **Performance Marketer** — Feb 2025 – Apr 2026

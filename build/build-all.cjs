@@ -25,7 +25,7 @@ function has(cmd) {
 }
 
 // How far down page 1 the text reaches, as a % of page height (null if not measurable).
-// A full page with these margins ends around 90-95%. Below 85% reads as empty.
+// A full page with these margins ends around 90-95%. Below 80% reads as empty.
 function pageFill(docxPath, tmp) {
   try {
     const pdf = path.join(tmp, path.basename(docxPath).replace(/\.docx$/, ".pdf"));
@@ -68,7 +68,7 @@ const variants = fs.readdirSync(path.join(__dirname, "data"))
     if (pages !== null) {
       rendered = true;
       const fill = pages === 1 ? pageFill(`${base}.docx`, tmp) : null;
-      status = pages === 1 ? `1 page, ${fill}% full${fill !== null && fill < 85 ? " - TOO EMPTY" : ""}` : `${pages} PAGES - needs a cut`;
+      status = pages === 1 ? `1 page, ${fill}% full${fill !== null && fill < 80 ? " - TOO EMPTY" : ""}` : `${pages} PAGES - needs a cut`;
     } else {
       const { asWritten, filled } = estimateLines(cv);
       const note = asWritten === filled ? "" : ` (${asWritten} with [ADD:] notes in)`;

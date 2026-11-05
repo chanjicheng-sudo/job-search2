@@ -19,7 +19,6 @@ Performance marketer specialising in paid social and paid app acquisition for fi
 - Saved the team ~10 hours a month by automating daily paid media reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security
 - Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
-- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

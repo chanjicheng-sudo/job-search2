@@ -19,7 +19,6 @@ Problem solver in regulated fintech and crypto, working across 26 markets with P
 - Reviewed regulated messaging across all retail products with Compliance in UK, US and EU markets, and supported the rollout of the UK FinProm approval process
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
 - Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
-- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

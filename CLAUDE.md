@@ -15,7 +15,7 @@ attach the PDF as well when she asks for one. Never send a PDF in place of the H
 
 ## Page fullness
 
-`node build/build-all.cjs` reports how full each page is and flags anything under 85% as
-"TOO EMPTY". **Never hand over a CV that is TOO EMPTY.** When bullets are cut or merged,
-add back relevant evidence from the performance note until the page is about 88–92% full
-and still one page.
+`node build/build-all.cjs` reports how full each page is and flags anything under 80% as
+"TOO EMPTY". **Never hand over a CV that is TOO EMPTY.** Around 80% is fine. Do not stuff
+the page with weak or irrelevant bullets to fill it. When a CV drops below 80%, add back
+only evidence that is relevant to that job ad.

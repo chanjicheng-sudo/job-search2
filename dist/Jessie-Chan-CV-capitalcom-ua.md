@@ -19,7 +19,6 @@ Performance marketer specialising in paid acquisition for regulated fintech and 
 - Automated daily paid media channels reporting with Claude Code, Cursor and MCP connectors, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 - Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
-- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

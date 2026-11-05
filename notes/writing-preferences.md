@@ -56,6 +56,11 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   relaunch result (600+ installs in 7 days) into the same bullet rather than a separate
   one.
 - **Always state the MRes as First Class Honours** on every CV (Nov 2026).
+- **Only include when the job ad asks for it (Nov 2026):** the creative briefs bullet
+  ("30+ creative briefs and 40 ads…") only when the ad mentions creative briefing or
+  working with creative teams. The UK FinProm bullet only when the ad mentions compliance,
+  regulation or financial promotions. Both are weak otherwise.
+- **About 80% page fill is fine.** Do not pad a CV or cover letter to fill space.
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

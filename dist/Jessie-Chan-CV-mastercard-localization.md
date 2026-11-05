@@ -18,7 +18,6 @@ Data-driven marketer working across 26 markets in regulated fintech, with a data
 - Generated 20+ active leads for Institutional business development by building and curating a 100-operator prospect database
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 countries and reallocating budget from 26 underperforming campaigns
 - Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
-- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*

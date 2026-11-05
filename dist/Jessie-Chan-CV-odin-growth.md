@@ -19,8 +19,6 @@ AI-first growth marketer across 26 markets in regulated fintech and digital asse
 - Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns
 - Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 paid search CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
-- Delivered 30+ creative briefs and 40 ads across 9 channels, and directed 50+ assets to 3 external partners across multiple markets
-- Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
