@@ -24,6 +24,46 @@ Call Blockchain.com's "Earn" product **"yield product"** in every document ("the
 product relaunch", "rebranded our yield product"). "Earn" means nothing to an outside
 reader. The performance note keeps the internal name for reference.
 
+## Her propositions and language — reuse these (Nov 2026)
+
+She shaped these through many rounds of edits. Start from them next time instead of
+writing new versions.
+
+**"Why this company" paragraphs**
+- Written from **her point of view**: the kind of work, challenge or culture that attracts
+  her. Never a list of company facts (funding, milestones, user numbers), which she
+  rejects as "facts dropping by an AI".
+- The first sentence names the specific challenge or way of working in plain words, e.g.
+  "you expect the same person to find the problem, do the analysis and solve it" or "you
+  work across many regions, and that makes growth more challenging".
+- Then one example from her own work, then what she would bring.
+
+**Lines she wrote or approved**
+- "I solve marketing problems with AI." / "My strength has always been problem solving."
+- Multi-market: "Each country has its own compliance restrictions, and investors behave
+  very differently from one market to the next. At Blockchain.com, we noticed that our
+  users in Africa tend to take on more risk, while users in the UK are more balanced …
+  I like work where one size does not fit all."
+- Marketing to sales: "I like that marketing generates the leads for [BD / Investor
+  Relations]. One-to-one outreach is hard to make efficient, while marketing can reach a
+  wide audience and pass on the people who are ready."
+- AI culture: "I noticed that you are hiring someone to bring AI into how your teams
+  work, so I expect AI to be encouraged in everyday work. That suits me."
+- Crypto in the real world: "you bridge crypto with the real world. I think DeFi is a
+  cool concept, but if you cannot spend your money, it is not practical."
+- Multinational: "one global network, but payment systems that have to be tailored to
+  local regulations in every market."
+
+**The AI UGC story, her version**
+- Origin: ads relied on real creators, expensive, ran out fast, TikTok ads last about two
+  weeks. She spotted competitors running AI-generated UGC ads and saw the downside of
+  relying on creators, so she proposed building their own.
+- Built in 2 weeks (never "evaluated 6 providers").
+- Lesson: "a project that cannot be replicated at scale is not a good project." The first
+  version depended on her writing prompts and checking output, so she built a skill that
+  generates the prompts and handed the workflow to other team members to scale. "No time
+  or tokens wasted."
+
 ## Her writing voice
 
 For application answers, cover letters, DMs — anything written as her speaking.
