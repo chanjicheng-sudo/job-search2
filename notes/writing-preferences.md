@@ -170,6 +170,9 @@ This took five attempts. The rules that came out of it:
 
 ### Cover letters
 
+- **End each case paragraph with one line linking it back to the role** (Nov 2026).
+  Numbers alone read as "numbers dropping"; say what the result means for the job.
+
 - **Straightforward language only.** No compressed constructions like "MiCAR cost a major
   exchange its European clients". Say what happened in order: what changed, who it
   affected, what she did. She rejected the compressed version as impossible to follow.
