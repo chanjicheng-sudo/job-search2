@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Fintech marketer working across campaigns, copy, creative and partners in 26 markets. I solve marketing problems with AI and use it every day for drafting, research and automation, while checking everything it produces. I write briefs and copy, coordinate launches with partners and internal teams, and design in Figma and Photoshop. I bring a data-science research background.
+B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I solve marketing problems with AI and use it every day for drafting, research and automation, while checking everything it produces. I write briefs and copy, coordinate launches with partners and internal teams, and design in Figma and Photoshop. I bring a data-science research background.
 
 ## EXPERIENCE
 
@@ -36,10 +36,10 @@ First Class Honours. Experimental design, causal inference and statistical analy
 
 ## SKILLS
 
-**Campaigns & content:** Campaign coordination, product launches, copywriting (email, landing pages, app store), creative briefs for design and video, partner and KOL management
+**Marketing:** Campaign coordination and project management, product launches, copywriting (email, landing pages, notifications, app store), creative briefs for designers and videographers, partner and stakeholder management
 
-**Design:** Figma, Photoshop, AI video and UGC tools (Runway, Gemini, ElevenLabs)
+**Channels:** CRM and email marketing (Iterable), paid social (TikTok, Meta, LinkedIn), Google Ads, B2C fintech
 
-**AI & CRM:** Claude Code, Cursor, AI for drafting, research and automation, Iterable (CRM)
+**Design & AI tools:** Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation
 
 **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)

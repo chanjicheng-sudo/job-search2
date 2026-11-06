@@ -101,6 +101,10 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   working with creative teams. The UK FinProm bullet only when the ad mentions compliance,
   regulation or financial promotions. Both are weak otherwise.
 - **About 80% page fill is fine.** Do not pad a CV or cover letter to fill space.
+- **ATS check on every new CV (Nov 2026):** before handing a CV over, go through the job
+  ad line by line and make sure its exact phrases appear in the Skills lines or bullets
+  wherever her record supports them (e.g. "project management", "stakeholder
+  management", "email marketing", "B2C"). Never add a term she cannot back up.
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

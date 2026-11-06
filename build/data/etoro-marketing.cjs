@@ -18,7 +18,7 @@ module.exports = {
   contact,
 
   profile:
-    "Fintech marketer working across campaigns, copy, creative and partners in 26 markets. I solve " +
+    "B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I solve " +
     "marketing problems with AI and use it every day for drafting, research and automation, while " +
     "checking everything it produces. I write briefs and copy, coordinate launches with partners and " +
     "internal teams, and design in Figma and Photoshop. I bring a data-science research background.",
@@ -60,9 +60,9 @@ module.exports = {
     {
       heading: "SKILLS",
       skills: [
-        { label: "Campaigns & content", text: "Campaign coordination, product launches, copywriting (email, landing pages, app store), creative briefs for design and video, partner and KOL management" },
-        { label: "Design", text: "Figma, Photoshop, AI video and UGC tools (Runway, Gemini, ElevenLabs)" },
-        { label: "AI & CRM", text: "Claude Code, Cursor, AI for drafting, research and automation, Iterable (CRM)" },
+        { label: "Marketing", text: "Campaign coordination and project management, product launches, copywriting (email, landing pages, notifications, app store), creative briefs for designers and videographers, partner and stakeholder management" },
+        { label: "Channels", text: "CRM and email marketing (Iterable), paid social (TikTok, Meta, LinkedIn), Google Ads, B2C fintech" },
+        { label: "Design & AI tools", text: "Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
       ],
     },
