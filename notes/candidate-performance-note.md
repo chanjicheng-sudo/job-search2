@@ -17,6 +17,11 @@ for by the reporting recruiter. All other figures are self-reported.
 | Metric | Before | After |
 |---|---|---|
 | Daily installs | 187 | 562 (~3x) |
+
+> **Update, Nov 2026 (from her):** daily installs now 200+ to 800+ (~4x). The business
+> case and recruiter-vouched figure is 187 to 562 (~3x), from an earlier point. Check CPI
+> was still flat at the later figure.
+
 | Countries | 2 | 26 |
 | Active campaigns | 9 | 121 |
 | Keyword coverage | 47 | 2,597 |
