@@ -30,6 +30,8 @@ for by the reporting recruiter. All other figures are self-reported.
   figure is the flat ~$1.50 CPI above. Keep the two scoped separately or they read as a
   contradiction.
 - 20+ Custom Product Pages developed and tested across 12 markets and 600+ keywords.
+- She describes the app store work as organic search optimisation (ASO), alongside paid
+  Apple Search Ads (Nov 2026).
 
 **Regional behaviour** (added Nov 2026, from her): users in Africa tend to take on more
 risk, while UK users are more balanced, so content was tailored by region.

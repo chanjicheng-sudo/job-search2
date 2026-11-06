@@ -39,6 +39,14 @@ writing new versions.
 - Then one example from her own work, then what she would bring.
 
 **Lines she wrote or approved**
+- Hands-on roles: "a role where you have to get your hands dirty: writing the briefs,
+  setting up the campaigns and tracking the results. I think you only really know why
+  something is working, or why it is not, when you are involved in the whole process … it
+  lets me make sure every piece of material is at the quality I want." Never call a role
+  "generalist" in her letters.
+- Strongest paid evidence for marketing letters: Apple Search Ads (2 to 26 countries, ~3x
+  installs at flat CPI, 128 tests) plus ASO (20 storefronts, 20+ Custom Product Pages).
+  Prefer this over the creative-briefs and partners paragraph, which she finds weak.
 - "I use AI to solve marketing problems, whether improving current workflows or opening
   new acquisition funnels." (her preferred profile line, Nov 2026) / "My strength has
   always been problem solving."
