@@ -81,7 +81,8 @@ For application answers, cover letters, DMs — anything written as her speaking
 - Short flat declarative sentences.
 - **No contractions.** "could not", "is not", "do not".
 - Plain vocabulary.
-- No em dashes. No semicolons.
+- No em dashes. No semicolons. **No colons** in letters or answers: use commas instead
+  (Nov 2026).
 - No triadic lists with a punchline. No rhetorical reversals.
 - She rejected a draft as "too polished". Err on the side of plain.
 
