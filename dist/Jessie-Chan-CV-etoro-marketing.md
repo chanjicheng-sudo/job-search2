@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I use AI to solve marketing problems, whether improving current workflows or opening new acquisition funnels. I write briefs and copy, coordinate launches with partners and internal teams, and design in Figma and Photoshop. I bring a data-science research background.
+B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I use AI to solve marketing problems, whether improving current workflows or opening new acquisition funnels. I write briefs and copy, coordinate launches with partners and internal teams, and design in Canva, Figma and Photoshop. I bring a data-science research background.
 
 ## EXPERIENCE
 
@@ -25,6 +25,7 @@ B2C fintech marketer working across campaigns, copy, creative and partners in 26
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by redesigning landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI and Microsoft Clarity
 - Led weekly content reviews with Compliance to clear consumer-finance copy across all channels
 - Sustained 120% ROAS while managing £50k+ monthly paid budget
+- Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
 
 ## EDUCATION
 
