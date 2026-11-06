@@ -40,6 +40,6 @@ First Class Honours. Experimental design, causal inference and statistical analy
 
 **Channels:** CRM and email marketing (Iterable), paid social (TikTok, Meta, LinkedIn), Google Ads, B2C fintech
 
-**Design & AI tools:** Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation
+**Design & AI tools:** Canva, Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation
 
 **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)

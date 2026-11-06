@@ -261,6 +261,7 @@ the research signal.
 - **Measurement:** ad-account, conversion-tracking and campaign-structure setup. Apple
   Search Ads attribution. Funnel and cohort analysis. Experimental test design. Survey
   design and segmentation. Power BI, Excel, Microsoft Clarity, Streamlit, R, Python, SQL.
+- **Canva** (added Nov 2026, from her).
 - **Creative:** briefing and direction, AI UGC production (avatar, voice, motion, video),
   agency and partner management, Figma, Photoshop.
 - **Languages:** English, Mandarin, Cantonese (native), Malay (fluent). Korean and French

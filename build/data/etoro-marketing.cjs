@@ -62,7 +62,7 @@ module.exports = {
       skills: [
         { label: "Marketing", text: "Campaign coordination and project management, product launches, copywriting (email, landing pages, notifications, app store), creative briefs for designers and videographers, partner and stakeholder management" },
         { label: "Channels", text: "CRM and email marketing (Iterable), paid social (TikTok, Meta, LinkedIn), Google Ads, B2C fintech" },
-        { label: "Design & AI tools", text: "Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation" },
+        { label: "Design & AI tools", text: "Canva, Figma, Photoshop, AI tools for drafting, ideation, research and editing (Claude, Gemini), AI video (Runway, ElevenLabs), Claude Code automation" },
         { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
       ],
     },
