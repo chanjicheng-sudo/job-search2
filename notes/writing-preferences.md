@@ -39,7 +39,9 @@ writing new versions.
 - Then one example from her own work, then what she would bring.
 
 **Lines she wrote or approved**
-- "I solve marketing problems with AI." / "My strength has always been problem solving."
+- "I use AI to solve marketing problems, whether improving current workflows or opening
+  new acquisition funnels." (her preferred profile line, Nov 2026) / "My strength has
+  always been problem solving."
 - Multi-market: "Each country has its own compliance restrictions, and investors behave
   very differently from one market to the next. At Blockchain.com, we noticed that our
   users in Africa tend to take on more risk, while users in the UK are more balanced …

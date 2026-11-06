@@ -18,9 +18,8 @@ module.exports = {
   contact,
 
   profile:
-    "B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I solve " +
-    "marketing problems with AI and use it every day for drafting, research and automation, while " +
-    "checking everything it produces. I write briefs and copy, coordinate launches with partners and " +
+    "B2C fintech marketer working across campaigns, copy, creative and partners in 26 markets. I use AI " +
+    "to solve marketing problems, whether improving current workflows or opening new acquisition funnels. I write briefs and copy, coordinate launches with partners and " +
     "internal teams, and design in Figma and Photoshop. I bring a data-science research background.",
 
   sections: [
