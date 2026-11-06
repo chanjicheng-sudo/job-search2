@@ -68,7 +68,9 @@ writing new versions.
 - Origin: ads relied on real creators, expensive, ran out fast, TikTok ads last about two
   weeks. She spotted competitors running AI-generated UGC ads and saw the downside of
   relying on creators, so she proposed building their own.
-- Built in 2 weeks (never "evaluated 6 providers").
+- Built in 2 weeks (never "evaluated 6 providers"). Always carry the full results when the
+  bullet is used: production −75%, CTR 0.4% to 1.15% (+188%), CPI $25 to $6 (−76%), 600+
+  installs in 7 days of the yield product relaunch. Never cut it to production time only.
 - Lesson: "a project that cannot be replicated at scale is not a good project." The first
   version depended on her writing prompts and checking output, so she built a skill that
   generates the prompts and handed the workflow to other team members to scale. "No time

@@ -38,7 +38,7 @@ module.exports = {
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages",
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning feedback from active, inactive and churned users into product changes with Product",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing",
-            "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, then built a prompt-generation skill and handed the workflow over to the team to run",
+            "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days of the yield product relaunch, then built a prompt-generation skill and handed it over to the team",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
             "Cut UK CPI by 21.5% while installs rose 30.2% by analysing 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
             "Managed delivery with 3 external acquisition partners across multiple markets, supplying 50+ assets to agreed timelines",
