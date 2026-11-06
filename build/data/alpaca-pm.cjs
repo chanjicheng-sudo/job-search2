@@ -40,6 +40,7 @@ module.exports = {
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, then built a prompt-generation skill and handed the workflow over to the team to run",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
+            "Cut UK CPI by 21.5% while installs rose 30.2% by analysing 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
             "Managed delivery with 3 external acquisition partners across multiple markets, supplying 50+ assets to agreed timelines",
             "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging and disclosures across all retail crypto products in UK, US and EU markets",
           ],
