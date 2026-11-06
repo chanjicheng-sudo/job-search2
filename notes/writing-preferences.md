@@ -105,6 +105,8 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   ad line by line and make sure its exact phrases appear in the Skills lines or bullets
   wherever her record supports them (e.g. "project management", "stakeholder
   management", "email marketing", "B2C"). Never add a term she cannot back up.
+- **Drop bullets with no result** unless they are the only evidence for a key requirement
+  of that job (Nov 2026). The product pages / app-store bullet is the usual example.
 - **No keyword counts** (47 to 2,597 keywords, 600+ keywords). Activity, not a result.
   She has rejected them. Use the outcome the work produced instead.
 - **Her bullet format wins.** When she supplies bullets, use them verbatim, and write any

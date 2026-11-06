@@ -18,7 +18,6 @@ B2C fintech marketer working across campaigns, copy, creative and partners in 26
 - Saved the team ~10 hours a month by automating daily performance reporting with Claude Code, shipped as a company-wide dashboard with Data Engineering and Security
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and running an outreach campaign to 80 publishers built with AI
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and moving budget to the 5 campaign groups that worked
-- Relaunched the Personal and yield product pages with Front-End Engineering and refreshed app-store copy across 20 storefronts, with all regulated messaging cleared by Compliance
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
