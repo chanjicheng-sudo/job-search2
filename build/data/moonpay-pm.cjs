@@ -39,7 +39,7 @@ module.exports = {
             "Saved the team ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security",
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages",
             "Cut UK CPI by 21.5% while installs rose 30.2% by using data from 128 structured tests across 26 markets to prioritise 5 scalable campaign groups and cut 26 underperformers",
-            "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days of the yield product relaunch, then built a prompt-generation skill and handed it over to the team",
+            "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
             "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail crypto products in UK, US and EU markets",
           ],
