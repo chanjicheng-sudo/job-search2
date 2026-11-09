@@ -11,9 +11,10 @@ LinkedIn does not render markdown, so the role highlights use a pasted bullet ch
 ## Headline (220 character limit, pick one)
 
 Nov 2026, with numbers at her request (multipliers and percentages). No perps volume and
-no "26 markets" (she finds them irrelevant and hard to follow). Use "US, UK & EU".
+no "26 markets" (she finds them irrelevant and hard to follow). Use "US, UK & EU". No "MRes Data Science" in the headline
+(she does not find it attractive there).
 
-1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | 4x daily installs at flat CPI | US, UK & EU | MRes Data Science` (151)
+1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | 4x daily installs at flat CPI | Cut CPI 76% with AI UGC | US, UK & EU` (157)
 2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Built AI UGC that cut CPI 76% | 4x installs across US, UK & EU | English, Mandarin, Malay` (165)
 3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, −76% CPI, +12% retention | US, UK & EU` (134)
 
