@@ -26,8 +26,7 @@ recommendation, impact.
 
 - **2+ years full time.** About 1 year 9 months (Malaberg Feb 2025 to Apr 2026, plus
   Blockchain.com from May 2026). Close. Do not stretch dates.
-- **2:1 or above.** The MRes is First Class, which meets it. Her BSc class is not on
-  record. Add it only if 2:1 or above.
+- **2:1 or above.** Met: MRes First Class, BSc 2:1 (both shown on the CV).
 - **Case interviews.** McKinsey runs a problem-solving game or online test, then case
   interviews and Personal Experience Interviews (PEI): leadership, personal impact,
   entrepreneurial drive, inclusive leadership. Prepare one story per theme (Malaysia for

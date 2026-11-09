@@ -257,6 +257,8 @@ the research signal.
   graded 86/100, the highest in the cohort.
 - **BSc (Hons) Psychology**, University of Exeter, 2020–2023. Social, cognitive and
   clinical psychology with advanced statistics. Independent dissertation.
+- **BSc (Hons) Psychology, University of Exeter: 2:1** (added Nov 2026, from her). Shown on
+  the McKinsey CV, where grades are screened.
 - Sunway College, Kuala Lumpur, A levels in 15 months (Psychology A*, Chemistry A*,
   Maths A). Cut from all CV versions — a distinction-grade MRes makes A levels cost three
   lines for nothing.

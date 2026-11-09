@@ -4,10 +4,18 @@
 // Hypothesis-led research and growth results lead, then marketing ROI, market entry,
 // spotting a market shift, AI, analytics automation, lifecycle, B2B sales support.
 //
-// Not claimed: consulting experience, 2+ years full time, BSc class (not on record).
+// Not claimed: consulting experience, 2+ years full time. BSc 2:1 confirmed Nov 2026.
 // See applications/mckinsey/jd-read.md.
 
 const { contact, educationWithMark } = require("./common.cjs");
+
+// BSc class shown for McKinsey (they screen on 2:1 or above).
+const education = {
+  ...educationWithMark,
+  entries: educationWithMark.entries.map((e) =>
+    e.title.startsWith("BSc") ? { ...e, title: "BSc (Hons) Psychology (2:1), University of Exeter" } : e
+  ),
+};
 
 module.exports = {
   slug: "mckinsey-gms",
@@ -52,7 +60,7 @@ module.exports = {
         },
       ],
     },
-    educationWithMark,
+    education,
     {
       heading: "SKILLS",
       skills: [
