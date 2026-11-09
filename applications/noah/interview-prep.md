@@ -126,6 +126,48 @@ Do not apologise. Name the nearest thing you have done, then how you would learn
 
 ---
 
+## 7. Noah vs its competitors
+
+All of these use stablecoins to move money across borders for businesses. They differ in
+**who owns them, who they sell to, and what they lead with.**
+
+| | Owner | Sells to | Leads with | Scale signal |
+|---|---|---|---|---|
+| **Noah** | Independent startup (Adyen founding-team DNA) | Fintechs, marketplaces, payroll, remittance firms | Payouts on local rails in 150+ countries, incl. bank, wallets, mobile money and cash, with a rules engine | 538% revenue growth in 2026, 150+ new customers |
+| **Bridge** | Stripe (bought for $1.1bn, Oct 2024) | Developers and platforms, many already on Stripe | Stablecoin accounts (~100 countries), issuing your own stablecoin, Visa stablecoin cards | Zepz/Sendwave, Phantom, Chipper Cash |
+| **BVNK** | Reported Mastercard acquisition, ~$1.8bn (Mar 2026, unconfirmed) | Large payment companies and enterprises | Stablecoin wallets and settlement inside existing payment flows, Visa Direct pilot | $30bn+ a year, Deel, Rapyd, Corpay, LemFi |
+| **Ripple (+ Rail)** | Ripple, bought Rail for $200m (2025) | Banks and large financial institutions | Its own stablecoin (RLUSD) and token (XRP), treasury | Rail claimed 10%+ of B2B stablecoin payments |
+| **Conduit** | Independent, $36m Series A (2025) | Importers and exporters, B2B trade | Cross-border B2B payments in Latin America, Africa and Asia | $10bn+ a year, fewer countries |
+
+**How Noah is different, in plain words**
+
+1. **It is independent.** Bridge belongs to Stripe, BVNK reportedly to Mastercard, and
+   Ripple has its own coin to push. Noah is not tied to a card network, a payments giant
+   or a token. A platform that does not want to depend on Stripe or Mastercard has a
+   reason to pick Noah.
+2. **It is built around the last mile.** Competitors lead with accounts, wallets or
+   issuing a stablecoin. Noah leads with getting money out in local currency, including
+   mobile money and cash, which matters most in emerging markets (see the NALA deal).
+3. **It sells to fast-moving mid-size businesses.** Ripple targets banks and BVNK targets
+   large payment companies. Noah's 150+ new customers this year are fintechs, payroll
+   and marketplace companies that want one API and to go live quickly.
+4. **Its weakness is awareness.** It is the smallest name in this table. That is the
+   problem this role exists to fix.
+
+**What to say if they ask how you would position Noah**
+
+> The two biggest names now belong to Stripe and Mastercard, and Ripple has its own coin
+> to promote. I think Noah can own being the independent option, with the widest payout
+> coverage. I would build comparison pages for searches like "Bridge alternatives", and
+> make sure Noah comes up when someone asks an AI tool which stablecoin payout API to use.
+
+**Careful**
+- BVNK: you applied there. Do not mention it. The Mastercard deal is reported by trackers,
+  not confirmed in a primary source here, so say "reportedly" if it comes up.
+- Ask them who they lose deals to most. Their answer beats this table.
+
+---
+
 ## Sources
 
 - [Tech.eu, Noah closes $38M seed (Oct 2026)](https://tech.eu/2026/10/07/uk-stablecoin-infrastructure-startup-noah-closes-38m-seed-round/)
@@ -135,3 +177,14 @@ Do not apologise. Name the nearest thing you have done, then how you would learn
 - [Fortune, founders](https://dc.fortune.com/crypto/2025/06/10/noah-thijn-lamers-stablecoin-startup-shah-ramezani/)
 - [The Paypers, Noah and NALA](https://thepaypers.com/crypto-web3-and-cbdc/news/noah-and-nala-launch-instant-stablecoin-settlement-network)
 - [IBS Intelligence, Noah and Gnosis](https://ibsintelligence.com/ibsi-news/noah-and-gnosis-partner-to-unlock-global-stablecoin-payments/)
+- [Stablecoin Insider, Bridge review 2026](https://stablecoininsider.org/bridge-stripe-stablecoin-review-2026-the-stablecoin-infrastructure-platform-powering-the-next-generation-of-digital-finance/)
+- [Northeast Times, Stripe stablecoin cards in 100+ countries](https://northeasttimes.com/2026/10/05/stripe-plans-stablecoin-card-rollout-in-more-than-100-countries/)
+- [Private Law wiki, Bridge](https://wiki.private.law/en/bridge-stripe)
+- [Multiples.vc, BVNK](https://multiples.vc/private-comps/bvnk)
+- [Financial IT, BVNK and Visa Direct](https://financialit.net/node/68995)
+- [Finextra, BVNK $50M](https://www.finextra.com/newsarticle/45234/stablecoins-are-hot-bvnk-scores-50-million-to-expand-across-the-us)
+- [The Defiant, Ripple acquires Rail](https://thedefiant.io/news/infrastructure/ripple-acquires-stablecoin-platform-rail-for-usd200m)
+- [CryptoSlate, Ripple and Rail](https://cryptoslate.com/?p=492956)
+- [The Block, Conduit Series A](https://www.theblock.co/post/356048/dragonfly-co-leads-36-million-series-a-in-cross-border-payment-startup-conduit)
+- [Noah, Global Payouts](https://noah.com/products/global-payout)
+- [Noah, Payin powered by USDC](https://noah.com/support/noah-payin-powered-by-usdc)
