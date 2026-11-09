@@ -200,7 +200,8 @@ multipliers and percentages (4x installs, 5x volume, −76% CPI, +12% retention)
 three at most. Name regions ("US, UK & EU") instead of "26 markets", and leave out
 the 5x perps volume and "MRes Data Science". Build it around volume growth (4x
 installs, 600+ installs in 7 days, 5x conversions), not CPI cuts, which she thinks sound
-unrealistic in a headline. She finds both irrelevant and hard to follow. The rest of LinkedIn
+unrealistic in a headline. One volume number in the headline (4x daily installs).
+Detailed results such as 600+ installs in 7 days go in the description, not the headline. She finds both irrelevant and hard to follow. The rest of LinkedIn
 follows the rule below.
 
 **Scope numbers only. No outcome numbers.** Scope figures (26 markets, 9 channels, 20

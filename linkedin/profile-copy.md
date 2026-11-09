@@ -14,8 +14,10 @@ Nov 2026, with numbers at her request (multipliers and percentages). No perps vo
 no "26 markets" (she finds them irrelevant and hard to follow). Use "US, UK & EU". No "MRes Data Science" in the headline
 (she does not find it attractive there). Built around volume growth, not CPI (she finds
 "cut CPI 76%" unrealistic-sounding). 5x conversions is from Malaberg.
+Detailed results (600+ installs in 7 days from AI UGC) go in the description, not the
+headline.
 
-1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | Grew daily installs 4x | AI UGC drove 600+ installs in 7 days | US, UK & EU` (163)
+1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | Grew daily installs 4x across US, UK & EU` (129)
 2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Grew daily installs 4x and conversions 5x | US, UK & EU | English, Mandarin, Malay` (158)
 3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, 5x conversions, +12% retention | US, UK & EU` (140)
 
