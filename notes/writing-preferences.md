@@ -195,6 +195,10 @@ This took five attempts. The rules that came out of it:
 
 ## LinkedIn rules
 
+**Headline exception (Nov 2026):** she wants numbers in the headline. Use short
+multipliers and percentages (4x installs, 5x volume, −76% CPI, +12% retention), two or
+three at most. The rest of LinkedIn follows the rule below.
+
 **Scope numbers only. No outcome numbers.** Scope figures (26 markets, 9 channels, 20
 storefronts, £50k monthly budget) tell a reader how big the job was and belong on
 LinkedIn. Performance figures (3x installs, flat CPI, 21.5% CPI reduction, 5x

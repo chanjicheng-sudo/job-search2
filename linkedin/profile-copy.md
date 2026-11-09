@@ -10,9 +10,17 @@ LinkedIn does not render markdown, so the role highlights use a pasted bullet ch
 
 ## Headline (220 character limit, pick one)
 
-1. `Growth Marketing at Blockchain.com | Paid acquisition across 26 markets | MRes Data Science`
-2. `Paid growth for crypto and consumer finance apps | Apple Search Ads, Google, Meta, TikTok | Experimental design background`
-3. `Growth Marketing at Blockchain.com | I run paid acquisition and build the testing and reporting behind it`
+Nov 2026, with numbers at her request (multipliers and percentages, e.g. "5x").
+
+1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | 4x daily installs at flat CPI | 5x perps volume | 26 markets | MRes Data Science` (168)
+2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Built AI UGC that cut CPI 76% | 4x installs across 26 markets | English, Mandarin, Malay` (164)
+3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, 5x volume, +12% retention | Paid Acquisition & ASO in 26 markets` (160)
+
+Earlier options (no outcome numbers):
+
+- `Growth Marketing at Blockchain.com | Paid acquisition across 26 markets | MRes Data Science`
+- `Paid growth for crypto and consumer finance apps | Apple Search Ads, Google, Meta, TikTok | Experimental design background`
+- `Growth Marketing at Blockchain.com | I run paid acquisition and build the testing and reporting behind it`
 
 ---
 
