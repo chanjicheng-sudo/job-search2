@@ -3,7 +3,7 @@
 // ecosystem campaigns, persona and journey work, adoption reporting, briefs, enablement.
 //
 // "Crypto" kept at her request (Primer is backed by Solana). Launch and partner work leads,
-// then insight-to-messaging, relaunch, briefs (JD asks for briefs), B2B pipeline. FinProm
+// then insight-to-messaging, relaunch, B2B pipeline. Briefs bullet dropped at her request. FinProm
 // dropped (JD does not mention compliance). ATS: JD terms where her record supports them.
 //
 // Not claimed: B2B SaaS, payments product, two-sided marketplace. See
@@ -34,12 +34,11 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by owning the go-to-market end to end, from positioning, brand and tone to KOL, affiliate and referral partner campaigns, with Legal and a new compliance review process",
-            "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning research with active, inactive and churned users into new product messaging, an always-on explainer and a reworked help page",
+            "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning research with active, inactive and churned users into an always-on product and risk explainer and a reworked help page with Product",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database with the Senior B2B Product Marketing Manager",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages, adapting each message by market",
-            "Delivered 30+ creative briefs and 40 ads across 9 channels, and supplied 50+ campaign assets to 3 external acquisition partners across multiple markets",
             "Saved the team ~10 hours a month by building automated performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured messaging and creative tests across 26 markets and scaling 5 winning campaign groups",
           ],
