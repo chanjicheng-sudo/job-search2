@@ -28,6 +28,8 @@ applications/
   plasma/     jd-read, product-notes, brand-notes, and three finished answers
   kraken/     jd-read
   bvnk/       jd-read
+  noah/       recruiter-cheat-sheet (intro call prep: company, strategy,
+              competitors, stories, logistics, gaps)
 
 linkedin/profile-copy.md          Headline options, About, and role highlights for both
                                   roles.
