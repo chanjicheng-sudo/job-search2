@@ -197,7 +197,9 @@ This took five attempts. The rules that came out of it:
 
 **Headline exception (Nov 2026):** she wants numbers in the headline. Use short
 multipliers and percentages (4x installs, 5x volume, −76% CPI, +12% retention), two or
-three at most. The rest of LinkedIn follows the rule below.
+three at most. Name regions ("US, UK & EU") instead of "26 markets", and leave out
+the 5x perps volume. She finds both irrelevant and hard to follow. The rest of LinkedIn
+follows the rule below.
 
 **Scope numbers only. No outcome numbers.** Scope figures (26 markets, 9 channels, 20
 storefronts, £50k monthly budget) tell a reader how big the job was and belong on

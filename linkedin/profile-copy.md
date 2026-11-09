@@ -10,11 +10,12 @@ LinkedIn does not render markdown, so the role highlights use a pasted bullet ch
 
 ## Headline (220 character limit, pick one)
 
-Nov 2026, with numbers at her request (multipliers and percentages, e.g. "5x").
+Nov 2026, with numbers at her request (multipliers and percentages). No perps volume and
+no "26 markets" (she finds them irrelevant and hard to follow). Use "US, UK & EU".
 
-1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | 4x daily installs at flat CPI | 5x perps volume | 26 markets | MRes Data Science` (168)
-2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Built AI UGC that cut CPI 76% | 4x installs across 26 markets | English, Mandarin, Malay` (164)
-3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, 5x volume, +12% retention | Paid Acquisition & ASO in 26 markets` (160)
+1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | 4x daily installs at flat CPI | US, UK & EU | MRes Data Science` (151)
+2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Built AI UGC that cut CPI 76% | 4x installs across US, UK & EU | English, Mandarin, Malay` (165)
+3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, −76% CPI, +12% retention | US, UK & EU` (134)
 
 Earlier options (no outcome numbers):
 
