@@ -186,6 +186,12 @@ This took five attempts. The rules that came out of it:
 
 ### Cover letters
 
+- **Punchy, not a presentation (Nov 2026, McKinsey).** Open with a one- or two-sentence
+  hook. Keep letters lean (around 300 words when she asks for punchy). Short sentences.
+  Avoid "I start by…, which is how your teams…" constructions, which read like a pitch
+  deck. A thread of lessons ("The first thing I learnt…") reads better than labelled
+  sections.
+
 - **End each case paragraph with one line linking it back to the role** (Nov 2026).
   Numbers alone read as "numbers dropping"; say what the result means for the job.
 
