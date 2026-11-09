@@ -167,7 +167,8 @@ This took five attempts. The rules that came out of it:
   workflow and skill handover, CRM localisation API tools), plus her line "I use AI to
   solve marketing problems…". The first sentence must say what she does in plain words.
   Rejected on Deblock: "owns the numbers behind every initiative" (vague), narrative
-  lines like "turn the results into next week's decisions", and "hands-on in SQL, Python
+  lines like "turn the results into next week's decisions", "technically minded
+  marketer" (Atominvest: makes no sense, open with "Growth marketer"), and "hands-on in SQL, Python
   and spreadsheets", which she does not claim. SQL, Python and R are from research only.
 - No half-told before/after stories. "having led that expansion from two" was rejected as
   meaningless — the noun was missing and the clause was doing a bullet's job.
