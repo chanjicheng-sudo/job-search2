@@ -12,7 +12,6 @@ Growth marketer in fintech and digital assets who builds, tests and deploys AI t
 - Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team
 - Delivered 100+ production-ready AI video assets by comparing 6 AI model providers across avatar, voice, motion and video generation, and spending 2 weeks on prompt engineering to fix recurring output failures
 - Cut reporting time by ~10 hours a month by building automated reporting with Claude Code, MCP connectors and API integrations, evaluating 4 implementation approaches and deploying it to production through the engineering pipeline with Data Engineering and Security
-- Removed repeat manual work across the team by building internal bots and MCP and API integrations, deployed on fly.io
 - Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages
 - Cut UK CPI by 21.5% while installs rose 30.2% by designing 128 structured experiments across 26 markets and scaling the 5 campaign groups that held up
 - Increased user retention by 12% by designing research with active, inactive and churned users, finding why they dropped off our perps product, and working with Product on the fix
