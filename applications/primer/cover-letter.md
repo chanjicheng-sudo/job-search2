@@ -2,11 +2,11 @@
 
 Reshaped at her request (Nov 2026): product work leads each paragraph, paid media is the
 edge for testing and proving it, AI runs through it. Malaysia dropped at her request.
-Paragraphs open naturally, not with "On X,". Why-Primer paragraph pending her choice of
-angle.
+Paragraphs open naturally, not with "On X,". Why-Primer paragraph uses her angle: MCP connectors
+are to LLMs what Primer is to payment providers, a pain point people miss.
 
 **Check before sending:**
-- Fill the WHY PRIMER placeholder.
+- "Dozens of providers" is deliberate: the 80+ figure is from a third-party profile.
 - Use the exact job title from the listing in the opening line.
 - Her title is Growth Marketing Intern. "Product marketer" is her framing.
 - Ask the referees before sending.
@@ -30,7 +30,7 @@ Each market needs its own message. Users in Africa tend to take on more risk, wh
 
 Paid media is how I prove what works. I scaled our Apple Search Ads from 2 to 26 countries, and daily installs grew about 4x while cost per install stayed flat, by running 128 structured tests. That habit means I can test partner messaging early, and report on adoption, engagement and activation so we always know what to scale.
 
-[WHY PRIMER — to be written once she picks an angle]
+I want to join Primer because you solve a pain point that people often miss, the work of connecting to every payment provider. I see the same trend in AI. MCP connectors have made it simple to plug different vendors into an LLM through one standard, instead of building a separate integration for each one. I used MCP connectors to build our reporting dashboard, so I know how much that simplicity matters. Primer is doing the equivalent for payments. Merchants connect once, and can then route payments across dozens of providers and fraud tools. Most people only see the providers, not the work it takes to connect and maintain each of them. That is the story I would like to tell your partners and merchants.
 
 I can share references from product marketing, compliance and legal colleagues at Blockchain.com.
 
