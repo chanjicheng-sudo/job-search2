@@ -269,6 +269,11 @@ the research signal.
   Search Ads attribution. Funnel and cohort analysis. Experimental test design. Survey
   design and segmentation. Power BI, Excel, Microsoft Clarity, Streamlit, R, Python, SQL.
 - **Canva** (added Nov 2026, from her).
+- **X (Twitter) ads** (added Nov 2026, from her): she runs X ads. No figures on record
+  yet. Ask for spend, results or the markets before putting a number on it.
+- **Search optimisation on App Store and Google Play** (added Nov 2026, from her): she
+  calls it SEO. It is app-store search (ASO), not website SEO. Say "App Store and Google
+  Play search optimisation" so it is not mistaken for web SEO.
 - **Creative:** briefing and direction, AI UGC production (avatar, voice, motion, video),
   agency and partner management, Figma, Photoshop.
 - **Languages:** English, Mandarin, Cantonese (native), Malay (fluent). Korean and French

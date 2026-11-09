@@ -12,13 +12,12 @@ conversion, dashboards and AI tooling are all on the JD and all evidenced with n
 
 ## Gaps (interview prep only, not stated in the application)
 
-- **X paid campaigns.** Named in the requirements ("with the results to prove it"). Not on
-  record. LinkedIn, Google and Meta are.
+- **X paid campaigns.** Resolved Nov 2026: she runs X ads. Bring results to the interview.
 - **HubSpot.** "Own HubSpot end to end". Not on record.
-- **SEO and AEO.** "Know SEO inside out". Not on record. Her 2,597-keyword paid search
-  work is adjacent, not the same.
+- **SEO and AEO.** "Know SEO inside out". She does search optimisation on App Store and
+  Google Play (Nov 2026). Website SEO and AEO are not on record.
 - **Organic social and CEO content.** Not on record.
 - **B2B brand growth.** Her B2B evidence is the Institutional leads and the HNW clients.
-- Sponsorship needed (Graduate visa ends November).
+- Visa resolved: she is on a dependant visa with the right to work.
 
 If she has done any of the first four even lightly, it is worth a line on the CV.
