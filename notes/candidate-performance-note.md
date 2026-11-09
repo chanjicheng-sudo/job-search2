@@ -77,6 +77,9 @@ risk, while UK users are more balanced, so content was tailored by region.
   UGC workflow to recreate them under the new brand to support the rebrand's GTM. New
   product name not recorded. **The Earn-focused AI UGC videos drove 600+ installs in the first week after the
   relaunch** (from her).
+- **Multi-jurisdiction use** (added Nov 2026, from her): the AI UGC workflow let the team
+  tailor videos to different products and jurisdictions, each with its own compliance
+  rules.
 - Production time cut from ~2 hours to 30 minutes per creative.
 - Average cost ~$5 per video. **Scope of this figure is unconfirmed** — likely generation
   cost only, excluding prompt iteration, review and edit time. Confirm before using it in
