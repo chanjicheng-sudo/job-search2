@@ -8,6 +8,13 @@ LinkedIn does not render markdown, so the role highlights use a pasted bullet ch
 
 ---
 
+## Headline — her final (Nov 2026)
+
+`Growth Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | Grew acquisition 4x across US, UK & EU` (116)
+
+"Grew acquisition 4x" is backed by daily installs 200+ to 800+ (~4x). If asked, explain
+it as daily installs. The options below are kept for reference.
+
 ## Headline (220 character limit, pick one)
 
 Nov 2026, with numbers at her request (multipliers and percentages). No perps volume and
