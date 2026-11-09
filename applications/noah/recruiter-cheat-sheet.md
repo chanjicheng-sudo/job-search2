@@ -43,6 +43,11 @@ problem is awareness. That is this role."
 - **Moving to enterprise:** the October release headline is about major enterprises moving
   onto stablecoin. Company reports "double-digit millions in ARR contracts".
 - **Target:** 4 to 5x revenue in 12 months.
+- **Regions: emerging markets, where fees are highest.** NALA (Jan 2026): Africa and
+  Asia, USD collection and local payout in minutes, Noah cites an $850bn yearly liquidity
+  gap. MiniPay (Opera wallet): freelancers and migrant workers in Africa and Latin
+  America. Portal: Latin America named a priority. Fees to Sub-Saharan Africa average
+  about 8%, many Asian corridors about 5%.
 - **Thijn's Fortune op-ed (July 2026):** "Europe does not need more ambition. It needs to
   stop hiding it." European startups lose by underselling, not on product. This is your
   hook.
@@ -79,8 +84,9 @@ None of them owns a bank in each country. They sign **local payout partners**. M
 partners, more countries. Noah's likely edge:
 
 1. **Focus.** Coverage is the whole product, so all the effort goes there.
-2. **Beyond banks.** Mobile money and cash pickup open countries where many people have
-   no bank account.
+2. **Emerging markets first.** Fees are highest there, so the savings are biggest. Payout
+   methods include bank, wallets, mobile money and cash. Mobile money is one method, not
+   a headline in Noah's coverage.
 3. **Partners with reach.** NALA's platform (Rafiki) connects to banks and mobile money
    across several emerging markets. One deal adds many countries.
 4. **Stablecoins make a new country cheap.** Banks keep money parked in every country.
@@ -89,9 +95,9 @@ partners, more countries. Noah's likely edge:
 In the Western Union deal, Noah pre-funds, converts and pays out, and handles local
 compliance at each step.
 
-"Coverage is Noah's main focus. It connects to local partners, including mobile money and
-cash, not just banks. Stablecoins make each new country cheaper to add. How do you decide
-which countries to add next?"
+"Coverage is Noah's main focus. It connects to local partners in each country, with a
+focus on emerging markets where fees are highest. Stablecoins make each new country
+cheaper to add. How do you decide which countries to add next?"
 
 "Widest coverage" is Noah's own claim. No independent comparison found.
 
@@ -101,7 +107,7 @@ which countries to add next?"
   that right?"
 - **BVNK as a place you applied.** Say "BVNK is being acquired by Mastercard", not "is
   owned by".
-- **Other coverage figures** (160+, 200+, 100+). 200+ is Western Union's network. Use
+- **Other coverage figures** (160+, 200+, 100+, 70+). 200+ is Western Union's network. Use
   150+ and 60+ only. If they quote another: "I have seen a few figures. Is 150+ the one
   you use?"
 - **Market-size forecasts or competitor pricing.** Sources conflict.
@@ -172,6 +178,9 @@ to £65k range is a judgement call. Check it against your Malaberg salary.
 
 Never apologise for a gap.
 
+**Extra fit point:** an emerging-market launch (Malaysia), plus Mandarin, Cantonese and
+Malay. Noah's growth is in emerging-market corridors.
+
 ## 11. First 90 days
 
 - **Days 1 to 30:** dashboard first. HubSpot set up. Where do customers come from today.
@@ -190,7 +199,8 @@ Never apologise for a gap.
 
 Backups: "Who would I report to, and how does marketing work with sales?" / "What would
 success look like after 6 months?" / "With the move to enterprise and the US, which
-customer segment should marketing focus on first?"
+customer segment should marketing focus on first?" / "Which regions matter most this year:
+emerging markets, the US, or both?"
 
 ---
 
@@ -202,6 +212,9 @@ customer segment should marketing focus on first?"
 - [Forbes: Noah is selling the shovels](https://www.forbes.com/sites/kjartanrist/2026/06/16/in-the-stablecoin-race-noah-is-selling-the-shovels/)
 - [Fortune: Thijn Lamers on European ambition](https://fortune.com/2026/07/23/europe-startups-storytelling-ambition-adyen-lamers/)
 - [European Business Magazine: Shah Ramezani on stablecoins](https://europeanbusinessmagazine.com/why-stablecoins-solve-cross-border-payments/)
+- [Noah blog: NALA x Noah](https://noah.com/blog/nala-noah)
+- [Finextra: MiniPay and Noah](https://www.finextra.com/newsarticle/46239/minipay-and-noah-debut-global-to-local-stablecoin-payments)
+- [Financial IT: Noah and Portal](https://financialit.net/news/cryptocurrencies/noah-brings-first-ever-virtual-bank-accounts-and-global-payout-rails-portals)
 - [IBS Intelligence: Noah and NALA](https://ibsintelligence.com/ibsi-news/noah-nala-partner-on-stablecoin-cross-border-payments/)
 - [Stablecoin Insider: Stripe vs Bridge vs BVNK](https://stablecoininsider.org/stripe-vs-bridge-vs-bvnk-for-stablecoin-payments-in-2026/)
 - [Fintechspecs: BVNK vs Bridge vs Conduit](https://fintechspecs.com/blog/bvnk-vs-bridge-vs-conduit-stablecoin-infrastructure/)
