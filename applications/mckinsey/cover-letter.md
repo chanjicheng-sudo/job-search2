@@ -1,6 +1,7 @@
 # McKinsey — Growth, Marketing & Sales Practice: cover letter
 
-Rewritten Nov 2026 at her request: shorter and punchier. A two-sentence hook, then a
+Rewritten Nov 2026 at her request: shorter and punchier. An opening hook (who she is,
+her strength, what she brings), then the move into the industry, then a
 STAR paragraph on why consulting (internship across teams, different problems, finding
 the pain point, enjoyed the projects most). Three
 lessons as the thread, each a tight STAR case: find the real problem (perps), solve a
@@ -17,6 +18,8 @@ Ji Cheng (Jessie) Chan
 chan.jicheng@gmail.com | +44 (0) 7751 544 790 | linkedin.com/in/ji-cheng-chan
 
 Dear McKinsey recruiting team,
+
+I am a growth marketer at Blockchain.com, and my strength is problem solving. I look past the obvious answer to find the real pain point, then use data and AI to build a solution the team has not tried before. That is what I want to bring to McKinsey's clients.
 
 This year, I left a full-time job for an internship. I wanted to break into financial services and digital assets, and Blockchain.com was my way in.
 
