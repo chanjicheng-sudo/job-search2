@@ -1,7 +1,8 @@
 # McKinsey — Growth, Marketing & Sales Practice: cover letter
 
-Rewritten Nov 2026 at her request: shorter and punchier. A two-sentence hook (left a
-full-time job for an internship, now knows she wants project-based growth work). Three
+Rewritten Nov 2026 at her request: shorter and punchier. A two-sentence hook, then a
+STAR paragraph on why consulting (internship across teams, different problems, finding
+the pain point, enjoyed the projects most). Three
 lessons as the thread, each a tight STAR case: find the real problem (perps), solve a
 resource problem with AI (UGC), own a project end to end (Malaysia). Short close on the
 nature of the role.
@@ -17,7 +18,9 @@ chan.jicheng@gmail.com | +44 (0) 7751 544 790 | linkedin.com/in/ji-cheng-chan
 
 Dear McKinsey recruiting team,
 
-This year, I left a full-time job for an internship. I wanted to break into financial services and digital assets, and Blockchain.com was my way in. Six months later, I know what I want to do next, solve growth problems as projects. That is why I am applying to your Growth, Marketing & Sales Practice.
+This year, I left a full-time job for an internship. I wanted to break into financial services and digital assets, and Blockchain.com was my way in.
+
+As an intern, I did not run one channel. I worked across Retail, Wealth and Institutional, and each team had a different problem. Users were leaving a product. A market had never been tested. Our ads could not be produced fast enough. Each time, I had to find the real pain point, build a solution with Product, Legal or Engineering, and prove it worked. Those projects were the most rewarding part of my year, more than optimising one channel day to day. Strategy consulting is that work, one problem after another, which is why I am applying to your Growth, Marketing & Sales Practice.
 
 The first thing I learnt is that the real problem is rarely the obvious one. Users were leaving our perps product. Before fixing anything, I surveyed 114 active, inactive and churned users, and found that many did not understand how perps work or what the risks are. We made the explainer always visible and reworked the help page. Retention grew by 12%.
 
