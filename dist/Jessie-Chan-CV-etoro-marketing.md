@@ -24,7 +24,7 @@ B2C fintech marketer working across campaigns, copy, creative and partners in 26
 
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by redesigning landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI and Microsoft Clarity
 - Led weekly content reviews with Compliance to clear consumer-finance copy across all channels
-- Sustained 120% ROAS while managing £50k+ monthly paid budget
+- Drove 120% ROAS on £50k+ monthly paid budget
 - Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
 
 ## EDUCATION

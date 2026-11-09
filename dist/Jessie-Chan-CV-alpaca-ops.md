@@ -23,7 +23,7 @@ Problem solver in regulated crypto and fintech, working across 26 markets with C
 
 - Cut daily report preparation from 30 min to near-instant by building a company-wide automated reporting pipeline on lead conversion
 - Increased daily conversions from 10 to 50+ (5x) and funnel progression by 5% by troubleshooting drop-off points through funnel analysis in Power BI, Excel and Microsoft Clarity
-- Sustained 120% ROAS while managing £50k+ monthly paid budget, monitoring spend daily
+- Drove 120% ROAS on £50k+ monthly paid budget, monitoring spend daily
 - Led weekly content reviews with Compliance to clear regulated consumer-finance messaging across all channels
 
 ## EDUCATION
