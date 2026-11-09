@@ -9,7 +9,7 @@ Growth marketer in fintech and digital assets who builds AI systems to acquire, 
 **Institutional and Retail Growth Marketing Intern** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
-- Saved the team ~10 hours a month by building agentic reporting workflows with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security
+- Cut reporting time by ~10 hours a month by building agentic reporting workflows with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security
 - Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team
 - Cut UK CPI by 21.5% while installs rose 30.2% by measuring 128 structured tests across 26 markets by channel and cohort, then scaling 5 winning campaign groups and reallocating ~$21k away from 26 underperformers
 - Grew daily installs from 200+ to 800+ (~4x) at a flat ~$1.50 CPI by expanding Apple Search Ads from 2 to 26 markets with country-level bid and creative strategy

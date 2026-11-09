@@ -16,7 +16,7 @@ Fintech/crypto marketer owning go-to-market, regulated customer communications a
 - Increased email open rate by 10% by localising CRM communications into 24 languages with built-in CRM APIs
 - Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets with AI video after the rebrand
 - Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets
-- Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security
+- Cut reporting time by ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security
 - Cut UK acquisition cost by 21.5% while volume rose 30.2% by running 128 structured messaging tests across 26 countries and scaling 5 winning campaign groups
 
 **Performance Marketer** — Feb 2025 – Apr 2026

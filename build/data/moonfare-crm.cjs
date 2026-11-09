@@ -38,7 +38,7 @@ module.exports = {
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by researching why active, inactive and churned users dropped off and working with Product on the in-app explainer",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
             "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns",
-            "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%) and driving 600+ installs in the first 7 days of the yield product relaunch",
             "Supported the rollout of the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and 20 app-store storefronts in UK, US and EU markets",
           ],

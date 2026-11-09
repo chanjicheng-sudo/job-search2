@@ -30,7 +30,7 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             "Increased user retention by 12% by root-causing churn on our perps product through research with active, inactive and churned users, then working with Product to make the in-app explainer persistent and rework the help page",
-            "Saved the team ~10 hours a month by replacing manual reporting with automation built in Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by replacing manual reporting with automation built in Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Increased email open rate by 10% by automating localisation of Iterable (CRM) communications into 24 languages with built-in APIs",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by building the go-to-market for a new market from scratch, including a compliance review process with Legal",
             "Cut production time by 75% and lifted CTR from 0.4% to 1.15% (+188%) by replacing reliance on external creators with the company's first in-house AI UGC workflow",

@@ -15,7 +15,7 @@ Product marketer in fintech and crypto, owning go-to-market launches, positionin
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database with the Senior B2B Product Marketing Manager
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI
 - Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages, adapting each message by market
-- Saved the team ~10 hours a month by building automated performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security
+- Cut reporting time by ~10 hours a month by building automated performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured messaging and creative tests across 26 markets and scaling 5 winning campaign groups
 
 **Performance Marketer** — Feb 2025 – Apr 2026

@@ -34,7 +34,7 @@ module.exports = {
           bullets: [
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and turning that signal into an outreach programme to 80 publishers built with AI",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by researching Malaysia's digital asset regulations, leading a localised go-to-market and establishing a compliance review process for the new market",
-            "Saved the team ~10 hours a month by building automated daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by building automated daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide Streamlit dashboard with Data Engineering and Security",
             "Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level strategy",
             "Increased email open rate by 10% by localising CRM communications in Iterable into 24 languages with built-in APIs",
             "Increased user retention by 12% and grew perps trading volume from $100m to $500m (5x) in two months by leading customer research with active, inactive and churned users and turning the findings into product changes",

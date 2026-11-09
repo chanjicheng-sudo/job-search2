@@ -102,6 +102,8 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
 - **Result-led, active verbs** (Oct 2026). Open with the result and a strong verb
   (Increased, Drove, Sourced, Eliminated, Grew), then "by" and the action. Keep the
   change in brackets after every "from X to Y".
+- **No "Saved the team" (Nov 2026).** The reporting bullet opens "Cut reporting time by ~10
+  hours a month by…".
 - **No weak verbs like "Sustained" (Nov 2026).** Use active verbs. "Grew" only when there
   is a from-to baseline on record. The ROAS bullet is "Drove 120% ROAS on £50k+ monthly
   paid budget" (no ROAS baseline exists, so not "Grew").

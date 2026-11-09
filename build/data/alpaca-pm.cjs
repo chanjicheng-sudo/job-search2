@@ -34,7 +34,7 @@ module.exports = {
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by managing the launch end to end, coordinating Legal, a new compliance review process and KOL, affiliate and referral partners",
-            "Saved the team ~10 hours a month by building automated reporting with Claude Code, MCP connectors and API integrations, shipped to production as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by building automated reporting with Claude Code, MCP connectors and API integrations, shipped to production as a company-wide dashboard with Data Engineering and Security",
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages",
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning feedback from active, inactive and churned users into product changes with Product",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, working with B2B Product Marketing",

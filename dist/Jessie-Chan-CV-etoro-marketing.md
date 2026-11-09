@@ -15,7 +15,7 @@ B2C fintech marketer working across campaigns, copy, creative and partners in 26
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by coordinating the campaign across KOL, affiliate and referral partners and setting up a compliance review with Legal
 - Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs
 - Increased user retention by 12% by researching why users dropped off our perps product and working with Product to rewrite the in-app explainer and help page
-- Saved the team ~10 hours a month by automating daily performance reporting with Claude Code, shipped as a company-wide dashboard with Data Engineering and Security
+- Cut reporting time by ~10 hours a month by automating daily performance reporting with Claude Code, shipped as a company-wide dashboard with Data Engineering and Security
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and running an outreach campaign to 80 publishers built with AI
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and moving budget to the 5 campaign groups that worked
 

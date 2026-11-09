@@ -39,7 +39,7 @@ module.exports = {
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and turning it into an outreach channel of 80 publishers built with AI",
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by investigating the drivers of churn with active, inactive and churned users and working with Product on the fix",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting paid social CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days of the yield product relaunch",
-            "Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard with Data Engineering and Security",
             "Generated 20+ active leads for Institutional business development by building a 100-operator prospect database",
             "Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs",
           ],

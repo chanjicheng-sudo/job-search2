@@ -14,7 +14,7 @@ Lifecycle and product marketer for fintech apps across 26 markets, covering CRM,
 - Drove 600+ installs in the first 7 days of the yield product relaunch by recreating outdated creator assets under the new brand with AI video
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by leading its go-to-market across competitor review, positioning, brand and tone, and partner channels, and establishing a compliance review process for the new market
 - Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content production workflow, delivering 100+ video assets
-- Saved the team ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security
+- Cut reporting time by ~10 hours a month by automating daily performance reporting with Claude Code and MCP connectors, and led its launch as a company-wide dashboard with Data Engineering and Security
 - Generated 20+ active leads for Institutional business development by building a 100-operator prospect database, partnering with B2B Product Marketing
 - Relaunched the Personal and yield product pages with Front-End Engineering and refreshed app-store content across 20 storefronts, keeping product messaging consistent across UK, US and EU markets
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests across 26 markets and reallocating budget away from 26 underperforming campaigns

@@ -32,7 +32,7 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Saved the team ~10 hours a month by replacing manual reporting with automation built in Claude Code, MCP connectors and APIs, shipped to production as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by replacing manual reporting with automation built in Claude Code, MCP connectors and APIs, shipped to production as a company-wide dashboard with Data Engineering and Security",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
             "Converted 4 high net worth clients onto the crypto loans product in Malaysia within 1 month of launch by researching local crypto regulation and setting up a new compliance review process with Legal",
             "Cut UK CPI by 21.5% while installs rose 30.2% by monitoring daily spend and performance across 121 live campaigns in 26 markets, investigating anomalies and reallocating ~$21k away from 26 underperforming campaigns",

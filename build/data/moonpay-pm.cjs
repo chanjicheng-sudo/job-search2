@@ -36,7 +36,7 @@ module.exports = {
           bullets: [
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning research with active, inactive and churned users into product requirements, then working with Product to change the in-app explainer and help page",
             "Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by coordinating Legal, a new compliance review process and partners for a new market",
-            "Saved the team ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security",
+            "Cut reporting time by ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security",
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages",
             "Cut UK CPI by 21.5% while installs rose 30.2% by using data from 128 structured tests across 26 markets to prioritise 5 scalable campaign groups and cut 26 underperformers",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team",
