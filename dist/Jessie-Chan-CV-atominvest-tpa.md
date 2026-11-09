@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Growth marketer in fintech and digital assets who builds production tools with AI. Using Claude Code, Cursor and MCP connectors, I have built API integrations, internal bots and automated reporting. I also run customer research and deliver the findings to Product.
+Growth marketer in fintech and digital assets who builds production tools with AI. Using Claude Code, Cursor and MCP connectors, I build API integrations, internal bots and automated reporting. I also run customer research and deliver the findings to Product to improve user experience.
 
 ## EXPERIENCE
 
