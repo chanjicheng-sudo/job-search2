@@ -159,6 +159,13 @@ This took five attempts. The rules that came out of it:
   deleting numbers.
 - Open with the profession, not with a duty. "Growth marketer specialising in X" works;
   "Owns paid acquisition across..." reads as a job description.
+- **Technical or AI-heavy roles (Nov 2026):** the profile is AI-led and says plainly
+  what she built with AI (agentic reporting with Claude Code and MCP, the AI content
+  workflow and skill handover, CRM localisation API tools), plus her line "I use AI to
+  solve marketing problems…". The first sentence must say what she does in plain words.
+  Rejected on Deblock: "owns the numbers behind every initiative" (vague), narrative
+  lines like "turn the results into next week's decisions", and "hands-on in SQL, Python
+  and spreadsheets", which she does not claim. SQL, Python and R are from research only.
 - No half-told before/after stories. "having led that expansion from two" was rejected as
   meaningless — the noun was missing and the clause was doing a bullet's job.
 
