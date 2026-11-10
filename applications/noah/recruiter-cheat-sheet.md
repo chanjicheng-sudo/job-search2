@@ -1,5 +1,7 @@
 # Noah: recruiter intro call cheat sheet
 
+> **The HTML version (`recruiter-cheat-sheet.html`) is the current one.** It adds the Head of Global Marketing prep, tightened answers from the mock, and the fit map. This file is the earlier recruiter-call version.
+
 Digital Marketing, first dedicated marketing hire (B2B). Researched 9 November 2026.
 Lines in quotes are said in your voice: no contractions, short sentences.
 `[ADD: ...]` = a fact only you can fill in. Delete before the call.
