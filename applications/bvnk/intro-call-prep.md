@@ -5,6 +5,47 @@ the fit plausible, and do the logistics work. Keep answers to 60 to 90 seconds.
 
 ---
 
+## 0. Interview brief, 11 Nov 2026, 3:00 to 3:30pm, Google Meet, with Scott Duchene
+
+30 minutes, camera on, stable device and Wi-Fi. They asked you to read the About page and
+watch the product keynote, so expect "What do you know about BVNK?".
+
+**What the brief tells you they prioritise**
+1. **Knowing BVNK.** They named the About page and keynote. Have the facts below ready.
+2. **Face-to-face rapport.** Camera on, so they care how you come across. Short, warm,
+   clear answers.
+3. **Pride in recognition.** They led with CNBC World's Top Fintech Companies 2026.
+   Mention it naturally ("congratulations on the CNBC recognition").
+
+**Facts from their About page (use these, they are BVNK's own figures)**
+- Mission: "Accelerating global money movement". Tagline "For the builders making money
+  flow".
+- Founded 2021, 350+ people, $50bn annualised volume, 40+ licences globally.
+- Now part of Mastercard. Product menu is the **Mastercard Global Money Platform**
+  (launched October 2026): multi-currency accounts holding fiat and stablecoins, for
+  banks, fintechs and businesses. Payouts to local bank accounts via Mastercard Move in
+  11 currencies, expanding to 40+ in 2027.
+- Customers and partners: Worldpay, dLocal, Rapyd, LianLian, Corpay, Deel, Circle,
+  TransferMate, Highnote, Flywire.
+- Leadership: Jesse Hemson-Struthers (CEO), Chris Harmse (Chief Business Officer, gave the
+  product keynote), Donald Jackson (CTO), **Emma Mayer (CMO, likely your future
+  leadership line)**, Darren Palmer (VP Product).
+
+**Their three values, and the story that proves each**
+
+| Value | What they mean | Your story |
+|---|---|---|
+| **Move fast** | Urgency, bold decisions, focus on outcomes | Built the AI UGC workflow in 2 weeks. Recreated the yield product creative after the rebrand, 600+ installs in 7 days |
+| **Over deliver** | Act like it is day one, hunger, humility, curiosity | Took on responsibility beyond an intern's role. Led the Malaysia launch on your own initiative, 4 HNW clients in a month |
+| **Relentlessly resourceful** | Find a solution whatever the obstacle | Creators ran out, so you built AI UGC. Spotted the MiCA shift and built an 80-publisher list with AI, 3 major clients |
+
+Their staff also talk about **"talent density and extreme agency"** and being **"healthy
+in disagreement"**. Show agency (things you started yourself) and that you can challenge
+an assumption politely (the perps research, where you checked why users left before
+fixing anything).
+
+---
+
 ## 1. BVNK in 60 seconds
 
 - **What they do.** Stablecoin payments infrastructure for businesses. Companies use BVNK
@@ -13,8 +54,7 @@ the fit plausible, and do the logistics work. Keep answers to 60 to 90 seconds.
 - **Now part of Mastercard.** Agreed in March 2026 for up to $1.8bn, **completed on
   3 August 2026**. BVNK says existing operations and clients are unaffected, and it is
   bringing Mastercard's reach and card capabilities to its customers.
-- **Scale.** $30bn+ in stablecoin payments a year (their figure, January 2026). Live in
-  130+ countries.
+- **Scale.** $50bn annualised volume (About page, Nov 2026). Live in 130+ countries.
 - **Customers and partners.** Deel, Rapyd, Corpay, Worldpay, TransferMate, LemFi,
   LianLian. Visa Direct pilot for stablecoin pre-funding (January 2026). Highnote for
   24/7 stablecoin card funding. Stellar added in September 2026.
@@ -165,6 +205,8 @@ Yes, without names. **Do not mention Noah**, which competes with BVNK.
 
 ## Sources
 
+- [BVNK, About us](https://bvnk.com/about-us)
+- [Blockhead, Mastercard and BVNK Global Money Platform (Oct 2026)](https://www.blockhead.co/2026/10/16/mastercard-bvnk-launch-platform-to-hold-convert-and-spend-fiat-stablecoins/)
 - [Mastercard, acquisition completed (Aug 2026)](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-completes-acquisition-of-BVNK-to-advance-global-stablecoin-capabilities/default.aspx)
 - [The Block, Mastercard completes BVNK acquisition](https://theblock.co/post/410521/mastercard-completes-bvnk-acquisition)
 - [The Paypers, Mastercard completes acquisition of BVNK](https://thepaypers.com/mergers-aquisitions-and-investments/news/mastercard-completes-acquisition-of-bvnk)
