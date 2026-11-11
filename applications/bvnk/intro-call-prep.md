@@ -2,22 +2,30 @@
 
 ## Cue sheet — Scott, 3:00pm (glance, do not read)
 
-## 1. Walk me through your background
-- Psychology BSc + MRes → research, surveys, how people behave
-- Malaberg, performance marketer → funnel analysis, conversions **5x**
-- Believe blockchain changes how money moves → **left full-time job** for Blockchain.com
-- Retail, Wealth, Institutional → a big part of my role is AI for marketing problems
-- Proudest: AI UGC workflow, **2 weeks**, production **−75%**, CPI **$25 → $6**
-- Close: love understanding customers → product → **why this role**
+## 1. Walk me through your background (your words)
+- Growth marketer at **Blockchain.com**
+- Psychology, masters and undergrad → good foundation in conducting research, surveys, understanding a group of people
+- Joined a D2C e-commerce company → customer research, planned the GTM for new products
+  ⚠️ Scott has your CV ("Performance Marketer"). Only say what you can back up
+- Great passion for blockchain → **left my full-time job** to join Blockchain.com
+- Retail, Institutional and Wealth → key responsibility: use AI to solve marketing problems
+  ⚠️ say "a big part of my role"
+- Proudest project: AI UGC workflow, prompt engineering to production
+- Reduces time and financial cost *(production −75%, CPI $25 → $6)*
+- Increases brand visibility across all paid platforms *(CTR 0.4% → 1.15%)*
 
-## 2. What do you know about BVNK / why us?
-- Stablecoins inside payment flows businesses already run, **single integration**
-- Send, receive, hold, convert. Worldpay, Deel, Corpay. **$50bn** a year
-- Now **part of** Mastercard → Global Money Platform (Oct)
-- My take: speed, cost, convenience = stablecoins. Missing piece = **trust** → Mastercard
-- Opens the door to traditional finance
-- Me: love blockchain, but not only DeFi → must work in the real economy
-- Close: role = understand customers + explain clearly = what I enjoy
+## 2. What do you know about BVNK / why us? (your words)
+- Payment infrastructure → businesses use stablecoins being **fast and borderless** to improve payment flows
+- BVNK is the rail, with blockchain technology
+- Sending, receiving, holding, earning → **one API** *(their word: "single integration")*
+- Edge: solves the biggest issue in scaling stablecoins as payments → **reliability**
+- Speed, cost, convenience = the nature of stablecoins
+- **Part of Mastercard** → more credibility than independent players
+- Access to the TradFi community → grow the customer base more effectively
+- I love blockchain, but I disagree with keeping it entirely DeFi
+- It solves the biggest issue with TradFi → speed → the obvious answer to the pain point
+- BVNK does this **at scale** → main reason I want to join
+- *(optional facts: $50bn a year, Worldpay, Deel, Corpay, Global Money Platform)*
 
 ## 3. Sales enablement / working with sales
 - Honest: no formal enablement function **yet**
@@ -39,14 +47,17 @@
 - AI videos → reviewed with Legal before release
 - Principle: simple for the user, accurate for the regulator
 
-## 6. "You're too junior"
-- **Honest:** no formal enablement yet → I'd rather say so
-- **AI:** started my career as AI took off → built with it from day one → 2-week workflow, handed over
-- **Both sides:** research + positioning **and** execution → materials grounded in what converts
-- **Learn fast:** academia → e-commerce → crypto → results within months each time
-- Beyond an intern's role at Blockchain.com
-- Close: earlier in my career, ramp fast, rare skills
-- ⚠️ Never put down experienced people
+## 6. "You're too junior" (your words)
+- **1. AI.** Very good at AI → used it in different settings
+- AI started blooming when I started working
+- With these skills I can deliver more than a junior marketer
+  ⚠️ drop "someone with 20 years has the same experience as me, even less". It sounds arrogant
+- **2. Growth + product marketing.** Strong growth background → plan the down-the-line marketing for reach and specific markets
+- I bring the execution side
+  ⚠️ drop "most product marketing experts lack execution". Say "I bring both"
+- **3. Learning.** Every phase of my life has little overlap: academia → e-commerce → crypto
+- Learned and adapted to each within a short time → proves my ability and willingness to learn
+- *(optional proof: AI workflow built in 2 weeks, 4 clients in Malaysia in month one)*
 
 ## 7. Salary, notice, logistics
 - "Could you share the **band for the London role**?" → then a **range**, never one number
