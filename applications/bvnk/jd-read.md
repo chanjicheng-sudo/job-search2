@@ -97,3 +97,11 @@ She has seen BVNK hiring for someone with an ASEAN background, which supports "B
 expanding into ASEAN" in her outreach. Earlier web searches found no ASEAN news, but
 hiring is better evidence. Her Malaysian nationality, the Malaysia loans launch and her
 research on Malaysian crypto regulation are the angle.
+
+## Update, November 2026
+
+- **Visa resolved.** She is on a dependant visa with the right to work. No sponsorship.
+- **Mastercard acquisition completed on 3 August 2026.**
+- **Intro call booked.** Prep in applications/bvnk/intro-call-prep.md. Two lines in the
+  sent letter need care on the call: the Malaysia licence line (do not repeat it) and the
+  perps volume claim (say it grew over the same period).
