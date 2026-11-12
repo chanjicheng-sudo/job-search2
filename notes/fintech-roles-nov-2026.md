@@ -49,3 +49,64 @@ postings ask 5+ years, so they are listed as stretches, not fits.
   variant for that track.
 - Apple Search Ads is named in Emma and Trading 212 postings. Lead with it.
 - MMP (AppsFlyer/Adjust) is asked for at Trading 212, LemFi and Tide. Still the main gap.
+
+---
+
+# Second sweep — job boards and ~70 more companies (12 Nov 2026)
+
+Sources: LinkedIn, Welcome to the Jungle (Otta), Indeed/SimplyHired, Wellfound,
+fintechcareers.com, company pages. Most of these were confirmed live on a job board, not
+on the company's own careers page. Open the link before tailoring anything.
+
+## Apply now — new level and skills matches
+
+| Priority | Company | Role | Why it fits | Watch out for | Link |
+|---|---|---|---|---|---|
+| Trading app | eToro | Junior Marketing Manager (UK) | Asks 1–3 yrs. Partner campaigns, product launches, CRM/email | Generalist, not paid-led | [posting](https://www.fintechcareers.com/job/49899/junior-marketing-manager-uk-london-2/) |
+| Lending app | Lendable | Senior Performance Marketing Manager | Asks only **2–4 yrs**, "strong creative tilt", Meta, TikTok, Google, SQL. AI UGC pipeline is the headline | Title says Senior; years do not | [posting](https://uk.linkedin.com/jobs/view/senior-performance-marketing-manager-at-lendable-4474272117) |
+| Lending app | Lendable | Performance Marketer | Mid-level; company says it is investing heavily in growth marketing | Channel detail not shown | [posting](https://app.welcometothejungle.com/jobs/w3Q3lMTU) |
+| Payments / BNPL | Klarna | Paid Media Specialist | Specialist level, high-volume paid media, £71–80k | Big brand | [posting](https://uk.indeed.com/rc/clk?jk=40487891e5600ffa) |
+| Consumer fintech app | Spruce | Growth Marketer | Asks 2–5 yrs, runs growth experiments, £50–70k | Early-stage startup | [posting](https://uk.linkedin.com/jobs/view/growth-marketer-at-spruce-4484992243) |
+| Investing platform | Moonfare | Growth Associate | Lifecycle journeys across markets with different compliance rules. CRM localisation | Entry level, may pay below current | [posting](https://uk.linkedin.com/jobs/view/growth-associate-at-moonfare-4483616226) |
+| Trading app | InvestEngine | Content Marketing Executive | Junior, acquisition and activation content for an ETF app | Content, not paid | [posting](https://www.simplyhired.co.uk/job/FUyw1afQQacHz2jpOx3NuRkuSYVmAQTCmi4OdKWG7O9Ir4fdyb6zgQ) |
+| B2B payments | Primer | Product Marketing Associate | Asks 2–3 yrs, launches end to end | B2B SaaS background preferred | [posting](https://uk.linkedin.com/jobs/view/product-marketing-associate-at-primer-4465841263) |
+| B2B payments | Telleroo | Digital Marketing Executive | Asks 2+ yrs, SEO and paid social, fully remote UK | Content-heavy | [posting](https://uk.linkedin.com/jobs/view/digital-marketing-executive-b2b-saas-fintech-at-telleroo-4488142513) |
+| Several fintechs (recruiter) | Jumpstart | Growth Marketer (£40–55k) | Asks 1–3 yrs; one application reaches several VC-backed fintechs | Employers unnamed, mostly B2B | [posting](https://uk.linkedin.com/jobs/view/growth-marketer-at-vc-backed-fintech-startups-%C2%A340-55k-at-jumpstart-4490350374) |
+| Several fintechs (recruiter) | Jumpstart | Performance Marketing Manager (£45–60k) | Performance marketing, junior-mid band | Employers unnamed | [posting](https://uk.linkedin.com/jobs/view/performance-marketing-manager-at-vc-backed-fintech-startups-%C2%A345-60k-at-jumpstart-4490360029) |
+
+## Stretches worth applying to
+
+| Company | Role | Ask | Why still try | Link |
+|---|---|---|---|---|
+| Deblock (crypto + euro current account app) | Junior Performance Marketing Manager | Meta, TikTok, Google, **Apple Search Ads**, mobile attribution, SQL. **Fluent Italian required** | Perfect skill match. Only worth it if she has Italian | [posting](https://uk.linkedin.com/jobs/view/junior-performance-marketing-manager-at-deblock-4489931036) |
+| Blockchain.com | Performance Marketing Specialist, Mobile | 5+ yrs, Meta, TikTok, ASA, AppsFlyer, SQL | **Her current employer.** She is already doing much of this job. Raise it with her manager before the internship ends | [posting](https://uk.linkedin.com/jobs/view/performance-marketing-specialist-mobile-at-blockchain-com-4432873115) |
+| WorldFirst (Ant Group) | User Operation and Growth Manager, Remittance | 5+ yrs B2C growth | Cross-border remittance, Chinese parent. Mandarin likely a real edge | [posting](https://uk.linkedin.com/jobs/view/user-operation-and-growth-manager-remittance-at-worldfirst-4468099497) |
+| Carmoola (car finance app) | Growth Manager | 3–5 yrs, Google, Meta, TikTok, affiliate, Looker | App-based consumer lending | [posting](https://uk.linkedin.com/jobs/view/growth-manager-at-carmoola-4477154535) |
+| Capital.com | Product Marketing Manager | 3+ yrs PMM, 2 in brokerage, Amplitude | Trading platform. Crypto exchange is close to brokerage | [posting](https://uk.linkedin.com/jobs/view/product-marketing-manager-at-capital-com-4483655692) |
+| Finimize | Creative Marketing Manager, Growth | Not retrievable | Consumer finance app, creative-led growth. AI UGC fit | [posting](https://app.welcometothejungle.com/jobs/Y2xTVVQ2) |
+| iwoca | Growth Marketing Manager | Paid search, GA4, Looker | Paid search depth from Apple Search Ads and Google | [posting](https://uk.linkedin.com/jobs/view/growth-marketing-manager-at-iwoca-4413440753) |
+| Noah | Digital Marketing Manager, Stablecoin Payments | SEO/AEO, HubSpot, social | Cross-border stablecoin payments. Crypto background counts | [posting](https://uk.linkedin.com/jobs/view/digital-marketing-manager-stablecoin-payments-at-noah-4484931885) |
+| Unlimit | Marketing Specialist (Email, Reputation & Affiliate) | 3+ yrs, Braze/HubSpot/GA4 | Cross-border payments, affiliate work | [posting](https://uk.linkedin.com/jobs/view/marketing-specialist-email-reputation-affiliate-at-unlimit-4449924879) |
+| Odin | Founding Growth Associate | Partnerships, referrals, events | Founders' office, £60–70k | [posting](https://uk.linkedin.com/jobs/view/founding-growth-associate-at-odin-4481586212) |
+| Wahed | Marketing Associate (iWaqf) | Junior, temporary | Investing app | [posting](https://wellfound.com/jobs/4986194-marketing-associate-iwaqf) |
+| Sokin | Marketing Manager, Embedded Partnerships | Partner marketing, content | Cross-border payments | [posting](https://uk.linkedin.com/jobs/view/marketing-manager-embedded-partnerships-at-sokin-4473746653) |
+| Orbital | PMM, Launches & Adoption | 4+ yrs B2B SaaS PMM | Stablecoin B2B payments | [posting](https://uk.linkedin.com/jobs/view/product-marketing-manager-launches-adoption-at-orbital-4463492055) |
+
+## Second sweep — skip
+
+Too senior or wrong function: Coinbase PMM EMEA (5+ yrs, and crypto, not tradfi); IG Group
+Marketing Manager (6+ yrs); Funding Circle MarTech Manager (4+ yrs admin); Lendable Direct
+Mail (5+ yrs DM); Thirdfort, Parameta, Alpaca and Primer PMM Manager (4–7 yrs B2B);
+Lumon Senior Marketing Exec (brand/events, 4+ yrs); Blockchain.com Affiliate Specialist
+(crypto); Shawbrook Marketing Exec SME and Elect Capital (broker/SME, not app); HelpBnk
+editor (£25–32k); MSE internship (too junior); Gemini Associate Growth (likely New York).
+
+## What the second sweep adds
+
+- Still nothing level-matched at Starling, Kroo, Curve, Chip, Plum, Freetrade, Cleo,
+  ClearScore or Zilch. Neobank hiring at her level is thin right now. Recruiters
+  and direct messages to growth leads at those companies are the way in.
+- Lending apps (Lendable, Carmoola, iwoca) are hiring performance marketers at her level
+  more than neobanks are.
+- Blockchain.com's own Mobile Performance Specialist opening is the most realistic
+  conversion route if she is open to staying in crypto.
