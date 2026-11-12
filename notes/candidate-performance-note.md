@@ -283,6 +283,8 @@ the research signal.
   agency and partner management, Figma, Photoshop.
 - **Languages:** English, Mandarin, Cantonese (native), Malay (fluent). Korean and French
   at beginner level are cut from CVs — beginner languages read as padding.
+  **Exception (Nov 2026):** show "French (beginner)" when a job ad lists French (e.g.
+  Deblock paid acquisition). She is on a 331-day Duolingo French streak.
 
 ### Not claimed, and why
 

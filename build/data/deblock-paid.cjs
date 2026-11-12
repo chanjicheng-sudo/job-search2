@@ -2,7 +2,8 @@
 // "Digital assets", their word. Paid scaling and testing lead, then creative (AI UGC, full
 // results), agentic reporting, account setup, local launch, localisation, retention.
 //
-// Not claimed: Italian or French (Italian is a requirement), AppsFlyer or any MMP,
+// French (beginner) shown: French is a nice-to-have here (Nov 2026). Not claimed: Italian
+// (a requirement), AppsFlyer or any MMP,
 // hands-on SQL, 3+ years. See applications/deblock/jd-read-paid.md.
 
 const { contact, educationWithMark } = require("./common.cjs");
@@ -58,7 +59,7 @@ module.exports = {
         { label: "Paid media", text: "Apple Search Ads, Meta, TikTok, Google Ads, X, LinkedIn, campaign structure, bidding, budget allocation, creative testing, ASO and Custom Product Pages" },
         { label: "Growth analytics", text: "CAC, conversion, activation and retention by channel and cohort, structured testing, funnel analysis, post-mortems, Apple Search Ads attribution" },
         { label: "AI & data", text: "Agentic workflows with Claude Code, Cursor and MCP connectors, API integrations, automated dashboards, Power BI, Excel, AI UGC production" },
-        { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent)" },
+        { label: "Languages", text: "English, Mandarin, Cantonese (native), Malay (fluent), French (beginner)" },
       ],
     },
   ],

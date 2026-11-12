@@ -40,4 +40,4 @@ First Class Honours. Experimental design, causal inference and statistical analy
 
 **AI & data:** Agentic workflows with Claude Code, Cursor and MCP connectors, API integrations, automated dashboards, Power BI, Excel, AI UGC production
 
-**Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
+**Languages:** English, Mandarin, Cantonese (native), Malay (fluent), French (beginner)
