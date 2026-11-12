@@ -126,6 +126,14 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
   working with creative teams. The UK FinProm bullet only when the ad mentions compliance,
   regulation or financial promotions. Both are weak otherwise.
 - **About 80% page fill is fine.** Do not pad a CV or cover letter to fill space.
+- **ATS term check, mandatory before every handover (Nov 2026, reaffirmed after Artis).**
+  Do not hand over a CV, or ask whether she wants a PDF, until this is done:
+  1. List the job ad's key terms (role title words, skills, tools, channels, sector words,
+     the outcomes they measure, e.g. "leads", "pipeline", "traders").
+  2. Search the built `dist/*.md` for each term and count hits.
+  3. Add every missing term her record backs up, in Skills or in a bullet (e.g. "users" to
+     "traders" when that is accurate). Never add a term she cannot back up.
+  4. Tell her in one short list: covered, added, and left out because not on record.
 - **ATS check on every new CV (Nov 2026):** before handing a CV over, go through the job
   ad line by line and make sure its exact phrases appear in the Skills lines or bullets
   wherever her record supports them (e.g. "project management", "stakeholder
