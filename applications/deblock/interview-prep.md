@@ -49,6 +49,9 @@ regulated product. The one hard gap is Italian.
   closed without explanation, and bonuses not paid out. Do not raise it. If asked what to
   improve, see "Opinions to have ready".
 
+For how Deblock compares with Revolut, Trade Republic, the exchanges and the Italian
+apps, see `product-and-competitors.md`.
+
 **Before the interview:** download the app and open an account. Note each onboarding step,
 where KYC sits, how the 4% is explained, and whether the GTA promo shows for a UK user.
 
@@ -160,7 +163,8 @@ watch month-3 retention for this cohort against others. Fulfilment has to be cle
 reviews already complain about unpaid bonuses. Max cost per activated user is €79.99 plus
 media, which is easy to set a CAC target against.
 
-**"How would you advertise the 4%?"** Carefully. It is not a deposit, the rate is
+**"How would you advertise the 4%?"** Carefully. In 2026 Italy's AGCM fined Revolut
+€11.5M and Trade Republic €2.5M over advertising and cost disclosure. It is not a deposit, the rate is
 variable and there is DeFi risk. Ads cannot imply a savings account or a guaranteed rate.
 Her compliance review work is the evidence she will not create a problem here. Say she
 would agree the claim wording with Compliance before testing any yield angle.
