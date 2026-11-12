@@ -3,7 +3,7 @@
 // Jessie's own final edit, kept verbatim. Three items were flagged and not actioned:
 // "setup from scratch" in Skills now contradicts the "partnered with" reporting bullet,
 // "stablecoin" appears nowhere although Plasma is a stablecoin business, and "Owns" sits
-// against an Intern title with no fixed term shown. See OPEN-QUESTIONS.md.
+// against an early-career title with no fixed term shown. See OPEN-QUESTIONS.md.
 
 const { name, contact, education } = require("./common.cjs");
 
@@ -26,7 +26,7 @@ module.exports = {
         {
           org: "Blockchain.com, London, United Kingdom",
           dates: "May 2026 – Present",
-          sub: "Growth Marketing Intern  |  Retail, Wealth and Institutional",
+          sub: "Graduate Growth Marketing Manager  |  Retail, Wealth and Institutional",
           bullets: [
             "Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns. ~$21k of test spend reallocated reducing CPI of GB campaigns by 21.5% while installs increased 30.2%",
             "Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day",
@@ -41,7 +41,7 @@ module.exports = {
           dates: "Feb 2025 – Apr 2026",
           sub: "Performance Marketer",
           bullets: [
-            "Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS",
+            "Managed £50k+ monthly paid budget, sustaining 120% ROAS",
             "Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity; +5% funnel progression",
             "Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output; led weekly Compliance reviews to ship regulated consumer-finance messaging",
           ],

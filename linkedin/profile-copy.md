@@ -8,11 +8,31 @@ LinkedIn does not render markdown, so the role highlights use a pasted bullet ch
 
 ---
 
+## Headline — her final (Nov 2026)
+
+`Growth Marketer @ Blockchain.com | Fintech & Crypto | AI-led Automation and GTM | Grew acquisition 4x across US, UK & EU` (120)
+
+"Grew acquisition 4x" is backed by daily installs 200+ to 800+ (~4x). If asked, explain
+it as daily installs. The options below are kept for reference.
+
 ## Headline (220 character limit, pick one)
 
-1. `Growth Marketing at Blockchain.com | Paid acquisition across 26 markets | MRes Data Science`
-2. `Paid growth for crypto and consumer finance apps | Apple Search Ads, Google, Meta, TikTok | Experimental design background`
-3. `Growth Marketing at Blockchain.com | I run paid acquisition and build the testing and reporting behind it`
+Nov 2026, with numbers at her request (multipliers and percentages). No perps volume and
+no "26 markets" (she finds them irrelevant and hard to follow). Use "US, UK & EU". No "MRes Data Science" in the headline
+(she does not find it attractive there). Built around volume growth, not CPI (she finds
+"cut CPI 76%" unrealistic-sounding). 5x conversions is from Malaberg.
+Detailed results (600+ installs in 7 days from AI UGC) go in the description, not the
+headline.
+
+1. `Growth & Product Marketing at Blockchain.com | Fintech & Crypto | AI-led Go-to-Market | Grew daily installs 4x across US, UK & EU` (129)
+2. `Growth Marketer | Fintech & Crypto | I use AI to solve marketing problems | Grew daily installs 4x and conversions 5x | US, UK & EU | English, Mandarin, Malay` (158)
+3. `Product & Growth Marketing | Fintech & Crypto | AI Automation, Claude Code & MCP | 4x installs, 5x conversions, +12% retention | US, UK & EU` (140)
+
+Earlier options (no outcome numbers):
+
+- `Growth Marketing at Blockchain.com | Paid acquisition across 26 markets | MRes Data Science`
+- `Paid growth for crypto and consumer finance apps | Apple Search Ads, Google, Meta, TikTok | Experimental design background`
+- `Growth Marketing at Blockchain.com | I run paid acquisition and build the testing and reporting behind it`
 
 ---
 
@@ -37,7 +57,7 @@ it lands.
 is AI-generated, and discloses the unit cost. Both are internal operational facts. For
 most companies that is harmless self-promotion; for a regulated crypto brand it is
 something Brand or Comms would want a view on, and "our ads are AI" is a line a
-journalist or competitor could pick up. She is also an intern, which makes it less clearly
+journalist or competitor could pick up. She was on an early-career contract, which makes it less clearly
 hers to disclose. Not a reason to cut it — it is the best sentence — but worth a quick
 word with her manager, which costs nothing now and is awkward after the fact.
 
