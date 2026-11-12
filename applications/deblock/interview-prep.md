@@ -1,260 +1,261 @@
-# Deblock — interview prep
+# Deblock — Junior Performance Marketing Manager: interview prep
 
-Prepared 12 Nov 2026. Built from `notes/candidate-performance-note.md` only. Every figure
-below has a line behind it there. Company facts are from public reporting and the two job
-postings, and are marked where unverified.
+Prepared 12 Nov 2026. Her figures come only from `notes/candidate-performance-note.md`.
+Company facts come from the job posting and the Italian and German press, cited at the
+bottom. "Company figure" means Deblock said it and nobody else checked it.
 
-## First: which role is it?
+## The role in one paragraph
 
-Deblock posted two London marketing roles this week, through Workable. The duties are
-word-for-word the same. The difference is level and language.
+London-based. Day-to-day paid acquisition for **Italy and France** on Meta, TikTok,
+Google and Apple Search Ads. Launch, test, cut and scale on data. Measure CAC,
+conversion, activation and retention by channel and cohort. Run small local projects
+(partnerships, communities, activations) from idea to post-mortem. Own the weekly numbers.
+Wants SQL, spreadsheets and **agentic workflows**. **Italian required**, French a plus.
+Nice-to-haves: 3+ years, fintech or consumer app, mobile attribution tools. The posting
+warns about long hours. Salary plus stock options. Posted 11 Nov 2026.
 
-| | Strategy & Operations Manager, Marketing | Junior Performance Marketing Manager |
-|---|---|---|
-| Posted | 9 Nov 2026 | 11 Nov 2026 |
-| Reports to | ExCo and VP Marketing | Not stated |
-| Brief | Marketing performance analysis and special projects | Day-to-day paid acquisition in **Italy and France** on Meta, TikTok, Google, Apple Search Ads |
-| Language | None stated | **Italian required**, French a plus |
+This is close to her Blockchain.com job. Same four channels, same multi-market work, same
+regulated product. The one hard gap is Italian.
 
-The junior role is the closer fit on channels. It is almost exactly her Blockchain.com
-job. But Italian is a hard requirement and she does not speak it. If this is the
-interview, raise it before they do (see "Gaps" below).
+## Deblock in 90 seconds
 
-If you know which role, the interviewer's name or the stage, tell me and I will tighten
-this.
+- **Product.** Euro current account and card, plus a **self-custodial** crypto wallet in
+  the same app. Customers keep their own keys. Also physical gold, silver, platinum and
+  palladium from €1, stored in Swiss vaults. Strapline: "Own Your Money".
+- **The 4% yield.** Up to 4% a year on the euro balance, once switched on. The money is
+  converted to **EURCV** (Société Générale-Forge's euro stablecoin) and placed in the
+  **Morpho** DeFi protocol. It is **not a bank deposit**. No EU deposit guarantee, the
+  rate is variable, and the customer carries smart-contract risk. Milano Finanza's
+  launch headline flagged exactly this.
+- **Recent features.** Bitcoin round-ups on card spend (May 2026). Free purchase
+  insurance on the card, kept active by one card payment a month (Sep 2026). Gold
+  round-ups (5 Nov 2026).
+- **Current promo: GTA VI refund.** Open an account between 20 Oct and 31 Dec 2026, enter
+  code **PAYDAY**, spend **€1,000 on the card within 90 days**, and Deblock refunds the
+  game, up to €79.99. GTA VI comes out on 19 Nov 2026, a week from now. The article did
+  not say which countries it covers. Check in the app.
+- **Italy.** Launched July 2026. About **20,000 Italian customers** out of **500,000+**
+  overall (company figures, July 2026). The press reported Deblock hiring for the Italian
+  market. This role is part of that.
+- **Other markets.** France since 2024. Germany and Austria under a DACH general manager,
+  Michael Wild (Feb 2026). Benelux. Switzerland mentioned as a possible next step.
+- **Licences.** E-money institution authorised by Banque de France / ACPR. First French
+  fintech with a MiCA licence from the AMF.
+- **Money.** €30m Series A, Nov 2025, led by Speedinvest, with CommerzVentures, Latitude,
+  Kraken Ventures and others.
+- **Founders.** Ex-Revolut and ex-Ledger: **Jean Meyer** (CEO), Adriana Restrepo, Aaron
+  Beck, Mario Eguiluz.
+- **Reviews.** Trustpilot is mixed. Praise for the app. Complaints about fees, accounts
+  closed without explanation, and bonuses not paid out. Do not raise it. If asked what to
+  improve, see "Opinions to have ready".
 
-## Deblock in 60 seconds
+**Before the interview:** download the app and open an account. Note each onboarding step,
+where KYC sits, how the 4% is explained, and whether the GTA promo shows for a UK user.
 
-- **What it is.** A crypto neobank. Euro current account and card, plus a
-  **self-custodial** crypto wallet in the same app, on stablecoin rails. They call it a
-  "fully integrated on-chain bank". Strapline: "Own Your Money".
-- **Licences.** E-money institution authorised by the ACPR (Banque de France). First
-  French fintech licensed under **MiCA** by the AMF (reported as May 2025).
-- **History.** Launched in France in 2024. Expanded across the EEA. Benelux and Germany
-  were named as the next markets after the raise. Business accounts on a waitlist for a
-  Q4 2026 launch.
-- **Money.** €30m Series A, Nov 2025, led by **Speedinvest**, with CommerzVentures and
-  Latitude.
-- **Users.** 300,000+ customers at the Series A. A 500,000+ figure for July 2026
-  circulates but I could not trace it to a primary source. Do not quote it as fact.
-- **Team.** Their Workable page says leadership is ex-Revolut and ex-Ledger.
-- **They describe themselves as** "the fastest growing consumer fintech in Europe",
-  aimed at "people with a salary". That phrase matters. They want mainstream earners, not
-  crypto natives.
-- **Their culture flags.** The junior posting warns about long hours and high standards.
-  Both ask for a "founder mentality" and someone who does "unglamorous" work.
+## What they will test
 
-**Check before the interview** (I could not load their site): founder names and
-backgrounds, current plans and fees, any yield or savings rates, the list of live
-countries, and whether there is any UK product. Download the app and open an account if
-you can. Having used it is the cheapest credibility you can buy.
+1. **Can you run the channels on day one?** Account structure, bidding, budgets, creative
+   testing on all four. She can.
+2. **Do you measure past the install?** Their KPIs are activation and retention. The GTA
+   promo tells you what activation means to them: **card spend**. €1,000 in 90 days.
+   Expect: "Your installs grew 3x. Did they fund anything?" Find that number if it exists
+   (open question #1).
+3. **Do you cut things?** "Launch, test, cut and scale."
+4. **Can you get things done without a team behind you?** "Founder mentality",
+   "unglamorous work", long hours.
+5. **Italian.** Required. They will ask.
 
-## What the JD actually screens for
+## The Italian question
 
-Both postings have four duties. Decoded:
+Raise it yourself early, if they do not. Draft, in her voice:
 
-1. **"CAC, conversion, activation and retention by channel and cohort."** They measure
-   down the funnel, not installs. The first probe will be: did your installs fund
-   anything? (Open question #1 in `OPEN-QUESTIONS.md`. Find that number if it exists.)
-2. **"Turn results into calls for the next round."** Decisions, not reports. They want to
-   hear what you cut.
-3. **"Partnerships, communities, local activations, idea to post-mortem."** Country
-   launches. They are entering new markets and need people who can run one on the ground.
-4. **"Own the weekly numbers. Hold the team to its targets."** Someone who chases other
-   people with data, not just analyses it.
+> I do not speak Italian. I want to be clear about that. At Blockchain.com I ran paid
+> campaigns in 26 markets, and I do not speak most of those languages. I set up API
+> tooling to translate our CRM messages into local languages, and email open rates went
+> up 10%. I would still want a native speaker to check every Italian ad and landing page
+> before it goes live. I speak English, Mandarin, Cantonese and Malay.
 
-Skills named: SQL, **agentic workflows**, spreadsheets, mobile attribution tools.
-"Agentic workflows" appears in both postings twice. It is not filler. They want people
-who automate their own work with AI.
+Then ask: "How fixed is the language requirement for this role?"
 
-## Fit
+Do not argue that Italian does not matter. For creative, tone and community work it does.
+The case is that the **paid buying, testing and measurement** do not need it, and that she
+has done this across languages before.
 
-**Strong.** This is one of the best matches in the search so far.
+French: she has beginner French, cut from the CV. Only mention it if asked, and call it
+beginner.
 
-- Same four paid channels as the junior role, including Apple Search Ads, which most
-  candidates will not have.
-- 128 structured campaign tests, 5 groups scaled, 26 campaigns cut. That is duty #2,
-  literally.
-- Automated reporting twice (Blockchain.com and Malaberg). That is duty #4's machinery.
-- AI UGC pipeline and CRM translation tooling. That is "agentic workflows" with outcomes.
-- 26 markets, 20 storefronts, multi-language CRM. Multi-country is their whole plan.
-- Regulated consumer-finance messaging at both jobs. Deblock is regulated by two French
-  authorities.
-- Malaysia loans go-to-market. That is duty #3, a local launch.
-- MRes with data science. Backs "highly quantitative".
+## Her stories, mapped to the job
 
-**Gaps that will be probed.**
+Each in about 90 seconds: the problem, what she did, the number, what she would do
+differently.
 
-- **Italian (junior role).** Not fixable. Options: say it plainly and ask whether the
-  market can change. Point to Malay, Mandarin and Cantonese plus CRM localisation tooling
-  as proof she runs markets in languages through process, not only fluency. Native
-  speakers still matter for creative QA. Do not argue that point.
-- **French.** Same answer. Deblock's home market is France.
-- **3+ years.** She has about 1 year 9 months. Lean on evidence over tenure.
-- **Mobile attribution (MMP).** She has Apple Search Ads attribution. She has not
-  configured AppsFlyer, Adjust or similar. Say so. Do not get pulled into SKAN detail.
-- **SQL depth.** Listed on the CV. Expect a live question. Revise the basics below.
-- **Activation and retention numbers.** Her strongest numbers are installs and CPI.
+**1. Scaling and cutting (the main story).** Paid search from 187 to 562 daily installs,
+CPI held at ~$1.50, 2 to 26 countries, 9 to 121 campaigns. 128 tests, 5 groups scaled, 26
+campaigns cut. ~$21k of test spend moved. On GB campaigns that cut CPI 21.5% while
+installs rose 30.2%.
+- Scope the 21.5% to GB. The account CPI stayed flat.
+- It was running at 187 a day when she arrived. Not "from zero".
+- Have **one named campaign she killed** ready, with its numbers and her rule for killing
+  it. This is the question most likely to separate her from other candidates.
 
-## Stories, mapped to their four duties
+**2. Paid social creative.** TikTok creative lasts about two weeks and the team kept
+running out of creator assets. She built an AI UGC pipeline: 6 providers tested, 2 hours
+to 30 minutes per video, 100+ videos. CTR 0.4% to 1.15%. **Paid social** CPI $25 to $6.
+Acquisition volume +15%.
+- Always say "paid social". Next to the ~$1.50 search CPI it otherwise looks wrong.
+- This is also her **agentic workflows** answer.
+- Know what the ~$5 per video includes before saying it (open question #6).
+- Link to Italy: AI UGC can make local-language variants fast, with a native speaker
+  checking them.
 
-Have each ready in about 90 seconds. Situation, what she did, number, what she learned.
+**3. Multi-market app store work.** 20 storefronts, 20+ Custom Product Pages over 600+
+keywords in 12 markets. Directly relevant to building Italian Apple Search Ads and
+App Store pages.
 
-### Duty 1 — measure by channel and cohort
+**4. Reporting that holds people to numbers.** Automated Apple Search Ads reporting, 4
+approaches assessed, ~30 min a day saved. She partnered with Data Engineering, AI
+Engineering and Security to put it in a Streamlit dashboard. **Partnered, not built
+alone.** Malaberg: £50k+ monthly budget, 120% ROAS, daily conversions 10 to 50+.
 
-**Paid social CPI, $25 to $6.** The AI UGC creative lifted CTR from 0.4% to 1.15% and
-cut paid social CPI 76%, with acquisition volume up 15%.
-*Always say "paid social".* Next to the ~$1.50 paid search CPI it looks like a
-contradiction otherwise. If asked why the gap: different channel, different intent.
-Search catches people already looking. Social creates the demand.
+**5. Local projects.** 80 crypto publishers approached, which sourced **3 major Wealth
+clients**. Lead with the 3. Malaysia loans go-to-market (paid, brand and tone, KOL,
+affiliate, referral): closest thing she has to a country launch. No outcome yet. Say
+the stage honestly.
 
-**Backup:** the 114-response customer survey across 3 segments (14% response rate). Use
-it to show she segments before she decides. Confirm whether this was Blockchain.com or
-Malaberg first (open question #5).
+**6. Regulated messaging.** Reviewed regulated copy across all Blockchain.com retail
+products. Weekly Compliance reviews at Malaberg. This matters more than usual here:
+see the 4% point below.
 
-### Duty 2 — results into the next round's decisions
+## Likely questions and answer outlines
 
-**The headline story.** Paid search from 187 to 562 daily installs, CPI held at ~$1.50.
-2 to 26 countries. 128 tests. 5 groups scaled. 26 cut. ~$21k of test spend moved.
-On GB campaigns that cut CPI 21.5% while installs rose 30.2%.
-*Scope it.* The 21.5% is GB only. The account-level CPI stayed flat. Say both or neither.
-*Do not say "built paid from zero".* It was running at 187 a day when she arrived.
+**"Why Deblock?"** Short and specific, in her voice:
 
-Be ready for: "What did you cut and why?" Have one named campaign, its numbers and the
-rule she used to kill it.
+> I have run acquisition for a regulated crypto app. The hard part is not the install.
+> It is the first deposit and the second month. Deblock is built around salary and card
+> spend, so the product gives people a reason to come back. And you are opening new
+> countries, which is what I have been doing for six months.
 
-### Duty 3 — special projects, idea to post-mortem
+**"Why are you leaving Blockchain.com?"** The fixed term ends this month. Say the date.
 
-**Publisher outreach.** 80 crypto publishers. That channel sourced **3 major Wealth
-clients**. Lead with the 3 clients.
+**"First 30 days on Italian paid?"**
+- Week 1: audit. Account structure, tracking, which events reach each platform, CAC per
+  funded user and per activated user by channel. Check the data is right first.
+- Apple Search Ads: Italian brand defence, then category terms, then competitor terms
+  (check the obvious ones in the Italian store: Revolut, and local apps such as Hype,
+  Satispay and Young Platform). Custom Product Pages by intent (yield, gold, crypto, card).
+- Meta and TikTok: test angles by product, not just creative. Yield, gold, crypto,
+  GTA promo, card insurance. Find out which one drives funded users, not clicks.
+- Set kill and scale rules before spending.
+- Weekly numbers out to the team from week 2.
 
-**Malaysia loans go-to-market (in flight).** Paid opportunity, brand and tone, KOL,
-affiliate and referral. This is the closest thing to a Deblock country launch. Weakness:
-no outcome yet. Say what stage it is at and what she would measure. Confirm her
-ownership level before calling it hers.
+**"How would you measure this?"** Funnel: install, sign-up, KYC passed, first deposit,
+first card spend, €1,000 spend (the GTA bar), month-2 activity. CAC per step, per channel,
+per weekly cohort. Install CPI can mislead: the cheap channel that never funds is the
+expensive one.
 
-### Duty 4 — own the weekly numbers
+**"What do you think of the GTA promo?"** Have a view. Good: it only pays when someone
+spends €1,000 on the card, so CAC is tied to activation, and the release date gives a
+hard deadline that suits paid social. Risks: bonus hunters who spend once and leave, so
+watch month-3 retention for this cohort against others. Fulfilment has to be clean, since
+reviews already complain about unpaid bonuses. Max cost per activated user is €79.99 plus
+media, which is easy to set a CAC target against.
 
-**Automated Apple Search Ads reporting.** 4 approaches assessed, ~30 min a day saved,
-then worked with Data Engineering, AI Engineering and Security to publish it as a
-Streamlit dashboard. *She partnered on the dashboard. She did not build it alone.*
+**"How would you advertise the 4%?"** Carefully. It is not a deposit, the rate is
+variable and there is DeFi risk. Ads cannot imply a savings account or a guaranteed rate.
+Her compliance review work is the evidence she will not create a problem here. Say she
+would agree the claim wording with Compliance before testing any yield angle.
 
-**Malaberg.** £50k+ monthly budget, 120% ROAS, daily conversions 10 to 50+. Shows she
-has carried a target with her name on it.
+**"Here is a channel report. What do you do?"** Possible live case. Check data quality,
+compare on CAC per funded user, check cohort size before trusting a rate, then say what
+to cut, what to scale and the next test. Say what extra data she would want.
 
-### "Agentic workflows"
+**"Tell me about a mistake."** A real one. A data error caught before it cost money is
+ideal (open question #8).
 
-**AI UGC pipeline.** Spotted the problem: creator assets ran out, and TikTok creative
-lasts about two weeks. Tested 6 model providers. ~2 weeks of prompt work. 2 hours to 30
-minutes per creative. 100+ videos now running on Google, LinkedIn, Meta and TikTok.
-*Know what the ~$5 per video includes before you say it.* (Open question #6.)
+**"Long hours?"** She left a permanent role for a 6-month internship to get category
+experience. That is the evidence. Do not oversell.
 
-**CRM translation tooling.** API tooling translating CRM messages into local languages.
-Email open rate up 10%. Directly relevant to a company launching country by country.
-Also her best partial answer to the Italian gap.
+**"Mobile attribution tools?"** She has Apple Search Ads attribution and platform
+conversion tracking set-up. She has not configured an MMP like AppsFlyer or Adjust. Say
+so, and ask which one they use.
 
-## Likely questions
+**"SQL?"** Be exact about what she has written.
 
-**"Why Deblock?"** Keep it specific. Three facts she can stand behind: she has run
-acquisition for a regulated crypto app, so she knows the hard part is getting a deposit,
-not an install. Deblock's pitch is a salary account, which is a retention product, not a
-trading app. And it is entering new countries, which is the work she has been doing
-across 26 markets. Do not call it "the future of finance".
+## SQL to revise
 
-**"Why leave Blockchain.com?"** It is a 6-month fixed term ending this month. That is the
-whole answer. Say the end date.
-
-**"Walk me through how you would measure CAC by cohort for us."** Define the funnel:
-install, sign-up, KYC passed, first deposit (funded), salary or recurring deposit, card
-spend at 30 and 90 days. CAC per funded account per channel, by weekly sign-up cohort.
-Payback using revenue per funded user. Point out that install CPI can mislead: a cheap
-channel that never funds is the expensive one.
-
-**"What is activation for Deblock?"** Her view, then ask theirs. A reasonable answer:
-first deposit, then the first salary or recurring transfer. The salary one is the real
-retention signal, given the "people with a salary" pitch.
-
-**"How would you launch a new country?"** Use her own sequence from 2 to 26 markets:
-small test budget per channel, Apple Search Ads and Google search first to catch existing
-demand, local creative and app-store pages, kill rules set in advance, then scale what
-clears CAC. Add local partnerships and communities for the duty #3 side. Mention that
-the regulated messaging needs local review.
-
-**"Here is some channel data. What do you do?"** Possible live case. Steps: check the
-data is right first, compare on CAC per funded user not CPI, look at cohort size before
-trusting a rate, name what you would cut, what you would scale and what test you would
-run next. Say what extra data you would want.
-
-**"Tell me about a mistake."** Pick a real one. A data error caught before it cost money
-is ideal if she has one (open question #8).
-
-**"Long hours. How do you feel about that?"** Honest answer. She took a 6-month
-internship over a permanent role to get category experience. That is the evidence.
-
-**"What is your SQL level?"** Be exact about what she has written.
-
-### SQL to revise the night before
-
-Expect something like "CAC per funded user by channel and week":
+Likely ask: CAC per funded user by channel and week.
 
 ```sql
-SELECT
-  u.channel,
-  DATE_TRUNC('week', u.signup_at) AS cohort_week,
-  SUM(s.spend) / NULLIF(COUNT(DISTINCT d.user_id), 0) AS cac_per_funded
-FROM users u
-LEFT JOIN first_deposits d ON d.user_id = u.user_id
-LEFT JOIN spend s
-  ON s.channel = u.channel
- AND DATE_TRUNC('week', s.date) = DATE_TRUNC('week', u.signup_at)
-GROUP BY 1, 2;
+WITH spend_wk AS (
+  SELECT channel, DATE_TRUNC('week', date) AS wk, SUM(spend) AS spend
+  FROM ad_spend
+  GROUP BY 1, 2
+),
+funded_wk AS (
+  SELECT u.channel, DATE_TRUNC('week', u.signup_at) AS wk,
+         COUNT(DISTINCT d.user_id) AS funded
+  FROM users u
+  JOIN first_deposits d ON d.user_id = u.user_id
+  GROUP BY 1, 2
+)
+SELECT s.channel, s.wk, s.spend, f.funded,
+       s.spend / NULLIF(f.funded, 0) AS cac_per_funded
+FROM spend_wk s
+LEFT JOIN funded_wk f ON f.channel = s.channel AND f.wk = s.wk
+ORDER BY 1, 2;
 ```
 
-The trap in that query is the spend join: it duplicates spend for every user row.
-Aggregate spend and funded users separately by channel and week, then join the two
-results. Spotting that out loud scores better than writing it perfectly.
+The point to say out loud: aggregate spend and users **separately**, then join. Joining
+raw spend to user rows counts the spend once per user.
 
-Also revise: `GROUP BY` with `HAVING`, `LEFT JOIN` versus `INNER JOIN`, window functions
-for retention (`ROW_NUMBER`, `LAG`), and `COUNT(DISTINCT ...)`.
+Also revise `LEFT` versus `INNER JOIN`, `HAVING`, `COUNT(DISTINCT)`, and window functions
+for retention (`ROW_NUMBER`, `LAG`).
 
-## Things not to say
+## Opinions to have ready
 
-- "Built the paid function from scratch." False.
-- "Built the Streamlit dashboard." Partnered on it.
-- The 21.5% CPI cut without "on GB campaigns".
-- The $25 to $6 CPI without "paid social".
-- Any MMP, AppsFlyer or SKAN experience. None.
-- The unverified 500,000 user figure.
-- Anything about their Trustpilot reviews unless asked. Reviews mention unexplained
-  account closures and fees that feel high. If asked what she would improve, fee clarity
-  in onboarding is a safe, useful answer.
+- **Activation:** first card spend, then a recurring or salary deposit.
+- **Best Italian angle to test first:** gold. A first in Europe, an asset Italians know,
+  and no deposit-guarantee confusion like the 4%. Say it is a hypothesis to test.
+- **What to improve:** fee clarity at onboarding. Reviews complain about it, and it is a
+  conversion lever, not just a support issue.
+
+## Do not say
+
+- "Built paid from scratch."
+- "Built the Streamlit dashboard."
+- The 21.5% without "on GB campaigns".
+- $25 to $6 without "paid social".
+- Any MMP, AppsFlyer or SKAN experience.
+- That the 4% is a savings account or guaranteed.
 
 ## Questions to ask them
 
-- What counts as an activated user here, and which number does the team report weekly?
-- Who owns attribution today, and which tool is in place?
-- Which markets are you launching next, and is this role tied to one of them?
-- (Junior role) How fixed is the Italy focus? Is there room for a market where the
-  language is not the barrier?
+- How fixed is the Italian requirement?
+- What counts as an activated user, and which number is reported weekly?
+- What is CAC per funded user in Italy today, against France?
+- Which MMP do you use, and who owns it?
+- How does Compliance review new Italian creative, and how long does it take?
+- Who would I report to, and how big is the Italy team?
 - What does a strong first 90 days look like?
-- How does marketing work with compliance on new-market copy?
 
-## Before the interview
+## Checklist
 
-1. Confirm which role and the interviewer. Look them up on LinkedIn.
-2. Open the app. Note the onboarding steps and where KYC and first deposit sit.
-3. Find the funded or activation number from Blockchain.com, if one exists.
-4. Confirm the $5 per video scope, the survey's employer, and Malaysia ownership.
-5. Write out one named campaign you killed, with its numbers.
-6. Do the SQL revision above.
-7. Check founder names and current pricing on deblock.com.
+1. Find out who is interviewing. Look them up.
+2. Open an account. Screenshot onboarding.
+3. Find a funded or activation number from Blockchain.com, if one exists.
+4. Confirm the $5 scope and the Malaysia ownership.
+5. Write out one campaign she killed, with numbers.
+6. Practise the Italian answer out loud.
+7. SQL revision.
 
 ## Sources
 
-- [Junior Performance Marketing Manager posting (freehire, from Workable)](https://freehire.me/jobs/junior-performance-marketing-manager-deblock-hcxap7kt)
-- [Strategy & Operations Manager, Marketing posting (freehire, from Workable)](https://freehire.me/jobs/strategy-operations-manager-marketing-deblock-66ptevqs)
-- [CommerzVentures on the €30m Series A](https://commerzventures.com/news/deblock)
-- [Delano: Deblock targets Benelux after €30m raise](https://delano.lu/article/french-crypto-fintech-deblock-targets-benelux-after-eu30m-raise)
-- [Tech Funding News on the Series A](https://techfundingnews.com/crypto-banking-fintech-deblock-secures-30m-series-a-to-expand-fully-on-chain-banking-across-europe/)
-- [Stablecoin Insider neobank comparison (source of the unverified 500k figure)](https://stablecoininsider.org/neobanks-built-on-stablecoin-rails-compared/)
+- [Posting (freehire, from Workable)](https://freehire.me/jobs/junior-performance-marketing-manager-deblock-hcxap7kt)
+- [Milano Finanza: Italy launch, 4% yield, deposit-protection caveat, 13 Jul 2026](https://www.milanofinanza.it/news/deblock-sbarca-in-italia-conto-al-4-cripto-oro-fisico-in-un-unica-app-occhio-alla-tutela-dei-202607131304182619)
+- [Finanza Digitale: Italy plans](https://www.finanzadigitale.com/news/deblock-italia/)
+- [Finanza Digitale: GTA VI promo, 23 Oct 2026](https://www.finanzadigitale.com/news/deblock-gta-vi/)
+- [Finanza Digitale: gold round-ups](https://www.finanzadigitale.com/news/deblock-arrotondamento-oro/)
+- [AziendaBanca: card insurance, 10 Sep 2026](https://www.aziendabanca.it/notizie/fintech-insurtech/deblock-assicurazione-gratuita-per-chi-usa-la-carta)
+- [BTC-Echo: DACH general manager, 23 Feb 2026](https://www.btc-echo.de/schlagzeilen/krypto-michael-wild-general-manager-dach-deblock-225957/)
+- [CommerzVentures: Series A](https://commerzventures.com/news/deblock)
 - [Trustpilot reviews](https://www.trustpilot.com/review/deblock.com)
