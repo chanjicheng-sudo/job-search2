@@ -6,7 +6,7 @@ Data-driven marketer working across 26 markets in regulated fintech, with a data
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and turning that signal into an outreach programme to 80 publishers built with AI

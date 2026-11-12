@@ -6,7 +6,7 @@ Crypto marketer working across retail, wealth and institutional products, with a
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning research with active, inactive and churned users into product requirements, then working with Product to change the in-app explainer and help page

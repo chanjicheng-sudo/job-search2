@@ -6,7 +6,7 @@ Growth analyst and operator in regulated fintech and digital assets, working acr
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Cut UK CPI by 21.5% while installs rose 30.2% by analysing 128 structured tests across 26 markets and reallocating ~$21k from 26 underperforming campaigns to 5 scalable campaign groups

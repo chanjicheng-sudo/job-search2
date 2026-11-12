@@ -6,7 +6,7 @@ Crypto marketer working across business development, market expansion and growth
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under new EU crypto regulation (MiCAR), and building and running an outreach programme to 80 publishers with AI

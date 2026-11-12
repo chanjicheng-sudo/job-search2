@@ -22,7 +22,7 @@ module.exports = {
       heading: "EXPERIENCE",
       roles: [
         {
-          org: "Growth Marketing Intern",
+          org: "Graduate Growth Marketing Manager",
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [

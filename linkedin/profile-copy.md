@@ -57,7 +57,7 @@ it lands.
 is AI-generated, and discloses the unit cost. Both are internal operational facts. For
 most companies that is harmless self-promotion; for a regulated crypto brand it is
 something Brand or Comms would want a view on, and "our ads are AI" is a line a
-journalist or competitor could pick up. She is also an intern, which makes it less clearly
+journalist or competitor could pick up. She was on an early-career contract, which makes it less clearly
 hers to disclose. Not a reason to cut it — it is the best sentence — but worth a quick
 word with her manager, which costs nothing now and is awkward after the fact.
 

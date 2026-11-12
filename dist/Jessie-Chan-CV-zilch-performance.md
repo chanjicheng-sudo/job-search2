@@ -6,7 +6,7 @@ Performance marketer specialising in paid social and paid app acquisition for fi
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased CTR from 0.4% to 1.15% (+188%) and reduced paid social CPI from $25 to $6 (−76%) by building an AI UGC production workflow, delivering 100+ video assets across TikTok and Google Ads and cutting production time by 75%

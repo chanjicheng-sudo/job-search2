@@ -6,7 +6,7 @@ Growth marketer who runs AI systems and builds with them. I have manually done e
 
 ## EXPERIENCE
 
-**Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Ran 128 structured campaign tests across 26 countries, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns

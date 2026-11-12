@@ -6,7 +6,7 @@ AI-first growth marketer across 26 markets in regulated fintech and digital asse
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Built an 80-publisher outreach list with AI after spotting that a major exchange was losing access to European clients under new EU digital asset regulation (MiCAR), and ran the outreach, sourcing 3 major high net worth clients

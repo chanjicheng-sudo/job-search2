@@ -6,7 +6,7 @@ AI builder in regulated fintech and digital assets. I find where a team loses ti
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Built MCP connectors, API integrations and internal bots, including automated reporting shipped to production as a company-wide dashboard with Data Engineering and Security, saving the team ~10 hours a month

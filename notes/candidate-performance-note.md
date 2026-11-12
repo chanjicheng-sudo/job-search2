@@ -7,8 +7,11 @@ backed by a line here.
 **Verification status:** the Apple Search Ads and paid acquisition figures were vouched
 for by the reporting recruiter. All other figures are self-reported.
 
-**Role held:** Growth Marketing Intern, Blockchain.com, London. May 2026 – present
-(6 months, fixed term). Scope covered Retail, Wealth and Institutional.
+**Role held:** Graduate Growth Marketing Manager, Blockchain.com, London, on a fixed-term
+contract. May 2026 – present. Scope covers Retail, Wealth and Institutional.
+**Never call it an internship or her an intern in any application, CV, letter or prep
+(her instruction, Nov 2026).** Earlier files used "Growth Marketing Intern"; all CVs were
+updated.
 
 ---
 
@@ -220,7 +223,7 @@ reliably without her. Do not claim autonomous or production agent deployment bey
 reporting tool and the fly.io bots until that changes.
 
 **Visa (superseded Nov 2026: she is now on a dependant visa with the right to work in
-the UK, no sponsorship needed).** Her Graduate visa was ending around the end of the internship in November. Any
+the UK, no sponsorship needed).** Her Graduate visa was ending around November. Any
 UK role needs Skilled Worker sponsorship. As a switcher from the Graduate route she
 qualifies for the new entrant rate. This affects every application, not only US ones.
 

@@ -6,7 +6,7 @@ B2C fintech marketer working across campaigns, copy, creative and partners in 26
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Built the company's first in-house AI UGC workflow in 2 weeks after spotting competitors running AI-generated ads, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%) and driving 600+ installs in the first 7 days of the yield product relaunch

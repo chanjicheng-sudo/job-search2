@@ -6,7 +6,7 @@ Problem solver in regulated crypto and fintech, working across 26 markets with C
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Cut reporting time by ~10 hours a month by replacing manual reporting with automation built in Claude Code, MCP connectors and APIs, shipped to production as a company-wide dashboard with Data Engineering and Security

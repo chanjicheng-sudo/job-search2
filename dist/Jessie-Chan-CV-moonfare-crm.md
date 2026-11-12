@@ -6,7 +6,7 @@ CRM and growth marketer in regulated fintech and digital assets, working across 
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased email open rate by 10% by localising Iterable (CRM) communications into 24 languages with built-in APIs

@@ -6,7 +6,7 @@ Product marketer in fintech and crypto, owning go-to-market launches, positionin
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by owning the go-to-market end to end, from positioning, brand and tone to KOL, affiliate and referral partner campaigns, with Legal and a new compliance review process

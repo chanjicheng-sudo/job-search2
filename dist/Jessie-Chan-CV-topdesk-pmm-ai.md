@@ -6,7 +6,7 @@ Marketer who builds with AI, working across go-to-market, positioning and produc
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased CTR from 0.4% to 1.15% (+188%) and cut production time by 75% by building the company's first in-house AI content workflow, evaluating 6 AI model providers and prompt-engineering output to brand and compliance standards

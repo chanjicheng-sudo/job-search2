@@ -6,7 +6,7 @@ Growth marketer specialising in consumer fintech apps, across app-store optimisa
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by running voice-of-customer research with active, inactive and churned users and introducing a product explainer

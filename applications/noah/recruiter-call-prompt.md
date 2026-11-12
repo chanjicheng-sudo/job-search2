@@ -56,9 +56,9 @@ how fast you got good.
 
 - Ji Cheng (Jessie) Chan, London. Malaysian. English, Mandarin and Cantonese (native),
   Malay (fluent).
-- **Now:** Institutional and Retail Growth Marketing Intern at Blockchain.com, May 2026 to
-  present (6-month fixed term), across Retail, Wealth and Institutional. I left a
-  full-time job to take this internship because I wanted to move into financial services
+- **Now:** Graduate Growth Marketing Manager at Blockchain.com, fixed-term contract, May 2026 to
+  present across Retail, Wealth and Institutional. I left a
+  full-time job to take this role because I wanted to move into financial services
   and digital assets.
 - **Before:** Performance Marketer at Malaberg, London, Feb 2025 to Apr 2026.
 - **Education:** MRes Experimental Psychology with Data Science, University of Manchester
@@ -115,7 +115,7 @@ difference in one line if asked ("the 3x was at an earlier point, it is about 4x
 - **Organic social and CEO content:** not on my record.
 - **B2B brand:** my B2B evidence is pipeline (20+ leads, 3 major clients), not brand.
 - **X ads:** I run them, but I need to bring my own results. Ask me for them.
-- **Seniority:** first marketing hire, and I am finishing an internship. Help me answer
+- **Seniority:** first marketing hire, and my fixed-term contract is ending. Help me answer
   "can you own marketing on your own?" with evidence (Malaysia, AI UGC, dashboards).
 
 Rule: never let me apologise for a gap. Name the nearest thing I have done, then how I
@@ -124,10 +124,10 @@ would learn it.
 ## 6. Recruiter screening questions to cover
 
 - Walk me through your background. (Keep to 60 seconds. Lead with the move into fintech.)
-- Why are you leaving Blockchain.com? (Fixed-term internship ending. Do not criticise it.)
+- Why are you leaving Blockchain.com? (Fixed-term contract ending. Do not criticise it.)
 - Why Noah, and why this role?
 - What do you know about Noah and what we do?
-- Why did you leave a full-time job for an internship?
+- Why did you leave a full-time job for a graduate role?
 - What are your salary expectations? (Help me research a range for a first marketing hire
   at a seed-stage London fintech before I answer, and practise giving a range, not a
   single number.)

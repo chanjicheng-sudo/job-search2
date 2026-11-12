@@ -6,7 +6,7 @@ Lifecycle and product marketer for fintech apps across 26 markets, covering CRM,
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased email open rate by 10% by localising lifecycle communications in Iterable (CRM) into 24 languages with built-in APIs

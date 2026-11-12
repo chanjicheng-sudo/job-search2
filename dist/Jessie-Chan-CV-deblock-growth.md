@@ -6,7 +6,7 @@ Growth marketer in fintech and digital assets who builds AI systems to acquire, 
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Cut reporting time by ~10 hours a month by building agentic reporting workflows with Claude Code and MCP connectors, shipped to production as a company-wide dashboard with Data Engineering and Security

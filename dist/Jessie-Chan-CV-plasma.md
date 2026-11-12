@@ -7,7 +7,7 @@ Growth marketer specialising in paid user acquisition for consumer finance apps,
 ## EXPERIENCE
 
 **Blockchain.com, London, United Kingdom** — May 2026 – Present
-*Growth Marketing Intern  |  Retail, Wealth and Institutional*
+*Graduate Growth Marketing Manager  |  Retail, Wealth and Institutional*
 
 - Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns. ~$21k of test spend reallocated reducing CPI of GB campaigns by 21.5% while installs increased 30.2%
 - Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day

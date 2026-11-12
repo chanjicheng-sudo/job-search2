@@ -6,7 +6,7 @@ Fintech/digital asset marketer working across go-to-market, positioning and prod
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading voice-of-customer research with active, inactive and churned traders and making the product and risk explainer persistent

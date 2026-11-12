@@ -6,7 +6,7 @@ Crypto and fintech marketer who runs projects end to end across 26 markets, coor
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by managing the launch end to end, coordinating Legal, a new compliance review process and KOL, affiliate and referral partners

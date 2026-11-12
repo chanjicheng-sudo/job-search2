@@ -6,7 +6,7 @@ Problem solver in regulated fintech and crypto, working across 26 markets with P
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Increased user retention by 12% by root-causing churn on our perps product through research with active, inactive and churned users, then working with Product to make the in-app explainer persistent and rework the help page

@@ -4,6 +4,13 @@ Locked preferences for anyone (or any assistant) producing CVs, LinkedIn copy, c
 letters or application answers for Jessie. These were established by trial and error, and
 several of them exist because a draft was rejected for breaking them.
 
+## Her title (Nov 2026)
+
+She is a **Graduate Growth Marketing Manager at Blockchain.com on a fixed-term contract**
+(May 2026 – present). **Never write "intern", "internship" or "intern's role"** in any CV,
+cover letter, message, form answer or interview prep. Say "fixed-term contract" where the
+end date matters (for example "my fixed-term contract is ending").
+
 ## Target roles (Nov 2026)
 
 She wants to stay in **fintech and mobile apps**. Flag any role outside that before

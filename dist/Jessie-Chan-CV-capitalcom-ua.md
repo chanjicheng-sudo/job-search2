@@ -6,7 +6,7 @@ Performance marketer specialising in paid acquisition for regulated fintech and 
 
 ## EXPERIENCE
 
-**Institutional and Retail Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding paid search CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day

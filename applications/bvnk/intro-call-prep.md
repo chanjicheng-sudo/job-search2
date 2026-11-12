@@ -61,7 +61,7 @@
 
 ## 7. Salary, notice, logistics
 - "Could you share the **band for the London role**?" → then a **range**, never one number
-- Internship ending → **can start soon** (have a date)
+- Fixed-term contract ending → **can start soon** (have a date)
 - **Dependant visa**, right to work, **no sponsorship**
 - Other interviews: "a few fintechs" → **never say Noah**
 
@@ -122,7 +122,7 @@ watch the product keynote, so expect "What do you know about BVNK?".
 | Value | What they mean | Your story |
 |---|---|---|
 | **Move fast** | Urgency, bold decisions, focus on outcomes | Built the AI UGC workflow in 2 weeks. Recreated the yield product creative after the rebrand, 600+ installs in 7 days |
-| **Over deliver** | Act like it is day one, hunger, humility, curiosity | Took on responsibility beyond an intern's role. Led the Malaysia launch on your own initiative, 4 HNW clients in a month |
+| **Over deliver** | Act like it is day one, hunger, humility, curiosity | Took on responsibility beyond my role. Led the Malaysia launch on your own initiative, 4 HNW clients in a month |
 | **Relentlessly resourceful** | Find a solution whatever the obstacle | Creators ran out, so you built AI UGC. Spotted the MiCA shift and built an 80-publisher list with AI, 3 major clients |
 
 Their staff also talk about **"talent density and extreme agency"** and being **"healthy
@@ -256,7 +256,7 @@ for cross-border payouts. Know the basics: stablecoin pre-funding, settlement,
 on-ramp and off-ramp, embedded wallets.
 
 **"Why are you leaving Blockchain.com?"**
-> My internship is a six-month fixed term, so it is ending. I want a permanent role where I
+> My contract is fixed-term, so it is ending. I want a permanent role where I
 > can own product marketing.
 
 **"Are you interviewing elsewhere?"**
@@ -274,7 +274,7 @@ Yes, without names. **Do not mention Noah**, which competes with BVNK.
   give a range, not a number. Research the London band for a mid-level PMM at a
   Mastercard-owned fintech before the call. A rough guide for your level in London is
   £50k to £70k, but check it.
-- **Notice and start date.** Your internship is ending, so you can start soon. Have a
+- **Notice and start date.** Your fixed-term contract is ending, so you can start soon. Have a
   date ready.
 
 ---
