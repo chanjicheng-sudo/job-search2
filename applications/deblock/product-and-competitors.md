@@ -81,10 +81,7 @@ with crypto. That matters in Italy, where gold is a familiar asset.
 - **Coinhouse:** French crypto broker, MiCA May 2026, ~1.49% per trade.
 - **Paymium:** French Bitcoin exchange, MiCA June 2026, ~0.4–0.6% on BTC.
 
-**Stablecoin neobanks**
-- **Plasma One:** launched June 2026, USDT-based, card with cashback, high yield, not
-  insured. Middle East first, no EU launch confirmed. (She applied to Plasma, so expect
-  to know it well.)
+**Crypto cards and stablecoin neobanks:** see the next section.
 
 ## Where Deblock wins and where it does not
 
@@ -104,6 +101,93 @@ with crypto. That matters in Italy, where gold is a familiar asset.
 - **Fees.** 1.99% on Standard is higher than Bitpanda, Paymium and Trade Republic. Premium
   at 0.49% is competitive but costs €120–180 a year.
 - **Asset range.** 150+ is fewer than Revolut (280+) and Bitpanda (600+).
+
+## Crypto cards and stablecoin neobanks
+
+Added after a second research pass. Many of these figures come from competitor blogs
+(Bleap writes about its rivals) and affiliate review sites. The most neutral overview is
+[DeFiprime, Sep 2026](https://defiprime.com/crypto-debit-cards-2026).
+
+### Five models in the market
+
+1. **A card attached to a self-custody wallet.** The card spends straight from your
+   wallet. Examples: MetaMask Card, Bleap, Gnosis Pay, Plasma One. Main risk: smart
+   contracts and the card programme manager. Both failed this year (see below).
+2. **Borrow to spend.** You spend a loan against your ETH or BTC instead of selling it,
+   so there is no taxable sale. ether.fi Cash. Risk: liquidation and interest.
+3. **The operator holds your money,** often through an offshore company. KAST, RedotPay.
+4. **Exchange or broker card.** Your crypto is sold when you pay. Revolut, Bitpanda,
+   Crypto.com, OKX.
+5. **Regulated euro account plus wallet.** A real euro IBAN you can be paid into, under
+   an EU licence, with crypto and on-chain yield alongside. **This is Deblock.** Holyheld
+   is the nearest copy, with a weaker licence (Lithuanian VASP, MiCA pending).
+
+### Card by card
+
+| | Custody | What you spend | Own euro IBAN | Cashback | Yield | EU licence |
+|---|---|---|---|---|---|---|
+| **Deblock** | Euro account at an EMI, plus self-custody wallet | Euros | **Yes, French** | Not a focus | Up to ~4% on euros (EURCV in Morpho), variable | EMI + MiCA |
+| **ether.fi Cash** | Vault, with an ether.fi recovery signer | Crypto, or a loan against it | No | Up to 3% | DeFi, plus borrowing | None found |
+| **Plasma One** | Self-custody | USDT (dollars) | No | 2–4%, paid in XPL token | Up to 5% | Planned. Bought an Italian VASP |
+| **Gnosis Pay** | Safe wallet | EURe stablecoin | Via Monerium | Ended | — | Card via Monavate (EMI). **Closing 20 Dec 2026** |
+| **MetaMask Card** | Own wallet | USDC/USDT | No | 1% in mUSD | — | Card via Monavate (EMI) |
+| **Bleap** | Smart wallet | USDC | Not confirmed | 2% claimed | — | Card via Unlimit (EMI) |
+| **KAST** | Operator holds a claim | USD stablecoin | No | 1.5–3% | — | Comoros entity |
+| **Holyheld** | Converted on top-up | Euros | Yes | 0.5–1% | — | Lithuanian VASP |
+| **Revolut / Bitpanda** | Custodial | Crypto sold when you pay | Revolut account / none | ~0 / 1% | Staking | MiCA |
+
+Notes:
+- **ether.fi Cash:** $800M+ total card spend, ~70k active cards, ~300k accounts.
+  $123.7M spent in Sep 2026. Moved to OP Mainnet in Feb 2026. Tiers: free, ~$199/yr,
+  ~$999/yr. France and Italy availability only from affiliate lists.
+- **Plasma One:** launched 17 Jun 2026. Card issued by Rain. Plasma says it is "not a
+  regulated financial institution". DefiLlama lists only the US as supported. Was
+  invite-only in July. $19.9M spend in Aug 2026. (Jessie applied to Plasma. If it comes
+  up, say so plainly.)
+- **Gnosis Pay:** exploit in June 2026 (users reportedly repaid), a customer data breach
+  disclosed 6 Nov 2026, and the consumer card **shuts down on 20 Dec 2026** as the
+  company moves to business white-label.
+- **Tria / Rain:** a contract exploit in Aug 2026 drained ~$432k from 636 users, who
+  were refunded. Rain also issues ether.fi and Plasma One cards.
+- **KAST:** claims 1M+ users, raised $80M in Mar 2026. Liability capped at $500.
+- **Binance:** card withdrawn from the EEA since Dec 2023. **OKX:** EU card since Jan
+  2026, issued by Monavate under MiCA.
+
+### Where Deblock differs from crypto cards
+
+- **It is a current account first.** A French IBAN for salary and direct debits.
+  Most crypto cards have no IBAN of your own.
+- **Euros, not dollars.** The yield is on a euro stablecoin from Société Générale-Forge.
+  No currency risk and no reward token. Plasma One is USDT. Most cashback is paid in
+  tokens (XPL, mUSD) whose value moves.
+- **Regulated in France.** EMI plus the first AMF MiCA licence. Several card rivals have
+  no EU licence of their own and rely on a card issuer.
+- **Caveat: Deblock also uses DeFi.** The yield runs through Morpho, and one source says
+  the DeFi access sits outside the MiCA licence, through a separate company (Techblock
+  Ltd). So **do not claim "no smart-contract risk"**. Yield figures quoted in 2026 range
+  from 4% to "up to 6%". Check the current rate in the app.
+
+### Where crypto cards beat Deblock
+
+- Cashback of 1–4%. Deblock does not compete on it.
+- Higher headline yield (Plasma One up to 5%, in dollars).
+- Borrowing against crypto without selling it (ether.fi).
+- Global reach. KAST and Plasma One target 150+ countries.
+- Many are free with no FX fee. Deblock's lower crypto fee needs Premium at €14.99.
+
+### For paid acquisition
+
+- **Crypto-native audience** (X, YouTube, Telegram): ether.fi, Bleap, MetaMask and
+  Plasma One fight here with referral codes and affiliate review sites. Bleap publishes
+  Italian and French comparison pages. Do not get pulled into a cashback war against
+  token-funded rewards.
+- **What Deblock can own:** "a real euro IBAN, not a top-up card", "licensed in France",
+  "yield on euros, not dollars".
+- **Live opportunity: Gnosis Pay users.** Gnosis Pay's customers are EU users who keep
+  their own keys and spend euros. That is Deblock's audience exactly, and their card stops
+  on 20 Dec 2026. A "moving from Gnosis Pay?" search and social campaign has a five-week
+  window. **This is a good idea to bring to the interview.** Check that Deblock has not
+  already done it, and frame it as a test.
 
 ## What this means for paid acquisition (her angle in the interview)
 
@@ -177,3 +261,25 @@ Others
 - [Coinhouse](https://signal-alpha.fr/avis-coinhouse/)
 - [Paymium MiCA](https://www.paymium.com/blog-en/paymium-obtains-mica-authorisation-amf)
 - [Plasma One](https://www.pymnts.com/cryptocurrency/2026/british-neobank-plasma-debuts-stablecoin-banking-product/)
+
+Crypto cards
+- [DeFiprime, crypto debit cards 2026](https://defiprime.com/crypto-debit-cards-2026)
+- [ether.fi Cash spend figures](https://cryptobriefing.com/ether-fi-cash-exceeds-800m-spend/)
+- [ether.fi Sep spend](https://cryptonews.net/news/market/33683650/)
+- [ether.fi moves to OP Mainnet](https://www.optimism.io/blog/ether.fi-is-migrating-to-optimism-op-mainnet)
+- [Plasma One launch details](https://www.spendnode.io/blog/plasma-one-launch-aave-self-custodial-stablecoin-visa-june-2026/)
+- [Plasma licensing](https://www.plasma.org/company/blog/licensing-our-payments-stack-to-reach-global-scale)
+- [Plasma One on DefiLlama](https://defillama.com/protocol/card-details/plasma-one)
+- [Gnosis Pay consumer shutdown](https://cryptobriefing.com/gnosis-pay-shutdown-consumer-cards-b2b/)
+- [Gnosis Pay data breach](https://crypto.news/gnosis-pay-customer-data-breach-legacy-card-system/)
+- [Gnosis Pay exploit](https://blog.verichains.io/p/gnosis-pay-exploit-the-devs-discovered)
+- [MetaMask Card FAQ](https://support.metamask.io/nl/trade/metamask-card/card-faq/)
+- [Bleap cardholder terms](https://www.bleap.finance/legal-agreements/bleap-cardholder-terms-eea)
+- [KAST Series A](https://fintech.global/2026/03/10/stablecoin-fintech-kast-raises-80m-series-a/)
+- [Holyheld](https://www.cryptocardhub.com/card/holyheld-card)
+- [Tria / Rain exploit](https://www.spendnode.io/blog/tria-rain-solana-card-vulnerability-636-users-refund-august-2026/)
+- [OKX EU card](https://cointelegraph.com/news/okx-eu-crypto-card-regulated-issuer-monavate)
+- [Binance card leaves Europe](https://blockworks.com/news/binance-europe-visa-services)
+- [Revolut crypto card](https://www.blockhead.co/2026/05/19/revolut-launches-physical-crypto-card-with-dogecoin-theme-led-display/)
+- [Deblock DeFi via Techblock (Capitalo)](https://www.capitalo.de/anbieter/deblock)
+- [Deblock EURCV vault (Coinacademy)](https://coinacademy.fr/actu/deblock-eur-coinvertible-societe-generale-forge-coffre-eurcv/)
