@@ -12,10 +12,10 @@ Growth marketer in fintech and digital assets who generates qualified leads and 
 - Generated 20+ active leads for Institutional business development by researching and building a 100-operator prospect database, working with the Senior B2B Product Marketing Manager
 - Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCA, then building an outreach list of 80 publishers with AI and running the outreach
 - Converted 4 high net worth clients onto the loans product in Malaysia within 1 month of launch by running the go-to-market end to end, from positioning to KOL, affiliate and referral partnerships
-- Increased user retention by 12% by researching why active, inactive and churned users dropped off our perps product, then turning the findings into clearer product messaging with Product
+- Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by researching why active, inactive and churned users dropped off, then turning the findings into clearer product messaging with Product
+- Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team
 - Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured tests on keywords, bids and creative across 26 markets, then scaling the 5 campaign groups that worked
 - Increased email open rate by 10% by building API tools that localise Iterable (CRM) communications into 24 languages
-- Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team
 - Delivered 30+ creative briefs and 40 ads across 9 channels including LinkedIn, and supplied 50+ assets to 3 external partners
 - Cut reporting time by ~10 hours a month by building automated reporting with Claude Code and MCP connectors, shipped as a company-wide dashboard
 
