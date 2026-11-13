@@ -49,6 +49,49 @@ you quote it. Never quote a rate or fee in the interview that you have not seen 
 **Licences:** e-money institution (ACPR, Banque de France). MiCA crypto licence (AMF).
 It is **not a bank**. Revolut, Trade Republic and N26 are.
 
+## How the 4% works technically (from Deblock's own terms)
+
+Source: [Deblock "Auto Sweep" terms, 20 Feb 2026](https://cdn1.deblock.com/terms/fixed_rate-yield-terms/20260220_fixed_rate_yield_terms_v0_EN.pdf)
+and Deblock's [4% page](https://deblock.com/en/4-percent-current-account), both read in
+full on 13 Nov 2026. The legal name of the feature is **Auto Sweep**.
+
+- **Opt-in.** Switched on in the app. The 4% is "applicable to Premium and Native
+  clients" (rate as of 1 Apr 2026). Standard is reported at 2%.
+- **A separate wallet.** Switching it on creates a dedicated "Auto Sweep Wallet". It is
+  a **multi-sig wallet: every transaction needs both the client's and Deblock's
+  signature**. It holds the vault shares. Keys are encrypted, with the encryption key held
+  in escrow. Deblock calls it "strictly non-custodial": Deblock cannot move the funds
+  alone. But the client cannot move them alone either.
+- **Everything is swept.** Any euros arriving in the account are automatically converted
+  into EURCV vault shares. "The Client does not hold safeguarded fiat euros for the swept
+  amount, as the entire balance is represented on-chain."
+- **Spending.** On a card payment or transfer, "an equivalent portion of vault shares is
+  automatically redeemed" and converted back to euros to settle it. **No lock-up and no
+  manual unstaking.** The terms do not say whether Deblock fronts the money while the
+  on-chain redemption completes.
+- **Opting out.** One tap. The euros go back to being safeguarded e-money.
+  **Exporting the private key** ends the feature permanently for that wallet: everything
+  is converted back to euros and any unpaid yield is given up. This is the "irreversible"
+  part reported elsewhere.
+- **The rate.** A fixed rate set by Deblock, "independent from the effective performance
+  of the underlying Vault". Deblock keeps the surplus in a reserve and tops up from the
+  reserve, then from its treasury. Bitcoin is the only collateral accepted. Any incentive
+  tokens are sold for euros at a fixed price set by Deblock.
+- **Risks the terms list:** smart contract, market, **liquidity** ("difficulty exiting
+  your position"), no direct recourse, and **no deposit protection**. "Not capital
+  protection."
+- **Who does what.** Deblock SAS converts euros to and from crypto and pays the yield.
+  **Techblock Ltd** (London, Companies House 14400234) provides the routing and interface,
+  and its name is on the vault ("Techblock x Steakhouse EURCV"). A separate firm,
+  Steakhouse, curates the vault. The DeFi access "is not governed by" MiCA.
+- **Open question:** what happens to a card payment if the vault has no free liquidity at
+  that moment. The terms list the risk but not the handling.
+
+**Pricing page corrections (read 13 Nov 2026):** Standard is free and Premium is shown at
+€10/month. Metals cost **1.99% on Standard** and 0.49% on Premium, not 0.49% for everyone.
+Card cashback is 0% on Standard and up to 1% on Premium. Converting a percentage of salary
+to crypto is free on both plans.
+
 ## How it differs: one line
 
 > The only app here that gives you a euro current account and a crypto wallet **you own
