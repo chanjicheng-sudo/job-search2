@@ -6,7 +6,7 @@ Growth marketer who runs AI systems and builds with them. I have manually done e
 
 ## EXPERIENCE
 
-**Growth Marketing Intern** — May 2026 – Present
+**Graduate Growth Marketing Manager** — May 2026 – Present
 *Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional*
 
 - Ran 128 structured campaign tests across 26 countries, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns
@@ -15,8 +15,11 @@ Growth marketer who runs AI systems and builds with them. I have manually done e
 - Automated daily paid media reporting with Claude Code and Cursor, cutting 30 min/day of manual work, and partnered with Data Engineering and Security to publish it as an internal dashboard
 - Built MCP and API integrations and internal bots to remove repeat manual work across the team
 - Implemented API tools to translate CRM communications into local languages, increasing email open rate by 10%
-- Reviewed regulated customer-facing messaging across all retail products and owned app-store content across 20 storefronts in UK, US and EU markets
+- Played a key role in rolling out the UK FinProm approval process with Compliance, reviewing regulated messaging across all retail products and app-store content across 20 storefronts in UK, US and EU markets
 - Developed an AI-powered UGC production workflow, delivering 100+ video assets and cutting production time by 75%
+- Grew cumulative perps trading volume from $100m to $500m (5x) in two months and increased user retention by 12% by leading customer research with active, inactive and churned users and turning the findings into product changes
+- Generated 20+ active leads for Institutional business development by building a 100-operator prospect database
+- Grew daily installs from 187 to 562 (~3x) at a flat ~$1.50 CPI by expanding paid search from 2 to 26 markets (13x) with country-level bid and creative strategy
 
 **Performance Marketer** — Feb 2025 – Apr 2026
 *Malaberg, London, United Kingdom*
@@ -29,10 +32,10 @@ Growth marketer who runs AI systems and builds with them. I have manually done e
 ## EDUCATION
 
 **MRes Experimental Psychology with Data Science, University of Manchester** — 2023 – 2024
-High Distinction. Experimental design, causal inference and statistical analysis in R.
+First Class Honours. Experimental design, causal inference and statistical analysis in R.
 
 **BSc (Hons) Psychology, University of Exeter** — 2020 – 2023
 
 ## SKILLS
 
-**AI & automation:** Prompt engineering and output quality control, evaluation of 6 model providers, automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI UGC workflow design (avatar, voice, motion, video), tools: Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs; **Testing & measurement:** Structured and experimental test design, edge-case enumeration, review and approval queues, test and process documentation, anomaly investigation, funnel and cohort analysis, survey design and segmentation, Power BI, Excel, Microsoft Clarity, R, Python, SQL; **Operations:** Multi-market and multi-language delivery across 26 countries, regulated messaging review with Compliance, app-store content standards across 20 storefronts, cross-functional work with Data Engineering, Security and Front-End; **Marketing workflows:** Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Page, international campaign structure, creative testing and budget allocation, competitor research (Appfollow), creative briefing and direction, Figma, Photoshop; **Personal interest:** Digital assets, business psychology, languages, martial arts, weightlifting; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)
+**AI & automation:** Prompt engineering and output quality control, evaluation of 6 model providers, automation workflows (Claude Code, Cursor), MCP and API integrations (Windsor.ai), vibe-coded apps and bots (deployed on fly.io), AI UGC workflow design (avatar, voice, motion, video), tools: Runway, Jitter, Gemini, Seedance, Wan, Seeaudio, ElevenLabs; **Testing & measurement:** Structured and experimental test design, edge-case enumeration, review and approval queues, test and process documentation, anomaly investigation, funnel and cohort analysis, survey design and segmentation, Power BI, Excel, Microsoft Clarity, R, Python, SQL; **Operations:** Multi-market and multi-language delivery across 26 countries, regulated messaging review with Compliance (Adclear), app-store content standards across 20 storefronts, cross-functional work with Data Engineering, Security and Front-End; **Marketing workflows:** Apple Search Ads, Google Ads, Meta, TikTok, LinkedIn, ASO and Custom Product Page, international campaign structure, creative testing and budget allocation, competitor research (Appfollow), creative briefing and direction, Figma, Photoshop; **Personal interest:** Digital assets, business psychology, languages, martial arts, weightlifting; **Languages:** English, Mandarin, Cantonese (native), Malay (fluent)

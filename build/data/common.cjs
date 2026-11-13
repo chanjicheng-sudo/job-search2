@@ -9,7 +9,7 @@ module.exports = {
       {
         title: "MRes Experimental Psychology with Data Science, University of Manchester",
         dates: "2023 – 2024",
-        detail: "High Distinction. Experimental design, causal inference and statistical analysis in R.",
+        detail: "First Class Honours. Experimental design, causal inference and statistical analysis in R.",
       },
       { title: "BSc (Hons) Psychology, University of Exeter", dates: "2020 – 2023" },
     ],
@@ -23,7 +23,7 @@ module.exports = {
       {
         title: "MRes Experimental Psychology with Data Science, University of Manchester",
         dates: "2023 – 2024",
-        detail: "High Distinction. Experimental design, causal inference and statistical analysis in R. Research project graded 86/100, highest in the cohort.",
+        detail: "First Class Honours. Experimental design, causal inference and statistical analysis in R. Research project graded 86/100, highest in the cohort.",
       },
       { title: "BSc (Hons) Psychology, University of Exeter", dates: "2020 – 2023" },
     ],
