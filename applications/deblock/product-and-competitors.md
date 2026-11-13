@@ -8,6 +8,15 @@ Several figures come from review sites, and the main Deblock pricing source is a
 **sponsored by Deblock**. Anything marked *check* should be confirmed in the app before
 you quote it. Never quote a rate or fee in the interview that you have not seen yourself.
 
+> **Update 13 Nov 2026 — the 4% yield.** An October 2026 source says the full 4% is
+> **Premium only, with 2% on Standard**. Read "4%" below as "up to 4% on Premium".
+> Deblock presents the yield as **self-custodial**: the euros become EURCV in the
+> user's own wallet and are deposited into a Morpho vault run by Steakhouse and
+> Gauntlet. Deblock says it cannot block or move them. The flip side is that they sit
+> **outside e-money safeguarding**, and a vault failure could lose them. Deblock tops up
+> the rate from a reserve when the vault pays less than 4%. After France's 31.4% flat
+> tax, 4% is about 2.74% net. Check the current rates in the app.
+
 ## The product, in plain terms
 
 | | What it is | Detail |

@@ -4,6 +4,15 @@ Prepared 12 Nov 2026. Her figures come only from `notes/candidate-performance-no
 Company facts come from the job posting and the Italian and German press, cited at the
 bottom. "Company figure" means Deblock said it and nobody else checked it.
 
+> **Update 13 Nov 2026 — the 4% yield.** An October 2026 source says the full 4% is
+> **Premium only, with 2% on Standard**. Read "4%" below as "up to 4% on Premium".
+> Deblock presents the yield as **self-custodial**: the euros become EURCV in the
+> user's own wallet and are deposited into a Morpho vault run by Steakhouse and
+> Gauntlet. Deblock says it cannot block or move them. The flip side is that they sit
+> **outside e-money safeguarding**, and a vault failure could lose them. Deblock tops up
+> the rate from a reserve when the vault pays less than 4%. After France's 31.4% flat
+> tax, 4% is about 2.74% net. Check the current rates in the app.
+
 ## The role in one paragraph
 
 London-based. Day-to-day paid acquisition for **Italy and France** on Meta, TikTok,
