@@ -1,0 +1,318 @@
+<title>Deblock Interview Cue Sheet</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap">
+<style>
+/* Layout: one reading column, sticky chip nav to jump between answers, figures set in mono so they pop at a glance */
+:root {
+  --bg: #f5f7fa;
+  --surface: #ffffff;
+  --fg: #16202e;
+  --muted: #5a6779;
+  --line: #dde3eb;
+  --accent: #1f6f78;
+  --accent-soft: #e2f0f1;
+  --warn: #9a5b00;
+  --warn-soft: #fdf2e0;
+  --fig: #0f4c55;
+  --display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f151d; --surface: #17202b; --fg: #e6ebf1; --muted: #95a3b5; --line: #273342;
+    --accent: #5cc0c9; --accent-soft: #163339; --warn: #f0b45c; --warn-soft: #2e2414; --fig: #8ad8de;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f151d; --surface: #17202b; --fg: #e6ebf1; --muted: #95a3b5; --line: #273342;
+  --accent: #5cc0c9; --accent-soft: #163339; --warn: #f0b45c; --warn-soft: #2e2414; --fig: #8ad8de;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 64px; }
+body {
+  background: var(--bg); color: var(--fg); font: 15px/1.55 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 760px; margin: 0 auto; display: grid; gap: 18px; }
+header.top { padding-block: 28px 4px; display: grid; gap: 6px; }
+.eyebrow { font: 500 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+h1 { font: 700 30px/1.15 var(--display); margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; }
+.say { display: inline-flex; gap: 6px; align-items: baseline; font-size: 13px; color: var(--muted); }
+.say b { font: 500 13px var(--mono); color: var(--fg); }
+nav.chips {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg);
+  display: flex; gap: 6px; overflow-x: auto; padding-block: 10px; border-bottom: 1px solid var(--line);
+  scrollbar-width: none;
+}
+nav.chips a {
+  flex: 0 0 auto; text-decoration: none; color: var(--fg); font-size: 13px;
+  padding: 5px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface);
+}
+nav.chips a:hover, nav.chips a:focus-visible { border-color: var(--accent); color: var(--accent); outline: none; }
+section.cue {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 16px 18px; display: grid; gap: 10px; min-width: 0;
+}
+.cue h2 { margin: 0; font: 600 18px/1.25 var(--display); display: flex; gap: 10px; align-items: baseline; text-wrap: balance; }
+.cue h2 .n { font: 500 13px var(--mono); color: var(--accent); }
+.cue h2 .tag { font: 400 12px var(--body); color: var(--muted); }
+ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+li::marker { color: var(--accent); }
+.star { display: grid; grid-template-columns: 2.2em 1fr; gap: 4px 6px; }
+.star dt { font: 500 13px/1.55 var(--mono); color: var(--accent); }
+.star dd { margin: 0; }
+.f { font: 500 .93em var(--mono); color: var(--fig); white-space: nowrap; }
+.warn {
+  background: var(--warn-soft); color: var(--fg); border-radius: 6px; padding: 8px 10px;
+  font-size: 14px; display: grid; gap: 2px;
+}
+.warn::before { content: "Watch"; font: 500 11px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--warn); }
+.opt { color: var(--muted); font-size: 14px; }
+.add { background: var(--warn-soft); color: var(--warn); font: 500 12px var(--mono); padding: 1px 6px; border-radius: 4px; }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.fact { border-top: 2px solid var(--accent); padding-top: 6px; display: grid; gap: 2px; min-width: 0; }
+.fact .k { font: 500 11px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.fact .v { font: 600 16px var(--display); }
+.tbl { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 500 12px var(--mono); color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.close { border-left: 3px solid var(--accent); padding-left: 12px; font-style: italic; }
+@media (max-width: 480px) { h1 { font-size: 25px; } section.cue { padding: 14px; } }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <span class="eyebrow">Paid Acquisition · Italy and France · London</span>
+    <h1>Deblock interview cue sheet</h1>
+    <p class="sub">Glance, do not read. Your words, matched to the job ad and the CV you sent.</p>
+    <span class="say">Say it <b>day-BLOK</b></span>
+  </header>
+
+  <nav class="chips" aria-label="Sections">
+    <a href="#background">Background</a>
+    <a href="#why">Why Deblock</a>
+    <a href="#scale">Test, cut, scale</a>
+    <a href="#measure">Measuring</a>
+    <a href="#ai">Agentic</a>
+    <a href="#local">Local launches</a>
+    <a href="#language">Italian</a>
+    <a href="#years">3+ years</a>
+    <a href="#compliance">Compliance</a>
+    <a href="#idea">Idea</a>
+    <a href="#logistics">Logistics</a>
+    <a href="#watch">Watch-outs</a>
+    <a href="#ask">Your questions</a>
+    <a href="#facts">Deblock facts</a>
+  </nav>
+
+  <section class="cue" id="background">
+    <h2><span class="n">1</span>Walk me through your background</h2>
+    <ul>
+      <li>Growth marketer at <b>Blockchain.com</b>, Graduate Growth Marketing Manager</li>
+      <li>Psychology, masters and undergrad → foundation in research, testing, understanding people</li>
+      <li><b>Malaberg</b> → paid acquisition, <span class="f">£50k+</span> a month, <span class="f">120% ROAS</span>, rebuilt landing pages → conversions <span class="f">10 → 50+</span> a day</li>
+      <li>Great passion for blockchain → <b>left my full-time job</b> to join Blockchain.com</li>
+      <li>Retail, Institutional and Wealth → paid on <b>Apple Search Ads, Meta, TikTok and Google</b>, <span class="f">26</span> markets</li>
+      <li>A big part of my role → I use AI to solve marketing problems</li>
+      <li>Proudest project → AI UGC workflow, prompt engineering to production <span class="opt">(production <span class="f">−75%</span>, CTR <span class="f">0.4% → 1.15%</span>, CPI <span class="f">$25 → $6</span>)</span></li>
+    </ul>
+    <div class="warn">Same four channels as the job ad. Name them early.</div>
+  </section>
+
+  <section class="cue" id="why">
+    <h2><span class="n">2</span>What do you know about us? Why Deblock?</h2>
+    <ul>
+      <li>A current account with a <b>French IBAN</b> and a Visa card, plus a crypto wallet <b>you own the keys to</b></li>
+      <li>Crypto and physical gold from <span class="f">€1</span>, round-ups into Bitcoin or gold</li>
+      <li><span class="f">4%</span> on your balance with <b>Premium</b>, through a Morpho vault</li>
+      <li>Licensed in France → e-money licence + first French fintech with <b>MiCA</b></li>
+      <li>Edge → banks hold your crypto for you, crypto cards have no real euro account. Deblock does both</li>
+      <li>Built for <b>people with a salary</b> → a reason to come back every month</li>
+      <li>I love blockchain, but if you cannot spend your money, it is not practical. Deblock makes it everyday money</li>
+      <li>You are opening new countries → Italy since July. That is what I have been doing, <span class="f">2 → 26</span> markets</li>
+      <li>The role is hands-on and judged on returns, not activity → that is how I already work</li>
+    </ul>
+    <p class="opt">Optional facts: <span class="f">500,000+</span> customers, <span class="f">~20,000</span> in Italy, <span class="f">€30m</span> Series A led by Speedinvest, CEO Jean Meyer.</p>
+  </section>
+
+  <section class="cue" id="scale">
+    <h2><span class="n">3</span>Launch, test, cut and scale <span class="tag">STAR</span></h2>
+    <dl class="star">
+      <dt>S</dt><dd>Apple Search Ads live in <span class="f">2</span> markets, <span class="f">9</span> campaigns</dd>
+      <dt>T</dt><dd>Grow installs without raising cost</dd>
+      <dt>A</dt><dd>Expanded to <span class="f">26</span> markets and <span class="f">121</span> campaigns, country-level bidding and structure → <span class="f">128</span> structured tests. Scaled the <span class="f">5</span> winning groups, cut <span class="f">26</span> underperformers, moved <span class="f">~$21k</span></dd>
+      <dt>R</dt><dd>Daily installs <span class="f">200+ → 800+ (~4x)</span> at a flat <span class="f">~$1.50</span> CPI. <b>UK</b> CPI <span class="f">−21.5%</span> while installs <span class="f">+30.2%</span>. Core US branded campaign <span class="f">178 → 373</span> a day</dd>
+    </dl>
+    <div class="warn">Have one campaign you killed ready, with its numbers and your rule for cutting it. <span class="add">ADD before the interview</span></div>
+    <div class="warn">Say "UK" with the 21.5%. The account CPI stayed flat.</div>
+  </section>
+
+  <section class="cue" id="measure">
+    <h2><span class="n">4</span>CAC, activation and retention by channel and cohort</h2>
+    <ul>
+      <li>I do not judge a channel on cost per install → the cheap channel that never funds is the expensive one</li>
+      <li>For Deblock → install → sign-up → KYC → first deposit → first card spend → <b>salary in</b> → first trade or Premium</li>
+      <li>Every step by channel and weekly cohort</li>
+      <li><b>Retention proof, perps research.</b> Users dropping off → researched active, inactive and churned users, <span class="f">114</span> responses</li>
+      <li>Found → many did not understand how perps work or the risks</li>
+      <li>Worked with Product → explainer always visible, reworked help page → retention <span class="f">+12%</span></li>
+    </ul>
+    <div class="warn">Perps volume "grew over the same period". Never "I grew it".</div>
+  </section>
+
+  <section class="cue" id="ai">
+    <h2><span class="n">5</span>Agentic workflows <span class="tag">the job ad says it twice</span></h2>
+    <ul>
+      <li><b>AI UGC.</b> Ads relied on creators → expensive, ran out, TikTok ads last about two weeks</li>
+      <li>Spotted competitors running AI UGC → proposed → built it <b>in 2 weeks</b></li>
+      <li>Production <span class="f">−75%</span>, CTR <span class="f">0.4% → 1.15% (+188%)</span>, CPI <span class="f">$25 → $6 (−76%)</span>, yield product relaunch <span class="f">600+</span> installs in <span class="f">7</span> days</li>
+      <li>A project that cannot be replicated at scale is not a good project → built a <b>skill</b> that writes the prompts → handed it to the team</li>
+      <li><b>Reporting.</b> Agentic reporting with Claude Code and MCP connectors → spend, installs and CPI by market → company dashboard → <span class="f">~10 hours</span> a month saved</li>
+      <li><b>CRM.</b> API tools that localise Iterable emails into <span class="f">24</span> languages → open rate <span class="f">+10%</span></li>
+      <li>For Italy → local-language creative fast, checked by a native speaker</li>
+    </ul>
+    <div class="warn">Say "built it in 2 weeks", not "evaluated 6 providers". Say "paid social" with $25 → $6.</div>
+  </section>
+
+  <section class="cue" id="local">
+    <h2><span class="n">6</span>Partnerships and local activations</h2>
+    <ul>
+      <li><b>Malaysia loans launch</b>, on my own initiative → market research, KOL, affiliate, referral partners</li>
+      <li>Worked with Legal on tone and risk disclosures, set up a compliance review for a new market</li>
+      <li>Result → <span class="f">4</span> high net worth clients in the first month</li>
+      <li><b>MiCA outreach.</b> A major exchange was losing access to European clients → I spotted it → list of <span class="f">80</span> crypto publishers built with AI → <span class="f">3</span> major clients</li>
+      <li>Prospect database of <span class="f">100</span> operators → <span class="f">20+</span> active leads for BD</li>
+      <li>Markets behave differently → Africa takes more risk, UK more balanced → one size does not fit all</li>
+    </ul>
+    <div class="warn">Never mention the Malaysia licence line.</div>
+  </section>
+
+  <section class="cue" id="language">
+    <h2><span class="n">7</span>Italian and French <span class="tag">only if asked, or at the end</span></h2>
+    <ul>
+      <li>Honest → I do not speak Italian</li>
+      <li>I ran campaigns in <span class="f">26</span> markets, most in languages I do not speak</li>
+      <li>API tools that localise CRM into <span class="f">24</span> languages, open rate <span class="f">+10%</span></li>
+      <li>I would still want a native speaker to check every Italian ad and landing page</li>
+      <li>French → beginner, <span class="f">331-day</span> Duolingo streak</li>
+      <li>Native English, Mandarin, Cantonese, fluent Malay</li>
+      <li>If not raised → at the end ask "How fixed is the Italian requirement for this role?"</li>
+    </ul>
+    <div class="warn">Do not argue that Italian does not matter.</div>
+  </section>
+
+  <section class="cue" id="years">
+    <h2><span class="n">8</span>"The ad asks for 3+ years"</h2>
+    <ul>
+      <li><b>1. AI.</b> Very good at AI → used it in different settings → I can deliver more than a junior marketer</li>
+      <li><b>2. Hands-on.</b> I set up the accounts, the tracking, the campaigns and the reporting myself → you only really know why something works when you are involved in the whole process</li>
+      <li><b>3. Learning.</b> Academia → e-commerce → crypto, little overlap → learned each in a short time</li>
+    </ul>
+    <p class="opt">Optional proof: AI workflow in 2 weeks, 4 clients in Malaysia in month one.</p>
+    <div class="warn">Never compare yourself to people with more years. Say what you bring.</div>
+  </section>
+
+  <section class="cue" id="compliance">
+    <h2><span class="n">9</span>Clear and compliant messaging</h2>
+    <ul>
+      <li><b>UK FinProm approval process</b> rollout with Compliance → UK, US, EU, all retail products</li>
+      <li>Daily user of <b>Adclear</b>, the financial promotions review platform</li>
+      <li>AI videos → reviewed with Legal before release. Weekly Compliance reviews at Malaberg</li>
+      <li>The 4% → Premium only, not a deposit, DeFi risk → agree the wording with Compliance before testing</li>
+      <li>Italy fined Revolut and Trade Republic over ads this year → the wording matters here</li>
+      <li>Principle → simple for the user, accurate for the regulator</li>
+    </ul>
+  </section>
+
+  <section class="cue" id="idea">
+    <h2><span class="n">10</span>An idea to bring <span class="tag">frame it as a test</span></h2>
+    <ul>
+      <li><b>Gnosis Pay</b> closes its consumer card on <span class="f">20 Dec</span></li>
+      <li>Its users are EU people who keep their keys and spend euros → Deblock's audience exactly</li>
+      <li>A "moving from Gnosis Pay?" search and social test → five-week window</li>
+      <li>Backups → gold from €1 as the first Italian angle, a first-trade offer for users who join for the yield</li>
+    </ul>
+  </section>
+
+  <section class="cue" id="logistics">
+    <h2><span class="n">11</span>Salary, notice, logistics</h2>
+    <ul>
+      <li>"Could you share the <b>band</b> for this role?" → then a <b>range</b>, never one number</li>
+      <li>Fixed-term contract ending → <b>can start soon</b> (have a date)</li>
+      <li><b>Dependant visa</b>, right to work, no sponsorship</li>
+      <li>Also applied for the Strategy &amp; Operations role → mention only if asked</li>
+      <li>Other interviews → "a few fintechs", no names</li>
+    </ul>
+  </section>
+
+  <section class="cue" id="watch">
+    <h2>Watch-outs</h2>
+    <ul>
+      <li>Say "Blockchain.com", not "BCDC". Never "intern" or "internship"</li>
+      <li>"A big part of my role", not "my job is AI"</li>
+      <li>Installs → <span class="f">200+ → 800+ (~4x)</span>, as on the CV</li>
+      <li>SQL → used it in research. Do not claim hands-on SQL at work</li>
+      <li>Attribution tools (AppsFlyer, Adjust) → not set one up. Apple Search Ads attribution and platform tracking. Ask which they use</li>
+      <li>The 4% → "on Premium". Never "guaranteed" or "savings account"</li>
+      <li>The card spends <b>euros</b>. Not "spend your crypto anywhere"</li>
+      <li>Do not raise Trustpilot. If asked what to improve → fee clarity at onboarding</li>
+    </ul>
+  </section>
+
+  <section class="cue" id="ask">
+    <h2>Your questions <span class="tag">ask two</span></h2>
+    <ul>
+      <li>What counts as an activated user, and which number goes in the weekly report?</li>
+      <li>Do Italian customers get an Italian IBAN? Do you see a difference in salary deposits between France and Italy?</li>
+      <li>What share of users who join for the yield go on to buy crypto or gold?</li>
+      <li>Which attribution tool do you use, and who owns it?</li>
+      <li>What does a strong first 90 days look like, and who would I report to?</li>
+    </ul>
+    <p class="close">"I really enjoyed this. Italy is an exciting market to be building in right now, and I would love to help grow it."</p>
+  </section>
+
+  <section class="cue" id="facts">
+    <h2>Deblock facts</h2>
+    <div class="facts">
+      <div class="fact"><span class="k">Customers</span><span class="v">500,000+</span></div>
+      <div class="fact"><span class="k">Italy</span><span class="v">~20,000 · since Jul 2026</span></div>
+      <div class="fact"><span class="k">Series A</span><span class="v">€30m · Speedinvest</span></div>
+      <div class="fact"><span class="k">CEO</span><span class="v">Jean Meyer</span></div>
+      <div class="fact"><span class="k">Licences</span><span class="v">E-money + MiCA</span></div>
+      <div class="fact"><span class="k">Live promo</span><span class="v">GTA VI · PAYDAY</span></div>
+    </div>
+    <div class="tbl">
+      <table>
+        <thead><tr><th>Plan</th><th>Standard</th><th>Premium</th></tr></thead>
+        <tbody>
+          <tr><td>Price</td><td>Free</td><td>€10/month shown</td></tr>
+          <tr><td>Crypto buy, sell, swap</td><td>1.99%</td><td>0.49%</td></tr>
+          <tr><td>Metals buy, sell</td><td>1.99%</td><td>0.49%</td></tr>
+          <tr><td>Card cashback</td><td>0%</td><td>Up to 1%</td></tr>
+          <tr><td>Yield on balance</td><td>2% (reported)</td><td>4%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="tbl">
+      <table>
+        <thead><tr><th>Against</th><th>Deblock's line</th></tr></thead>
+        <tbody>
+          <tr><td>Revolut, Trade Republic, N26</td><td>Your crypto, your keys</td></tr>
+          <tr><td>Exchanges</td><td>A real euro account</td></tr>
+          <tr><td>Crypto cards (ether.fi, Plasma One)</td><td>Euros, not dollars, with an IBAN for your salary</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="opt">How the 4% works, if asked: your balance is converted to a euro stablecoin and lent out through a Morpho vault. When you pay, the app redeems just that amount automatically. No lock-up. The trade-off is no deposit protection.</p>
+  </section>
+</div>
