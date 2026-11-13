@@ -28,7 +28,7 @@ applications/
   plasma/     jd-read, product-notes, brand-notes, and three finished answers
   kraken/     jd-read
   bvnk/       jd-read
-  deblock/    interview-prep, product-and-competitors
+  deblock/    interview-prep (cue sheet + full prep), product-and-competitors, jd-reads, email
 
 linkedin/profile-copy.md          Headline options, About, and role highlights for both
                                   roles.

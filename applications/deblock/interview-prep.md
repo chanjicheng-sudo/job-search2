@@ -1,211 +1,233 @@
-# Deblock — Junior Performance Marketing Manager: interview prep
+# Deblock — Paid Acquisition, Italy and France: interview prep
 
-Final version, 13 Nov 2026. Her figures come only from
-`notes/candidate-performance-note.md`. Deblock facts were checked against Deblock's own
-site, pricing page and legal terms on 13 Nov 2026 unless marked otherwise. Detail and
-sources for the product and competitors are in `product-and-competitors.md`.
+Updated 13 Nov 2026. Her figures match the CV she sent
+(`dist/Jessie-Chan-CV-deblock-paid.md`) and `notes/candidate-performance-note.md`.
+Deblock facts were checked against its own site, pricing page and legal terms on
+13 Nov 2026. Product and competitor detail is in `product-and-competitors.md`.
 
-Pronunciation: **"day-BLOK"**. French *dé-*, both syllables near-equal, slight lift on
-the second. Copy the interviewer if they say it differently.
+Say it **"day-BLOK"** (French *dé-*).
 
 ---
 
-## 1. The role
+## Cue sheet (glance, do not read)
+
+## 1. Walk me through your background (your words)
+- Growth marketer at **Blockchain.com**, Graduate Growth Marketing Manager
+- Psychology, masters and undergrad → foundation in research, testing, understanding people
+- **Malaberg** → paid acquisition, £50k+ a month, 120% ROAS, rebuilt landing pages → conversions 10 to 50+ a day
+- Great passion for blockchain → **left my full-time job** to join Blockchain.com
+- Retail, Institutional and Wealth → paid acquisition on **Apple Search Ads, Meta, TikTok and Google**, 26 markets
+- A big part of my role → I use AI to solve marketing problems
+- Proudest project → AI UGC workflow, prompt engineering to production
+  *(production −75%, CTR 0.4% → 1.15%, CPI $25 → $6)*
+- ⚠️ Same four channels as the JD. Name them early.
+
+## 2. What do you know about Deblock / why us? (your words)
+- A current account with a **French IBAN** and a Visa card, plus a crypto wallet **you own the keys to**
+- Crypto and physical gold from €1, round-ups into Bitcoin or gold
+- 4% on your balance with **Premium**, through a Morpho vault
+- Licensed in France → e-money licence + first French fintech with **MiCA**
+- Edge → banks hold your crypto for you, crypto cards have no real euro account. Deblock does both
+- Built for **people with a salary** → a reason to come back every month
+- I love blockchain, but if you cannot spend your money, it is not practical. Deblock makes it everyday money
+- You are opening new countries → Italy since July. That is what I have been doing, 2 to 26 markets
+- The role is hands-on and judged on returns, not activity → that is how I already work
+- *(optional facts: 500,000+ customers, ~20,000 in Italy, €30m Series A led by Speedinvest, CEO Jean Meyer)*
+
+## 3. Launch, test, cut and scale (STAR)
+- **S:** Apple Search Ads live in 2 markets, 9 campaigns
+- **T:** grow installs without raising cost
+- **A:** expanded to **26 markets** and **121 campaigns**, country-level bidding and structure → **128 structured tests**
+- Scaled the **5 winning groups**, **cut 26** underperformers, moved ~$21k
+- **R:** daily installs **200+ → 800+ (~4x)** at a flat **~$1.50 CPI**. **UK CPI −21.5%** while installs **+30.2%**
+- Core US branded campaign 178 → 373 a day (~2.1x)
+- ⚠️ Have **one campaign you killed** ready → its numbers and your rule for cutting it. **[ADD before the interview]**
+- ⚠️ "UK" with the 21.5%. The account CPI stayed flat.
+
+## 4. Measuring CAC, activation and retention by channel and cohort
+- I do not judge a channel on cost per install → the cheap channel that never funds is the expensive one
+- For Deblock → install → sign-up → KYC → first deposit → first card spend → **salary in** → first trade or Premium
+- Every step by channel and weekly cohort
+- **Retention proof → perps research.** Users dropping off → I researched active, inactive and churned users, 114 responses
+- Found → many did not understand how perps work or the risks
+- Worked with Product → in-app explainer always visible, reworked help page → **retention +12%**
+- ⚠️ Perps volume → "grew **over the same period**", never "I grew it"
+
+## 5. Agentic workflows (the JD says it twice)
+- **AI UGC.** Ads relied on creators → expensive, ran out, TikTok ads last ~2 weeks
+- Spotted competitors running AI UGC → proposed → built it **in 2 weeks**
+- **R:** production **−75%**, CTR **0.4% → 1.15% (+188%)**, CPI **$25 → $6 (−76%)**, yield product relaunch **600+ installs in 7 days**
+- A project that cannot be replicated at scale is not a good project → built a **skill** that writes the prompts → handed it to the team
+- **Reporting.** Agentic reporting with **Claude Code and MCP connectors** → Apple Search Ads spend, installs and CPI by market → company dashboard → **~10 hours a month saved**
+- **CRM.** API tools that localise **Iterable** emails into **24 languages** → open rate **+10%**
+- For Italy → local-language creative fast, checked by a native speaker
+- ⚠️ Do not say "evaluated 6 providers". Say "built it in 2 weeks"
+
+## 6. Partnerships and local activations (idea to post-mortem)
+- **Malaysia loans launch**, on my own initiative → market research, KOL, affiliate, referral partners
+- Worked with Legal on tone and risk disclosures, set up a compliance review for a new market
+- **R:** **4 high net worth clients in the first month**
+- **MiCA outreach.** A major exchange was losing access to European clients during MiCA → I spotted it → built a list of **80 crypto publishers** with AI → **3 major clients**
+- 100-operator prospect database → **20+ active leads** for BD
+- Different markets behave differently → Africa takes more risk, UK more balanced → one size does not fit all
+- ⚠️ Never mention the Malaysia licence line
+
+## 7. Italian and French (only if asked, or at the end)
+- Honest → I do not speak Italian
+- I ran campaigns in **26 markets**, most in languages I do not speak
+- Built API tools that localise CRM into **24 languages**, open rate +10%
+- I would still want a native speaker to check every Italian ad and landing page
+- French → beginner, **331-day Duolingo streak**
+- Native English, Mandarin, Cantonese, fluent Malay
+- If not raised → at the end ask "How fixed is the Italian requirement for this role?"
+- ⚠️ Do not argue that Italian does not matter
+
+## 8. "You need 3+ years" (your words)
+- **1. AI.** Very good at AI → used it in different settings
+- With these skills I can deliver more than a junior marketer
+- **2. Hands-on.** I set up the accounts, the tracking, the campaigns and the reporting myself
+- You only really know why something works when you are involved in the whole process
+- **3. Learning.** Academia → e-commerce → crypto, little overlap
+- Learned each in a short time → proves ability and willingness to learn
+- *(optional proof: AI workflow in 2 weeks, 4 clients in Malaysia in month one)*
+- ⚠️ Never compare yourself to people with more years. Say what you bring
+
+## 9. Clear and compliant messaging
+- **UK FinProm approval process** rollout with Compliance → UK, US, EU, all retail products
+- Daily user of **Adclear**, the financial promotions review platform
+- AI videos → reviewed with Legal before release
+- Weekly Compliance reviews at Malaberg
+- The 4% → Premium only, not a deposit, DeFi risk → agree the wording with Compliance before testing
+- Italy fined Revolut and Trade Republic over ads this year → the wording matters here
+- Principle → simple for the user, accurate for the regulator
+
+## 10. An idea to bring (frame as a test)
+- **Gnosis Pay** closes its consumer card on **20 Dec**
+- Its users are EU people who keep their keys and spend euros → Deblock's audience exactly
+- A "moving from Gnosis Pay?" search and social test → five-week window
+- Backup ideas → gold from €1 as the first Italian angle, first-trade offer for users who join for the yield
+
+## 11. Salary, notice, logistics
+- "Could you share the **band** for this role?" → then a **range**, never one number
+- Fixed-term contract ending → **can start soon** (have a date)
+- **Dependant visa**, right to work, **no sponsorship**
+- I also applied for the **Strategy & Operations** role → mention only if asked
+- Other interviews → "a few fintechs", no names
+
+---
+
+## Watch-outs
+- Say **"Blockchain.com"**, not "BCDC"
+- **Never "intern" or "internship"**
+- "A big part of my role", not "my job is AI"
+- Installs → **200+ to 800+ (~4x)**, as on the CV
+- **"Paid social"** with $25 → $6. Search CPI is ~$1.50
+- SQL → used it in research. Do not claim hands-on SQL at work
+- MMP (AppsFlyer, Adjust) → not set one up. Apple Search Ads attribution and platform tracking. Ask which one they use
+- 4% → "on Premium". Never "guaranteed" or "savings account"
+- The card spends **euros**. Do not say "spend your crypto anywhere"
+- Do not raise Trustpilot. If asked what to improve → fee clarity at onboarding
+
+## Your questions (ask two)
+1. What counts as an activated user, and which number goes in the weekly report?
+2. Do Italian customers get an Italian IBAN? Do you see a difference in salary deposits between France and Italy?
+3. What share of users who join for the yield go on to buy crypto or gold?
+4. Which attribution tool do you use, and who owns it?
+5. What does a strong first 90 days look like, and who would I report to?
+
+**Close:** "I really enjoyed this. Italy is an exciting market to be building in right now, and I would love to help grow it."
+
+---
+
+# Full prep below
+
+## The role
 
 London-based. Day-to-day paid acquisition for **Italy and France** on Meta, TikTok,
 Google and Apple Search Ads. Launch, test, cut and scale on data. Measure CAC,
-conversion, activation and retention by channel and cohort. Run small local projects
-(partnerships, communities, activations). Own the weekly numbers. Wants SQL, spreadsheets
-and **agentic workflows**. **Italian required**, French a plus. Nice-to-haves: 3+ years,
-fintech or consumer app, mobile attribution tools. Long hours flagged. Salary plus stock
-options.
+conversion, activation and retention by channel and cohort. Run partnerships, communities
+and local activations from idea to post-mortem. Own the weekly numbers. Wants SQL,
+spreadsheets and **agentic workflows**. **Italian required**, French a plus.
+Nice-to-haves: 3+ years, fintech or consumer app, mobile attribution tools. Long hours
+flagged. Salary plus stock options.
 
-**Fit:** close to her Blockchain.com job. Same four channels, multi-market, regulated
-crypto product. The one hard gap is Italian.
+**Fit:** strong apart from language. Same four channels, multi-market, regulated crypto
+product. Expect Italian to be the first screen.
 
----
+## How each JD line maps to her answers
 
-## 2. Deblock in 60 seconds (say this if asked "what do you know about us?")
+| JD line | Cue sheet section |
+|---|---|
+| Meta, TikTok, Google, Apple Search Ads | 1, 3 |
+| Launch, test, cut, scale | 3 |
+| CAC, conversion, activation, retention by channel and cohort | 4 |
+| Agentic workflows, spreadsheets, SQL | 5, watch-outs |
+| Partnerships, communities, local activations | 6 |
+| Own the weekly numbers | 4, 5 (reporting) |
+| Fluent Italian, French a plus | 7 |
+| 3+ years | 8 |
+| Founder mentality, long hours | 5, 6 (own initiative), 1 (left a full-time job) |
 
-> Deblock is a euro current account with a French IBAN and a Visa card, plus a crypto
-> wallet the customer holds the keys to, in one app. You can buy crypto and physical gold
-> from one euro, round up card spend into Bitcoin or gold, and on Premium your balance
-> earns 4% through a Morpho vault. It has an e-money licence and was the first French
-> fintech with a MiCA licence. It launched in France in 2024, Italy in July 2026, and
-> has over 500,000 customers.
+## Deblock facts
 
-**Facts to have ready**
 - **Founders:** Jean Meyer (CEO), Adriana Restrepo, Aaron Beck, Mario Eguiluz. Ex-Revolut
-  and ex-Ledger. HQ in Lille. London office.
-- **Money:** €30m Series A, Nov 2025, led by Speedinvest (with CommerzVentures, Latitude,
-  Kraken Ventures and others).
-- **Size:** 500,000+ customers, about 20,000 in Italy (company figures, July 2026).
-- **Markets:** France, Italy, DACH (GM Michael Wild), Benelux.
-- **Licences:** e-money institution (ACPR). Crypto-asset service provider (AMF, MiCA).
-  **Not a bank.**
-- **Live promo:** GTA VI refund. Code PAYDAY, €1,000 card spend in 90 days, refund up to
-  €79.99. 20 Oct to 31 Dec 2026. Game out 19 Nov.
-
-**Pricing (Deblock's pricing page, 13 Nov 2026)**
+  and ex-Ledger. HQ in Lille, London office.
+- **Money:** €30m Series A, Nov 2025, led by Speedinvest.
+- **Size:** 500,000+ customers, ~20,000 in Italy (company figures, July 2026).
+- **Markets:** France (2024), Italy (July 2026), DACH, Benelux.
+- **Licences:** e-money institution (ACPR), crypto-asset service provider under MiCA
+  (AMF). **Not a bank.**
+- **Live promo:** GTA VI refund, code PAYDAY, €1,000 card spend in 90 days, up to €79.99.
+  Runs 20 Oct to 31 Dec. Game out 19 Nov.
 
 | | Standard | Premium |
 |---|---|---|
-| Price | Free | €10/month shown (€14.99 monthly billing reported) |
+| Price | Free | €10/month shown |
 | Crypto buy, sell, swap | 1.99% | 0.49% |
 | Metals buy, sell | 1.99% | 0.49% |
 | Card cashback | 0% | Up to 1% |
 | Yield on balance | 2% (reported) | 4% |
-| Convert % of salary to crypto | Free | Free |
 
----
+**How the 4% works (only if asked).** With it on, all euros arriving are converted to
+EURCV and deposited in a Morpho vault, held as vault shares in a wallet that needs both
+her and Deblock's signature. On a card payment the matching shares are redeemed
+automatically, so there's no lock-up. The yield comes from people borrowing euros against
+Bitcoin. Deblock fixes the rate and tops it up. The trade-off is no deposit protection.
 
-## 3. How the product actually works (only if asked, but know it)
+**Positioning in one line each**
+- Against Revolut, Trade Republic, N26 → **"your crypto, your keys"**
+- Against exchanges → **"a real euro account"**
+- Against crypto cards (ether.fi, Plasma One, MetaMask) → **"euros, not dollars, with an
+  IBAN for your salary"**
 
-- **Spending.** The card spends euros. Crypto must be **sold to euros first** (one tap,
-  1.99% or 0.49%). Stablecoins are not spendable directly either.
-- **The 4% ("Auto Sweep" in the legal terms).** Switch it on and **all euros arriving**
-  are converted to EURCV (Société Générale-Forge's euro stablecoin) and deposited in a
-  Morpho vault. The wallet holds **vault shares** and needs **both the client's and
-  Deblock's signature**. On a card payment, the matching shares are **redeemed
-  automatically**. No lock-up, no manual unstaking.
-- **Where the yield comes from:** people borrowing euros against Bitcoin (Bitcoin is the
-  only collateral). Deblock fixes the rate at 4% and covers gaps from a reserve, then its
-  own treasury.
-- **The trade-offs:** while on, the money is **not safeguarded e-money** and has **no
-  deposit protection**. Risks: smart contract, liquidity, collateral. Opting out takes one
-  tap. The DeFi part sits outside MiCA, through a London company, Techblock Ltd.
+## Likely follow-up questions
 
-One-line version:
-
-> When it is on, your balance sits on-chain and earns. When you pay, the app redeems just
-> that amount, so your current account really does earn. The trade-off is no deposit
-> protection.
-
----
-
-## 4. How Deblock differs (positioning lines)
-
-| Against | What they have | Deblock's line |
-|---|---|---|
-| **Revolut, Trade Republic, N26** | Banks, deposit guarantee, huge reach (Revolut ~6M in Italy), Italian IBANs | **"Your crypto, your keys."** They hold your crypto for you |
-| **Exchanges** (Bitpanda, Crypto.com, Coinbase, Young Platform) | More coins, often lower fees | **"A real euro account,"** not a trading app |
-| **Crypto cards** (ether.fi, Plasma One, MetaMask, Bleap) | Cashback 1–4%, higher yield, borrowing against crypto | **Euros, not dollars.** A salary account with an IBAN, licensed in France |
-
-- **Plasma One** is the mirror image: you hold USDT and fiat is only at the edges.
-  Deblock holds euros and hides the stablecoin underneath. (She applied to Plasma, so she
-  can say this with authority. If asked, say so plainly.)
-- **Holyheld** is the closest copy of the model, with a weaker licence.
-- **Weak spots:** trust and scale, a 1.99% fee on Standard, a French IBAN in Italy where
-  Revolut and Trade Republic offer Italian ones, no borrowing against crypto.
-
----
-
-## 5. What they will test, and her answers
-
-### "Why Deblock?"
-
-> I have run acquisition for a regulated crypto app. The hard part is not the install. It
-> is the first deposit and the second month. Deblock is built around salary and card
-> spend, so people have a reason to come back. And you are opening new countries, which is
-> what I have been doing for six months.
-
-### "Why are you leaving Blockchain.com?"
-
-The 6-month fixed term ends this month. Say the end date. Nothing more.
-
-### The Italian question (raise it yourself if they do not)
-
-> I do not speak Italian. I want to be clear about that. At Blockchain.com I ran paid
-> campaigns in 26 markets, and I do not speak most of those languages. I set up API
-> tooling to translate our CRM messages into local languages, and email open rates went
-> up 10%. I would still want a native speaker to check every Italian ad and landing page
-> before it goes live. I speak English, Mandarin, Cantonese and Malay.
-
-Then ask: "How fixed is the language requirement?" Do not argue Italian does not matter.
-French: beginner, only if asked.
-
-### "Walk me through your best result" — the main story
-
-Paid search from **187 to 562 daily installs** (~3x), **CPI held at ~$1.50**, 2 to 26
-countries, 9 to 121 campaigns. **128 tests, 5 groups scaled, 26 campaigns cut.** ~$21k of
-test spend moved, which **on GB campaigns** cut CPI 21.5% while installs rose 30.2%.
-- Scope the 21.5% to GB. It was already running at 187/day when she arrived.
-- **Have one campaign she killed ready, with numbers and the rule she used.** This is the
-  answer most likely to set her apart.
-
-### "Tell me about creative / agentic workflows"
-
-TikTok creative lasts about two weeks and the team kept running out of creator assets.
-She built an AI UGC pipeline: 6 providers tested, 2 hours to 30 minutes per video, 100+
-videos. **Paid social** CTR 0.4% to 1.15%, **paid social CPI $25 to $6**, volume +15%.
-Also: CRM translation tooling, open rates +10%. For Italy: fast local variants, checked
-by a native speaker.
-
-### "How would you measure success?"
-
-Install → sign-up → KYC → first deposit → first card spend → **salary in** → month-2
-activity → first trade or Premium upgrade. CAC per step, per channel, per weekly cohort.
-
-> I would not judge a channel on cost per install. I would look at how many of its users
-> move their salary in, and how many go on to trade or upgrade to Premium. That is where
-> the revenue is.
-
-### "How does Deblock make money?" (her view, framed as such)
-
-Mostly **trading fees** (1.99% / 0.49%) and **Premium subscriptions**. Card fees are small
-(EU debit interchange is capped at 0.2%, so about €2 per €1,000). The 4% is mainly a
-**hook and an upgrade lever**, since it is Premium only and Deblock tops it up. The GTA
-promo buys a **card habit**, not card revenue.
-
-### "Your first 30 days on Italian paid?"
-
-- Week 1: audit tracking and account structure. CAC per funded and per activated user by
+**"First 30 days on Italian paid?"**
+- Week 1, audit tracking and account structure. CAC per funded and per activated user by
   channel. Check the data is right first.
-- Apple Search Ads: brand defence, category terms, then competitor terms (Revolut, Hype,
-  Satispay, Young Platform). Custom Product Pages by intent: gold, crypto, card, yield.
-- Meta and TikTok: test **angles**, not just creative. Gold from €1, own your crypto,
-  GTA promo, card insurance, 4% on Premium. Judge on funded users, not clicks.
+- Apple Search Ads, brand defence, category terms, then competitor terms (Revolut, Hype,
+  Satispay, Young Platform). Custom Product Pages by intent.
+- Meta and TikTok, test angles not just creative. Gold from €1, own your crypto, the GTA
+  promo, card insurance, 4% on Premium. Judge on funded users, not clicks.
 - Kill and scale rules agreed before spending. Weekly numbers out from week 2.
 
-### "What do you think of the GTA promo?"
+**"What do you think of the GTA promo?"**
+It only pays on €1,000 of card spend, so cost is tied to activation, and the release date
+gives paid social a hard deadline. Watch month-3 retention for that cohort, because bonus
+hunters spend once and leave.
 
-Pays only on €1,000 card spend, so cost is tied to activation, and the release date gives
-paid social a hard deadline. Risks: bonus hunters, so watch month-3 retention for this
-cohort, and clean fulfilment, since reviews already complain about unpaid bonuses.
+**"How does Deblock make money?"** (her view)
+Mostly trading fees and Premium. Card fees are small, about €2 per €1,000. The 4% is a
+hook and a reason to upgrade.
 
-### "How would you advertise the 4%?"
+**"Here is a channel report. What do you do?"**
+Check the data first. Compare on cost per funded user, not CPI. Check cohort size before
+trusting a rate. Then say what to cut, what to scale and the next test.
 
-Carefully. It is Premium only, not a deposit, and carries DeFi risk. In 2026 Italy's
-AGCM fined Revolut €11.5M and Trade Republic €2.5M over advertising and cost disclosure.
-She would agree the wording with Compliance before testing it. Her regulated-copy reviews
-at Blockchain.com and Malaberg are the evidence.
+## SQL to revise
 
-### Ideas to bring (frame each as a test)
-
-1. **Gnosis Pay switchers.** Its consumer card shuts on **20 Dec 2026**. Its users are EU
-   self-custody euro spenders, which is Deblock's audience exactly. A search and social
-   campaign has a five-week window. Check Deblock is not already doing it.
-2. **Gold first in Italy.** Familiar asset, from €1, and none of the deposit-guarantee
-   questions the 4% raises.
-3. **First-trade activation.** Measure how many users who join for the yield ever make a
-   first trade. If the 1.99% fee is the blocker, test a first-trade offer or a Premium
-   trial.
-
-### Gaps, answered straight
-
-- **MMP (AppsFlyer, Adjust):** not configured one. Has Apple Search Ads attribution and
-  platform conversion tracking. Ask which one they use.
-- **SQL:** say exactly what she has written. Revise the query below.
-- **3+ years:** about 1 year 9 months. Let the evidence carry it.
-- **Activation numbers:** her strongest numbers are installs. Use a funded number if one
-  exists (open question #1).
-
----
-
-## 6. SQL to revise
-
-CAC per funded user by channel and week. Aggregate spend and users **separately**, then
-join. Joining raw spend to user rows counts the spend once per user. Say that out loud.
+She has used SQL in research, not at work. If a live question comes, think out loud.
+Aggregate spend and users separately, then join.
 
 ```sql
 WITH spend_wk AS (
@@ -227,50 +249,23 @@ LEFT JOIN funded_wk f ON f.channel = s.channel AND f.wk = s.wk
 ORDER BY 1, 2;
 ```
 
-Also: `LEFT` vs `INNER JOIN`, `HAVING`, `COUNT(DISTINCT)`, `ROW_NUMBER`, `LAG`.
-
----
-
-## 7. Do not say
-
-- "Built paid from scratch." / "Built the Streamlit dashboard." (Partnered.)
-- The 21.5% without "on GB campaigns". $25 to $6 without "paid social".
-- Any MMP, AppsFlyer or SKAN experience.
-- "4% on your account" without "Premium". "Guaranteed" or "savings account" about the 4%.
-- "Your euros stay in your wallet." With the 4% on, they are lent out on Morpho.
-- "No smart-contract risk."
-- "Spend your crypto anywhere." The card spends euros.
-- "The only app with a fiat balance." Say "one of very few with a euro account and a
-  self-custody wallet, and the only one I found with both licences in France."
-- Trustpilot complaints, unless asked what to improve. Then: fee clarity at onboarding.
-
----
-
-## 8. Questions to ask them
-
-1. How fixed is the Italian requirement?
-2. What counts as an activated user, and which number goes in the weekly report?
-3. Do Italian customers get an Italian IBAN? Do you see a difference in salary deposits
-   between French and Italian users?
-4. What share of users who join for the yield go on to invest in crypto or gold?
-5. Which MMP do you use, and who owns attribution?
-6. How does Compliance review Italian creative, and how long does it take?
-7. Jean Meyer has talked about on-chain payments. Is spending directly from the wallet on
-   the roadmap?
-8. Who would I report to, and what does a strong first 90 days look like?
-
-Pick three or four. Questions 2, 3 and 4 show the most.
-
----
-
-## 9. Checklist
+## Checklist
 
 1. Find out who is interviewing. Look them up on LinkedIn.
-2. Open a Deblock account. Note onboarding, KYC, where the 4% toggle sits.
-3. 20 minutes in the Meta Ad Library and Google Ads Transparency Center: Deblock,
-   Revolut, Trade Republic in Italy.
-4. Write out one campaign she killed, with numbers.
-5. Find a funded or activation number from Blockchain.com, if one exists.
-6. Confirm the $5 per video scope and the Malaysia ownership.
-7. Practise the Italian answer and the 60-second Deblock summary out loud.
-8. SQL revision.
+2. Open a Deblock account. Note onboarding, KYC and where the 4% toggle sits.
+3. 20 minutes in the Meta Ad Library: Deblock, Revolut, Trade Republic in Italy.
+4. **Write out one campaign you killed, with numbers.**
+5. Check CPI was still ~$1.50 at 800+ installs a day.
+6. Practise sections 1, 2 and 7 out loud.
+7. Have a start date and a salary range ready.
+
+## Sources
+
+- [Deblock 4% page](https://deblock.com/en/4-percent-current-account)
+- [Deblock pricing](https://deblock.com/en/pricing-plans)
+- [Deblock Auto Sweep terms](https://cdn1.deblock.com/terms/fixed_rate-yield-terms/20260220_fixed_rate_yield_terms_v0_EN.pdf)
+- [Milano Finanza, Italy launch](https://www.milanofinanza.it/news/deblock-sbarca-in-italia-conto-al-4-cripto-oro-fisico-in-un-unica-app-occhio-alla-tutela-dei-202607131304182619)
+- [Finanza Digitale, GTA VI promo](https://www.finanzadigitale.com/news/deblock-gta-vi/)
+- [Gnosis Pay shutdown](https://cryptobriefing.com/gnosis-pay-shutdown-consumer-cards-b2b/)
+- [Trade Republic AGCM fine](https://startupitalia.eu/economy/trade-republic-multa-da-2-5-milioni-agcm/)
+- [Revolut AGCM fine](https://www.finanza.com/finanza-personale/effetto-iban-nuovi-servizi-revolut-italiani)
