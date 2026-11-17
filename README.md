@@ -16,9 +16,9 @@ notes/
                                   integrity checks. Read before writing anything.
   early-growth-hire.md            What the term means and why it favours her profile.
 
-dist/                             The CVs. Four variants, each as .docx (submission
+dist/                             The CVs. Five variants, each as .docx (submission
                                   copy), .html (paste into Google Docs with formatting
-                                  intact) and .md (readable anywhere). All four verified
+                                  intact) and .md (readable anywhere). All five verified
                                   to fit on one page.
 
 build/                            Source for the CVs. One data file per variant, one
@@ -28,12 +28,13 @@ applications/
   plasma/     jd-read, product-notes, brand-notes, and three finished answers
   kraken/     jd-read
   bvnk/       jd-read
+  aave/       jd-read
 
 linkedin/profile-copy.md          Headline options, About, and role highlights for both
                                   roles.
 ```
 
-## The four CV variants
+## The CV variants
 
 | Variant | For | Leads with |
 |---|---|---|
@@ -41,6 +42,7 @@ linkedin/profile-copy.md          Headline options, About, and role highlights f
 | `crypto-growth-general` | Send-around copy, no JD slant | Paid scaling across all 7 contribution themes |
 | `kraken-qa-ops` | Kraken / Payward, QA & Operations | Test design, then daily monitoring |
 | `bvnk-pmm` | BVNK, Product Marketing Manager | Institutional research, then Malaysia go-to-market |
+| `aave-growth` | Aave Labs, Growth Marketer | Install scaling and testing, then paid social, lifecycle and partnerships |
 
 `plasma` is her own final edit, kept verbatim — four items were flagged on it and not
 actioned, listed in OPEN-QUESTIONS.md. `crypto-growth-general` is as generated.
@@ -59,7 +61,7 @@ Edit a file in `build/data/` and re-run. Every variant regenerates into `dist/` 
 which is what went wrong when the .docx and the .html were maintained by hand.
 
 The build renders each .docx to PDF and reports the real page count, so one-page fit is
-verified rather than guessed. **All four currently fit on one page**, with room to spare,
+verified rather than guessed. **All five currently fit on one page**, with room to spare,
 even with the placeholder text still in. If LibreOffice is not on PATH the build falls
 back to estimating rendered lines and says so.
 

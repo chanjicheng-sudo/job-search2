@@ -83,6 +83,18 @@ note.
 - **n8n** is named in the JD and learnable in a weekend. Building something small with it
   converts a willingness claim into a work claim.
 
+## 9b. Aave-specific
+
+- **Activation or retention, again.** Item 1 matters even more here: "activation" and
+  "retention" are in the role's first bullet. A first-deposit or funded-account figure
+  is the single biggest upgrade to the Aave CV.
+- **Location and band.** Neither is posted. Aave Labs is London-headquartered; confirm
+  the req is London or remote-eligible.
+- **Amplitude or Mixpanel**, even lightly used. "Fluent in analytics tools" for a
+  consumer app usually means one of them.
+- **Any referral or invite mechanic she has touched**, at Blockchain.com or Malaberg.
+  Referrals are named twice in the JD.
+
 ## 10. Smaller items
 
 - **Portfolio URL.** Her old CV linked the word "Portfolio" with no address. Not on any
