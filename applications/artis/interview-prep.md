@@ -1,68 +1,90 @@
 # Artis — Growth Marketing Associate: interview prep
 
-## Cue sheet (glance, do not read)
+## Cue sheet (glance, do not read). Same order as BVNK
 
-### 1. Walk me through your background
-- Psychology BSc (2:1) + MRes (First) → research, surveys, how people behave
-- Malaberg, performance marketer → funnel analysis, conversions **5x**, **120% ROAS**
-- Passion for blockchain → **left my full-time job** for Blockchain.com
-- **Graduate Growth Marketing Manager**, Retail, Wealth and Institutional
-- Lead generation for Institutional → **20+ leads**. MiCA outreach → **3 major clients**
-- Big part of my role = AI to solve marketing problems
-- Close: I want to generate pipeline for a B2B product in a specialist market → Artis
+## 1. Walk me through your background (your words)
+- **Graduate Growth Marketing Manager** at **Blockchain.com**
+- Psychology, masters and undergrad → good foundation in conducting research, surveys, understanding a group of people
+- Joined a D2C e-commerce company → customer research, planned the GTM for new products
+  ⚠️ they have your CV ("Performance Marketer"). Only say what you can back up
+- Great passion for blockchain → **left my full-time job** to join Blockchain.com
+- Retail, Institutional and Wealth → a big part of my role: use AI to solve marketing problems
+- Proudest project: AI UGC workflow, prompt engineering to production
+- Reduces time and financial cost *(production −75%, CPI $25 → $6)*
+- Increases brand visibility across all paid platforms *(CTR 0.4% → 1.15%)*
+- **New close for Artis:** I want to generate leads and pipeline for a B2B product in a specialist market
 
-### 2. Why Artis? (your answer)
+## 2. What do you know about Artis / why us? (your words)
 - Trading commodities is all about **time**, especially arbitrage and prop traders
-- Artis = organised workflow, live prices, shared curves, one view of the market
+- A few seconds decide whether a trade is worth taking
+- Artis = organised workflow → live prices, shared curves, **one view of the market**
 - Real pain point, Artis solves it well
-- **API** → as people use AI more, a live database you can connect to AI is extremely useful
-- I do this myself → Claude + MCP connectors + APIs for our reporting
-- Love to help more traders discover Artis
+- Artis offers its data through an **API**
+- People use AI more → a live database you can connect to AI is extremely useful
+- I do this myself → Claude + **MCP connectors** + APIs for our reporting
+- Competitors: Sparta = intelligence for oil desks. Artis = **workflow between brokers and traders**
+- **Network effect** → every broker who joins brings their traders
+- *(optional facts: London, Houston, Dubai, Singapore. Glencore, Trafigura, ADNOC. Founder traded oil ~18 years)*
 
-### 3. Why this role / why B2B?
-- I like work that turns into **leads, trials and pipeline**, not just engagement
-- My most satisfying work: 20+ Institutional leads, 3 major clients, 4 HNW in Malaysia
-- Specialist audience = research first, then a targeted message → how I work
+## 3. Lead generation / working with sales
+- Honest: I use **Iterable**, not HubSpot **yet** → same logic, segments, lists, lifecycle
+- AI workflow → built a **skill**, handed over → team runs it without me = **a system, not a doc**
+- **100-prospect database** → **20+ leads** for Institutional BD
+- Work with Senior B2B PMM on Institutional + Wealth
+- MiCA shift → 80 publishers with AI → **3 major clients**
+- Perps research → why customers leave → that becomes **the message**
 
-### 4. Tell me about lead generation you've done
-- **S:** Institutional BD needed new prospects
-- **A:** researched and built a **100-operator database**, with the Senior B2B PMM
-- **R:** **20+ active leads** handed to BD
-- Second: MiCA → spotted exchange losing EU clients → **80 publishers** list with AI → **3 major clients**
+## 4. Own the outcome / resourceful (STAR)
+- **S:** ads relied on creators → expensive, ran out, TikTok ads last ~2 weeks
+- **T:** keep new creative coming without the cost
+- **A:** spotted competitors' AI UGC → proposed → built in **2 weeks** → skill → team
+- **R:** production **−75%**, CTR **0.4% → 1.15%**, CPI **$25 → $6**, rebrand **600+ installs / 7 days**
+- Backup: Malaysia, my own initiative → **4 HNW clients in month one**
+- Their values: **own the outcome** → Malaysia. **Think deeply** → perps. **Raise the bar** → AI UGC
 
-### 5. Their values → your stories
-- **Own the outcome** → Malaysia, my own initiative, **4 HNW clients in month one**
-- **Think deeply** → perps: researched *why* traders left before fixing → retention **+12%**
-- **Raise the bar** → AI UGC built in **2 weeks**, skill handed to the team, CPI **$25 → $6**
-
-### 6. HubSpot / ZoomInfo?
-- Honest: I use **Iterable** for CRM, not HubSpot yet
-- Same logic → segmentation, lists, lifecycle stages, attribution
-- I learn tools fast → built with Claude Code and MCP in weeks
-- ZoomInfo = the research I already do for prospect lists, with a better database
-
-### 7. How would you reach traders and brokers? (round 2 preview)
+## 5. How would you reach traders and brokers?
 - **Segment:** e.g. independent energy brokers in Dubai and Singapore
 - **Message:** share live curves securely, with provenance, on any device
-- **Channel:** ZoomInfo list → LinkedIn + email outreach, then events
+- **Channel:** ZoomInfo list → LinkedIn + email outreach → events
 - **Offer:** trial (Artis Lite, 30-day OB Curves trial)
 - **Measure:** trial sign-ups → activation (first curve shared) → paid, tracked in HubSpot
+- Principle: research first, then a targeted message → my 128 tests, keep what works, cut the rest
 
-### 8. Logistics
-- Salary: band is **£45k–£50k** → "Within your band works for me"
-- Right to work: **dependant visa**, no sponsorship
-- Hybrid: fine
-- Start: fixed-term contract ending → **can start soon**
+## 6. "You're too junior" (your words)
+- **1. AI.** Very good at AI → used it in different settings
+- AI started blooming when I started working
+- With these skills I can deliver more than a junior marketer
+  ⚠️ drop "someone with 20 years has the same experience as me, even less". It sounds arrogant
+- **2. Growth + product marketing.** Strong growth background → plan the down-the-line marketing for reach and specific markets
+- I bring the execution side
+  ⚠️ drop "most product marketing experts lack execution". Say "I bring both"
+- **3. Learning.** Every phase of my life has little overlap: academia → e-commerce → crypto
+- Learned and adapted to each within a short time → proves my ability and willingness to learn
+- *(optional proof: AI workflow built in 2 weeks, 4 clients in Malaysia in month one)*
 
-### Watch-outs
-- Say **"Blockchain.com"** and **"Graduate Growth Marketing Manager"**, never "intern"
-- Don't claim HubSpot, ZoomInfo, events, webinars, commodities experience
-- Perps volume → "grew **over the same period**"
+## 7. Salary, notice, logistics
+- Band is **£45k–£50k** → "Within your band works for me"
+- Fixed-term contract ending → **can start soon** (have a date)
+- **Dependant visa**, right to work, **no sponsorship**
+- Hybrid → fine
+- Other interviews: "a few fintechs" → **no company names**
 
-### Questions to ask (pick two)
+---
+
+## Watch-outs
+- Say **"Blockchain.com"**, not "BCDC"
+- **"Graduate Growth Marketing Manager"**, never "intern"
+- "A big part of my role", not "my job is AI"
+- Perps volume → "grew **over the same period**", not "I grew it"
+- **Don't repeat the Malaysia licence line**
+- Don't claim HubSpot, ZoomInfo, events, webinars or commodities experience
+
+## Your questions (ask two)
 1. Where do most new customers come from today, relationships, referrals or inbound?
-2. Which segment do you want marketing to win first, traders or brokers, and which region?
-3. What would success look like after 6 months, in leads, trials or pipeline?
+2. What does success look like in this role after 6 months, leads, trials or pipeline?
+3. Next steps, and who would I meet?
+
+**Close:** "I really enjoyed this. The network effect makes it an exciting time to join, and I'd love to help more traders discover Artis."
 
 ---
 
