@@ -28,10 +28,10 @@ module.exports = {
           dates: "May 2026 – Present",
           sub: "Blockchain.com, London, United Kingdom  |  Retail, Wealth and Institutional",
           bullets: [
-            "Grew daily installs from 200+ to 800+ (~4x) at a flat ~$1.50 CPI by scaling search acquisition (Apple Search Ads) from 2 to 26 markets and from 9 to 121 campaigns (13x)",
             "Built the company's first in-house AI UGC workflow in 2 weeks, cutting production time by 75%, lifting CTR from 0.4% to 1.15% (+188%), cutting CPI from $25 to $6 (−76%) and driving 600+ installs in the first 7 days after I recreated the creative for our rebranded yield product, then built a prompt-generation skill and handed it over to the team",
-            "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured A/B tests across 26 markets, then scaling the 5 winning campaign groups and killing 26 underperformers",
             "Increased user retention by 12% and grew cumulative perps trading volume from $100m to $500m (5x) in two months by turning research on why active, inactive and churned users dropped off into hypotheses and insights, then working with Product to rework the in-app explainer and help page",
+            "Grew daily installs from 200+ to 800+ (~4x) at a flat ~$1.50 CPI by scaling search acquisition (Apple Search Ads) from 2 to 26 markets and from 9 to 121 campaigns (13x)",
+            "Cut UK CPI by 21.5% while installs rose 30.2% by running 128 structured A/B tests across 26 markets, then scaling the 5 winning campaign groups and killing 26 underperformers",
             "Converted 4 high net worth clients onto the crypto lending product in Malaysia within 1 month of launch by running referral, affiliate and KOL partnerships and community outreach for a new market",
             "Increased email open rate by 10% by building API tools that localise Iterable (CRM) lifecycle communications into 24 languages",
             "Sourced 3 major high net worth clients by spotting that a major exchange was losing access to European clients under MiCAR, and building an outreach list of 80 crypto publishers with AI",
