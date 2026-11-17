@@ -12,7 +12,8 @@ analytics or product/data. 2:1 or above, ideally STEM or analytical.
   experimental design and causal inference (86/100, top of cohort).
 - **Finding performance drivers:** perps churn investigation, Malaberg funnel analysis.
 - **Monitoring and automation:** Claude Code reporting, company-wide dashboard.
-- **SQL and Python:** both on record.
+- **SQL and Python:** from research only. She does not use them hands-on (Nov 2026), so
+  the CV marks them "from research". Brush up SQL before any technical stage.
 - **Lending exposure:** Malaysia loans product launch (marketing side).
 
 ## Gaps (interview prep, not stated in the application)
@@ -22,7 +23,6 @@ analytics or product/data. 2:1 or above, ideally STEM or analytical.
   affordability checks, open banking data, swap-in and swap-out analysis, fraud first-party
   versus third-party, explainability under FCA Consumer Duty.
 - **Data warehouses and decisioning platforms.** Not on record.
-- **3–5 years.** About 20 months, in marketing.
-- **Degree class.** They ask for a 2:1 or above. If her BSc is a 2:1 or First, add it to
-  the CV's education line.
-- Sponsorship: check Raylo sponsors.
+- **3–5 years.** About 2 years, in marketing.
+- **Degree class.** Met: BSc 2:1 and MRes First, both shown on the CV.
+- Right to work: dependant visa, no sponsorship needed.
