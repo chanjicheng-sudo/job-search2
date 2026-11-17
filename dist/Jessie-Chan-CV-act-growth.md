@@ -2,7 +2,7 @@
 
 London, UK  |  chan.jicheng@gmail.com  |  +44 (0) 7751 544 790  |  linkedin.com/in/ji-cheng-chan
 
-Growth marketer at a consumer mobile app, running paid acquisition across Meta, TikTok, Google, X and Apple Search Ads in 26 markets, alongside UGC campaigns and creator and KOL partnerships. I launch campaigns, track engagement, conversion and acquisition cost, and scale what works. I build with AI every day, using Claude Code, MCP connectors and AI video tools, so I understand AI products as both a user and a builder.
+Growth marketer at a consumer mobile app, running paid acquisition across Meta, TikTok, Google, X and Apple Search Ads across the UK, US, EU and Africa, alongside UGC campaigns and creator and KOL partnerships. I launch campaigns, track engagement, conversion and acquisition cost, and scale what works. I build with AI every day, using Claude Code, MCP connectors and AI video tools, so I understand AI products as both a user and a builder.
 
 ## EXPERIENCE
 

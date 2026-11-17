@@ -168,6 +168,10 @@ Exception: in a casual DM, contractions are fine and stripping them makes it sti
 
 ### The profile paragraph
 
+- **Regions, not "26 markets" (Nov 2026).** In the profile (the CV's headline paragraph),
+  write "across the UK, US, EU and Africa" instead of "in 26 markets". Bullets may keep
+  "26 markets" where it is the scale of a result (e.g. "from 2 to 26 markets").
+
 This took five attempts. The rules that came out of it:
 
 - **Profile carries scope numbers. Bullets carry outcome numbers.** This is the fix for
