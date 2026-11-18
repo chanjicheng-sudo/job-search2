@@ -7,7 +7,8 @@ says so. Do not state anything marked "unconfirmed" as fact in the interview.
 
 ## 1. The story in two minutes
 
-- **The founder.** Shah Ramezani, co-founder and CEO. Former UBS analyst, and before Noah
+- **The founder.** Shah Ramezani, co-founder and CEO. Swiss, born and raised, studied
+  business in Switzerland, started in banking, then moved to London. Former UBS analyst, and before Noah
   also worked at Lazard and Kingsway Capital and led the Asia division of The Hut Group
   (THG). He was 33 in June 2025. He started exploring crypto for payments in **2022**,
   first toying with Bitcoin, then deciding to build an API that lets developers move money
@@ -20,16 +21,93 @@ says so. Do not state anything marked "unconfirmed" as fact in the interview.
 - **How they met.** Lamers met Ramezani in **March 2024**, first as a potential
   **investor**. He joined as **co-founder and President in June 2024** instead. Ramezani
   said investors paid "a Thijn premium".
-- **The change of direction.** A June 2026 Forbes piece ("In the stablecoin race, Noah is
-  selling the shovels") says Noah repositioned from chasing consumers to selling
-  compliance and payment rails to businesses, after realising that getting licensed in
-  Europe was an advantage, not a burden. *I could not read the full article, so treat the
-  detail as unconfirmed. Some company profiles list a 2020 founding date, which may refer
-  to an earlier entity.*
+- **Where it started: a consumer "money app" (confirmed).** In a 2023 investor Q&A
+  (Concentric), NOAH was a consumer app built on bitcoin and stablecoins for emerging
+  markets (Vietnam, Nigeria, the Philippines, India). It worked like a neobank with a
+  WhatsApp-style interface to save, spend, send and receive money, with a dollar-stablecoin
+  "checking account", reward points redeemable for bitcoin, a referral programme and a
+  **400,000+ waitlist**, adding 5,000 to 10,000 users a week. The mission then was
+  "financial freedom" for the 1.4 billion people without a bank.
+- **The founding thesis.** Founded about four and a half years before January 2026
+  (so around 2021). The bet: crypto's killer app would be **payments, not speculation**.
+  The team saw people using stablecoin balances to move money, not to hold crypto.
+- **The change of direction.** Noah became "API-first" infrastructure that sits under
+  other companies. It first powered neobanks and wallets (**Jupiter, Ledger, KAST,
+  Lemon**), then "recently shifted to an enterprise-first motion". Forbes (June 2026)
+  says the turning point was realising that getting licensed in Europe was an advantage.
+  It now does one thing only, cross-border payments, and does not "dabble" in others.
+  *No source gives an exact date for the shift.*
 - **The public launch.** June 2025, with a **$22m seed round** led by LocalGlobe. Lamers
   says Noah launched "a little over a year" after he met Ramezani.
 
-## 2. What Noah does
+## 1b. What the founders believe
+
+**Shah Ramezani's core beliefs**
+- **Money still crawls.** Cross-border payments run on rails built for another era.
+  Each bank in a correspondent chain takes a fee and a day. Stablecoins settle in
+  seconds.
+- **Inflation and access.** In many emerging markets, local currencies lose value fast
+  (he has cited Ghana's currency falling 70% in a year), so people cannot save or send
+  money abroad. Dollars are a better store of value. His aim is to "put dollars in the
+  hands of every user" and make remittances cheaper and faster.
+- **Stablecoins are a payments story, not a crypto story.** He calls them "a settlement
+  instrument", not a bet on price.
+- **Make the technology invisible.** "A business shouldn't need to understand
+  stablecoins to benefit from them." He compares it to TCP/IP and Voice over IP: nobody
+  thinks about the plumbing.
+- **The settlement layer matters most.** "Everyone talks about the front end, the apps,
+  the cards, the wallets." Noah wants to own the layer underneath.
+- **Do the hard, regulated work.** "The winners will be the ones who did the
+  unglamorous, regulated work." That is why licences are central.
+- **Focus.** One use case, cross-border payments, at global scale.
+
+**Thijn Lamers' beliefs**
+- "Having seen Adyen's growth firsthand, I recognise that stablecoins represent an even
+  more profound shift."
+- "We want to make stablecoin settlement invisible to the companies and individuals
+  benefiting from it."
+- "Everything is credibility." Storytelling should "create belief", not exaggerate.
+
+## 1c. What they want Noah to become
+
+- **The settlement layer for global money:** one stack and "a single execution fabric"
+  that moves value anywhere, invisibly, for banks, fintechs and enterprises.
+- **Incumbents on the rails, not just crypto-native firms.** Western Union is the proof.
+- **AI agents paying each other.** Ramezani predicts AI agents will move money on their
+  own, and Noah's 2026 outlook mentions agents paying through protocols such as x402.
+- **Corporate treasury on-chain:** earning returns on idle balances (the Global Dollar
+  Network product).
+- **2026 theme from their year-end letter: "Rails will get real"**, moving from
+  proving the idea to real volume. Plans include more licences, more products, more
+  engineering and product hires, and bigger enterprise deals.
+
+## 1d. Values and culture
+
+Noah does not publish a values list (their team and hiring pages were offline). The
+themes that come through in the founders' own words:
+
+| Theme | Evidence | Your link |
+|---|---|---|
+| **Focus** | One use case, cross-border payments, no dabbling | You lead with the most relevant work, cut what does not work (128 tests, 26 campaigns cut) |
+| **Regulated and credible** | "Unglamorous, regulated work", "Everything is credibility" | UK FinProm rollout, Malaysia compliance review |
+| **Speed** | "Don't underestimate the speed of this one" | AI UGC built in 2 weeks, 4 clients in month one in Malaysia |
+| **Hiring great people** | CEO says his job is "hiring the people who will end up doing all of this better than me" | You built a skill so the team runs the AI workflow without you |
+| **Partnership** | "Investors as partners, not just investors" | You work across Product, Legal, Compliance, Data |
+| **Access for emerging markets** | Ghana inflation, 1.4bn unbanked, M-Pesa, PIX | You are Malaysian, launched in Malaysia, users in Africa |
+
+## 1e. How to use this in the interview
+
+- **Their consumer roots are your strength.** Noah started as a consumer app that grew
+  through referrals and a waitlist. You grew a consumer crypto app. You understand the
+  end users their customers serve.
+- **"Invisible stablecoins" is a marketing brief.** Their own line, "a business
+  shouldn't need to understand stablecoins to benefit from them", is exactly the message
+  you would build the website, case studies and ads around.
+- **Emerging markets are personal for you.** You can speak to inflation, remittances and
+  mobile money with real understanding.
+- **AI agents.** Ramezani talks about agents moving money. You build with AI every day.
+
+
 
 **One line:** payment infrastructure that connects bank transfers with stablecoins, so a
 business can collect money in one currency and pay out in another, anywhere, in minutes.
@@ -104,6 +182,12 @@ rails, and a fast licensing machine. Now with Western Union as proof of trust.
 
 ## 7. Founder quotes you can reference
 
+- Ramezani: "We're here to set money free from the part of it that stopped making sense."
+- Ramezani: "Stablecoins will stop being a digital assets story and become plumbing."
+- Ramezani: "A business shouldn't need to understand stablecoins to benefit from them."
+- Ramezani: "Don't underestimate the speed of this one."
+- Ramezani: "The stablecoin is basically the Voice over IP… It can go anywhere."
+
 - Ramezani: "The most important thing in payments… is the network."
 - Ramezani: Noah's mission is to "replace the slow and expensive traditional banking
   approach to international transfers with a single settlement platform."
@@ -137,6 +221,14 @@ you could say:
 - Bring your X ads results. The job ad asked for results.
 
 ## Sources
+
+- Concentric, 2023 Q&A: concentric.vc/conversations/noah-the-money-app-saving-the-world-from-a-currency-flood
+- Noah blog, 2025 review and 2026 outlook: noah.com/blog/review-2025-outlook-2026
+- Fintechly, Five minutes with Shah Ramezani (Sep 2026)
+- Fintech Profile, Shah Ramezani Q&A (Jun 2026)
+- The Ledger Podcast, From SWIFT to Stablecoins (Jan 2026)
+- Tech Talks Daily, Noah stablecoin payment infrastructure (2026)
+- Fintech.tv, stablecoins and remittances (Jun 2026)
 
 - Fortune, June 2025: fortune.com/crypto/2025/06/10/noah-thijn-lamers-stablecoin-startup-shah-ramezani
 - Fortune (Lamers), July 2026: fortune.com/2026/07/23/europe-startups-storytelling-ambition-adyen-lamers
