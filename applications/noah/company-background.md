@@ -40,6 +40,60 @@ says so. Do not state anything marked "unconfirmed" as fact in the interview.
 - **The public launch.** June 2025, with a **$22m seed round** led by LocalGlobe. Lamers
   says Noah launched "a little over a year" after he met Ramezani.
 
+## 1a. The shift: from consumer app to institutional infrastructure
+
+### Three stages
+
+| | **Stage 1: consumer app** | **Stage 2: powering other apps** | **Stage 3: enterprise and institutions** |
+|---|---|---|---|
+| **When** | ~2021 to 2023 | ~2023 to 2025 | 2025 onwards ("enterprise-first" by 2026) |
+| **Customer** | Individuals in emerging markets (Vietnam, Nigeria, Philippines, India) | Consumer crypto apps and neobanks (Jupiter, Ledger, KAST, Lemon, MiniPay) | Payroll, payment companies, remittance firms, SMBs, enterprises, incumbents (Western Union) |
+| **Product** | NOAH app: save, spend, send in dollars and bitcoin, WhatsApp-style, points, referrals | API that lets those apps offer accounts, conversion and payouts to their users | One API for pay-ins, conversion, payouts in 150+ markets, rules engine, treasury |
+| **How it grew** | Referral programme, 400,000+ waitlist, 5,000 to 10,000 users a week | Each partner brings all its users at once | Enterprise sales, licences, partnerships (Lamers' Adyen playbook) |
+| **Story told** | "Financial freedom", bitcoin as "the best currency on the planet" | Infrastructure behind the apps | "Invisible plumbing", settlement layer, cross-border payments only |
+
+### Why, documented
+1. **Licensing became the moat.** Forbes: Noah realised getting licensed in Europe was an
+   advantage, so it sold "compliance and payment rails to businesses rather than chasing
+   consumers" ("selling the shovels"). It now holds 40+ licences and approvals.
+2. **Usage showed the real need.** The team saw stablecoin balances used to move money,
+   not to speculate. The founding bet, "payments, not speculation", pointed to payments
+   infrastructure.
+3. **They built the missing layer.** Ramezani: Noah built the layer between stablecoins
+   and regulated payments, "That's why we decided to be an infrastructure player."
+4. **Value sits underneath.** "Everyone talks about the front end, the apps, the cards,
+   the wallets." The network and settlement layer matter more.
+5. **An enterprise sales leader joined.** Thijn Lamers (Adyen's global sales head) became
+   co-founder in June 2024, a year before the "enterprise" story went public.
+
+### Why, likely (my reading, not stated by Noah)
+- **Distribution maths.** One partner like Ledger or Western Union brings millions of end
+  users. A consumer app wins them one by one, at high cost.
+- **Steadier revenue.** Usage-based fees on daily business flows beat consumer usage.
+- **Rules favoured B2B.** Consumer crypto marketing got harder (e.g. UK crypto promotion
+  rules from October 2023), while clear stablecoin rules (MiCA, the US GENIUS Act in July
+  2025, Hong Kong in August 2025) made businesses comfortable adopting stablecoins.
+- **The market validated infrastructure.** Stripe bought Bridge (Oct 2024) and
+  Mastercard bought BVNK (2026), showing the value sits in B2B rails.
+- **Crypto winter.** 2022 to 2023 was hard for consumer crypto apps.
+
+### What stayed the same
+- **Emerging markets and access.** From the unbanked app users to M-Pesa, PIX and NALA.
+- **Dollars for people whose currency loses value.** "Noah's ark" against inflation.
+- **Payments, not speculation.** The core belief never changed. Only who Noah serves did.
+
+### What it means for marketing (your angle)
+- **Stage 1 marketing** was consumer growth: referrals, waitlists, viral loops.
+- **Stage 3 marketing** is B2B: credibility, case studies, pipeline, partnerships,
+  account-based outreach, and making a technical product simple ("invisible plumbing").
+- **You bridge both.** You grew a consumer crypto app (installs ~4x, AI UGC, retention)
+  and generated B2B pipeline (20+ Institutional leads, 3 major clients). You understand
+  the end users Noah's customers serve and the buyers Noah sells to.
+
+**A question to ask them:** "I read Noah started as a consumer money app. What made you
+decide to become infrastructure, and what did the consumer years teach you that still
+shapes the product?"
+
 ## 1b. What the founders believe
 
 **Shah Ramezani's core beliefs**
