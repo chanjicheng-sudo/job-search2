@@ -192,6 +192,25 @@ channel is named.
 - She is comfortable sharing all of these details, including Nigeria and the blue-state
   targeting (Nov 2026).
 
+## 5d. Added Nov 2026 for the Noah portfolio (from her)
+- **iGaming:** outreach list of **120 contacts** ranked by priority for Sales. LinkedIn lead
+  gen ads: 20+ active leads at **~$140 per lead (her estimate; use $140)**.
+- **Solana Breakpoint event (London):** she boosted posts on X and ran web campaigns to the
+  Luma page. About **1,000 approved registrations, about 500 attendees**.
+- **Time split:** about 65% consumer, 35% institutional.
+- **Yield product relaunch:** paused every asset with the old name; built new pages with
+  front-end engineers (copy balanced for marketing and compliance); updated FAQs with
+  Customer Success; new creative with the designer; AI UGC assets drove 600+ installs in 7
+  days.
+- **App Store keyword rebuild:** all storefronts used the same headline, subtitle and
+  keywords. She used AppFollow's API to scrape competitor keywords, ranked them by
+  frequency and impact, and rebuilt all three fields in **14 languages**. First-time
+  installs grew from **~20k to ~28k (+40%) in two months**.
+- **Perps:** she prefers to lead with the volume growth ($100m to $500m) without the
+  retention figure in the Noah portfolio.
+- **Malaberg Good Food prelander:** old (left) vs new (right) image; plus a next-stage page
+  in the same style.
+
 ## 6. Customer research and new business support
 
 - Designed and launched a customer survey: 114 completed responses across 3 customer

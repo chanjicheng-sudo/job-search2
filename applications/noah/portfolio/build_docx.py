@@ -128,6 +128,8 @@ def image_width(img_src, max_w, max_h_cm=None):
 def figure(node, max_w=CONTENT_W, max_h_cm=None):
     img = node.find("img")
     style = img.get("style", "")
+    if "max-height:330px" in style:
+        max_h_cm = 11
     if "max-height:400px" in style:
         max_h_cm = 13
     if "max-height:520px" in style:
