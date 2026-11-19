@@ -211,6 +211,10 @@ channel is named.
 - **Malaberg Good Food prelander:** old (left) vs new (right) image; plus a next-stage page
   in the same style.
 
+- **Copywriting (added Nov 2026, from her):** she writes the copy for all paid ads herself,
+  including the LinkedIn ads. Every ad example in the Noah portfolio is her own copy, except
+  the Earn (yield product) page, where she adapted existing copy.
+
 ## 6. Customer research and new business support
 
 - Designed and launched a customer survey: 114 completed responses across 3 customer
