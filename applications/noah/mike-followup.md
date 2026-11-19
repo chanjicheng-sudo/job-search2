@@ -41,6 +41,7 @@ When our Institutional team expanded into iGaming, I owned the marketing, buildi
 
 - **Apple Search Ads expansion (my standout).** Since I took over in May 2026, I expanded into new markets with a Custom Product Page for each one and tested different bidding methods as we went. What made it work was matching each page to what people searched for in that market, and cutting what did not perform. I knew it worked because spend and installs grew steeply while cost per install rose only modestly. [Attach: asa-chart-nov25-oct26]
 - **Yield product relaunch.** When we rebranded our yield product, every creator video still carried the old name. I recreated the creative with our AI UGC workflow and launched it across paid social. What made it work was speed, because we had fresh creative live from day one instead of waiting weeks for creators. I knew it worked because it drove 600+ installs in the first 7 days. [Creative example]
+- **Malaberg's "Good Food" style landing pages.** I noticed our product performed best on BBC Good Food, so I designed a prelander inspired by that site's clean, trusted look, giving users a familiar experience from the ad to our page. It lifted landing page click-through rate by 20% and average order value by 16%. I then applied the same approach to a later stage of the funnel, which lifted conversion rate by 25% and average order value by a further 10%. [image 5.jpg]
 
 Kind regards,
 Jessie

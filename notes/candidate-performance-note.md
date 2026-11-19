@@ -235,6 +235,14 @@ channel is named.
 
 ---
 
+## 7b. Malaberg: "Good Food" style landing pages (added Nov 2026, from her)
+- Observed the product performed best on **BBC Good Food**, so she designed a prelander
+  inspired by that site's clean, trusted aesthetic, for a seamless ad-to-page experience.
+  Result: **landing page CTR +20%, AOV +16%**.
+- Applied the same approach to a later funnel stage (the "flow"). Result: **AOV a further
+  +10%, CVR +25%**.
+- Strong landing page / CRO evidence. She has a visual (image 5.jpg).
+
 ## 8. Manager's business case and stakeholder feedback (added Oct 2026)
 
 Source: a hiring case her manager wrote to convert her to a permanent **Jr AI Growth
