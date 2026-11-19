@@ -17,7 +17,7 @@ Thank you, and thanks to the team for the positive feedback. I am excited about 
 **Consumer (most of my work).** My consumer work is mainly paid media and running marketing campaigns. I also work closely with the Product team to improve the customer experience, and adapt our marketing language to sell our products.
 
 - **AI UGC (hands-on).** UGC has the biggest impact on acquisition, so I built our first in-house AI UGC workflow in 2 weeks and have spent the last two months perfecting it. It now runs at scale across all our paid platforms, including Google, Meta, TikTok, X and programmatic, with Google driving the biggest impact. It cut our paid social cost per install from $25 to $6. As one example, a single English-language ad targeting Italy drove 242 installs in its first 7 days on $1,206 of spend, about $5 per install. [Italy asset] [X ad examples]
-- **Apple Search Ads (full ownership).** I took over Apple Search Ads in my first week, when it was only running in the UK and the US. I owned everything from researching competitor keywords to testing different bidding methods and building Custom Product Pages to boost downloads. It now runs across most of the EU, the UK, the US, Ghana and parts of Asia, and daily installs have grown about 4x while cost per install stayed flat.
+- **Apple Search Ads (full ownership).** I took over Apple Search Ads in my first week, when it was only running in the UK and the US. I owned everything from researching competitor keywords to testing different bidding methods and building Custom Product Pages to boost downloads. It now runs across most of the EU, the UK, the US, Ghana and parts of Asia, and daily installs have grown about 4x while keeping cost per install under control.
 - **CRM (supporting).** I support our CRM lead by building AI tools that make her work easier, for example API tools that localise our emails into 24 languages, which lifted open rates by 10%.
 
 **Institutional (hands-on).** On the institutional side, I led marketing for our expansion into iGaming. I built the outreach list for our business development team and ran LinkedIn lead generation ads, which brought in 20+ targeted, active leads at an average cost of about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples] I also support our institutional branding, for example our event around Solana Breakpoint in London, which aimed to build awareness of Blockchain.com's institutional business among the builder community.
@@ -35,6 +35,10 @@ Our ads relied on real creators, who were expensive and ran out fast, so I built
 **Example 2 (institutional). iGaming expansion**
 
 When our Institutional team expanded into iGaming, I owned the marketing, building the outreach list and running LinkedIn lead generation ads to decision makers. The ads brought in 20+ targeted, active leads at about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples]
+
+**Apple Search Ads since I took over (May 2026)**
+
+Since I took over Apple Search Ads in May 2026, spend and installs have grown steeply while cost per install has risen only modestly. The chart shows the last 12 months; everything from May onwards is my work. [Attach: asa-chart-nov25-oct26]
 
 Kind regards,
 Jessie

@@ -21,6 +21,13 @@ updated.
 |---|---|---|
 | Daily installs | 187 | 562 (~3x) |
 
+> **Clarification, Nov 2026 (from her):** the ~$1.50 CPI was for **certain campaigns**, not
+> the whole account. Account-level Apple Search Ads (her chart, Nov 2025 to Oct 2026): Nov
+> 2025 spend $13,911, installs 1,685, CPI $8.26. She took over in **May 2026**; April and
+> earlier were not her work. From May, spend and installs rose steeply while CPI rose
+> modestly. Say "cost per install under control" at account level, and "~$1.50 on core
+> campaigns" only when the campaign scope is clear.
+
 > **Update, Nov 2026 (from her):** daily installs now 200+ to 800+ (~4x). The business
 > case and recruiter-vouched figure is 187 to 562 (~3x), from an earlier point. Check CPI
 > was still flat at the later figure.
