@@ -159,7 +159,7 @@ channel is named.
   - built the **outreach list** (target operators; cannot be shared),
   - ran **LinkedIn lead generation ads** (she can show the ads).
 - **Result: 20+ active, targeted leads from the LinkedIn ads, average cost per lead ~$120.**
-- Soon after, the team hosted a **dinner in Malta for 16 C-suite executives** from the
+- Soon after, the team hosted a **dinner in Malta for 16 members of senior leadership** from the
   companies they had reached out to.
 - Conversion from cold calling is not tracked in detail.
 - **Correction:** earlier CVs say the 20+ leads came from "building a 100-operator prospect
