@@ -57,6 +57,13 @@ risk, while UK users are more balanced, so content was tailored by region.
   It now runs across most of the **EU, UK, US, Ghana and parts of Asia**.
 - Do not describe Blockchain.com's paid performance as "undermanaged" in applications.
 
+**App Store pages (added Nov 2026, from her, with screenshots):** Custom Product Pages tested
+with different messages: "Buy Bitcoin in 3 taps" (US), "One trusted app. Trade, Earn and
+Borrow" (EU), staking rewards up to 4% APY, "Earn up to 11% APY on 50+ assets". Main
+listing refresh, 21 Sep 2026 (v202609.3.0): copy now leads with product breadth (11% APY
+on 50+ assets, loans from 1.9%, perps up to 50x), "Cryptoing since 2011" became "Trusted
+since 2011", new screenshot set. No result figures given for these yet.
+
 ## 2. Marketing reporting and infrastructure
 
 - Designed and deployed automated Apple Search Ads reporting. Saved ~30 min/day of manual
