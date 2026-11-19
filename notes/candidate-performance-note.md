@@ -140,6 +140,20 @@ channel is named.
 - Directed marketing delivery across paid media, UGC scripts, landing pages and app-store
   content in UK, US and EU markets.
 
+## 5a. Institutional iGaming expansion (added Nov 2026, from her)
+- She **owned** several efforts for the Institutional iGaming expansion:
+  - built the **outreach list** (target operators; cannot be shared),
+  - ran **LinkedIn lead generation ads** (she can show the ads).
+- **Result: 20+ active, targeted leads from the LinkedIn ads, average cost per lead ~$120.**
+- Soon after, the team hosted a **dinner in Malta for 16 C-suite executives** from the
+  companies they had reached out to.
+- Conversion from cold calling is not tracked in detail.
+- **Correction:** earlier CVs say the 20+ leads came from "building a 100-operator prospect
+  database". Per her, the 20+ leads came from the LinkedIn lead-gen ads, with the
+  database as the outreach list. Future CVs: "Generated 20+ active leads at ~$120 per lead
+  for the Institutional iGaming expansion by building a target operator list and running
+  LinkedIn lead-gen ads".
+
 ## 5b. Institutional events (added Nov 2026, from her)
 - Helps the Institutional business with branding and lead generation.
 - Worked on **two recent London events**. One was around **Solana Breakpoint**, aimed at
