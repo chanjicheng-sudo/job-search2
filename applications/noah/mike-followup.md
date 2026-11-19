@@ -32,13 +32,13 @@ Thank you, and thanks to the team for the positive feedback. I really enjoyed me
 
 *The result.* It now runs at scale across every paid platform, including programmatic, and cut our paid social cost per install from $25 to $6. When we rebranded our yield product, we used the workflow to have fresh creative live from day one.
 
-**Case study 2 (B2B). Institutional lead generation**
+**Case study 2 (B2B). Institutional iGaming expansion**
 
-*The problem.* Our Institutional business development team needed a steady pipeline of qualified prospects in a niche market.
+*The problem.* Our Institutional team was expanding into iGaming and needed to reach operators it had no relationship with.
 
-*What I did.* I researched the market and built a database of 100 operators, segmenting them by fit so the team could prioritise. Working with our Senior B2B Product Marketing Manager, I handed over the qualified leads and supported the outreach.
+*What I did.* I owned the marketing side. I researched the market and built the outreach list of target operators for business development, then ran LinkedIn lead generation ads aimed at decision makers at those companies, testing the message as results came in.
 
-*The result.* The database produced 20+ active leads for business development. Because it is prospect data, I cannot share the list itself, but I am happy to talk through how I built and qualified it.
+*The result.* The LinkedIn ads brought in 20+ targeted, active leads at an average cost of about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples]
 
 Thank you again, and I look forward to hearing from you.
 
