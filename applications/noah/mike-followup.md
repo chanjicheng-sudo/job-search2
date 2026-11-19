@@ -30,7 +30,7 @@ Thank you, and thanks to the team for the positive feedback. I really enjoyed me
 
 *What I did.* I saw competitors running AI-generated UGC and proposed we build our own. I tested AI models for avatar, voice, motion and video, and spent two weeks on prompt engineering until the output was good enough to run as ads. Before launch, I took the first assets to Legal so we agreed what was acceptable for a regulated product. The first version depended on me writing every prompt, so I built a skill that generates them and handed the workflow to the team, who now run it without me.
 
-*The result.* Production time fell by 75%, click-through rate nearly tripled and paid social cost per install fell by 76%. When we rebranded our yield product, we used the workflow to have fresh creative live from day one. [UGC LINKS]
+*The result.* It now runs at scale across every paid platform, including programmatic, and cut our paid social cost per install from $25 to $6. When we rebranded our yield product, we used the workflow to have fresh creative live from day one.
 
 **Case study 2 (B2B). Institutional lead generation**
 
