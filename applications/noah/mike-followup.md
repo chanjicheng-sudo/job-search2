@@ -1,10 +1,9 @@
-# Noah — reply to Mike Hollingbery (three sections)
+# Noah — reply to Mike Hollingbery (short version)
 
-Her structure (Nov 2026): question 1 in her own words (consumer and institutional, hands-on vs supporting), then one B2C and one B2B case study. Question 1 is being finalised first.
-Covers Mike's four questions: mix of work and hands-on vs led through others (summary),
-ramping up fast (summary), work and campaigns with links (B2C case), B2B side (B2B case).
-Public links only, no screen share. Consistent with the CV she sent: no job title, no US
-campaign figure.
+Her structure (Nov 2026): a short mix-of-work paragraph (65% retail, 35% institutional), a
+few responsibilities, two 4-line case studies backing the results, and a short ramp-up
+paragraph for Mike's second question. Public links only, no dashboards, no screen share.
+Consistent with the CV she sent: no job title, no US campaign figure.
 
 ---
 
@@ -12,35 +11,29 @@ campaign figure.
 
 Hi Mike,
 
-Thank you, and thanks to the team for the positive feedback. I really enjoyed meeting everyone and I am excited about the role. Below is a summary of my work and two short case studies. Much of my work sits in internal ad accounts and dashboards that I cannot share outside Blockchain.com, so I have linked public examples where I can and am happy to talk through the rest on a call.
+Thank you, and thanks to the team for the positive feedback. I am excited about the role. Below is a short overview of my work, with two examples and links. I am happy to talk through anything in more detail on a call.
 
-**1. My mix of work**
+**My mix of work**
 
-**Consumer (most of my work).** My consumer work is mainly paid media and running marketing campaigns. I also work closely with the Product team to improve the customer experience, and adapt our marketing language to sell our products.
+My work is about 65% retail and 35% institutional. On retail, I run paid media and campaigns hands-on and work with Product on the customer experience. On institutional, I own lead generation and support branding for our business development team. Most of my work is hands-on, and I lead through others on creative production with designers and partners, and on reporting with Data Engineering.
 
-- **AI UGC (hands-on).** UGC has the biggest impact on acquisition, so I built our first in-house AI UGC workflow in 2 weeks and have spent the last two months perfecting it. It now runs at scale across all our paid platforms, including Google, Meta, TikTok, X and programmatic, with Google driving the biggest impact. It cut our paid social cost per install from $25 to $6. As one example, a single English-language ad targeting Italy drove 242 installs in its first 7 days on $1,206 of spend, about $5 per install. [Italy asset] [X ad examples]
-- **Apple Search Ads (full ownership).** I took over Apple Search Ads in my first week, when it was only running in the UK and the US. I owned everything from researching competitor keywords to testing different bidding methods and building Custom Product Pages to boost downloads. It now runs across most of the EU, the UK, the US, Ghana and parts of Asia, and daily installs have grown about 4x while cost per install stayed flat.
-- **CRM (supporting).** I support our CRM lead by building AI tools that make her work easier, for example API tools that localise our emails into 24 languages, which lifted open rates by 10%.
+- **Apple Search Ads.** Full ownership since my first week. I expanded it from the UK and US to most of the EU, Ghana and parts of Asia, and daily installs grew about 4x at a flat cost per install.
+- **AI UGC.** I built and run our in-house workflow, now live on every paid platform.
+- **Paid media.** Campaigns across Google, Meta, TikTok, X and programmatic.
+- **CRM.** AI tools that localise our emails into 24 languages, lifting open rates by 10%.
+- **Institutional.** Lead generation and events, including our London event around Solana Breakpoint.
 
-**Institutional (hands-on).** On the institutional side, I led marketing for our expansion into iGaming. I built the outreach list for our business development team and ran LinkedIn lead generation ads, which brought in 20+ targeted, active leads at an average cost of about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples] I also support our institutional branding, for example our event around Solana Breakpoint in London, which aimed to build awareness of Blockchain.com's institutional business among the builder community.
+**Example 1 (retail). AI UGC**
 
-**Case study 1 (B2C). Our first in-house AI UGC workflow**
+Our ads relied on real creators, who were expensive and ran out fast, so I built our own AI UGC workflow and handed it to the team to run at scale. It now runs across every paid platform, including programmatic, and cut our paid social cost per install from $25 to $6. One English-language ad targeting Italy drove 242 installs in its first 7 days on $1,206 of spend, about $5 per install. [Italy asset] [X ad examples]
 
-*The problem.* Our paid social relied on real creators. Their videos were expensive, and on TikTok an ad only lasts about two weeks, so we kept running out of fresh creative to test.
+**Example 2 (institutional). iGaming expansion**
 
-*What I did.* I saw competitors running AI-generated UGC and proposed we build our own. I tested AI models for avatar, voice, motion and video, and spent two weeks on prompt engineering until the output was good enough to run as ads. Before launch, I took the first assets to Legal so we agreed what was acceptable for a regulated product. The first version depended on me writing every prompt, so I built a skill that generates them and handed the workflow to the team, who now run it without me.
+When our Institutional team expanded into iGaming, I owned the marketing, building the outreach list and running LinkedIn lead generation ads to decision makers. The ads brought in 20+ targeted, active leads at about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples]
 
-*The result.* It now runs at scale across every paid platform, including programmatic, and cut our paid social cost per install from $25 to $6. When we rebranded our yield product, we used the workflow to have fresh creative live from day one.
+**Ramping up fast**
 
-**Case study 2 (B2B). Institutional iGaming expansion**
-
-*The problem.* Our Institutional team was expanding into iGaming and needed to reach operators it had no relationship with.
-
-*What I did.* I owned the marketing side. I researched the market and built the outreach list of target operators for business development, then ran LinkedIn lead generation ads aimed at decision makers at those companies, testing the message as results came in.
-
-*The result.* The LinkedIn ads brought in 20+ targeted, active leads at an average cost of about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples]
-
-Thank you again, and I look forward to hearing from you.
+When I took on our loans launch in Malaysia, there was no playbook for the market. In the first two weeks I researched the local regulations and competitors, worked with Legal on a compliance review and chose referral and affiliate partners. We converted 4 high net worth clients in the first month.
 
 Kind regards,
 Jessie
@@ -49,8 +42,5 @@ Jessie
 
 ## Before sending
 
-- [ ] Add 2 or 3 public UGC links (Meta Ad Library or TikTok Creative Center), or delete
-      the placeholder.
-- [ ] Optional: a before-and-after screenshot of the Malaberg landing page, numbers
-      blurred.
+- [ ] Add the Italy asset, a few X ads and the LinkedIn ads (public links or screenshots).
 - [ ] Reply all, so Stephen is copied.
