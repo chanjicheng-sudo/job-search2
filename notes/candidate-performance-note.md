@@ -170,12 +170,13 @@ channel is named.
 - Wave 1 went live the day after he left. Prize hunters in one market (Nigeria) claimed the
   rewards and sold immediately, adding selling pressure.
 - She proposed a plan B to the CMO: wave 2 to the EU and the US, with US acquisition
-  limited to lower-risk states (she described them as blue states, because the project is
-  politically sensitive; say "selected US states" in applications). Agreed with Trading
+  limited to lower-risk states (blue states, because the project is politically charged, so
+  it would not affect current users). Agreed with Trading
   and Product to reduce wave 2 volume, negotiated a new start date and lower volume with
   LAPTOP, sent them a status report, and took the final regions through Legal.
 - Still in progress (Nov 2026). Use as her "ramping up fast" / ownership story.
-- Do not name the country or the political angle in applications.
+- She is comfortable sharing all of these details, including Nigeria and the blue-state
+  targeting (Nov 2026).
 
 ## 6. Customer research and new business support
 

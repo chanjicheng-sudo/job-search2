@@ -83,6 +83,13 @@ writing new versions.
   generates the prompts and handed the workflow to other team members to scale. "No time
   or tokens wasted."
 
+## What she is comfortable sharing (Nov 2026)
+
+Anything she states herself in a message (names of projects and partners, figures,
+countries, spend) is fine to use as she wrote it. Do not anonymise or soften her own
+details unless she asks. Keep the standing exceptions: no internal dashboards, no
+criticism of her employer or colleagues, no Malaysia licence line.
+
 ## Her writing voice
 
 For application answers, cover letters, DMs — anything written as her speaking.
