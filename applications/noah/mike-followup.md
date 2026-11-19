@@ -1,6 +1,6 @@
 # Noah — reply to Mike Hollingbery (three sections)
 
-Her structure (Nov 2026): one summary paragraph, one B2C case study, one B2B case study.
+Her structure (Nov 2026): question 1 in her own words (consumer and institutional, hands-on vs supporting), then one B2C and one B2B case study. Question 1 is being finalised first.
 Covers Mike's four questions: mix of work and hands-on vs led through others (summary),
 ramping up fast (summary), work and campaigns with links (B2C case), B2B side (B2B case).
 Public links only, no screen share. Consistent with the CV she sent: no job title, no US
@@ -14,9 +14,15 @@ Hi Mike,
 
 Thank you, and thanks to the team for the positive feedback. I really enjoyed meeting everyone and I am excited about the role. Below is a summary of my work and two short case studies. Much of my work sits in internal ad accounts and dashboards that I cannot share outside Blockchain.com, so I have linked public examples where I can and am happy to talk through the rest on a call.
 
-**Summary**
+**1. My mix of work**
 
-Most of my work is consumer acquisition, which I run hands-on across paid social, Apple Search Ads, app store pages and CRM. I scaled our search acquisition from 2 to 26 markets, growing daily installs about 4x at a flat cost per install, and before that I rebuilt landing pages at Malaberg that grew daily conversions 5x. I also lead through others, briefing designers and external acquisition partners, and working with Data Engineering to turn my reporting into a company-wide dashboard. A smaller part of my role is institutional, where I build prospect lists and outreach for our business development team. I ramp up fast. When I took on our loans launch in Malaysia, there was no playbook, so in the first two weeks I researched the local regulations and competitors, worked with Legal on a compliance review, chose referral and affiliate partners, and we converted 4 high net worth clients in the first month.
+**Consumer (most of my work).** My consumer work is mainly paid media and running marketing campaigns. I also work closely with the Product team to improve the customer experience, and adapt our marketing language to sell our products.
+
+- **AI UGC (hands-on).** UGC has the biggest impact on acquisition, so I built our first in-house AI UGC workflow in 2 weeks and have spent the last two months perfecting it. It now runs at scale across all our paid platforms, including Google, Meta, TikTok, X and programmatic, with Google driving the biggest impact. It cut our paid social cost per install from $25 to $6. As one example, a single English-language ad targeting Italy drove 242 installs in its first 7 days on $1,206 of spend, about $5 per install. [Italy asset] [X ad examples]
+- **Apple Search Ads (full ownership).** I took over Apple Search Ads in my first week, when it was only running in the UK and the US. I owned everything from researching competitor keywords to testing different bidding methods and building Custom Product Pages to boost downloads. It now runs across most of the EU, the UK, the US, Ghana and parts of Asia, and daily installs have grown about 4x while cost per install stayed flat.
+- **CRM (supporting).** I support our CRM lead by building AI tools that make her work easier, for example API tools that localise our emails into 24 languages, which lifted open rates by 10%.
+
+**Institutional.** On the institutional side, I help with branding and lead generation. I recently worked on two events in London. One was around Solana Breakpoint, where the goal was to get Blockchain.com's institutional business known among the builder community. [Second event: what it was, and its goal] [Results: attendees, leads or meetings] [Your role: hands-on or supporting]. I also built a prospect database of 100 operators that generated 20+ active leads for our business development team.
 
 **Case study 1 (B2C). Our first in-house AI UGC workflow**
 

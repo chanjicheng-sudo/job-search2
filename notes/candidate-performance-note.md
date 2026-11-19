@@ -44,6 +44,12 @@ updated.
 **Regional behaviour** (added Nov 2026, from her): users in Africa tend to take on more
 risk, while UK users are more balanced, so content was tailored by region.
 
+**Update, Nov 2026 (from her, for Noah):**
+- She took over Apple Search Ads in her **first week**. It ran only in the **UK and US**.
+  She owned competitor keyword research, bidding-method tests and Custom Product Pages.
+  It now runs across most of the **EU, UK, US, Ghana and parts of Asia**.
+- Do not describe Blockchain.com's paid performance as "undermanaged" in applications.
+
 ## 2. Marketing reporting and infrastructure
 
 - Designed and deployed automated Apple Search Ads reporting. Saved ~30 min/day of manual
@@ -93,6 +99,14 @@ risk, while UK users are more balanced, so content was tailored by region.
 - Established a new in-house capability where none existed. This one genuinely was
   zero-base.
 
+**Scale and a single-ad proof point** (added Nov 2026, from her):
+- Built the first version in 2 weeks, then **perfected it over about two months**.
+- Now **live across all paid platforms, including programmatic**, and on X. **Google**
+  drives the most significant impact.
+- **One English-language ad targeting Italy: 242 installs in its first 7 days on $1,206
+  spend (~$5 per install).** She is happy to share this spend figure, but not dashboards.
+- She prefers **scale and CPI** as the headline UGC results, over production time and CTR.
+
 **Paid social performance from the AI UGC workflow** (added Oct 2026, from her own CV —
 not previously in this note, and not covered by the recruiter's vouching):
 
@@ -125,6 +139,14 @@ channel is named.
   across jurisdictions.
 - Directed marketing delivery across paid media, UGC scripts, landing pages and app-store
   content in UK, US and EU markets.
+
+## 5b. Institutional events (added Nov 2026, from her)
+- Helps the Institutional business with branding and lead generation.
+- Worked on **two recent London events**. One was around **Solana Breakpoint**, aimed at
+  reach for Blockchain.com's institutional business among the builder community. The
+  second event, results and her exact role are not yet recorded.
+- CRM: supports the CRM lead by building AI tools for her. Do not describe colleagues as
+  "not AI native" in applications.
 
 ## 6. Customer research and new business support
 
