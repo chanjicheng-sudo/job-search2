@@ -11,7 +11,7 @@ Consistent with the CV she sent: no job title, no US campaign figure.
 
 Hi Mike,
 
-Thank you, and thanks to the team for the positive feedback. I am excited about the role. Below are my answers to your questions, with links where I can share them. I am happy to talk through anything in more detail on a call.
+Thank you, and thanks to the team for the positive feedback. I am excited about the role. Below are my answers to your questions, with links where I can share them. Some figures and dashboards are company data that I do not feel comfortable disclosing, so I have shared snapshots and aggregated data to show the impact of my work instead. I am happy to talk through anything in more detail on a call.
 
 **1. My mix of work**
 
