@@ -165,7 +165,7 @@ channel is named.
 ## 5c. LAPTOP token campaign: taking over at short notice (added Nov 2026, from her)
 - Three days before her manager went on leave, he handed her the **LAPTOP** project, with
   only a proposal. Blockchain.com had signed an institutional partnership with the LAPTOP
-  team, including **600,000 (currency to confirm) worth of tokens** to distribute through
+  team, including **$600,000 (US dollars) worth of tokens** to distribute through
   marketing campaigns. Naming LAPTOP is fine (her OK).
 - Wave 1 went live the day after he left. Prize hunters in one market (Nigeria) claimed the
   rewards and sold immediately, adding selling pressure.

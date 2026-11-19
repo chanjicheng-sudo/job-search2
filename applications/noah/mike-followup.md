@@ -43,5 +43,4 @@ Jessie
 ## Before sending
 
 - [ ] Add the Italy asset, a few X ads and the LinkedIn ads (public links or screenshots).
-- [ ] Confirm the token amount is in dollars ($600,000), or change the currency.
 - [ ] Reply all, so Stephen is copied.
