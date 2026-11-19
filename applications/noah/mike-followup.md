@@ -1,7 +1,8 @@
 # Noah — reply to Mike Hollingbery (short version)
 
 Her structure (Nov 2026): question 1 in her own final wording, question 2 the LAPTOP
-ramp-up story, question 3 the two short case studies (AI UGC, iGaming). Public links only, no dashboards, no screen share.
+ramp-up story, question 3 the two short case studies (AI UGC, iGaming), question 4 Malaberg
+landing pages (standout), yield product relaunch, Apple Search Ads with chart. Public links only, no dashboards, no screen share.
 Consistent with the CV she sent: no job title, no US campaign figure.
 
 ---
@@ -36,9 +37,11 @@ Our ads relied on real creators, who were expensive and ran out fast, so I built
 
 When our Institutional team expanded into iGaming, I owned the marketing, building the outreach list and running LinkedIn lead generation ads to decision makers. The ads brought in 20+ targeted, active leads at about $120 per lead. Soon after, we hosted a dinner in Malta for 16 C-suite executives from the companies we had reached out to. [LinkedIn ad examples]
 
-**Apple Search Ads since I took over (May 2026)**
+**4. Campaigns and landing pages I built end to end**
 
-Since I took over Apple Search Ads in May 2026, spend and installs have grown steeply while cost per install has risen only modestly. The chart shows the last 12 months; everything from May onwards is my work. [Attach: asa-chart-nov25-oct26]
+- **Malaberg landing pages (my standout).** I rebuilt our landing and promotional pages end to end, from funnel analysis to design in Figma and Photoshop. What made it work was using session recordings in Microsoft Clarity to see exactly where people dropped off, and fixing those points instead of guessing. I knew it worked because I tracked conversions daily against the old pages, and daily conversions grew 5x. [Before-and-after screenshot]
+- **Yield product relaunch.** When we rebranded our yield product, every creator video still carried the old name. I recreated the creative with our AI UGC workflow and launched it across paid social. What made it work was speed, because we had fresh creative live from day one instead of waiting weeks for creators. I knew it worked because it drove 600+ installs in the first 7 days. [Creative example]
+- **Apple Search Ads expansion.** Since I took over in May 2026, I expanded into new markets with a Custom Product Page for each one and tested bidding methods as we went. What made it work was matching each page to what people searched for in that market. I knew it worked because spend and installs grew steeply while cost per install rose only modestly. [Attach: asa-chart-nov25-oct26]
 
 Kind regards,
 Jessie
