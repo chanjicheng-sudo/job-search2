@@ -1,8 +1,8 @@
 # Noah — reply to Mike Hollingbery (short version)
 
 Her structure (Nov 2026): a short mix-of-work paragraph (65% retail, 35% institutional), a
-few responsibilities, two 4-line case studies backing the results, and a short ramp-up
-paragraph for Mike's second question. Public links only, no dashboards, no screen share.
+few responsibilities, two 4-line case studies backing the results, and a ramp-up
+paragraph (the LAPTOP project, replacing Malaysia) for Mike's second question. Public links only, no dashboards, no screen share.
 Consistent with the CV she sent: no job title, no US campaign figure.
 
 ---
@@ -33,7 +33,7 @@ When our Institutional team expanded into iGaming, I owned the marketing, buildi
 
 **Ramping up fast**
 
-When I took on our loans launch in Malaysia, there was no playbook for the market. In the first two weeks I researched the local regulations and competitors, worked with Legal on a compliance review and chose referral and affiliate partners. We converted 4 high net worth clients in the first month.
+Three days before my manager went on leave, he handed me the LAPTOP project. We had signed an institutional partnership with the LAPTOP team that included $600,000 worth of tokens to distribute through marketing campaigns, and all I had was a proposal of the plan. The first campaign went live the day after he left. Prize hunters in one market quickly claimed the rewards and sold them straight away, which added selling pressure on the token, so the original plan for wave 2 no longer worked. I proposed a plan B to our CMO, shifting wave 2 to the EU and selected US states where the risk to existing users was low. I agreed with Trading and Product to reduce the volume of wave 2 to limit selling pressure, negotiated a new start date and volume with the LAPTOP team, sent them a status report, and took the final regions through Legal for compliance checks. The project is still in progress, but within days I had taken full ownership of it.
 
 Kind regards,
 Jessie
@@ -43,4 +43,5 @@ Jessie
 ## Before sending
 
 - [ ] Add the Italy asset, a few X ads and the LinkedIn ads (public links or screenshots).
+- [ ] Confirm the token amount is in dollars ($600,000), or change the currency.
 - [ ] Reply all, so Stephen is copied.

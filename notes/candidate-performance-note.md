@@ -162,6 +162,21 @@ channel is named.
 - CRM: supports the CRM lead by building AI tools for her. Do not describe colleagues as
   "not AI native" in applications.
 
+## 5c. LAPTOP token campaign: taking over at short notice (added Nov 2026, from her)
+- Three days before her manager went on leave, he handed her the **LAPTOP** project, with
+  only a proposal. Blockchain.com had signed an institutional partnership with the LAPTOP
+  team, including **600,000 (currency to confirm) worth of tokens** to distribute through
+  marketing campaigns. Naming LAPTOP is fine (her OK).
+- Wave 1 went live the day after he left. Prize hunters in one market (Nigeria) claimed the
+  rewards and sold immediately, adding selling pressure.
+- She proposed a plan B to the CMO: wave 2 to the EU and the US, with US acquisition
+  limited to lower-risk states (she described them as blue states, because the project is
+  politically sensitive; say "selected US states" in applications). Agreed with Trading
+  and Product to reduce wave 2 volume, negotiated a new start date and lower volume with
+  LAPTOP, sent them a status report, and took the final regions through Legal.
+- Still in progress (Nov 2026). Use as her "ramping up fast" / ownership story.
+- Do not name the country or the political angle in applications.
+
 ## 6. Customer research and new business support
 
 - Designed and launched a customer survey: 114 completed responses across 3 customer
