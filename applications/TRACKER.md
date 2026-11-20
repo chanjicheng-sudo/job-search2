@@ -4,7 +4,7 @@ Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**30 applications** across 27 companies · **6 in process** · **10 rejected** · **14 no reply yet**
+**30 applications** across 27 companies · **6 in process** · **12 closed** · **12 no reply yet**
 
 ## Coming up
 
@@ -28,7 +28,6 @@ interview times come from invites and confirmations sent by email.
 
 | Company | Role | Applied | Days waiting |
 |---|---|---|---|
-| Plasma | Growth Lead – Performance Marketing | 27 Oct (+ direct emails to 4 people 29 Oct) | 24 |
 | Alpaca | Crypto Operations Associate – EMEA | 6 Nov | 14 |
 | Deblock | Strategy & Operations Manager – Marketing | 9 Nov | 11 |
 | Primer | (role not in email) | 9 Nov | 11 |
@@ -41,12 +40,13 @@ interview times come from invites and confirmations sent by email.
 | JPMorganChase | Conversion Rate Optimisation Manager | 12 Nov | 8 |
 | Aave Labs | (role not in email) | 17 Nov | 3 |
 | Blitzed | Senior Digital Marketing Manager | 20 Nov | 0 |
-| Pivotal London | Lucky Egg role (recruiter spec sent 4 Nov) | — | 16 — unclear if you went forward |
 
 ## Rejected / closed
 
 | Company | Role | Applied | Outcome |
 |---|---|---|---|
+| Plasma | Growth Lead – Performance Marketing | 27 Oct | Closed 20 Nov (marked by Jessie) |
+| Lucky Egg (via Pivotal London) | Role from recruiter spec | 4 Nov | Closed 20 Nov (marked by Jessie) |
 | Kraken | AI Growth Ops | 29 Oct | Rejected 30 Oct |
 | Capital.com | Product Marketing Manager | 2 Nov | Rejected 4 Nov |
 | Emma | Growth Marketing Lead | 29 Oct | Rejected 4 Nov |
