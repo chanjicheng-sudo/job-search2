@@ -4,7 +4,9 @@ Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**32 applications** across 29 companies · **6 in process** · **12 closed** · **14 no reply yet**
+**32 applications** across 29 companies · **6 in process** · **15 closed** · **11 no reply yet**
+
+**Rule:** an application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
 
 ## Coming up
 
@@ -26,9 +28,8 @@ interview times come from invites and confirmations sent by email.
 
 ## No reply yet
 
-| Company | Role | Applied | Days waiting |
+| Company | Role | Applied | Days waiting (closes at 14) |
 |---|---|---|---|
-| Alpaca | Crypto Operations Associate – EMEA | 6 Nov | 14 |
 | Deblock | Strategy & Operations Manager – Marketing | 9 Nov | 11 |
 | Primer | (role not in email) | 9 Nov | 11 |
 | Atominvest | Graduate Product Analyst | 9 Nov | 11 |
@@ -39,8 +40,6 @@ interview times come from invites and confirmations sent by email.
 | Allica Bank | Growth Manager | 12 Nov | 8 |
 | JPMorganChase | Conversion Rate Optimisation Manager | 12 Nov | 8 |
 | Aave Labs | Senior Growth Marketing Manager | 17 Nov | 3 |
-| eToro | Junior Marketing Manager (UK) | 6 Nov | 14 |
-| Bleap | Operations Manager | 5 Nov | 15 |
 | Blitzed | Senior Digital Marketing Manager | 20 Nov | 0 |
 
 ## Direct outreach
@@ -60,6 +59,9 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 
 | Company | Role | Applied | Outcome |
 |---|---|---|---|
+| Bleap | Operations Manager | 5 Nov | No response after 14 days (closed 19 Nov) |
+| Alpaca | Crypto Operations Associate – EMEA | 6 Nov | No response after 14 days (closed 20 Nov) |
+| eToro | Junior Marketing Manager (UK) | 6 Nov | No response after 14 days (closed 20 Nov) |
 | Plasma | Growth Lead – Performance Marketing | 27 Oct | Closed 20 Nov (marked by Jessie) |
 | Lucky Egg (via Pivotal London) | Role from recruiter spec | 4 Nov | Closed 20 Nov (marked by Jessie) |
 | Kraken | AI Growth Ops | 29 Oct | Rejected 30 Oct |
