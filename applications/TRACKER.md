@@ -4,7 +4,7 @@ Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026, 16:15 UTC.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**33 applications** across 30 companies · **6 in process** · **15 closed** · **12 no reply yet**
+**33 applications** across 30 companies · **6 in process** · **16 closed** · **11 no reply yet**
 
 **Rule:** an application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
 
@@ -30,7 +30,6 @@ interview times come from invites and confirmations sent by email.
 
 | Company | Role | Applied | Days waiting (closes at 14) |
 |---|---|---|---|
-| Deblock | Strategy & Operations Manager – Marketing | 9 Nov | 11 |
 | Primer | (role not in email) | 9 Nov | 11 |
 | Atominvest | Graduate Product Analyst | 9 Nov | 11 |
 | Atominvest | Graduate Technical Product Analyst | 9 Nov | 11 |
@@ -61,6 +60,7 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 
 | Company | Role | Applied | Outcome |
 |---|---|---|---|
+| Deblock | Strategy & Operations Manager – Marketing | 9 Nov | Closed 20 Nov (marked by Jessie) |
 | Bleap | Operations Manager | 5 Nov | No response after 14 days (closed 19 Nov) |
 | Alpaca | Crypto Operations Associate – EMEA | 6 Nov | No response after 14 days (closed 20 Nov) |
 | eToro | Junior Marketing Manager (UK) | 6 Nov | No response after 14 days (closed 20 Nov) |
