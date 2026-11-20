@@ -1,8 +1,8 @@
 # Blitzed — application form answers
 
 Her voice: plain, no contractions, no colons, semicolons or em dashes. Q1 is the AI UGC
-STAR case with full results. Q2 covers crypto products and promotions, then iGaming from
-the operator side. No claim of B2C casino marketing.
+STAR case with full results. Q2 is crypto only (her call): soft intro to Blockchain.com as a
+consumer app, her AI line, then one-off collab campaigns (LAPTOP, Breakpoint).
 
 ---
 
@@ -12,6 +12,4 @@ At Blockchain.com, our ads relied on real creators, who were expensive and ran o
 
 **2. What is your experience with crypto or online gambling?**
 
-I work in growth marketing at Blockchain.com, across perps, crypto loans and our yield product, in the UK, US, EU and Africa. I ran our perps user research, and over the two months that followed, cumulative trading volume grew from $100m to $500m. I also took over the LAPTOP token campaign, with $600,000 of tokens to give away through quests. Prize hunters in Nigeria claimed the rewards and sold them straight away, so I re-planned the next wave with our CMO, Trading, Product and Legal. That taught me a lot about how degen users behave and how to make rewards bring in the right players.
-
-On the gambling side, I owned the growth marketing for our iGaming expansion. I built a list of 120 operators, ran LinkedIn lead gen ads that brought in 20+ leads at about $140 per lead, and helped host a dinner in Malta for 16 members of operators' senior leadership.
+I work in growth marketing at Blockchain.com, a consumer-facing crypto app where people buy, trade, borrow and earn yield on crypto, across the UK, US, EU and Africa. I use AI to solve marketing problems, whether improving current workflows or opening new acquisition funnels. Alongside our always-on paid media, I run one-off campaigns depending on the collaboration. For example, I took over the LAPTOP token campaign at three days' notice, with $600,000 of tokens to give away through quests. Prize hunters in Nigeria claimed the rewards and sold them straight away, so I re-planned the next wave with our CMO, Trading, Product and Legal to bring in the right users. For our event around Solana Breakpoint, I boosted posts on X and ran web campaigns that drove about 1,000 approved registrations and 500 attendees.
