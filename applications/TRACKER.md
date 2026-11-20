@@ -4,7 +4,7 @@ Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**30 applications** across 27 companies · **6 in process** · **12 closed** · **12 no reply yet**
+**32 applications** across 29 companies · **6 in process** · **12 closed** · **14 no reply yet**
 
 ## Coming up
 
@@ -38,8 +38,23 @@ interview times come from invites and confirmations sent by email.
 | McKinsey | Junior Associate – Growth Practice | 9 Nov | 11 |
 | Allica Bank | Growth Manager | 12 Nov | 8 |
 | JPMorganChase | Conversion Rate Optimisation Manager | 12 Nov | 8 |
-| Aave Labs | (role not in email) | 17 Nov | 3 |
+| Aave Labs | Senior Growth Marketing Manager | 17 Nov | 3 |
+| eToro | Junior Marketing Manager (UK) | 6 Nov | 14 |
+| Bleap | Operations Manager | 5 Nov | 15 |
 | Blitzed | Senior Digital Marketing Manager | 20 Nov | 0 |
+
+## Direct outreach
+
+From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear only when Jessie mentions them.
+
+| Company | Role | Sent | How | People | Result |
+|---|---|---|---|---|---|
+| Aave Labs | Senior Growth Marketing Manager | 17 Nov | Email | 5 (Sandra, Ale, Ronan, Simran, Muna) | No reply |
+| Deblock | Junior Performance Marketing Manager | 12 Nov | Email | 3 (Jean, Thomas, Nicolas) | **Replied.** Jean offered an interview within the hour, call with Thomas 13 Nov |
+| BVNK | Product Marketing Manager | 11 Nov | Email | 2 (Vizma, Emma), after the interview | No reply |
+| eToro | Junior Marketing Manager (UK) | 6 Nov | Email | 3, plus 5 in cc | No reply |
+| Bleap | Operations Manager | 5 Nov | Email | Careers inbox, 3 founders in cc | No reply |
+| Plasma | Growth Lead – Performance Marketing | 29 Oct | LinkedIn + email | 4 emails, 1 bounced | No reply, now closed |
 
 ## Rejected / closed
 
