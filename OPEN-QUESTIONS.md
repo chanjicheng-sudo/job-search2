@@ -3,6 +3,13 @@
 Things that need a decision or a fact from Jessie. Ordered by how much they change the
 work. Nothing here is blocked on anything else.
 
+## 0. ~~Visa sponsorship~~ Resolved (Nov 2026)
+
+She is now on a **dependant visa** and has the right to work in the UK, so she does not
+need sponsorship. Any "check sponsorship" line in an `applications/*/jd-read.md` is out
+of date and can be ignored. Answer "yes" to right-to-work questions, and "no" to
+sponsorship questions, on that basis.
+
 ## 1. The funded-account or activation number
 
 **The highest-value figure missing from every document.** Plasma's JD is entirely about
@@ -48,7 +55,10 @@ exaggeration she herself called out. Changing it to "ad-account, conversion-trac
 campaign-structure setup" keeps the claim and drops the overreach. Already fixed in the
 other three variants; only Plasma still has it.
 
-## 5. The 114-response survey: Blockchain.com or Malaberg?
+## 5. ~~The 114-response survey: Blockchain.com or Malaberg?~~ Resolved
+
+**Resolved Oct 2026.** Her manager's contribution summary says she designed and launched
+it at Blockchain.com. The rest of this item is kept for the record.
 
 The performance note places it in the internship. An earlier draft placed it under
 Malaberg. It is currently attributed to Blockchain.com in the general and BVNK variants,
@@ -102,7 +112,25 @@ note.
 
 - **Plasma:** leaving a permanent analyst role deliberately for category experience and
   ownership; the fixed term ending; the seniority stretch; and the AppsFlyer/MMP, Meta AEM
-  and data-warehouse gaps stated rather than hidden.
+  and data-warehouse gaps. **Superseded:** she does not want gaps stated in cover letters.
+  Prepare them as interview answers instead.
 - **Kraken:** why QA. A growth CV on a QA req reads as an any-crypto-job application until
   she says otherwise. The angle is that she has operated the category of system they want
   tested, in the same regulated context — not any claim to be a QA professional.
+
+## 12. Her October 2026 base CV
+
+The base CV she pasted differs from the performance note in four places. The BVNK
+variant is now built on it, but these were left out of that variant until checked:
+
+- **"Scaled the core US campaign to 3x daily users".** The note has the core US campaign
+  at 178 to 373 installs/day, which is ~2.1x. The ~3x figure is the whole account (187 to
+  562). Either say "~2x" for US or "3x account-wide". Her manager's business case says
+  "doubled", so a reference check will hear 2x.
+- **AppsFlyer in Skills.** Listed under "Not claimed" in the note, because setting up ad
+  accounts is not configuring an MMP. Keep it only if she has configured it herself.
+- **The profile puts outcome numbers (−76% CPI, +15% volume) in the summary**, which
+  repeats the UGC bullet. The CPI figure is paid social only and reads as account-wide
+  in the profile.
+- **~~"Supported" customer research.~~** Resolved: the business case says she designed and
+  launched it. The BVNK CV now says "Designed and launched".
