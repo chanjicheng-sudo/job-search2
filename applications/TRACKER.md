@@ -1,10 +1,10 @@
 # Application tracker
 
-Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026.
+Built from Gmail, 21 Oct – 20 Nov 2026. Last updated 20 Nov 2026, 16:15 UTC.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**32 applications** across 29 companies · **6 in process** · **15 closed** · **11 no reply yet**
+**33 applications** across 30 companies · **6 in process** · **15 closed** · **12 no reply yet**
 
 **Rule:** an application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
 
@@ -12,7 +12,7 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
-| Mon 23 Nov, 16:30–17:00 | Carmoola (via Pivotal London) | Growth Manager | Interview with Kate. **Invite not yet accepted in Calendar.** |
+| Mon 23 Nov, 16:30–17:00 | Carmoola (via Pivotal London) | Growth Manager | Informal first stage with Kate (Chief of Staff). **Accept the invite.** Nusrat offered a prep call. |
 | Thu 26 Nov, 10:30–11:00 | Moonfare | Growth Associate | Talent Acquisition interview, Google Meet. Confirmed 20 Nov. |
 
 ## In process
@@ -23,8 +23,8 @@ interview times come from invites and confirmations sent by email.
 | Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Interview booked | Accept the invite, 23 Nov interview |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Chase ~24 Nov. |
-| BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Follow-up note to Vizma 11 Nov. | 9 days quiet. Chase now. |
-| Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov | 7 days quiet. Chase now. |
+| BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
+| Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Waiting for a reply. |
 
 ## No reply yet
 
@@ -41,6 +41,7 @@ interview times come from invites and confirmations sent by email.
 | JPMorganChase | Conversion Rate Optimisation Manager | 12 Nov | 8 |
 | Aave Labs | Senior Growth Marketing Manager | 17 Nov | 3 |
 | Blitzed | Senior Digital Marketing Manager | 20 Nov | 0 |
+| Cleo | Growth Marketing Manager, Performance | 20 Nov | 0 |
 
 ## Direct outreach
 
@@ -48,6 +49,7 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 
 | Company | Role | Sent | How | People | Result |
 |---|---|---|---|---|---|
+| Cleo | Growth Marketing Manager, Performance | 20 Nov | Email | 3 (Chris, Lucy, Renaldo) | No reply yet |
 | Aave Labs | Senior Growth Marketing Manager | 17 Nov | Email | 5 (Sandra, Ale, Ronan, Simran, Muna) | No reply |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Email | 3 (Jean, Thomas, Nicolas) | **Replied.** Jean offered an interview within the hour, call with Thomas 13 Nov |
 | BVNK | Product Marketing Manager | 11 Nov | Email | 2 (Vizma, Emma), after the interview | No reply |
