@@ -211,6 +211,29 @@ Head of Growth in a later round, not with Kate.
 - What is the team like to work in day to day?
 - What are the next steps?
 
+## Round 1 lessons (Kate Madden, Chief of Staff, 23 Nov 2026)
+
+Her own read afterwards: felt confident, unsure the answers were what Kate wanted. Kate
+was sharp and pushed back. Pattern across the call: the instincts were sound, the answers
+stayed general. Next round, anchor every answer in one example with a number.
+
+| Kate asked | What she said | Stronger answer for round 2 |
+|---|---|---|
+| Creative or targeting, which matters more? | Targeting. Creative is broad. Right audience plus average creative will work. Kate said creative. | "Everything starts with understanding the customer, and the creative is built from that. On Meta the creative then finds those people. Targeting sets the floor, creative raises the ceiling." Drop "average creative will work". Her own AI UGC result (CTR 0.4% to 1.15%, CPI $25 to $6) was a creative win. |
+| (same thread) | Targeting matters because it sets the benchmark. TikTok traffic is lower quality than Meta. | Good point, keep it: "Each channel brings a different quality of user, so I set benchmarks per channel. TikTok might bring cheaper sign-ups but lower approval rates, so I judge it on cost per funded loan." Do not write TikTok off. It is a JD bonus point. |
+| Is Carmoola focused more on Google or paid social? | Paid social, because it is in-house. Little to do in paid search because car loans are niche. Paid social reaches a wider audience. Kate: Meta has the right demographics. | "Meta is the priority for this hire. But Google captures people already searching for car finance: high intent, limited volume. Meta creates demand earlier. I would want both, judged on cost per funded loan." The JD wants an in-house Google expert and plans to bring search in-house, so do not dismiss search. Kate's point was fit, not reach. |
+| What metrics do you look at? | In-app events and ROAS. | "In-app events at each step: eligibility check, application, approval, funded loan. Early events tell me fast, cost per funded loan tells me if it really works. I would not lean on ROAS here because revenue comes over the life of the loan." |
+| (landing pages) | Other tools for engagement. GA4 if it is web. | Name the tools and the result: "GA4 for the web funnel, Microsoft Clarity for why people drop off. At Malaberg that is how I found where users were stuck, rebuilt the pages, and took daily conversions from 10 to 50." |
+
+**The measurement problem is the job.** Eligibility check, application, approval, car
+found, funded loan, then repayment over years. Steer on fast signals, judge on funded
+loans and repayment by channel, and send funded loans back to Meta and Google. The
+weekly report (Funnel.io, Hex) is where this lives. Best question for round 2: "What does
+growth optimise for day to day, and how do you check it against funded loans and
+repayment?"
+
+**Thank-you email** sent with AI UGC examples, subject "Thank you, and AI UGC examples".
+
 ## Before the next round
 
 - **Confirm the Malaberg channel split.** Was the £50k+ on Meta, Google or both? Meta
