@@ -25,7 +25,7 @@ interview times come from invites and confirmations sent by email.
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Interview booked | 23 Nov interview |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Follow up 24 Nov. |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
-| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, full JD sent | Fernando plans to speak again Mon 23 Nov. |
+| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, full JD sent. Process: discovery call, 1-hour strategy task, final in person. See `propel/jd-read.md`. | Fernando plans to speak again Mon 23 Nov. Confirm the salary band first. |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
 
 ## No reply yet
