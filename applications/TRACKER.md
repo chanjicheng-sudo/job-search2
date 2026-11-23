@@ -5,7 +5,7 @@ from Gmail every day at 07:17 UK time.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
 
-**34 applications** across 31 companies · **6 in process** · **23 closed** · **5 no reply yet**
+**35 applications** across 32 companies · **7 in process** · **23 closed** · **5 no reply yet**
 
 **Rules:** follow up 7 days after the last contact on anything in process. An application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
 
@@ -25,6 +25,7 @@ interview times come from invites and confirmations sent by email.
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Interview booked | 23 Nov interview |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Follow up 24 Nov. |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
+| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, full JD sent | Fernando plans to speak again Mon 23 Nov. |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
 
 ## No reply yet
