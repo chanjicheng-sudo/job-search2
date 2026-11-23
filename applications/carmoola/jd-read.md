@@ -232,7 +232,7 @@ weekly report (Funnel.io, Hex) is where this lives. Best question for round 2: "
 growth optimise for day to day, and how do you check it against funded loans and
 repayment?"
 
-**Thank-you email** sent with AI UGC examples, subject "Thank you, and AI UGC examples".
+**Thank-you email** drafted with AI UGC examples, subject "Thank you, and AI UGC examples".
 
 ## Before the next round
 
