@@ -13,7 +13,6 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
-| Mon 23 Nov, 16:30–17:00 | Carmoola (via Pivotal London) | Growth Manager | Informal first stage with Kate (Chief of Staff). **Accept the invite.** Nusrat sent a Teams invite for a prep call. |
 | Thu 26 Nov, 10:30–11:00 | Moonfare | Growth Associate | Talent Acquisition interview, Google Meet. Confirmed 20 Nov. |
 
 ## In process
@@ -22,7 +21,7 @@ interview times come from invites and confirmations sent by email.
 |---|---|---|---|---|
 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
 | Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
-| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Interview booked | 23 Nov interview |
+| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | First stage with Kate (Chief of Staff) done 23 Nov. Debated creative vs targeting; see `carmoola/jd-read.md`. | Send thank-you email. Update Nusrat. Follow up 30 Nov if no news. |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Follow up 24 Nov. |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
 | Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, full JD sent. Process: discovery call, 1-hour strategy task, final in person. See `propel/jd-read.md`. | Fernando plans to speak again Mon 23 Nov. Confirm the salary band first. |
