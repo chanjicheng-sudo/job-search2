@@ -233,7 +233,9 @@ weekly report (Funnel.io, Hex) is where this lives. Best question for round 2: "
 growth optimise for day to day, and how do you check it against funded loans and
 repayment?"
 
-**Thank-you email** drafted with AI UGC examples, subject "Thank you, and AI UGC examples".
+**Thank-you email** sent to Kate (Nusrat cc'd), subject "Growth Manager Interview - Jessie".
+
+**Outcome: through to round 2** (confirmed 23 Nov).
 
 ## Before the next round
 
