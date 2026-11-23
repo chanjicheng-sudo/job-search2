@@ -7,7 +7,7 @@ interview times come from invites and confirmations sent by email.
 
 **34 applications** across 31 companies · **6 in process** · **23 closed** · **5 no reply yet**
 
-**Rule:** an application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
+**Rules:** follow up 7 days after the last contact on anything in process. An application with no response 14 days after the last contact counts as closed. If the company replies later, it moves back to In process.
 
 ## Coming up
 
@@ -20,12 +20,12 @@ interview times come from invites and confirmations sent by email.
 
 | Company | Role | Applied | Where it stands | Next |
 |---|---|---|---|---|
-| Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Chase ~26 Nov if quiet. |
+| Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
 | Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Interview booked | 23 Nov interview |
-| Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Chase ~24 Nov. |
+| Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Follow up 24 Nov. |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
-| Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Waiting for a reply. |
+| Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
 
 ## No reply yet
 
