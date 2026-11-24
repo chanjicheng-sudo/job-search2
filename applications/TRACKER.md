@@ -1,6 +1,6 @@
 # Application tracker
 
-Built from Gmail, from 21 Oct 2026. Last updated 23 Nov 2026, 09:50 UTC. Refreshed
+Built from Gmail, from 21 Oct 2026. Last updated 24 Nov 2026, 07:20 UTC. Refreshed
 from Gmail every day at 07:17 UK time.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
@@ -13,6 +13,7 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
+| Thu 26 Nov, 15:00–15:45 | Carmoola | Growth Manager | **Round 2** with Sophie Harris (Head of Growth), Google Meet. Prep from `carmoola/jd-read.md`. |
 | Thu 26 Nov, 10:30–11:00 | Moonfare | Growth Associate | Talent Acquisition interview, Google Meet. Confirmed 20 Nov. |
 
 ## In process
@@ -21,8 +22,8 @@ interview times come from invites and confirmations sent by email.
 |---|---|---|---|---|
 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
 | Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
-| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | First stage with Kate (Chief of Staff) 23 Nov → thank-you sent → **through to round 2** | Confirm date, interviewer and format. Prep from `carmoola/jd-read.md` (Round 1 lessons). |
-| Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. Follow up 24 Nov. |
+| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | First stage with Kate (Chief of Staff) 23 Nov → thank-you sent → **round 2 booked** | Round 2 with Sophie Harris, Thu 26 Nov 15:00. |
+| Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. **Follow up today (24 Nov).** |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
 | Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, full JD sent. Process: discovery call, 1-hour strategy task, final in person. See `propel/jd-read.md`. | Fernando plans to speak again Mon 23 Nov. Confirm the salary band first. |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
