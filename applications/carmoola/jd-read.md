@@ -237,6 +237,26 @@ repayment?"
 
 **Outcome: through to round 2** (confirmed 23 Nov).
 
+## Round 2 format (from Nusrat, 25 Nov)
+
+With Sophie Harris, Head of Growth Marketing, Thu 26 Nov 15:00–15:45, Google Meet.
+
+- **Two parts:** a technical growth and performance discussion, then a live,
+  conversational business case. No deck or advance task.
+- **What Sophie is testing:** how she thinks through why ads did or did not work, how
+  she works on ideas with others, and how they would work together. No single right
+  answer.
+- **Lead with evidence:** what she actually did, how, and the result. Be clear on her
+  own contribution. Then how she would apply it at Carmoola.
+- **Prepare 2–3 short stories** with budget or objective, actions, result and lesson:
+  Meta scaling or optimisation, Google Ads or agency oversight, creative or landing page
+  testing, funnel diagnosis.
+- **Case part:** past examples were inventing a product and its differentiators, or
+  finding new audiences for an existing product. Think aloud, state assumptions, keep it
+  conversational.
+- **Questions Nusrat suggested:** first-90-day priorities, how success is measured, how
+  the role works with Sophie and the creative strategist.
+
 ## Before the next round
 
 - **Confirm the Malaberg channel split.** Was the £50k+ on Meta, Google or both? Meta
