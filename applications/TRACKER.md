@@ -1,6 +1,6 @@
 # Application tracker
 
-Built from Gmail, from 21 Oct 2026. Last updated 24 Nov 2026, 16:00 UTC. Refreshed
+Built from Gmail, from 21 Oct 2026. Last updated 25 Nov 2026, 07:20 UTC. Refreshed
 from Gmail every day at 07:17 UK time.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
@@ -13,6 +13,9 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
+| Wed 25 Nov, 10:30 (15 min) | Jumpstart | Marketing stream | WhatsApp call with Ryan. Jumpstart had moved you to its matching service on 18 Nov. |
+| Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → portfolio 19 Nov → **final stage**: drinks 25 Nov, founder call 26 Nov | Thijn call Thu 26 Nov 11:00. Prepare salary expectations and start date. |
+| Thu 26 Nov, 11:00–11:30 | Noah | Digital Marketing Manager | **Final call with founder Thijn Lamers**, Google Meet. Culture and values, not technical. Straight after Moonfare. |
 | Thu 26 Nov, 13:30–14:00 | Propel Digital (via Rosslyn David) | Paid Social Consultant | First stage with Alicia Protheroe, Teams. Tell Fernando the time. Prep from `propel/jd-read.md`. |
 | Thu 26 Nov, 15:00–15:45 | Carmoola | Growth Manager | **Round 2** with Sophie Harris (Head of Growth), Google Meet. Prep from `carmoola/jd-read.md`. |
 | Thu 26 Nov, 10:30–11:00 | Moonfare | Growth Associate | Talent Acquisition interview, Google Meet. Confirmed 20 Nov. |
@@ -79,4 +82,3 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 | Zilch | Performance Marketing Lead | 2 Nov | Role filled 9 Nov |
 | Capital on Tap | Commercial Strategy Manager | 5 Nov | Rejected 10 Nov |
 | MoonPay | Product Manager, Crypto Asset Management | 6 Nov | Rejected 16 Nov |
-| Jumpstart | Marketing stream | 12 Nov | Not progressed 18 Nov; moved to their matching service |
