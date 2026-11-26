@@ -32,6 +32,21 @@
 Union, licences, 150+ countries. Customer stories over buzzwords. Noah's many markets and
 licences are the "fragmentation is an advantage" story.
 
+## Noah's achievements (have 3 ready)
+- **Western Union (21 Oct 2026):** Noah powers Receiver Redirect, so receivers can collect
+  as USDPT (Anchorage Digital Bank, on Solana). The biggest proof point.
+- **Licences:** 40+ licences, registrations and approvals. MiCA CASP + payment institution
+  from the Bank of Latvia (30 Sep 2026), passports to 30 EEA countries. PI in ~1 month, MiCA ~2.
+  US money transmitter licences, Canada PSP, SOC 2 Type II.
+- **Growth:** revenue **+538%** (early 2026), **150+ new customers** in 2026, $1bn+ volume by June 2025.
+- **Reach:** 70 countries / 50 currencies (2025) → **150+ markets / 60+ currencies** (2026).
+  Payouts on M-Pesa, PIX, SPEI.
+- **Funding:** $22m seed (LocalGlobe, Felix, FJ Labs, Joe Lonsdale, David Helgason, ex-Adyen CTO),
+  extended to **$38m** (Oct 2026).
+- **Partners:** NALA, Payd, Tenui, Cedar, Ledger, MiniPay, Circle, Paxos (Global Dollar
+  Network, Jul 2026), Solana Foundation case study (Apr 2026).
+- **Next:** US expansion, New York office, 4–5x revenue capacity.
+
 ## What he will be testing
 - **Commercial instinct:** a sales leader, so he wants marketing that builds pipeline, not vanity metrics.
 - **Credibility:** do your numbers hold up, can you tell a story without exaggerating.
