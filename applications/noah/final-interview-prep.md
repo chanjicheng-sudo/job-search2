@@ -16,6 +16,22 @@
     creating belief."
   - "Europe does not need more ambition. It needs to stop hiding it." (Fortune, July 2026)
 
+## Thijn's beliefs and points of view (public sources, not his LinkedIn)
+1. **Europe should stop hiding its ambition** (Fortune, July 2026). Europe does not lack
+   drive, it hides it. Tell your own story publicly.
+2. **Storytelling creates belief, it does not exaggerate.** "Everything is credibility."
+3. **Discipline over hype.** Adyen grew through customers, execution and product, not noise.
+4. **Fragmentation is an advantage.** Europe's many small markets force companies to think
+   global from day one.
+5. **Stablecoins are bigger than Adyen's shift.** "An even more profound shift."
+6. **Make it invisible.** Customers should benefit from stablecoin settlement without
+   having to think about it.
+7. **Builder over investor.** Came in to invest, chose to build. "Missed building."
+
+**How to use it:** marketing that is ambitious and visible but backed by proof. Western
+Union, licences, 150+ countries. Customer stories over buzzwords. Noah's many markets and
+licences are the "fragmentation is an advantage" story.
+
 ## What he will be testing
 - **Commercial instinct:** a sales leader, so he wants marketing that builds pipeline, not vanity metrics.
 - **Credibility:** do your numbers hold up, can you tell a story without exaggerating.
