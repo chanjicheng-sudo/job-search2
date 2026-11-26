@@ -1,3 +1,71 @@
+# Cue sheet (glance, do not read). Same order as BVNK
+
+## 1. Walk me through your background (your words)
+- **Graduate Growth Marketing Manager** at **Blockchain.com**, fixed-term
+- Psychology, masters and undergrad → foundation in research, surveys, understanding people
+- Malaberg (D2C) → performance marketing, customer research, landing pages
+- Passion for the industry → **left my full-time job** to join Blockchain.com
+- Retail, Wealth and Institutional → a big part of my role: **use AI to solve marketing problems**
+- CRM → Iterable in **24 languages**, open rate **+10%**
+- **Close:** I want to go deeper into CRM and lifecycle, where marketing hands over to sales
+
+## 2. Moonfare in one breath
+- Private markets for wealthy individuals → top PE, VC, credit, secondaries funds
+- Feeder fund pools investors → lower minimums (**~€50k–€100k**)
+- **€4bn+ AUM, 5,600+ investors**, best half-year since 2022 (€313m)
+- Ruthless vetting, digital platform, secondary market twice a year
+- Shift → **own funds** (inflows doubled to €62m), co-investment fund $83m, AI strategy
+
+## 3. Why Moonfare? (your words)
+- Many regions → each with its own **compliance rules** and its own kind of investor
+- Africa takes more risk, UK more balanced → **one size does not fit all**
+- Marketing generates the leads for **Investor Relations**
+- One-to-one outreach is hard to make efficient → marketing reaches wide, passes on who is ready
+
+## 4. Why this role / my strengths
+- **CRM across markets:** Iterable, 24 languages, +10% opens
+- **Compliance by market:** UK FinProm, MiCAR, US, Malaysia review with Legal
+- **HNW and handover:** **3 major HNW clients** (publishers), **4 HNW in Malaysia** month one, **20+ leads** to BD
+- **Journeys from research:** perps survey → retention **+12%**
+- **Testing:** **128 tests**, scale what works, cut what does not
+- **AI in my workflow:** AI UGC, reporting with Claude Code → **~10 hours a month**
+- **Detail:** every send checked against compliance before it goes out
+
+## 5. "Have you built abandonment journeys?"
+- Honest: not a full one yet → here is how I would
+- **Trigger:** left sign-up, qualification, KYC or a fund page before committing
+- **Delay → 2–3 messages:** reminder, the why (fund, vetting), a soft IR call offer
+- **Exit:** invests or IR picks up. **Control group** to prove it works
+- **Measure:** handovers to IR, not just opens
+- Start with the **biggest drop-off** first
+
+## 6. How sales fits
+- Self-serve to browse, but **IR closes** → big tickets, 10-year lock-in, complex
+- My job → warm, qualified investors to IR at the right moment
+- Already done it → 20+ leads to BD, 3 HNW clients
+
+## 7. Logistics
+- Salary → **have a number**
+- **Dependant visa**, right to work, **no sponsorship**
+- **4 days in office** → fine
+- Fixed-term ending → **can start soon** (have a date)
+- Other interviews → "a few fintechs", **no names**
+
+## Your questions (ask two)
+1. What does success look like in the first 6 months?
+2. Which CRM platform does the team use?
+3. Next steps, is there an aptitude test and an onsite case?
+
+**Close:** "I really enjoyed this. Moonfare's move into its own funds makes it an exciting time to join, and I would love to help more investors find the right fund."
+
+## Watch-outs
+- **"Graduate Growth Marketing Manager"**, never "intern"
+- "Digital assets" where it fits
+- No Malaysia licence line
+- Perps → "retention grew", not "I grew the volume"
+
+---
+
 # Moonfare — Growth Associate (CRM and lifecycle): TA call prep
 
 Call: Thu 26 Nov 2026, 10:30–11:00, Paulina Kazmierczak (Talent Acquisition Partner), Google Meet.
