@@ -18,6 +18,24 @@ Call: Thu 26 Nov 2026, 10:30–11:00, Paulina Kazmierczak (Talent Acquisition Pa
 - **Digital:** online onboarding, portfolio view, a secondary market for some liquidity.
 - **Regulated across many markets:** every send has different compliance rules.
 
+## How the platform works
+1. **Sign up and qualify.** Only qualified (professional or high net worth) investors. Online
+   onboarding with KYC and a suitability check, rules differ by country.
+2. **Browse vetted funds.** PE, VC, private credit, secondaries, co-investments, plus Moonfare's
+   own funds.
+3. **Commit.** Moonfare pools many investors into a Luxembourg feeder fund, which invests in the
+   big fund as one ticket. That is why minimums are lower (around €50k–€100k, Secondary Fund
+   from €25k, by jurisdiction).
+4. **Capital calls.** Pay about 5–15% up front, the rest is called over the fund's life.
+5. **Track and hold.** Portfolio, documents and distributions online. Hold for 10+ years.
+6. **Secondary market.** Auctions about twice a year (spring and autumn) to sell early.
+   Seller pays the fee, €100k minimum trade, liquidity not guaranteed.
+- **Fees:** setup fee from 0.5% per investment, yearly management fee from 0.35%, plus the
+  target fund's own fees.
+- **Link to the role:** investors drop off at sign-up, qualification, KYC or before committing.
+  Those are the abandonment points for the lifecycle journeys, and every message must follow
+  each country's rules.
+
 ## The role in one line
 Own everything from the moment someone opts in to the moment Investor Relations takes over:
 lifecycle journeys (abandonment first), key sends with market-by-market compliance, the
