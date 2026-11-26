@@ -57,3 +57,51 @@ Do not expect a result from this req as written. Two better options:
   with something she built rather than something she could build.
 - **The 114-response survey attribution** needs confirming. See OPEN-QUESTIONS.md. It is
   the opening line of this CV, so it is worth being certain.
+
+---
+
+## Rewrite, October 2026
+
+Rebuilt in the same register as the Kraken and Plasma variants: verb, what, numbers, no
+subclauses. Bullets now run in the JD's own order (insights, communications, adoption,
+systems), and the 3 Wealth clients lead the outreach bullet as the outcome.
+
+- **Location and visa.** The posting reads London / NYC. London avoids the US question,
+  but her Graduate visa ends around November, so a London role still needs Skilled Worker
+  sponsorship. She qualifies for the new entrant rate, which makes sponsoring her cheaper.
+  BVNK is now part of Mastercard, which is very likely a licensed sponsor. Check.
+- **"Stablecoin" is not claimed.** None of her recorded work is stablecoin-specific. If
+  she has touched stablecoin product messaging at Blockchain.com, one word in the profile
+  is worth adding.
+- **Sales enablement is still the gap.** No bullet claims it, because none of her work is
+  enablement for a sales team. Cover-letter work.
+
+## Business case update, October 2026
+
+Her manager's hiring case and six pieces of stakeholder feedback (performance note,
+section 8) add two things this application can use:
+
+- **The UK FinProm approval process rollout**, in the MLRO's words. The JD asks for someone
+  to set standards so customer communications stay "clear, consistent and compliant,
+  working with Legal and Compliance". This is the closest single match on her record. It
+  is now in the CV and the cover letter.
+- **A Senior B2B PMM calling her an invaluable contributor** across Institutional and Wealth
+  projects. That is her nearest evidence of product marketing work, and the best referee
+  for this role. It is in the cover letter as a reference offer, not a quote.
+
+The Malaysia bullet still has no outcome. The cover letter leaves it out for that reason.
+
+## ASEAN, October 2026
+
+She has seen BVNK hiring for someone with an ASEAN background, which supports "BVNK is
+expanding into ASEAN" in her outreach. Earlier web searches found no ASEAN news, but
+hiring is better evidence. Her Malaysian nationality, the Malaysia loans launch and her
+research on Malaysian crypto regulation are the angle.
+
+## Update, November 2026
+
+- **Visa resolved.** She is on a dependant visa with the right to work. No sponsorship.
+- **Mastercard acquisition completed on 3 August 2026.**
+- **Intro call booked.** Prep in applications/bvnk/intro-call-prep.md. Two lines in the
+  sent letter need care on the call: the Malaysia licence line (do not repeat it) and the
+  perps volume claim (say it grew over the same period).

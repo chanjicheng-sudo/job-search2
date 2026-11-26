@@ -7,8 +7,11 @@ backed by a line here.
 **Verification status:** the Apple Search Ads and paid acquisition figures were vouched
 for by the reporting recruiter. All other figures are self-reported.
 
-**Role held:** Growth Marketing Intern, Blockchain.com, London. May 2026 – present
-(6 months, fixed term). Scope covered Retail, Wealth and Institutional.
+**Role held:** Graduate Growth Marketing Manager, Blockchain.com, London, on a fixed-term
+contract. May 2026 – present. Scope covers Retail, Wealth and Institutional.
+**Never call it an internship or her an intern in any application, CV, letter or prep
+(her instruction, Nov 2026).** Earlier files used "Growth Marketing Intern"; all CVs were
+updated.
 
 ---
 
@@ -17,6 +20,18 @@ for by the reporting recruiter. All other figures are self-reported.
 | Metric | Before | After |
 |---|---|---|
 | Daily installs | 187 | 562 (~3x) |
+
+> **Clarification, Nov 2026 (from her):** the ~$1.50 CPI was for **certain campaigns**, not
+> the whole account. Account-level Apple Search Ads (her chart, Nov 2025 to Oct 2026): Nov
+> 2025 spend $13,911, installs 1,685, CPI $8.26. She took over in **May 2026**; April and
+> earlier were not her work. From May, spend and installs rose steeply while CPI rose
+> modestly. Say "cost per install under control" at account level, and "~$1.50 on core
+> campaigns" only when the campaign scope is clear.
+
+> **Update, Nov 2026 (from her):** daily installs now 200+ to 800+ (~4x). The business
+> case and recruiter-vouched figure is 187 to 562 (~3x), from an earlier point. Check CPI
+> was still flat at the later figure.
+
 | Countries | 2 | 26 |
 | Active campaigns | 9 | 121 |
 | Keyword coverage | 47 | 2,597 |
@@ -30,6 +45,24 @@ for by the reporting recruiter. All other figures are self-reported.
   figure is the flat ~$1.50 CPI above. Keep the two scoped separately or they read as a
   contradiction.
 - 20+ Custom Product Pages developed and tested across 12 markets and 600+ keywords.
+- She describes the app store work as organic search optimisation (ASO), alongside paid
+  Apple Search Ads (Nov 2026).
+
+**Regional behaviour** (added Nov 2026, from her): users in Africa tend to take on more
+risk, while UK users are more balanced, so content was tailored by region.
+
+**Update, Nov 2026 (from her, for Noah):**
+- She took over Apple Search Ads in her **first week**. It ran only in the **UK and US**.
+  She owned competitor keyword research, bidding-method tests and Custom Product Pages.
+  It now runs across most of the **EU, UK, US, Ghana and parts of Asia**.
+- Do not describe Blockchain.com's paid performance as "undermanaged" in applications.
+
+**App Store pages (added Nov 2026, from her, with screenshots):** Custom Product Pages tested
+with different messages: "Buy Bitcoin in 3 taps" (US), "One trusted app. Trade, Earn and
+Borrow" (EU), staking rewards up to 4% APY, "Earn up to 11% APY on 50+ assets". Main
+listing refresh, 21 Sep 2026 (v202609.3.0): copy now leads with product breadth (11% APY
+on 50+ assets, loans from 1.9%, perps up to 50x), "Cryptoing since 2011" became "Trusted
+since 2011", new screenshot set. No result figures given for these yet.
 
 ## 2. Marketing reporting and infrastructure
 
@@ -56,6 +89,20 @@ for by the reporting recruiter. All other figures are self-reported.
   a life span of about two weeks.
 - She proposed using AI UGC as ads instead, and built a repeatable end-to-end production
   workflow.
+- **Made it scalable and handed it over** (added Nov 2026, from her): the first version
+  depended on her writing prompts and checking output. She built a skill that generates
+  the prompts, perfected it, then handed the workflow to other team members to run and
+  scale. Strong evidence for "train teams and hand over" roles (e.g. Capital on Tap AI).
+- **How she spotted it** (added Nov 2026, from her): she saw competitors running AI UGC
+  ads, and understood the downside of relying on creators.
+- **The Earn rebrand** (added Oct 2026, from her). Blockchain.com rebranded its Earn
+  product, and the existing creator assets still carried the old name. She used the AI
+  UGC workflow to recreate them under the new brand to support the rebrand's GTM. New
+  product name not recorded. **The Earn-focused AI UGC videos drove 600+ installs in the first week after the
+  relaunch** (from her).
+- **Multi-jurisdiction use** (added Nov 2026, from her): the AI UGC workflow let the team
+  tailor videos to different products and jurisdictions, each with its own compliance
+  rules.
 - Production time cut from ~2 hours to 30 minutes per creative.
 - Average cost ~$5 per video. **Scope of this figure is unconfirmed** — likely generation
   cost only, excluding prompt iteration, review and edit time. Confirm before using it in
@@ -65,6 +112,14 @@ for by the reporting recruiter. All other figures are self-reported.
 - The output now runs as paid social creative on Google, LinkedIn, Meta and TikTok.
 - Established a new in-house capability where none existed. This one genuinely was
   zero-base.
+
+**Scale and a single-ad proof point** (added Nov 2026, from her):
+- Built the first version in 2 weeks, then **perfected it over about two months**.
+- Now **live across all paid platforms, including programmatic**, and on X. **Google**
+  drives the most significant impact.
+- **One English-language ad targeting Italy: 242 installs in its first 7 days on $1,206
+  spend (~$5 per install).** She is happy to share this spend figure, but not dashboards.
+- She prefers **scale and CPI** as the headline UGC results, over production time and CTR.
 
 **Paid social performance from the AI UGC workflow** (added Oct 2026, from her own CV —
 not previously in this note, and not covered by the recruiter's vouching):
@@ -82,8 +137,9 @@ channel is named.
 
 ## 4b. CRM localisation tooling
 
-- Implemented API tooling to translate CRM communications into local languages.
-- **Email open rate up 10%.**
+- Implemented API tooling to translate CRM communications into local languages. **The CRM
+  platform is Iterable** (added Nov 2026, from her). Write it as "Iterable (CRM)".
+- **Email open rate up 10%.** Into **24 languages** (added Oct 2026, from her).
 - Added Oct 2026. Hits two things several JDs ask for at once: multi-market and
   multi-language delivery, and CRM or lifecycle messaging workflows. Note her original
   wording was "translate localized CRM comms" — localising is the translating, so the
@@ -98,14 +154,89 @@ channel is named.
 - Directed marketing delivery across paid media, UGC scripts, landing pages and app-store
   content in UK, US and EU markets.
 
+## 5a. Institutional iGaming expansion (added Nov 2026, from her)
+- She **owned** several efforts for the Institutional iGaming expansion:
+  - built the **outreach list** (target operators; cannot be shared),
+  - ran **LinkedIn lead generation ads** (she can show the ads).
+- **Result: 20+ active, targeted leads from the LinkedIn ads, average cost per lead ~$120.**
+- Soon after, the team hosted a **dinner in Malta for 16 members of senior leadership** from the
+  companies they had reached out to.
+- Conversion from cold calling is not tracked in detail.
+- **Correction:** earlier CVs say the 20+ leads came from "building a 100-operator prospect
+  database". Per her, the 20+ leads came from the LinkedIn lead-gen ads, with the
+  database as the outreach list. Future CVs: "Generated 20+ active leads at ~$120 per lead
+  for the Institutional iGaming expansion by building a target operator list and running
+  LinkedIn lead-gen ads".
+
+## 5b. Institutional events (added Nov 2026, from her)
+- Helps the Institutional business with branding and lead generation.
+- Worked on **two recent London events**. One was around **Solana Breakpoint**, aimed at
+  reach for Blockchain.com's institutional business among the builder community. The
+  second event, results and her exact role are not yet recorded.
+- CRM: supports the CRM lead by building AI tools for her. Do not describe colleagues as
+  "not AI native" in applications.
+
+## 5c. LAPTOP token campaign: taking over at short notice (added Nov 2026, from her)
+- Three days before her manager went on leave, he handed her the **LAPTOP** project, with
+  only a proposal. Blockchain.com had signed an institutional partnership with the LAPTOP
+  team, including **$600,000 (US dollars) worth of tokens** to distribute through
+  marketing campaigns. Naming LAPTOP is fine (her OK).
+- Wave 1 went live the day after he left. Prize hunters in one market (Nigeria) claimed the
+  rewards and sold immediately, adding selling pressure.
+- She proposed a plan B to the CMO: wave 2 to the EU and the US, with US acquisition
+  limited to lower-risk states (blue states, because the project is politically charged, so
+  it would not affect current users). Agreed with Trading
+  and Product to reduce wave 2 volume, negotiated a new start date and lower volume with
+  LAPTOP, sent them a status report, and took the final regions through Legal.
+- Still in progress (Nov 2026). Use as her "ramping up fast" / ownership story.
+- She is comfortable sharing all of these details, including Nigeria and the blue-state
+  targeting (Nov 2026).
+
+## 5d. Added Nov 2026 for the Noah portfolio (from her)
+- **iGaming:** outreach list of **120 contacts** ranked by priority for Sales. LinkedIn lead
+  gen ads: 20+ active leads at **~$140 per lead (her estimate; use $140)**.
+- **Solana Breakpoint event (London):** she boosted posts on X and ran web campaigns to the
+  Luma page. About **1,000 approved registrations, about 500 attendees**.
+- **Time split:** about 65% consumer, 35% institutional.
+- **Yield product relaunch:** paused every asset with the old name; built new pages with
+  front-end engineers (copy balanced for marketing and compliance); updated FAQs with
+  Customer Success; new creative with the designer; AI UGC assets drove 600+ installs in 7
+  days.
+- **App Store keyword rebuild:** all storefronts used the same headline, subtitle and
+  keywords. She used AppFollow's API to scrape competitor keywords, ranked them by
+  frequency and impact, and rebuilt all three fields in **14 languages**. First-time
+  installs grew from **~20k to ~28k (+40%) in two months**.
+- **Perps:** she prefers to lead with the volume growth ($100m to $500m) without the
+  retention figure in the Noah portfolio.
+- **Malaberg Good Food prelander:** old (left) vs new (right) image; plus a next-stage page
+  in the same style.
+
+- **Copywriting (added Nov 2026, from her):** she writes the copy for all paid ads herself,
+  including the LinkedIn ads. Every ad example in the Noah portfolio is her own copy, except
+  the Earn (yield product) page, where she adapted existing copy.
+
 ## 6. Customer research and new business support
 
 - Designed and launched a customer survey: 114 completed responses across 3 customer
   segments, 14% response rate.
+- **The survey was about the perps platform** (added Oct 2026, from her): what users
+  liked and disliked. The 3 segments were active, inactive and churned users. Three rounds of research. **Finding: many users churned
+  because they did not fully understand perps. Adding an introduction to how perps work
+  and their risks grew user retention by 12%** (the fix: the product and risk explainer was made
+  persistent, and the help page was reworked; she led the research) (added Oct 2026, from her cover letter
+  draft). This is the insight-to-action-to-result loop the survey was missing, and it is
+  stronger evidence than the volume figure. Over the same period cumulative perps trading volume grew from
+  $100m in July to $500m in September (5x). The survey did not cause that growth on its
+  own, so word it as feeding product and positioning during that growth, not as the
+  cause. If specific changes shipped from the findings, name them and the claim gets
+  stronger.
 - Built and activated an outreach list of 80 crypto publishers to support Wealth
-  acquisition. **That channel sourced 3 major Wealth clients.** This is the outcome and
+  acquisition. **That channel sourced 3 major Wealth clients.** She identified the opportunity
+  herself during the MiCAR transition (one of the biggest exchanges was losing access to
+  its European clients as MiCAR was implemented; exchange not named), built the contact list with AI, and ran the
+  outreach (added Oct 2026, from her). This is the outcome and
   it should lead the bullet — the list size is activity, the 3 closes are the result.
-- Built a database of 100 iGaming operators for Institutional BD outreach.
+- Built a database of 100 iGaming operators for Institutional BD outreach. **It generated 20+ active leads** (added Oct 2026, from her).
 - Coordinated paid acquisition activity with 3 external partners.
 
 ## 7. Malaysia loans go-to-market (in flight)
@@ -113,11 +244,88 @@ channel is named.
 - Working on promoting the loans offering in Malaysia.
 - Covering paid opportunity assessment, brand and tone, and KOL, affiliate and referral
   channels.
+- **She led it, on her own initiative**, structuring the GTM across paid media, KOL,
+  collaborations and referral. She worked with Legal on marketing tone and risk
+  disclosures. **The campaign closed 4 HNW clients within 1 month of launch** (added Oct
+  2026, from her cover letter draft). Note: she says Blockchain.com did not hold a local
+  licence. Never put that in an application. It reads as a regulatory problem to a
+  regulated employer and discloses an employer's compliance position.
+- **Researched Malaysian crypto regulations** while working on a proposal for the Wealth
+  programme (added Oct 2026, from her). She is Malaysian.
+- **Established a compliance review process for Malaysia as a new market** (added Oct
+  2026, from her). A team effort ("we").
 - **No outcome yet.** This is the most product-marketing-shaped work she has, so it is
   load-bearing for PMM applications, but it currently reads as activity rather than
   progress. A partner count or a launch date would fix that.
 - Ownership level unconfirmed. Written as "developing", not "leading", until she says
   otherwise.
+- **Outcome (added Oct 2026, from her): 4 clients converted and using the loans
+  product.** This replaces "no outcome yet" above. She asked for it to lead the BVNK CV,
+  in bold.
+
+---
+
+## 7b. Malaberg: "Good Food" style landing pages (added Nov 2026, from her)
+- Observed the product performed best on **BBC Good Food**, so she designed a prelander
+  inspired by that site's clean, trusted aesthetic, for a seamless ad-to-page experience.
+  Result: **landing page CTR +20%, AOV +16%**.
+- Applied the same approach to a later funnel stage (the "flow"). Result: **AOV a further
+  +10%, CVR +25%**.
+- Strong landing page / CRO evidence. She has a visual (image 5.jpg).
+
+## 8. Manager's business case and stakeholder feedback (added Oct 2026)
+
+Source: a hiring case her manager wrote to convert her to a permanent **Jr AI Growth
+Engineer (Marketing & GTM)**, the role description attached to it, a contribution
+summary, and six pieces of written feedback dated 29 Sep – 1 Oct 2026. She holds copies.
+This is the strongest third-party evidence she has. It independently confirms every
+figure in sections 1, 2, 3, 5 and 6.
+
+**New facts it adds:**
+
+- **UK FinProm approval process.** The MLRO wrote that she played "a key role in
+  assisting the compliance team's development and roll out of the UK FinProm Approval
+  Process", and was "relentless in her role getting content through the approval
+  process". FinProm is the UK financial promotions regime, so describe it as UK. The
+  business case says "across UK, US, and EU markets", which is the wider messaging
+  scope, not the FinProm process itself.
+- **Adclear.** The MLRO calls her an "Adclear Power user". Adclear is a financial
+  promotions compliance review platform. A real, named tool. Safe to list.
+- **Survey ownership confirmed.** The contribution summary says she "designed and
+  launched" the 114-response survey, at Blockchain.com. Resolves the earlier
+  attribution question. "Designed" is accurate, "supported" undersells it.
+- **Core US campaign "doubled"** (178 to 373). The business case uses ~2x, not 3x. The
+  3x figure is account-wide only.
+- **Time saved expressed monthly:** ~10 hours per month from the automated ASA reporting.
+- **Multipliers the case uses:** 13x campaign footprint (9 to 121), 55x keyword coverage
+  (47 to 2,597). Both derive from section 1.
+- **First in-house AI UGC capability** at the company, in the manager's words.
+- **AI UGC compliance work.** Legal Counsel describes her bringing proposed AI UGC assets
+  with competitor examples for context, then turning regulatory feedback into practical
+  next steps. Evidence for working with Legal, not only Compliance.
+- **Deployment through an engineering pipeline.** A Payments software engineer worked
+  with her to deploy the ASA reporting project. "Her logic flow was solid and close to
+  what I'd expect from a SWE."
+
+**Who supports retention, by role:** Senior PMM (B2B), MLRO, Legal Counsel, a Payments
+software engineer, a Senior Web3 engineer. The Senior B2B PMM described her as "an
+invaluable contributor across a number of Institutional and Wealth marketing and growth
+projects". For product marketing applications that is the most relevant voice. These
+people are her best referees. **Do not quote them by name in an application without
+asking them first.** The feedback was marked "Managers only".
+
+**The development point, stated by Engineering:** she works very well with AI tools
+synchronously. The next level is deploying agents and apps that run remotely and
+reliably without her. Do not claim autonomous or production agent deployment beyond the
+reporting tool and the fly.io bots until that changes.
+
+**Visa (superseded Nov 2026: she is now on a dependant visa with the right to work in
+the UK, no sponsorship needed).** Her Graduate visa was ending around November. Any
+UK role needs Skilled Worker sponsorship. As a switcher from the Graduate route she
+qualifies for the new entrant rate. This affects every application, not only US ones.
+
+**Outcome of the conversion case:** unknown. Ask before writing anything that implies
+she is staying or leaving.
 
 ---
 
@@ -125,7 +333,7 @@ channel is named.
 
 ### Malaberg, London — Performance Marketer, Feb 2025 – Apr 2026
 
-- Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining
+- Managed £50k+ monthly paid budget, sustaining
   120% ROAS.
 - Daily conversions increased from 10 to 50+ (5x) by rebuilding landing and promotional
   pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and
@@ -147,10 +355,13 @@ the research signal.
 ### Education
 
 - **MRes Experimental Psychology with Data Science**, University of Manchester, 2023–2024.
-  High Distinction. Led a research project on altruistic behaviour in emotion regulation,
+  **First Class Honours** (her wording, Nov 2026: always state it on every CV). Recorded
+  earlier as High Distinction. Led a research project on altruistic behaviour in emotion regulation,
   graded 86/100, the highest in the cohort.
 - **BSc (Hons) Psychology**, University of Exeter, 2020–2023. Social, cognitive and
   clinical psychology with advanced statistics. Independent dissertation.
+- **BSc (Hons) Psychology, University of Exeter: 2:1** (added Nov 2026, from her). Shown on
+  the McKinsey CV, where grades are screened.
 - Sunway College, Kuala Lumpur, A levels in 15 months (Psychology A*, Chemistry A*,
   Maths A). Cut from all CV versions — a distinction-grade MRes makes A levels cost three
   lines for nothing.
@@ -162,10 +373,18 @@ the research signal.
 - **Measurement:** ad-account, conversion-tracking and campaign-structure setup. Apple
   Search Ads attribution. Funnel and cohort analysis. Experimental test design. Survey
   design and segmentation. Power BI, Excel, Microsoft Clarity, Streamlit, R, Python, SQL.
+- **Canva** (added Nov 2026, from her).
+- **X (Twitter) ads** (added Nov 2026, from her): she runs X ads. No figures on record
+  yet. Ask for spend, results or the markets before putting a number on it.
+- **Search optimisation on App Store and Google Play** (added Nov 2026, from her): she
+  calls it SEO. It is app-store search (ASO), not website SEO. Say "App Store and Google
+  Play search optimisation" so it is not mistaken for web SEO.
 - **Creative:** briefing and direction, AI UGC production (avatar, voice, motion, video),
   agency and partner management, Figma, Photoshop.
 - **Languages:** English, Mandarin, Cantonese (native), Malay (fluent). Korean and French
   at beginner level are cut from CVs — beginner languages read as padding.
+  **Exception (Nov 2026):** show "French (beginner)" when a job ad lists French (e.g.
+  Deblock paid acquisition). She is on a 331-day Duolingo French streak.
 
 ### Not claimed, and why
 

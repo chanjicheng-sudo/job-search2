@@ -115,3 +115,13 @@ professional.
 - **They explicitly permit redacting education dates.** Her CV currently shows 2020–2024,
   which signals how recently she graduated. The experience dates already reveal roughly
   two years, so the gain is marginal, but the option is theirs to offer and hers to take.
+
+### Business case update, October 2026
+
+Her manager's hiring case (performance note, section 8) adds the strongest single line for
+this screen: the MLRO credits her with a key role in rolling out the **UK FinProm approval
+process**, and calls her an Adclear power user. That is literal approval-queue work in a
+regulated industry. Now in the CV. A Payments engineer's feedback ("logic flow close to
+what I'd expect from a SWE") and Engineering's stated next step (deploying agents that run
+remotely without her) are both worth knowing before the interview. The second is the
+honest answer to "what would you need to learn here".

@@ -7,7 +7,7 @@ Growth marketer specialising in paid user acquisition for consumer finance apps,
 ## EXPERIENCE
 
 **Blockchain.com, London, United Kingdom** — May 2026 – Present
-*Growth Marketing Intern  |  Retail, Wealth and Institutional*
+*Graduate Growth Marketing Manager  |  Retail, Wealth and Institutional*
 
 - Ran 128 structured campaign tests across 26 markets, identifying 5 scalable campaign groups and reallocating budget away from 26 underperforming campaigns. ~$21k of test spend reallocated reducing CPI of GB campaigns by 21.5% while installs increased 30.2%
 - Scaled paid acquisition from 187 to 562 daily installs (~3x) while holding CPI flat at ~$1.50 and grew the core US campaign from 178 to 373 installs/day
@@ -19,14 +19,14 @@ Growth marketer specialising in paid user acquisition for consumer finance apps,
 **Malaberg, London, United Kingdom** — Feb 2025 – Apr 2026
 *Performance Marketer*
 
-- Managed £50k+ monthly paid budget with full accountability for efficiency, sustaining 120% ROAS
+- Managed £50k+ monthly paid budget, sustaining 120% ROAS
 - Increased daily conversions from 10 to 50+ (5x) by rebuilding landing and promotional pages in Figma and Photoshop, informed by funnel analysis in Power BI, Excel and Microsoft Clarity; +5% funnel progression
 - Built a company-wide automated reporting pipeline on lead conversion, cutting daily report preparation from 30+ min to almost immediate output; led weekly Compliance reviews to ship regulated consumer-finance messaging
 
 ## EDUCATION
 
 **MRes Experimental Psychology with Data Science, University of Manchester** — 2023 – 2024
-High Distinction. Experimental design, causal inference and statistical analysis in R.
+First Class Honours. Experimental design, causal inference and statistical analysis in R.
 
 **BSc (Hons) Psychology, University of Exeter** — 2020 – 2023
 
