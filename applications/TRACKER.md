@@ -13,6 +13,7 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
+| Tue 1 Dec (time TBC) | Moonfare | Growth Associate | Hiring manager interview with Naomi Chhatwal, 30 min. |
 | Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office 18 Nov → portfolio 19 Nov → team drinks 25 Nov → **founder call with Thijn 26 Nov** | Reply to Stephen (asked how the Thijn call went). Expect a decision. |
 
 ## In process
@@ -20,7 +21,7 @@ interview times come from invites and confirmations sent by email.
 | Company | Role | Applied | Where it stands | Next |
 |---|---|---|---|---|
 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
-| Moonfare | Growth Associate | 5 Nov | TA interview 26 Nov → aptitude test **passed** → **hiring manager interview with Naomi Chhatwal** (30 min) | Send availability via the Greenhouse link. Likely next: case study, then final with a director or MD (not confirmed, ask Paulina). Values: hungry, humble, smart, sharp. |
+| Moonfare | Growth Associate | 5 Nov | TA interview 26 Nov → aptitude test **passed** → **hiring manager interview with Naomi Chhatwal** (30 min) | Booked for Tue 1 Dec. Likely next: case study, then final with a director or MD (not confirmed, ask Paulina). Values: hungry, humble, smart, sharp. |
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Kate (Chief of Staff) 23 Nov → round 2 with Sophie Harris 26 Nov → **through to the next stage** (27 Nov) | Next: in-person test, then founder interview, then decision. Confirm dates with Nusrat. |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. **Follow up today (24 Nov).** |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
