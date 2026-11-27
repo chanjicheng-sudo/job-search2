@@ -237,7 +237,9 @@ repayment?"
 
 **Outcome: through to round 2** (confirmed 23 Nov).
 
-**Round 2 outcome: through to the next stage** (27 Nov). Nusrat's feedback: Sophie "loved" her. In the call Sophie walked through the later stages and said she expected to see her in the next round. Kate replied to the thank-you on 27 Nov: "they look great. I enjoyed meeting you."
+**Round 2 outcome: through to the next stage** (27 Nov). Nusrat's feedback: Sophie "loved" her. In the call Sophie walked through the later stages and said she expected to see her in the next round.
+
+**Remaining stages (as Jessie understood from Sophie):** 3. in-person test, 4. founder interview, then decision. Dates not set yet. Kate replied to the thank-you on 27 Nov: "they look great. I enjoyed meeting you."
 
 ## Round 2 format (from Nusrat, 25 Nov)
 
