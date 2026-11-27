@@ -13,7 +13,6 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
-| By Sun 29 Nov | Moonfare | Growth Associate | 5 Nov | TA interview with Paulina 26 Nov → **passed** → aptitude test | Complete the test by Sun 29 Nov. |
 | Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office 18 Nov → portfolio 19 Nov → team drinks 25 Nov → **founder call with Thijn 26 Nov** | Reply to Stephen (asked how the Thijn call went). Expect a decision. |
 
 ## In process
@@ -21,7 +20,7 @@ interview times come from invites and confirmations sent by email.
 | Company | Role | Applied | Where it stands | Next |
 |---|---|---|---|---|
 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
-| Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
+| Moonfare | Growth Associate | 5 Nov | TA interview 26 Nov → aptitude test **passed** → **hiring manager interview with Naomi Chhatwal** (30 min) | Send availability via the Greenhouse link. |
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Kate (Chief of Staff) 23 Nov → **round 2 with Sophie Harris 26 Nov** | Awaiting feedback via Nusrat. Follow up 3 Dec if quiet. |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. **Follow up today (24 Nov).** |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
