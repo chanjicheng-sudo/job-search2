@@ -46,7 +46,7 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 | Cleo | Growth Marketing Manager, Performance | 20 Nov | Email | 4 (Chris, Lucy, Renaldo, Amanda) | No reply yet |
 | Aave Labs | Senior Growth Marketing Manager | 17 Nov | Email | 5 (Sandra, Ale, Ronan, Simran, Muna) | No reply |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Email | 3 (Jean, Thomas, Nicolas) | **Replied.** Jean offered an interview within the hour, call with Thomas 13 Nov |
-| BVNK | Product Marketing Manager | 11 Nov | Email | 2 (Vizma, Emma), after the interview | **Got an interview** (no reply to the outreach itself) |
+| BVNK | Product Marketing Manager | before 11 Nov | Referral, then email | Referral led to the interview; Vizma and Emma emailed after it | **Got an interview** (no reply to the outreach itself) |
 | eToro | Junior Marketing Manager (UK) | 6 Nov | Email | 3, plus 5 in cc | No reply |
 | Bleap | Operations Manager | 5 Nov | Email | Careers inbox, 3 founders in cc | No reply |
 | Plasma | Growth Lead – Performance Marketing | 29 Oct | LinkedIn + email | 4 emails, 1 bounced | No reply, now closed |
