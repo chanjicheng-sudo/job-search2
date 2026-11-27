@@ -237,6 +237,8 @@ repayment?"
 
 **Outcome: through to round 2** (confirmed 23 Nov).
 
+**Round 2 outcome: through to the next stage** (27 Nov). Kate replied to the thank-you on 27 Nov: "they look great. I enjoyed meeting you."
+
 ## Round 2 format (from Nusrat, 25 Nov)
 
 With Sophie Harris, Head of Growth Marketing, Thu 26 Nov 15:00–15:45, Google Meet.
