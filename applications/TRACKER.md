@@ -1,6 +1,6 @@
 # Application tracker
 
-Built from Gmail, from 21 Oct 2026. Last updated 26 Nov 2026, 07:20 UTC. Refreshed
+Built from Gmail, from 21 Oct 2026. Last updated 27 Nov 2026, 07:20 UTC. Refreshed
 from Gmail every day at 07:17 UK time.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
@@ -13,11 +13,8 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
-| Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → portfolio 19 Nov → **final stage**: team drinks 25 Nov (Stephen: "glad you came out to spend some time with us all"), founder call 26 Nov | Thijn call Thu 26 Nov 11:00. Prepare salary expectations and start date. |
-| Thu 26 Nov, 11:00–11:30 | Noah | Digital Marketing Manager | **Final call with founder Thijn Lamers**, Google Meet. Culture and values, not technical. Straight after Moonfare. |
-| Thu 26 Nov, 13:30–14:00 | Propel Digital (via Rosslyn David) | Paid Social Consultant | First stage with Alicia Protheroe, Teams. Tell Fernando the time. Prep from `propel/jd-read.md`. |
-| Thu 26 Nov, 15:00–15:45 | Carmoola | Growth Manager | **Round 2** with Sophie Harris (Head of Growth), Google Meet. Technical discussion plus a live business case, no deck. Prep from `carmoola/jd-read.md`. |
-| Thu 26 Nov, 10:30–11:00 | Moonfare | Growth Associate | Talent Acquisition interview, Google Meet. Confirmed 20 Nov. |
+| By Sun 29 Nov | Moonfare | Growth Associate | 5 Nov | TA interview with Paulina 26 Nov → **passed** → aptitude test | Complete the test by Sun 29 Nov. |
+| Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office 18 Nov → portfolio 19 Nov → team drinks 25 Nov → **founder call with Thijn 26 Nov** | Reply to Stephen (asked how the Thijn call went). Expect a decision. |
 
 ## In process
 
@@ -25,10 +22,10 @@ interview times come from invites and confirmations sent by email.
 |---|---|---|---|---|
 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office interview 18 Nov → positive feedback, asked for examples 19 Nov → portfolio sent 19 Nov → Mike confirmed receipt 20 Nov | Feedback and next steps promised this week. Follow up 27 Nov if quiet. |
 | Moonfare | Growth Associate | 5 Nov | TA interview booked | 26 Nov interview |
-| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | First stage with Kate (Chief of Staff) 23 Nov → thank-you sent → **round 2 booked** | Round 2 with Sophie Harris, Thu 26 Nov 15:00. |
+| Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Kate (Chief of Staff) 23 Nov → **round 2 with Sophie Harris 26 Nov** | Awaiting feedback via Nusrat. Follow up 3 Dec if quiet. |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. **Follow up today (24 Nov).** |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
-| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Call with Fernando 20 Nov, CV shared, JD sent → **first stage booked** 24 Nov | Interview with Alicia Protheroe Thu 26 Nov 13:30. Confirm the salary band with Fernando. |
+| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Recruiter call 20 Nov → **discovery call with Alicia 26 Nov** | Next would be the 1-hour strategy task. Confirm salary band with Fernando. |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
 
 ## No reply yet
@@ -66,7 +63,7 @@ From the Sent folder. LinkedIn messages are not visible in Gmail, so they appear
 | Atominvest | Graduate Technical Product Analyst | 9 Nov | No response after 14 days (closed 23 Nov) |
 | Trading 212 | Performance Marketing Expert (London) | 9 Nov | No response after 14 days (closed 23 Nov) |
 | Xapien | (role not in email, LinkedIn) | 9 Nov | No response after 14 days (closed 23 Nov) |
-| McKinsey | Junior Associate – Growth Practice | 9 Nov | No response after 14 days (closed 23 Nov) |
+| McKinsey | Junior Associate – Growth Practice | 9 Nov | Rejected 26 Nov |
 | Deblock | Strategy & Operations Manager – Marketing | 9 Nov | Closed 20 Nov (marked by Jessie) |
 | Bleap | Operations Manager | 5 Nov | No response after 14 days (closed 19 Nov) |
 | Alpaca | Crypto Operations Associate – EMEA | 6 Nov | No response after 14 days (closed 20 Nov) |
