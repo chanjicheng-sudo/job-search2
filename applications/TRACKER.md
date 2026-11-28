@@ -1,6 +1,6 @@
 # Application tracker
 
-Built from Gmail, from 21 Oct 2026. Last updated 27 Nov 2026, 07:20 UTC. Refreshed
+Built from Gmail, from 21 Oct 2026. Last updated 28 Nov 2026, 07:20 UTC. Refreshed
 from Gmail every day at 07:17 UK time.
 Dates are when the confirmation or reply arrived. Calendar not yet connected, so
 interview times come from invites and confirmations sent by email.
@@ -13,7 +13,7 @@ interview times come from invites and confirmations sent by email.
 
 | When | Company | Role | What |
 |---|---|---|---|
-| Tue 1 Dec (time TBC) | Moonfare | Growth Associate | Hiring manager interview with Naomi Chhatwal, 30 min. |
+| Tue 1 Dec, 11:15–11:45 | Moonfare | Growth Associate | Hiring manager interview with Naomi Chhatwal, 30 min. |
 | Wed 25 Nov, 18:00 | Noah | Digital Marketing Manager | 29 Oct (LinkedIn) | Call 10 Nov → in-office 18 Nov → portfolio 19 Nov → team drinks 25 Nov → **founder call with Thijn 26 Nov** | Reply to Stephen (asked how the Thijn call went). Expect a decision. |
 
 ## In process
@@ -25,7 +25,7 @@ interview times come from invites and confirmations sent by email.
 | Carmoola | Growth Manager | via Pivotal London (recruiter call 18 Nov) | Kate (Chief of Staff) 23 Nov → round 2 with Sophie Harris 26 Nov → **through to the next stage** (27 Nov) | Next: in-person test, then founder interview, then decision. Confirm dates with Nusrat. |
 | Artis | Growth Marketing Associate | via Welcome to the Jungle | Screening call 17 Nov, 10:30 | No word since. **Follow up today (24 Nov).** |
 | BVNK | Product Marketing Manager | 29 Oct | Interview with Scott 11 Nov. Notes to Vizma and Emma 11 Nov. Follow-up to Scott sent 20 Nov. | Waiting for a reply. |
-| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Recruiter call 20 Nov → **discovery call with Alicia 26 Nov** | Next would be the 1-hour strategy task. Confirm salary band with Fernando. |
+| Propel Digital | Paid Social Consultant | via Rosslyn David (Fernando, LinkedIn) 19 Nov | Recruiter call 20 Nov → discovery call with Alicia 26 Nov → **positive feedback, through to the strategy task** (27 Nov) | Fernando to send task details. Confirm salary band before investing time. |
 | Deblock | Junior Performance Marketing Manager | 12 Nov | Founder offered interview → call with Thomas 13 Nov → AI UGC samples sent 13 Nov → follow-up sent 20 Nov | Follow up again 27 Nov if quiet. |
 
 ## No reply yet
